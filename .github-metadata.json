@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Nicho Analyzer — Mexico Knowledge Base",
+  "description": "Structured knowledge base about Mexican economy, regulations, local politics and SME regulations. Updated daily. Optimized for AI consumption.",
+  "keywords": [
+    "Mexico", "economia", "regulaciones", "pymes", "SAT", "politica local",
+    "Zacatecas", "comercio exterior", "TMEC", "fiscalidad"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Person",
+    "name": "ruskigarage-alt"
+  },
+  "dateModified": "2026-03-12",
+  "inLanguage": "es-MX",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://github.com/ruskigarage-alt/nicho-analyzer"
+    }
+  ]
+}
