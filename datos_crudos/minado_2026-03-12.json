@@ -7,6 +7,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
+        "resumen": "Luis Brossier afirma que empresas ya dialogan con CFE sobre generación eléctrica y que el banco apoyará con financiamiento cuando se asignen los proyectos.",
+        "link": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:20:27 GMT"
+      },
+      {
         "titulo": "¿Por qué suben los precios del petróleo a pesar de la liberación récord de reservas?",
         "resumen": "Los precios también están subiendo debido a una nueva ola de ataques iraníes dirigidos a objetivos energéticos del Golfo.",
         "link": "https://expansion.mx/economia/2026/03/12/por-que-suben-los-precios-del-petroleo-a-pesar-de-la-liberacion-record-de-reservas",
@@ -119,14 +125,698 @@
         "resumen": "Con el respaldo de 70 millones de dólares, por parte de Sequoia Capital y Founders Fund, la compañía seguirá consolidándose como una plataforma integral de finanzas para el segmento afluente mexicano.",
         "link": "https://expansion.mx/economia/2026/03/06/dolarapp-evoluciona-a-arq",
         "fecha_publicacion": "Fri, 06 Mar 2026 21:55:35 GMT"
-      },
-      {
-        "titulo": "El comercio de EU con México ya vale el doble que el de China",
-        "resumen": "México gana protagonismo en el intercambio de bienes de Estados Unidos. Su brecha comercial de con Washington ya rivaliza con el de varias economías asiáticas juntas.",
-        "link": "https://expansion.mx/economia/2026/03/06/comercio-mexico-eu-vale-doble-que-china",
-        "fecha_publicacion": "Fri, 06 Mar 2026 17:15:09 GMT"
       }
     ],
     "total_entradas": 20
+  },
+  {
+    "fuente": "bloomberg_markets",
+    "url": "https://feeds.bloomberg.com/markets/news.rss",
+    "nicho": "geopolitica",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Stocks Fall on War, Credit Woes as Brent Tops $100: Markets Wrap",
+        "resumen": "A renewed oil spike stoked fears the war in Iran will further crimp energy supplies and fuel inflation, spurring a slide in stocks, which were also hit by signs of distress in the $1.8 trillion private-credit market.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-11/stock-market-today-dow-s-p-live-updates-",
+        "fecha_publicacion": "Wed, 11 Mar 2026 22:45:40 GMT"
+      },
+      {
+        "titulo": "Deutsche Bank's Chadha Cautions Against Fed Rate Cuts",
+        "resumen": "Binky Chadha, chief US equity and global strategist at Deutsche Bank Securities, discusses the recent market turmoil triggered by geopolitical tensions and rising oil prices on \"Bloomberg The Close.\" (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-12/deutsche-bank-s-chadha-cautions-against-fed-rate-cuts-video",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:57:06 GMT"
+      },
+      {
+        "titulo": "Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief",
+        "resumen": "President Donald Trump and Iran’s new supreme leader both struck defiant tones on the 13th day of the war, offering little relief to energy markets despite fresh US efforts to curb oil prices.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/trump-iran-strike-defiant-tone-as-oil-markets-see-little-relief",
+        "fecha_publicacion": "Thu, 12 Mar 2026 16:31:50 GMT"
+      },
+      {
+        "titulo": "Fed to Unveil Relaxed Bank Capital Proposal in Coming Week",
+        "resumen": "US lenders will get relaxed capital proposals from regulators in the coming week, the Federal Reserve’s top bank cop said Thursday, in a move applauded by the banking industry.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/fed-to-unveil-bank-capital-plan-in-coming-week-bowman-says",
+        "fecha_publicacion": "Thu, 12 Mar 2026 15:02:37 GMT"
+      },
+      {
+        "titulo": "US to Ease Shipping Rule in Bid to Tame Spiraling Fuel Prices",
+        "resumen": "The Trump administration plans to waive a century-old maritime law that requires American ships be used to transport goods between US ports as it seeks to blunt surging oil and gasoline prices, according to people familiar with the matter.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/trump-administration-set-to-suspend-jones-act-to-tame-oil-prices",
+        "fecha_publicacion": "Thu, 12 Mar 2026 14:47:10 GMT"
+      },
+      {
+        "titulo": "Brent Oil Closes Above $100 for First Time Since August 2022",
+        "resumen": "Brent crude settled above $100 a barrel for the first time since August 2022 as millions of barrels remain trapped in the Persian Gulf, leading to the biggest oil market disruption in history.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/brent-oil-closes-above-100-for-first-time-since-august-2022",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:57:26 GMT"
+      },
+      {
+        "titulo": "US Two-Year Yields Soar as War, Inflation Angst Intensifies",
+        "resumen": "US Treasuries are sliding as investors grow more concerned that the surge in oil prices will fuel inflation and keep the Federal Reserve from cutting interest rates anytime soon.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/traders-are-no-longer-fully-pricing-in-a-fed-rate-cut-this-year",
+        "fecha_publicacion": "Thu, 12 Mar 2026 15:08:03 GMT"
+      },
+      {
+        "titulo": "US to Ease Jones Act as Fuel Prices Spiral",
+        "resumen": "Ellen Wald, author and Atlantic Council senior fellow, joins Matt Miller on \"Bloomberg Markets.\" She discusses geopolitical and logistical pressures as Iran threatens ships in the Strait of Hormuz.  (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-12/us-to-ease-jones-act-as-fuel-prices-spiral-video",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:04:36 GMT"
+      },
+      {
+        "titulo": "Airbnb Sells $2.5 Billion of Bonds as Convertible Comes Due",
+        "resumen": "Airbnb Inc. raised $2.5 billion from a debut high-grade debt offering as a convertible note is about to mature.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/airbnb-preps-high-grade-bond-debut-as-convertible-deal-comes-due",
+        "fecha_publicacion": "Thu, 12 Mar 2026 11:49:28 GMT"
+      },
+      {
+        "titulo": "Brazil Cuts Fuel Tax to Offset Oil Price Surge as Iran War Rages On",
+        "resumen": "Brazil’s government is moving to shield consumers from surging oil prices worldwide by cutting federal taxes on the import and sale of fuels, while introducing a levy on crude oil exports to offset the revenue loss.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/brazil-cuts-fuel-tax-to-offset-oil-price-surge-as-iran-war-rages",
+        "fecha_publicacion": "Thu, 12 Mar 2026 17:15:30 GMT"
+      },
+      {
+        "titulo": "SpaceX IPO Lures Investors Into Murky Private Deals",
+        "resumen": "Bloomberg's Bailey Lipshultz reports SpaceX is expected to raise as much as $50 billion in a record-setting IPO this summer which could value it at more than $1.75 trillion. High-net-worth family offices and funds with marquee institutional backers are among the types of investors with stakes in these SPVs, and who expect to see massive gains when these companies go public. Based on conversations with more than a dozen people in the industry, many are heading for disappointment. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-12/spacex-ipo-lures-investors-into-murky-private-deals-video",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:51:29 GMT"
+      },
+      {
+        "titulo": "Oil Drillers Resort to Trucks as Key California Pipeline Idled",
+        "resumen": "Oil drillers in central California have resorted to the costly and cumbersome alternative of trucking crude barrels 50 miles after the shut down of a refinery and idling of a key pipeline cut off outlets for their products.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/oil-drillers-resort-to-trucks-as-key-california-pipeline-idled",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:47:13 GMT"
+      },
+      {
+        "titulo": "Tether Investments Chief to Step Down After Leading Deals Spree",
+        "resumen": "Tether Holdings SA Chief Investment Officer Richard Heathcote, who oversaw the vast reserves backing its main stablecoin and a deals spree involving everything from soccer clubs to humanoid robots, is stepping down from his position.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/tether-investments-chief-to-step-down-after-leading-deals-spree",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:44:59 GMT"
+      },
+      {
+        "titulo": "Greater Scrutiny Facing Companies Ahead of IPO",
+        "resumen": "Joe Lucosky, founding and managing partner of Lucosky Brookman, joins Matt Miller on \"Bloomberg Markets.\" He discusses, market and regulatory pressures facing companies as they seek public listing.  (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-12/greater-scrutiny-facing-companies-ahead-of-ipo-video",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:41:04 GMT"
+      },
+      {
+        "titulo": "US To Ease Ship Rule, Effort to Tame Fuel Prices | Bloomberg Markets 3/12/2026",
+        "resumen": "\"Bloomberg Markets\" follows the market moves across every global asset class and discusses the biggest issues for Wall Street. Today's guests, Atlantic Council's Senior Fellow Ellen Wald, Founding and Managing Partner of Lucosky Brookman, Joseph Lucosky, and Co-CEO of Hamilton Lane Erik Hirsch. \n (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-12/bloomberg-markets-3-12-2026-video",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:38:27 GMT"
+      },
+      {
+        "titulo": "More Private Credit Mangers Will 'Hold the Line': Hirsch",
+        "resumen": "Erik Hirsch, Co-CEO of Hamilton Lane, joins Matt Miller on \"Bloomberg Markets.\" While most funds had tried to meet investor demands for cash, BlackRock last week decided to limit withdrawals in a move that other managers have since followed. Hirsch says he expects more managers to follow suit. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-12/more-private-credit-mangers-will-hold-the-line-hirsch-video",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:31:16 GMT"
+      },
+      {
+        "titulo": "War Cost Sinks Long-Term Government Bonds on Deficit Worries",
+        "resumen": "Investors are growing worried that the Iran war will drive up expenditures and swell budget deficits in countries around the world, sparking a selloff in long-term government bonds.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/war-spending-sinks-long-term-government-bonds-on-deficit-worries",
+        "fecha_publicacion": "Thu, 12 Mar 2026 09:45:00 GMT"
+      },
+      {
+        "titulo": "US and Israeli Endgames for Iran Are Diverging as War Drags On",
+        "resumen": "Israeli Prime Minister Benjamin Netanyahu has made clear that when it comes to the Iran war, he’s not done yet. Less clear is President Donald Trump’s willingness to let the conflict drag on much longer. Michael Oren, former Israeli ambassador to the US, Said the intense military stage of the war with Iran may be followed by a protracted standoff that may look more like the Cold War than a conclusive end. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-12/us-israeli-endgames-for-iran-are-diverging-as-war-drags-video",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:28:19 GMT"
+      },
+      {
+        "titulo": "The White House Might Press the Jones Act Button",
+        "resumen": "What Trump can do to dampen oil prices.",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-03-12/the-white-house-might-press-the-jones-act-button",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:27:52 GMT"
+      },
+      {
+        "titulo": "State Street Sees Strongest Dollar Buying in Nearly Two Years",
+        "resumen": "Institutional investors are buying US dollars at the strongest level in nearly two years, as conflict in the Middle East drives demand for safe-haven assets, according to State Street.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/state-street-sees-strongest-dollar-buying-in-nearly-two-years",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:27:29 GMT"
+      }
+    ],
+    "total_entradas": 20
+  },
+  {
+    "fuente": "foreign_policy",
+    "url": "https://foreignpolicy.com/feed",
+    "nicho": "geopolitica",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Trump’s Last-Gasp Foreign Policy",
+        "resumen": "Ill-considered overreach in Iran and elsewhere signals imminent decline.",
+        "link": "https://foreignpolicy.com/2026/03/12/trump-global-order-us-iran-power/",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:16:08 +0000"
+      },
+      {
+        "titulo": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
+        "resumen": "Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.",
+        "link": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/",
+        "fecha_publicacion": "Thu, 12 Mar 2026 17:53:32 +0000"
+      },
+      {
+        "titulo": "A Film of Unimaginable Horror and Unrelenting Humanity",
+        "resumen": "‘The Voice of Hind Rajab’ is an indictment of the international system that has failed Gaza.",
+        "link": "https://foreignpolicy.com/2026/03/12/hind-rajab-gaza-war-children-israel-tunisia-oscars/",
+        "fecha_publicacion": "Thu, 12 Mar 2026 17:36:29 +0000"
+      },
+      {
+        "titulo": "How to (Not) Be a Pacific Power",
+        "resumen": "Washington has yet to recognize that mobility is an essential part of regional security.",
+        "link": "https://foreignpolicy.com/2026/03/12/us-pacific-pivot-islander-mobility-travel-visa-ban-usaid-china/",
+        "fecha_publicacion": "Thu, 12 Mar 2026 17:01:26 +0000"
+      },
+      {
+        "titulo": "The War That Cracked the Postwar Order Illusion",
+        "resumen": "Conflict in Ukraine has shattered the myths sustaining the Western coalition.",
+        "link": "https://foreignpolicy.com/2026/03/12/russia-ukraine-war-europe-trump-putin-zelensky-negotiations-deal/",
+        "fecha_publicacion": "Thu, 12 Mar 2026 14:24:54 +0000"
+      },
+      {
+        "titulo": "The Irresistible Urge to Invoke World War III",
+        "resumen": "Forget the inflated comparisons. Neither the war in the Middle East nor the Russian invasion of Ukraine ever signaled a global conflagration.",
+        "link": "https://foreignpolicy.com/2026/03/12/world-war-iii-3-middle-east-iran-nuclear-russia-ukraine-china-history-geopolitics/",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:29:57 +0000"
+      },
+      {
+        "titulo": "Countries Agree to Historic Emergency Oil Reserve Release",
+        "resumen": "IEA member states will distribute 400 million barrels of oil to ease the Iran war-caused supply crunch.",
+        "link": "https://foreignpolicy.com/2026/03/11/iran-war-iea-oil-reserves-release-crude-strait-hormuz/",
+        "fecha_publicacion": "Wed, 11 Mar 2026 21:31:29 +0000"
+      },
+      {
+        "titulo": "Trump’s New Cyber-First War Strategy",
+        "resumen": "From Iran to Venezuela, Trump has fully embraced offensive cyberoperations.",
+        "link": "https://foreignpolicy.com/2026/03/11/iran-war-cyber-trump-israel-handala-strategy/",
+        "fecha_publicacion": "Wed, 11 Mar 2026 20:06:42 +0000"
+      },
+      {
+        "titulo": "How South Africa Is Navigating the Iran War",
+        "resumen": "Pretoria’s awkward dance between Washington and Tehran.",
+        "link": "https://foreignpolicy.com/2026/03/11/south-africa-response-us-iran-war-economic-fallout/",
+        "fecha_publicacion": "Wed, 11 Mar 2026 19:17:38 +0000"
+      },
+      {
+        "titulo": "The Major Local Election That France’s Far Right Might Just Win",
+        "resumen": "A year before presidential elections, the National Rally has a chance of capturing Marseille, a historic hub of immigration.",
+        "link": "https://foreignpolicy.com/2026/03/11/france-far-right-national-rally-marseille-mayoral-election/",
+        "fecha_publicacion": "Wed, 11 Mar 2026 18:44:46 +0000"
+      },
+      {
+        "titulo": "Gaza’s Reconstruction Must Begin With Its Youth",
+        "resumen": "A better future for Palestine depends on psychological recovery.",
+        "link": "https://foreignpolicy.com/2026/03/11/gaza-war-reconstruction-israel-palestine-youth-mental-health/",
+        "fecha_publicacion": "Wed, 11 Mar 2026 14:42:09 +0000"
+      },
+      {
+        "titulo": "Mojtaba’s Selection Is a Sign of Political Exhaustion",
+        "resumen": "In choosing Khamenei’s son, the regime has imposed exactly what many Iranians feared.",
+        "link": "https://foreignpolicy.com/2026/03/11/ayatollah-mojtaba-khamenei-iran-war-supreme-leader/",
+        "fecha_publicacion": "Wed, 11 Mar 2026 10:39:05 +0000"
+      },
+      {
+        "titulo": "Why Haven’t the Houthis Fired?",
+        "resumen": "The rational calculus, for the moment, is that death to America can wait.",
+        "link": "https://foreignpolicy.com/2026/03/11/iran-war-houthis-yemen-military-operations-calculus-ground-force-mobilization/",
+        "fecha_publicacion": "Wed, 11 Mar 2026 10:19:07 +0000"
+      },
+      {
+        "titulo": "Trump Promised to Tear Up the Regime-Change Playbook. He Is Now Following It.",
+        "resumen": "Exaggerate the threat and underestimate the consequences.",
+        "link": "https://foreignpolicy.com/2026/03/10/trump-regime-change-playbook-iran/",
+        "fecha_publicacion": "Tue, 10 Mar 2026 23:52:39 +0000"
+      },
+      {
+        "titulo": "Trump Likely to Confront Democratic Wall on Iran War Funding",
+        "resumen": "An emergency military spending request to continue the Iran strikes may soon be sent to U.S lawmakers.",
+        "link": "https://foreignpolicy.com/2026/03/10/trump-iran-war-funding-congress-democrats-military-spending/",
+        "fecha_publicacion": "Tue, 10 Mar 2026 21:53:23 +0000"
+      },
+      {
+        "titulo": "Iran Threatens to Stop Oil From Leaving the Middle East",
+        "resumen": "Trump has warned that doing so will only escalate the U.S. military’s war effort.",
+        "link": "https://foreignpolicy.com/2026/03/10/iran-irgc-oil-threats-strait-hormuz-us-strikes-iea-russia/",
+        "fecha_publicacion": "Tue, 10 Mar 2026 20:55:50 +0000"
+      },
+      {
+        "titulo": "State Department Refuses Former Staffers’ Help in Middle East Evacuation",
+        "resumen": "Around 250 State Department employees could assist with efforts.",
+        "link": "https://foreignpolicy.com/2026/03/10/state-department-evacuation-middle-east-iran-war-former-employees-rif/",
+        "fecha_publicacion": "Tue, 10 Mar 2026 20:49:57 +0000"
+      },
+      {
+        "titulo": "Why China Might Have a Role to Play in Iran",
+        "resumen": "Diplomatic messaging suggests Beijing’s potential for mediation in the war.",
+        "link": "https://foreignpolicy.com/2026/03/10/iran-war-china-diplomatic-role-negotiations-deal/",
+        "fecha_publicacion": "Tue, 10 Mar 2026 20:13:46 +0000"
+      },
+      {
+        "titulo": "China’s Middle East Ties Go Far Beyond Iran",
+        "resumen": "Beijing is as concerned about Gulf partners as Tehran.",
+        "link": "https://foreignpolicy.com/2026/03/10/china-gulf-iran-war-middle-east-partnerships/",
+        "fecha_publicacion": "Tue, 10 Mar 2026 19:18:28 +0000"
+      },
+      {
+        "titulo": "Why Netanyahu Chose to Strike Iran Now",
+        "resumen": "After threatening war for decades, the Israeli leader saw his window of opportunity closing.",
+        "link": "https://foreignpolicy.com/2026/03/10/iran-war-us-israel-netanyahu-trump-elections-corruption-trial/",
+        "fecha_publicacion": "Tue, 10 Mar 2026 19:00:40 +0000"
+      }
+    ],
+    "total_entradas": 20
+  },
+  {
+    "fuente": "rt_espanol",
+    "url": "https://actualidad.rt.com/rss",
+    "nicho": "geopolitica",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Irán no da su brazo a torcer, mientras EE.UU. intenta convencerse de que la guerra ha terminado: MINUTO A MINUTO",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b315b859bf5b5b86105b01.jpg\" style=\"float: left;\" />\n        \tEl nuevo líder supremo de la República Islámica, Mojtabá Jameneí, aseguró que no renunciarán a la venganza de \"cada miembro de la nación martirizado por el enemigo\".",
+        "link": "https://actualidad.rt.com/actualidad/592520-iran-brazo-torcer-eeuu-guerra-terminado?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 20:02:43 +0000"
+      },
+      {
+        "titulo": "Desalentar inversión y promover demandas: la ley que internacionaliza el bloqueo sobre Cuba",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2e20659bf5b0397041029.jpg\" style=\"float: left;\" />\n        \tClinton se opuso inicialmente a la normativa, pero al final la promulgó en marzo de 1996.",
+        "link": "https://actualidad.rt.com/a-fondo/592490-ley-helms-burton-internacionalizar-bloqueo-cuba?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:53:45 +0000"
+      },
+      {
+        "titulo": "Netanyahu afirma que Israel es ya una \"potencia global\" tras el ataque contra Irán",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592521-netanyahu-afirma-israel-potencia-global?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:41:51 +0000"
+      },
+      {
+        "titulo": "Secretario del Tesoro de EE.UU.: La Marina escoltará buques por el estrecho de Ormuz cuando sea \"militarmente posible\"",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592519-secretario-tesoro-marina-eeuu-escoltar-buques-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:37:07 +0000"
+      },
+      {
+        "titulo": "VIDEO: Atacan de un cabezazo a un diputado durante un operativo por inundaciones",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30fa559bf5b34873f8388.jpg\" style=\"float: left;\" />\n        \tEl diputado nacional por Tucumán (Argentina) Federico Pelli, del oficialismo libertario, fue agredido con un cabezazo por un hombre mientras participaba en una actividad de asistencia a damnificados por las inundaciones en la localidad de La Madrid. La escena quedó registrada en video y muestra el momento en que el legislador recibe el golpe y cae al suelo, tras lo cual debió ser trasladado a un centro médico con fractura de tabique, según informaron desde su espacio político.",
+        "link": "https://actualidad.rt.com/viral/592513-video-atacan-cabezazo-diputado-durante?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:27:07 +0000"
+      },
+      {
+        "titulo": "Moscú a la opositora clave sueca: \"¿Quién eres para amenazar a Rusia con armas nucleares?\"",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30657e9ff7119602f7830.jpg\" style=\"float: left;\" />\n        \tLa líder de los socialdemócratas de Estocolmo afirmó que Europa ya tiene armas nucleares para bombardear Rusia hasta reducirla a pedazos.",
+        "link": "https://actualidad.rt.com/actualidad/592508-moscu-opositora-amenazar-armas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:23:28 +0000"
+      },
+      {
+        "titulo": "Sheinbaum presenta el 'Plan B' de su reforma electoral tras rechazo en el Congreso",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2db6e59bf5b4b6268e21e.jpg\" style=\"float: left;\" />\n        \tLa presidenta negó que se trate de una derrota política.",
+        "link": "https://actualidad.rt.com/actualidad/592476-sheinbaum-presenta-plan-b-reforma-congreso?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:13:35 +0000"
+      },
+      {
+        "titulo": "Detienen en México a uno de los más buscados por el FBI: de qué se le acusa",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3072659bf5b3415729028.jpg\" style=\"float: left;\" />\n        \tSamuel Ramírez Jr., ciudadano estadounidense de 33 años, fue capturado en el estado de Sinaloa tras casi tres años prófugo por un tiroteo que dejó dos mujeres muertas en Washington, EE.UU.",
+        "link": "https://actualidad.rt.com/actualidad/592501-detienen-mexico-buscados-fbi?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:04:47 +0000"
+      },
+      {
+        "titulo": "\"La gota que colmó el vaso\" y definió el cese de la 'cazamigrantes' de Trump fue presunta infidelidad",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2ac14e9ff715bba440418.jpg\" style=\"float: left;\" />\n        \tEl descontento del presidente Trump se habría ido acumulando y 'estalló' por el modo en que reaccionó Kristi Noem en una audiencia en la Cámara de Representantes.",
+        "link": "https://actualidad.rt.com/actualidad/592446-razon-trump-despedir-cazamigrantes-peso?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:03:00 +0000"
+      },
+      {
+        "titulo": "VIDEO: Embajada de China trolea el 'escudo' que EE.UU. ofrece a las Américas",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3061059bf5b4c9c75a30e.jpeg\" style=\"float: left;\" />\n        \tLa Embajada china en EE.UU. publicó en su cuenta de X un dibujo animado en el que se ve un águila apretar un botón rojo, provocando explosiones a una distancia. Un grupo de aves pequeños se asusta, pero este personaje simbólico de EE.UU. les pone un escudo por encima para su defensa. De este descienden barrotes, dejando las aves enjauladas. \"A veces, la seguridad implica un poco de control\", explica el águila.",
+        "link": "https://actualidad.rt.com/actualidad/592509-video-china-trolear-escudo-eeuu-ofrecer-americas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:33:16 +0000"
+      }
+    ],
+    "total_entradas": 10
+  },
+  {
+    "fuente": "aljazeera",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "nicho": "geopolitica",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war",
+        "resumen": "Ali Larijani responds to US threat to hit Iran&#039;s power infrastructure, saying the &#039;whole region will go dark&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/iran-vows-to-make-trump-pay-for-grave-miscalculation-if-us-escalates-war?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:31:34 +0000"
+      },
+      {
+        "titulo": "ICC prosecutor opens probe into Belarus over deportations to Lithuania",
+        "resumen": "The prosecutor&#039;s office said the crimes being investigated include deportation and persecution through deportation.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/icc-prosecutor-opens-probe-into-belarus-over-deportations-to-lithuania?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:56:36 +0000"
+      },
+      {
+        "titulo": "Somalia warns against any Israeli base plans on Somaliland",
+        "resumen": "Somali minister tells Al Jazeera Israeli base plans in Somaliland risk dragging Somalia into &#039;external confrontations&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/somalia-warns-against-any-israeli-base-plans-on-somaliland?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:51:10 +0000"
+      },
+      {
+        "titulo": "How oil is at the center of the US-Israel war with Iran",
+        "resumen": "As oil prices rise, the US, Israel and Iran seem ready to keep fighting no matter the costs.",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/12/aje-onl-irn_tuesdayupdates_av_v2-100326?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:36:20 +0000"
+      },
+      {
+        "titulo": "Assailant dead after vehicle ramming, gunfire at Michigan synagogue in US",
+        "resumen": "Authorities report car ramming at Temple Israel Synagogue in West Bloomfield Township, Michigan; Attacker found dead.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/fbi-reports-active-shooter-situation-at-detroit-area-synagogue-in-the-us?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:02:19 +0000"
+      },
+      {
+        "titulo": "Israel launches air attack on Beirut during live Al Jazeera broadcast",
+        "resumen": "An Israeli air attack struck a building during a live Al Jazeera broadcast in a new &quot;wave of attacks&quot; on Hezbollah.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israel-launches-air-attack-on-beirut-during-live-al-jazeera-broadcast?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 17:51:08 +0000"
+      },
+      {
+        "titulo": "Israel attacks central Beirut in escalation of deadly assault on Lebanon",
+        "resumen": "Israel targets centre of Lebanese capital in escalation of military campaign that has killed nearly 700 people.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/israel-attacks-central-beirut-in-escalation-of-deadly-assault-on-lebanon?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 17:50:35 +0000"
+      },
+      {
+        "titulo": "Gunman, one victim dead in shooting at Old Dominion University in US",
+        "resumen": "Authorities say suspect opened fire in a university building in the latest shooting on a US university campus.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/two-in-critical-condition-after-shooting-at-old-dominion-university-in-us?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 17:36:39 +0000"
+      },
+      {
+        "titulo": "Israel drops charges against soldiers in Palestinian detainee abuse case",
+        "resumen": "Charges dropped against five soldiers accused of sexually abusing a Palestinian detainee at a military facility.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/israel-drops-charges-on-soldiers-who-allegedly-raped-palestinian-detainee?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 17:30:08 +0000"
+      },
+      {
+        "titulo": "Trump says not ‘appropriate’ for Iran to participate in the World Cup in US",
+        "resumen": "US president, who won the FIFA Peace Prize says Iran would be welcome but should not come for its players&#039; safety.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/trump-says-not-appropriate-for-iran-to-participate-in-the-world-cup-in-us?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 17:20:41 +0000"
+      },
+      {
+        "titulo": "Iran’s president sets terms to end the war: Is an off-ramp in sight?",
+        "resumen": "Iran is asking for &#039;reparations&#039; and a guarantee that the US and Israel will not attack in the future.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/irans-president-sets-terms-to-end-the-war-is-an-off-ramp-in-sight?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 15:41:29 +0000"
+      },
+      {
+        "titulo": "US military ‘not ready’ to escort oil ships through Hormuz, official says",
+        "resumen": "Iran&#039;s Mojtaba Khamenei says strait should remain closed as Donald Trump claims US benefits from high oil prices.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/us-military-not-ready-to-escort-oil-ships-through-hormuz-official-says?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 15:31:26 +0000"
+      },
+      {
+        "titulo": "Iran’s new supreme leader issues first statement",
+        "resumen": "Iranian Supreme Leader Mojtaba Khamenei has issued his first statement since being appointed.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/irans-new-supreme-leader-issues-first-statement?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 15:12:55 +0000"
+      },
+      {
+        "titulo": "Pakistan’s Abrar signed by India-owned Sunrisers in Hundred auction",
+        "resumen": "Pakistan spinner Abrar Ahmed has been signed by Indian-owned Sunrisers Leeds in UK cricket&#039;s Hundred auction.",
+        "link": "https://www.aljazeera.com/sports/2026/3/12/pakistans-abrar-signed-by-india-owned-sunrisers-in-hundred-auction?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 15:07:11 +0000"
+      },
+      {
+        "titulo": "Video shows moment Iran strikes US-owned oil tanker near Iraq",
+        "resumen": "Iran has released video it says shows the moment one of its explosive-laden boats struck a US-owned oil tanker in Iraq.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/video-shows-moment-iran-strikes-us-owned-oil-tanker-near-iraq?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 14:54:30 +0000"
+      },
+      {
+        "titulo": "Up to 3.2 million people displaced across Iran amid US-Israeli attacks: UN",
+        "resumen": "UN refugee agency says forced displacement likely to increase as US and Israel continue deadly strikes across Iran.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/up-to-3-2-million-people-displaced-across-iran-amid-us-israeli-attacks-un?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 14:29:43 +0000"
+      },
+      {
+        "titulo": "Aftermath of US-Israeli attacks on Tehran",
+        "resumen": "Explosions are heard for a 13th day in Iran, Israel and several Middle Eastern states.",
+        "link": "https://www.aljazeera.com/gallery/2026/3/12/aftermath-of-us-israeli-attacks-on-tehran?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 14:22:13 +0000"
+      },
+      {
+        "titulo": "Israeli attack hits civilians at Beirut beachfront: What we know",
+        "resumen": "An Israeli strike on Beirut’s seafront killed at least 8 people and injured dozens more.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israeli-attack-hits-civilians-at-beirut-beachfront-what-we-know?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 14:20:25 +0000"
+      },
+      {
+        "titulo": "Bunker-busting bombs loaded onto US planes at UK airbase amid Iran war",
+        "resumen": "The use of RAF Fairford by US forces highlights the UK&#039;s increasingly active role in the US-Israeli war on Iran.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/bunker-busting-bombs-loaded-onto-us-planes-at-uk-airbase-amid-iran-war?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 14:18:54 +0000"
+      },
+      {
+        "titulo": "Drug use on Ukraine’s front lines ‘rampant among Russian troops’",
+        "resumen": "As the war drags into another year, a lesser-known crisis afflicts troops on both sides.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/drug-use-on-ukraines-front-lines-rampant-among-russian-troops?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 14:08:08 +0000"
+      }
+    ],
+    "total_entradas": 20
+  },
+  {
+    "fuente": "scmp",
+    "url": "https://www.scmp.com/rss/5/feed",
+    "nicho": "geopolitica",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "1 dead, 2 injured in shooting at Virginia’s Old Dominion University, police say",
+        "resumen": "A gunman and one victim are dead and two other victims are hurt after a shooting at Old Dominion University on Thursday morning, the Virginia university’s police said.\nAt a news conference on Thursday, Old Dominion University (ODU) Police Chief Garrett Shelton confirmed that one of the three victims injured has died. He said authorities learned that there was a third victim who brought themselves to a hospital. The two remaining victims appear to be in stable conditions, Shelton said.\nLieutenant...",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346418/gunman-who-injured-2-people-virginias-old-dominion-university-dead-college-says?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:05:45 +0000"
+      },
+      {
+        "titulo": "Suspect shot dead after crashing truck into Michigan synagogue, police say",
+        "resumen": "A male suspect was killed in a confrontation with security personnel after crashing his truck through the doors and into the hallway of a Detroit-area synagogue on Thursday, with no one else reported seriously injured in the incident, authorities said.\nMichigan State Police reported an active shooting incident at about 12.30pm local time at Temple Israel Synagogue in the Detroit suburb of ‌West Bloomfield. It was unclear from preliminary briefings by police whether the suspect was actually armed...",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346417/police-respond-report-active-shooter-michigan-synagogue?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:13:44 +0000"
+      },
+      {
+        "titulo": "British mum who kept woman as ‘house slave’ for 25 years is jailed",
+        "resumen": "A UK judge on Thursday jailed for 13 years a mother-of-10 who forced a vulnerable woman to work as a “house slave” for more than two decades.\nAmanda Wixon subjected the woman, who was a teenager when the ordeal began, to more than 25 years of abuse at her squalid home in Gloucestershire, western England.\nThe 56-year-old forced the victim, who has a learning disability, to do manual labour, regularly assaulted her and deprived her of food and healthcare, it emerged during an earlier 13-day...",
+        "link": "https://www.scmp.com/news/world/europe/article/3346416/british-mother-jailed-keeping-woman-house-slave-25-years?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 17:05:30 +0000"
+      },
+      {
+        "titulo": "UK PM Starmer admits his ‘mistake’ in appointing Mandelson as US ambassador",
+        "resumen": "British Prime Minister Keir Starmer has taken responsibility for his “mistake” in sending Peter Mandelson to Washington as ambassador, as Downing Street denied there was a “cover-up” in the release of files related to the appointment.\nThe prime minister is facing fresh questions about his judgment in giving Mandelson the ambassadorship despite being warned of a “general reputational risk” because of his relationship with paedophile Jeffrey Epstein.\nIn his first public appearance since the...",
+        "link": "https://www.scmp.com/news/world/europe/article/3346415/uk-pm-starmer-admits-his-mistake-appointing-mandelson-us-ambassador?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 16:38:12 +0000"
+      },
+      {
+        "titulo": "Strait of Hormuz must stay closed, Iran’s Mojtaba Khamenei says in defiant statement",
+        "resumen": "Iran’s new supreme leader has vowed to keep blocking the Strait of Hormuz, attack US bases and avenge the blood of its martyrs in his first statement since succeeding his father.\n“The lever of blocking the Strait of Hormuz must definitely be used,” Mojtaba Khamenei said about the strategic waterway, which carries about a fifth of global oil shipments.\nKhamenei urged Iran’s Gulf neighbours to close US military bases in the region “as soon as possible, because they must have realised by now that...",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 14:05:21 +0000"
+      },
+      {
+        "titulo": "Ant smuggling rises in Kenya as Chinese national caught with 2,238 insects at airport",
+        "resumen": "A man was arrested with more ⁠than 2,200 live ⁠garden ants in his ⁠luggage at Nairobi’s main airport this week amid a rise in cases of smuggling of the insects in Kenya.\nChinese national Zhang Kequn, 27, was arrested at Jomo Kenyatta ‌International Airport on Tuesday while he was trying to leave the country, court filings on Thursday showed. Immigration officials flagged a “stop order” on Zhang’s passport after he evaded arrest in Kenya last year.\nAnt aficionados pay large sums to ⁠maintain...",
+        "link": "https://www.scmp.com/news/world/africa/article/3346382/ant-smuggling-rises-kenya-chinese-national-caught-2238-insects-airport?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 11:15:10 +0000"
+      },
+      {
+        "titulo": "American military bleeds US$11.3 billion in first week of Iran war: report",
+        "resumen": "The opening week of the war against Iran cost the United States more than US$11.3 billion, lawmakers were told in a Pentagon briefing, according to a New York Times report underscoring the pace at which the conflict is consuming weapons and resources.\nThe Times, citing unnamed sources familiar with Tuesday’s closed-door briefing, said members of Congress were told that the figure excludes many costs connected with the build-up to the strikes – suggesting the final tally for the first week could...",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346376/american-military-bleeds-us113-billion-first-week-iran-war-report?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:12:48 +0000"
+      },
+      {
+        "titulo": "From AirAsia to Qantas, airlines raise fares as Iran war fuels oil price surge",
+        "resumen": "Airlines around the world are increasing fares and raising fuel surcharges as the Iran war sends oil prices swinging wildly and stokes fears of jet fuel shortages if the fighting persists.\nThe cost of plane tickets may jump as much as 9 per cent, said Willie Walsh, director general of the International Air Transport Association industry group. Fuel costs account for about a quarter of the expenses paid by carriers.\nDemand for alternative routes that bypass the Middle East is also surging,...",
+        "link": "https://www.scmp.com/news/asia/article/3346366/airasia-qantas-airlines-raise-fares-iran-war-fuels-oil-price-surge?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 09:33:14 +0000"
+      },
+      {
+        "titulo": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
+        "resumen": "Zhao Tong is a senior fellow with the Nuclear Policy Programme at Washington-based think tank the Carnegie Endowment for International Peace and its East Asia-based research centre on contemporary China, Carnegie China.\nHis research focuses on strategic security issues, including nuclear weapons policy, deterrence, arms control, non-proliferation, missile defence, hypersonic weapons, regional security in the Asia-Pacific and China’s security and foreign policy.\nSCMP Plus readers get early access...",
+        "link": "https://www.scmp.com/plus/news/china/military/article/3346333/us-israeli-war-iran-may-spark-nuclear-arms-race-carnegie-scholar-says?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 07:39:17 +0000"
+      },
+      {
+        "titulo": "Life under fire: a Tehran resident shares her story as Iran is attacked",
+        "resumen": "A Tehran resident in her 30s agreed to share her thoughts with Agence France-Presse about the ongoing war and daily life.\nHer identity has been withheld for her protection. Here is an edited transcript of the conversation.\nHow is daily life in Tehran?\nPeople left in waves, especially those who were next to targets.\nThe financial situation is very bad. My job has been halted and I am spending out of my savings. Going away has costs too, so this may be one of the reasons why people are leaving...",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3346334/life-under-fire-tehran-resident-shares-her-story-iran-attacked?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 07:33:04 +0000"
+      },
+      {
+        "titulo": "6,000 Filipino sailors stranded by Strait of Hormuz closure: ‘bored and a little scared’",
+        "resumen": "Filipino sailor George Miranda was racing to help a stricken vessel aboard the tugboat Mussafah 2 when he last spoke to his wife and young daughter.\nThe 46-year-old, whose small ship was struck by a pair of missiles this week in the Strait of Hormuz, is the only seafarer from the Philippines known to be missing in the Middle East war, the government says.\nBut more than 6,000 others from the country that supplies a quarter of the world’s sailors are still working in the conflict zone and...",
+        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3346330/6000-filipino-sailors-stranded-strait-hormuz-closure-bored-and-little-scared?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 07:16:07 +0000"
+      },
+      {
+        "titulo": "Trump’s ‘racist hate speech’ fuelling rights violations in US, UN panel says",
+        "resumen": "A UN-backed panel of independent experts focusing on racial discrimination has said that racist hate speech by US President Donald Trump and other American political leaders, along with a crackdown on immigration in the United States, have led to “grave human rights violations”.\nThe Geneva-based Committee on the Elimination of Racial Discrimination issued its decision on Wednesday and urged the US to suspend immigration enforcement operations at, and near, schools, hospitals, and faith-based...",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346322/trumps-racist-hate-speech-fuelling-rights-violations-us-un-panel-says?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 06:08:10 +0000"
+      },
+      {
+        "titulo": "‘Outdated intelligence’: US faces mounting evidence in deadly strike on Iran school",
+        "resumen": "Outdated intelligence likely led to the United States carrying out a deadly missile strike on a junior school in Iran that killed over 165 people, many of them children, in the opening hours of the conflict, according to a US official and a second person briefed on findings of a preliminary US military investigation into the incident.\nThe bombing of the school and its casualties involving children has become a focal point of the war, and if ultimately confirmed to be at the hands of the US,...",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3346300/outdated-intelligence-us-faces-mounting-evidence-deadly-strike-iran-school?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 03:52:03 +0000"
+      },
+      {
+        "titulo": "Preparing for the worst? US bunker maker claims big demand in Middle East",
+        "resumen": "Since the war in the Middle East began nearly two weeks ago, the phone at Ron Hubbard’s bomb shelter company in Texas has not stopped ringing.\nForeign and US clients are rushing to buy his bunkers, seeking refuge in case of air raids, nuclear fallout or apocalypse.\nWith the United States and Israel pounding Iran, and Tehran retaliating with strikes across the region, Hubbard has seen demand for his product soar, mostly from Gulf nation clients in Bahrain, Qatar, Kuwait and the United Arab...",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3346295/preparing-worst-us-bunker-maker-claims-big-demand-middle-east?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 03:09:54 +0000"
+      },
+      {
+        "titulo": "US launches trade probe into China and EU in bid to revive Trump tariffs",
+        "resumen": "The Trump administration on Wednesday opened a new trade investigation into manufacturing in foreign countries – an effort that comes after the Supreme Court struck down US President Donald Trump’s previous use of tariffs by declaring an economic emergency.\nTrump and his team have made clear that they’re seeking to replace the hundreds of billions of dollars in lost revenues after the Supreme Court’s February ruling by using different laws to establish new tariffs.\nIn this case, the...",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346279/us-launches-trade-probe-china-and-eu-bid-revive-trump-tariffs?utm_source=rss_feed",
+        "fecha_publicacion": "Wed, 11 Mar 2026 23:46:48 +0000"
+      },
+      {
+        "titulo": "UN Security Council demands Iran halt attacks on Gulf states",
+        "resumen": "The UN Security Council on Wednesday called for Iran to halt its attacks on Gulf states, in a resolution that did not mention US or Israeli strikes on Iran, prompting Tehran’s ambassador to decry a “blatant misuse” of the international body.\nThe resolution, passed by 13 votes with two abstentions, “demands the immediate cessation of all attacks by the Islamic Republic of Iran against Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, the United Arab Emirates and Jordan”.\nIt also “condemns any actions...",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3346278/un-security-council-demands-iran-halt-attacks-gulf-states?utm_source=rss_feed",
+        "fecha_publicacion": "Wed, 11 Mar 2026 23:03:38 +0000"
+      },
+      {
+        "titulo": "Iran-linked hackers claim attack on US medical tech giant Stryker",
+        "resumen": "An Iran-linked hacking group claimed responsibility Wednesday for a cyberattack on US medical technology giant Stryker, saying it had extracted 50 terabytes of data in retaliation for military strikes on Iran.\n“Our major cyber operation has been executed with complete success,” Handala said in a statement.\nIt described the hack as retribution for what it called “the brutal attack on the Minab school” in Iran, where authorities said more than 150 people were killed, and for “ongoing cyber...",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3346277/iran-group-hacks-us-medical-firm-retaliation-strike-girls-school?utm_source=rss_feed",
+        "fecha_publicacion": "Wed, 11 Mar 2026 21:45:11 +0000"
+      },
+      {
+        "titulo": "AI chatbots help plot attacks, study shows: ‘happy (and safe) shooting!’",
+        "resumen": "From school shootings to synagogue bombings, leading AI chatbots helped researchers plot violent attacks, according to a study published on Wednesday that highlighted the technology’s potential for real-world harm.\nResearchers from the non-profit watchdog Centre for Countering Digital Hate (CCDH) and CNN posed as 13-year-old boys in the United States and Ireland to test 10 chatbots, including ChatGPT, Google Gemini, Perplexity, DeepSeek and Meta AI.\nTesting showed that eight of those chatbots...",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346276/ai-chatbots-help-plot-attacks-study-shows-happy-and-safe-shooting?utm_source=rss_feed",
+        "fecha_publicacion": "Wed, 11 Mar 2026 20:25:47 +0000"
+      },
+      {
+        "titulo": "Chile’s Boric leaves office, calls for unity after split with successor over China cable",
+        "resumen": "Chilean President Gabriel Boric left La Moneda presidential palace for the last time on Wednesday, ending a four-year term with a call for national unity that most observers took as a reference to the Chinese undersea cable dispute that defined his final weeks in office.\n“I wish success to the incoming government, success for Chile, and may our homeland always come first, above any interest, above any disagreement,” Boric said from the palace courtyard, where he arrived with his partner, Paula...",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3346275/chiles-boric-leaves-office-calls-unity-after-split-successor-over-china-cable?utm_source=rss_feed",
+        "fecha_publicacion": "Wed, 11 Mar 2026 18:30:28 +0000"
+      },
+      {
+        "titulo": "3 brothers with Iraq links arrested for ‘terrorist bombing’ of US embassy in Norway",
+        "resumen": "Norwegian police said on Wednesday that three brothers had been arrested on suspicion of a “terrorist bombing” over a weekend explosion at the US embassy in Oslo that caused minor damage but no injuries.\nPolice prosecutor Christian Hatlo told a press conference the brothers, who were Norwegian citizens of Iraqi origin, had been arrested in Oslo around 3.30pm and that police were investigating the motive.\n“We are still working from several hypotheses. One of them is whether this is an order from...",
+        "link": "https://www.scmp.com/news/world/europe/article/3346274/3-brothers-iraq-links-arrested-terrorist-bombing-us-embassy-norway?utm_source=rss_feed",
+        "fecha_publicacion": "Wed, 11 Mar 2026 18:16:23 +0000"
+      }
+    ],
+    "total_entradas": 20
+  },
+  {
+    "fuente": "fed_speeches",
+    "url": "https://www.federalreserve.gov/feeds/speeches.xml",
+    "nicho": "geopolitica",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Bowman, Capital Rules for the Real Economy",
+        "resumen": "Speech At the Cato Institute Policy Forum: Basel III and Bank Capital Rules, Washington, D.C.",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm",
+        "fecha_publicacion": "Thu, 12 Mar 2026 15:00:00 GMT"
+      },
+      {
+        "titulo": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
+        "resumen": "Speech At The Roundtable on Liquidity and Lender of Last Resort sponsored by the Committee on Capital Markets Regulation, Washington, D.C.",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm",
+        "fecha_publicacion": "Tue, 3 Mar 2026 13:30:00 GMT"
+      },
+      {
+        "titulo": "Cook, Opening Remarks for the “AI and Productivity across the Economy” Panel",
+        "resumen": "Speech At “The Great Realignment: Navigating AI, Demographic, and Geoeconomic Shifts,” 42nd Annual NABE Economic Policy Conference, Washington, D.C.",
+        "link": "https://www.federalreserve.gov/newsevents/speech/cook20260224a.htm",
+        "fecha_publicacion": "Tue, 24 Feb 2026 14:30:00 GMT"
+      },
+      {
+        "titulo": "Waller, Operationalizing AI at the Federal Reserve",
+        "resumen": "Speech At the Federal Reserve Bank of Boston 2026 Technology-Enabled Disruption Conference: Shaping the Future of Finance and Payments, Boston, Massachusetts (via webcast)",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20260224a.htm",
+        "fecha_publicacion": "Tue, 24 Feb 2026 14:15:00 GMT"
+      },
+      {
+        "titulo": "Waller, Labor Market Data: Signal or Noise?",
+        "resumen": "Speech At The Great Realignment: Navigating AI, Demographic and Geoeconomic Change, 42nd Annual NABE Economic Policy Conference, The National Association for Business Economics, Washington, D.C.",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20260223a.htm",
+        "fecha_publicacion": "Mon, 23 Feb 2026 13:00:00 GMT"
+      },
+      {
+        "titulo": "Bowman, Opening Remarks",
+        "resumen": "Speech At the Federal Reserve Bank of Atlanta 2026 Banking Outlook Conference: The Next Horizon in Banking, Atlanta, Georgia (via pre-recorded video)",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260219a.htm",
+        "fecha_publicacion": "Thu, 19 Feb 2026 13:30:00 GMT"
+      },
+      {
+        "titulo": "Barr, What Will Artificial Intelligence Mean for the Labor Market and the Economy?",
+        "resumen": "Speech At the New York Association for Business Economics, New York, New York",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260217a.htm",
+        "fecha_publicacion": "Tue, 17 Feb 2026 17:45:00 GMT"
+      },
+      {
+        "titulo": "Bowman, Revitalizing Bank Mortgage Lending, One Step with Basel",
+        "resumen": "Speech At The American Bankers Association 2026 Conference for Community Bankers, Orlando, Florida",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260216a.htm",
+        "fecha_publicacion": "Mon, 16 Feb 2026 13:25:00 GMT"
+      },
+      {
+        "titulo": "Jefferson, Economic Outlook and Supply-Side (Dis)Inflation Dynamics",
+        "resumen": "Speech At the Brookings Institution, Washington, D.C.",
+        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20260206a.htm",
+        "fecha_publicacion": "Fri, 6 Feb 2026 17:00:00 GMT"
+      },
+      {
+        "titulo": "Cook, Economic Outlook",
+        "resumen": "Speech At the Economic Club of Miami, Miami, Florida",
+        "link": "https://www.federalreserve.gov/newsevents/speech/cook20260204a.htm",
+        "fecha_publicacion": "Wed, 4 Feb 2026 23:30:00 GMT"
+      },
+      {
+        "titulo": "Bowman, Outlook for the Economy and Monetary Policy",
+        "resumen": "Speech At the SW Graduate School of Banking at SMU Cox: 161st Assembly for Bank Directors, Oahu, Hawaii",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260130a.htm",
+        "fecha_publicacion": "Fri, 30 Jan 2026 22:00:00 GMT"
+      },
+      {
+        "titulo": "Waller, Statement by Governor Christopher J. Waller",
+        "resumen": "Speech",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20260130a.htm",
+        "fecha_publicacion": "Fri, 30 Jan 2026 14:00:00 GMT"
+      },
+      {
+        "titulo": "Jefferson, Economic Outlook and Monetary Policy Implementation",
+        "resumen": "Speech At the American Institute for Economic Research, Shadow Open Market Committee, and Florida Atlantic University Conference, Boca Raton, Florida",
+        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20260116a.htm",
+        "fecha_publicacion": "Fri, 16 Jan 2026 20:30:00 GMT"
+      },
+      {
+        "titulo": "Bowman, Outlook for the Economy and Monetary Policy",
+        "resumen": "Speech At Outlook 26:  The New England Economic Forum, Foxborough, Massachusetts",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm",
+        "fecha_publicacion": "Fri, 16 Jan 2026 16:00:00 GMT"
+      },
+      {
+        "titulo": "Miran, Regulations, the Supply Side, and Monetary Policy",
+        "resumen": "Speech At the Delphi Economic Forum, National Gallery – Alexandros Soutsos Museum,  Athens, Greece",
+        "link": "https://www.federalreserve.gov/newsevents/speech/miran20260114a.htm",
+        "fecha_publicacion": "Wed, 14 Jan 2026 15:30:00 GMT"
+      }
+    ],
+    "total_entradas": 15
   }
 ]

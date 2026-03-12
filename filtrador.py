@@ -30,6 +30,18 @@ DEFINICIONES_NICHO = {
         "movimientos sociales comunidades",
         "minería conflictos comunidades México",
     ],
+"geopolitica": [
+        "petróleo crudo precios mercados energía",
+        "minerales raros tierras raras cadena suministro",
+        "aranceles comercio guerra comercial",
+        "alianzas militares estratégicas OTAN",
+        "movimiento buques estrecho canal marítimo",
+        "reserva federal tasas interés Powell",
+        "sanciones económicas geopolítica",
+        "China Estados Unidos tensión comercial",
+        "Rusia Europa gas energía",
+        "impacto México latinoamerica economía global",
+    ],
 }
 
 UMBRAL = 0.46  # similitud mínima para aceptar una entrada

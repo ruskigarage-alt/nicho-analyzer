@@ -1,40 +1,63 @@
 # ─────────────────────────────────────────
-# FUENTES RSS — confiables y actualizadas
+# FUENTES RSS
 # ─────────────────────────────────────────
 
 FUENTES_RSS = [
-    {
-        "nombre": "DOF_oficial",
-        "url": "https://www.dof.gob.mx/rss.php",
-        "nicho": "regulaciones_pyme",
-        "ssl": False
-    },
+    # ECONOMÍA MÉXICO
     {
         "nombre": "expansion_economia",
         "url": "https://expansion.mx/rss/economia",
         "nicho": "regulaciones_pyme",
         "ssl": True
     },
+
+    # GEOPOLÍTICA — OCCIDENTALES
     {
-        "nombre": "eleconomista_fiscal",
-        "url": "https://www.eleconomista.com.mx/rss/economia.xml",
-        "nicho": "regulaciones_pyme",
+        "nombre": "reuters_business",
+        "url": "https://feeds.reuters.com/reuters/businessNews",
+        "nicho": "geopolitica",
         "ssl": True
     },
     {
-        "nombre": "animal_politico",
-        "url": "https://animalpolitico.com/feed",
-        "nicho": "politica_local",
+        "nombre": "bloomberg_markets",
+        "url": "https://feeds.bloomberg.com/markets/news.rss",
+        "nicho": "geopolitica",
         "ssl": True
     },
     {
-        "nombre": "sin_embargo",
-        "url": "https://www.sinembargo.mx/feed",
-        "nicho": "politica_local",
+        "nombre": "foreign_policy",
+        "url": "https://foreignpolicy.com/feed",
+        "nicho": "geopolitica",
+        "ssl": True
+    },
+
+    # GEOPOLÍTICA — ALTERNATIVAS
+    {
+        "nombre": "rt_espanol",
+        "url": "https://actualidad.rt.com/rss",
+        "nicho": "geopolitica",
+        "ssl": True
+    },
+    {
+        "nombre": "aljazeera",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "nicho": "geopolitica",
+        "ssl": True
+    },
+    {
+        "nombre": "scmp",
+        "url": "https://www.scmp.com/rss/5/feed",
+        "nicho": "geopolitica",
+        "ssl": True
+    },
+
+    # INSTITUCIONALES
+    {
+        "nombre": "fed_speeches",
+        "url": "https://www.federalreserve.gov/feeds/speeches.xml",
+        "nicho": "geopolitica",
         "ssl": True
     },
 ]
 
-FUENTES_PDF = [
-    # Agrega aquí PDFs cuando encuentres URLs directas válidas
-]
+FUENTES_PDF = []

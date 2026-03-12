@@ -1,6 +1,14 @@
 {
   "regulaciones_pyme": [
     {
+      "titulo": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
+      "resumen": "Luis Brossier afirma que empresas ya dialogan con CFE sobre generación eléctrica y que el banco apoyará con financiamiento cuando se asignen los proyectos.",
+      "link": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura",
+      "fecha_publicacion": "Thu, 12 Mar 2026 19:20:27 GMT",
+      "fuente_nombre": "expansion_economia",
+      "relevancia_score": 0.6567
+    },
+    {
       "titulo": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
       "resumen": "Eduardo Osuna, director general de BBVA México, dijo que la banca está lista para financiar los proyectos del Plan México, siempre que cuenten con permisos, fuentes de pago claras y una adecuada asignación de riesgos.",
       "link": "https://expansion.mx/economia/2026/03/12/bbva-los-proyectos-del-plan-mexico-seran-exitosos-y-rentables-si-se-ejecutan-bien",
@@ -119,14 +127,40 @@
       "fecha_publicacion": "Fri, 06 Mar 2026 21:55:35 GMT",
       "fuente_nombre": "expansion_economia",
       "relevancia_score": 0.5292
+    }
+  ],
+  "geopolitica": [
+    {
+      "titulo": "Desalentar inversión y promover demandas: la ley que internacionaliza el bloqueo sobre Cuba",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2e20659bf5b0397041029.jpg\" style=\"float: left;\" />\n        \tClinton se opuso inicialmente a la normativa, pero al final la promulgó en marzo de 1996.",
+      "link": "https://actualidad.rt.com/a-fondo/592490-ley-helms-burton-internacionalizar-bloqueo-cuba?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Thu, 12 Mar 2026 19:53:45 +0000",
+      "fuente_nombre": "rt_espanol",
+      "relevancia_score": 0.461
     },
     {
-      "titulo": "El comercio de EU con México ya vale el doble que el de China",
-      "resumen": "México gana protagonismo en el intercambio de bienes de Estados Unidos. Su brecha comercial de con Washington ya rivaliza con el de varias economías asiáticas juntas.",
-      "link": "https://expansion.mx/economia/2026/03/06/comercio-mexico-eu-vale-doble-que-china",
-      "fecha_publicacion": "Fri, 06 Mar 2026 17:15:09 GMT",
-      "fuente_nombre": "expansion_economia",
-      "relevancia_score": 0.5871
+      "titulo": "Secretario del Tesoro de EE.UU.: La Marina escoltará buques por el estrecho de Ormuz cuando sea \"militarmente posible\"",
+      "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+      "link": "https://actualidad.rt.com/actualidad/592519-secretario-tesoro-marina-eeuu-escoltar-buques-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Thu, 12 Mar 2026 19:37:07 +0000",
+      "fuente_nombre": "rt_espanol",
+      "relevancia_score": 0.493
+    },
+    {
+      "titulo": "VIDEO: Atacan de un cabezazo a un diputado durante un operativo por inundaciones",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30fa559bf5b34873f8388.jpg\" style=\"float: left;\" />\n        \tEl diputado nacional por Tucumán (Argentina) Federico Pelli, del oficialismo libertario, fue agredido con un cabezazo por un hombre mientras participaba en una actividad de asistencia a damnificados por las inundaciones en la localidad de La Madrid. La escena quedó registrada en video y muestra el momento en que el legislador recibe el golpe y cae al suelo, tras lo cual debió ser trasladado a un centro médico con fractura de tabique, según informaron desde su espacio político.",
+      "link": "https://actualidad.rt.com/viral/592513-video-atacan-cabezazo-diputado-durante?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Thu, 12 Mar 2026 19:27:07 +0000",
+      "fuente_nombre": "rt_espanol",
+      "relevancia_score": 0.4839
+    },
+    {
+      "titulo": "Moscú a la opositora clave sueca: \"¿Quién eres para amenazar a Rusia con armas nucleares?\"",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30657e9ff7119602f7830.jpg\" style=\"float: left;\" />\n        \tLa líder de los socialdemócratas de Estocolmo afirmó que Europa ya tiene armas nucleares para bombardear Rusia hasta reducirla a pedazos.",
+      "link": "https://actualidad.rt.com/actualidad/592508-moscu-opositora-amenazar-armas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Thu, 12 Mar 2026 19:23:28 +0000",
+      "fuente_nombre": "rt_espanol",
+      "relevancia_score": 0.4709
     }
   ]
 }
