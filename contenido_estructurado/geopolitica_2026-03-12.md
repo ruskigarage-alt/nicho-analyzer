@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-12"
 date: "2026-03-12"
 nicho: "geopolitica"
-total_entradas: 22
+total_entradas: 27
 schema: "NewsDigest"
 ---
 
@@ -15,8 +15,22 @@ schema: "NewsDigest"
 - **Fecha**: Thu, 12 Mar 2026 22:05:31 GMT
 - **Fuente**: bloomberg_markets
 - **URL**: https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13
-- **Resumen**: Oil extended gains from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.
-- **Relevancia**: 0.4786
+- **Resumen**: Oil rose from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.
+- **Relevancia**: 0.4734
+
+### Peru Holds Key Rate at 4.25% as Inflation Pressures Mount
+- **Fecha**: Thu, 12 Mar 2026 23:07:13 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-12/peru-holds-interest-rate-at-4-25-as-inflation-pressures-mount
+- **Resumen**: Peru left interest rates unchanged after inflation accelerated above the midpoint of its target range for the first time in more than a year.
+- **Relevancia**: 0.5428
+
+### Investors Hunt for Hedges as War Shatters Decades-Old Strategies
+- **Fecha**: Thu, 12 Mar 2026 23:00:00 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-12/investors-hunt-for-hedges-as-war-shatters-decades-old-strategies
+- **Resumen**: The basic assumptions that have underpinned hedging strategies for decades are coming undone by the escalating war in Iran.
+- **Relevancia**: 0.4739
 
 ### Stocks Fall on War, Credit Woes as Brent Tops $100: Markets Wrap
 - **Fecha**: Wed, 11 Mar 2026 22:45:40 GMT
@@ -46,6 +60,46 @@ schema: "NewsDigest"
 - **Resumen**: An emergency military spending request to continue the Iran strikes may soon be sent to U.S lawmakers.
 - **Relevancia**: 0.463
 
+### Politico: La UE avanza para prohibir IA que permite desnudar personas
+- **Fecha**: Thu, 12 Mar 2026 23:38:48 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592561-politico-ue-avanza-prohibir-ia?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33fe9e9ff712060439e5b.jpg" style="float: left;" />
+        	La iniciativa llega después que Grok permitió generar millones de imágenes de personas reales en bikini o completamente desnudas.
+- **Relevancia**: 0.4639
+
+### Subsidios y recortes: América Latina intenta blindarse ante la escalada contra Irán
+- **Fecha**: Thu, 12 Mar 2026 23:27:29 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592504-subsidios-recortes-america-latina-estrategia-conflicto-iran?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2f6fbe9ff710a814279ea.jpg" style="float: left;" />
+        	De momento, la mayor parte de las medidas se limita al mercado interno de los combustibles.
+- **Relevancia**: 0.4911
+
+### "No comprendieron los detalles técnicos": canciller iraní da una lección a Washington
+- **Fecha**: Thu, 12 Mar 2026 23:11:55 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592552-conocimiento-hechos-importante-canciller-irani?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3344f59bf5b4b6268e278.jpg" style="float: left;" />
+        	Abbas Araghchi señaló que "los estadounidenses no 'ganarán dinero' con el aumento de los precios del petróleo".
+- **Relevancia**: 0.613
+
+### Localizar a militares de EE.UU.: Inteligencia iraní hace un llamado a "hermanos árabes"
+- **Fecha**: Thu, 12 Mar 2026 22:57:56 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592545-localizar-militares-eeuu-inteligencia-irani-llamado-hermanos-arabes?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331b3e9ff711f956a91c2.jpg" style="float: left;" />
+        	El llamamiento resalta que es un "deber islámico informar con precisión sobre los lugares donde se esconden terroristas estadounidenses".
+- **Relevancia**: 0.5008
+
+### Irán asegura que grupos de resistencia de Irak derribaron el avión cisterna de EE.UU.
+- **Fecha**: Thu, 12 Mar 2026 22:49:43 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592565-iran-confirma-grupos-resistencia-irak?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3475759bf5b7bd55fbf9f.jpg" style="float: left;" />
+        	Toda la tripulación perdió la vida en el ataque, según militares iraníes.
+- **Relevancia**: 0.4978
+
 ### Milei se pronuncia sobre el caso del ministro que llevó a su esposa a gira en EE.UU.
 - **Fecha**: Thu, 12 Mar 2026 22:39:17 +0000
 - **Fuente**: rt_espanol
@@ -62,29 +116,12 @@ schema: "NewsDigest"
         	Funcionarios estadounidenses aseguraron que el CGRI  tiene capacidad para desplegar miles de pequeñas embarcaciones con ese propósito.
 - **Relevancia**: 0.4911
 
-### India recurre a este país latinoamericano para abastecerse de gas ante la emergencia energética
-- **Fecha**: Thu, 12 Mar 2026 22:17:06 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592524-india-recurre-pais-latinoamericano-abastecerse?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3336ce9ff71304d552fff.jpg" style="float: left;" />
-        	La crisis provocada por el conflicto en Medio Oriente redujo las reservas de gas licuado en el país asiático y obligó a buscar suministros de urgencia en mercados lejanos.
-- **Relevancia**: 0.5421
-
-### Mató a golpes a su hijo y lo tiró a una zanja: el filicidio que horroriza a Uruguay
-- **Fecha**: Thu, 12 Mar 2026 22:03:25 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592512-matar-golpes-hijo-caso-horrorizar-uruguay?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30b9ee9ff710a814279fc.jpeg" style="float: left;" />
-        	El mandatario uruguayo reconoció que hay responsables dentro del Estado.
-- **Relevancia**: 0.5041
-
-### EE.UU. confirma la pérdida de un avión cisterna sobre Irak
-- **Fecha**: Thu, 12 Mar 2026 21:50:31 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592554-eeuu-confirma-perdida-avion-cisterna-irak?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3391359bf5b29de1aeea8.jpg" style="float: left;" />
-        	El Comando Central estadounidense informó que el incidente no se debió a fuego enemigo ni tampoco amigo.
-- **Relevancia**: 0.4841
+### Iran envoy says Tehran will keep Strait of Hormuz open
+- **Fecha**: Thu, 12 Mar 2026 23:18:48 +0000
+- **Fuente**: aljazeera
+- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss
+- **Resumen**: Iran’s UN envoy Amir Saeid Iravani said Tehran will not close the Strait of Hormuz and remains committed to freedom.
+- **Relevancia**: 0.5033
 
 ### Air attacks target bases of Iran-backed forces in Iraq
 - **Fecha**: Thu, 12 Mar 2026 22:01:00 +0000

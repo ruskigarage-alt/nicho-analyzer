@@ -137,6 +137,42 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Oil Trades Near 42-Month High as Iran Vows to Keep Hormuz Closed",
+        "resumen": "Oil rose from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
+      },
+      {
+        "titulo": "Peru Holds Key Rate at 4.25% as Inflation Pressures Mount",
+        "resumen": "Peru left interest rates unchanged after inflation accelerated above the midpoint of its target range for the first time in more than a year.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/peru-holds-interest-rate-at-4-25-as-inflation-pressures-mount",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:07:13 GMT"
+      },
+      {
+        "titulo": "Asian Stocks, Bonds to Echo US Drop as Crude Rises: Markets Wrap",
+        "resumen": "Asian stocks and bonds were primed to follow Wall Street lower as a renewed oil spike stoked fears the war in Iran will further crimp energy supplies and fuel inflation.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
+      },
+      {
+        "titulo": "US Refueling Plane Crashes Over Iraq, Central Command Says",
+        "resumen": "A KC-135 refueling plane that was part of the American military campaign against Iran crashed over western Iraq after an incident involving another plane, US Central Command said Thursday night.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/kc-135-tanker-crashes-in-friendly-iraqi-airspace-us-says",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:14:20 GMT"
+      },
+      {
+        "titulo": "Investors Hunt for Hedges as War Shatters Decades-Old Strategies",
+        "resumen": "The basic assumptions that have underpinned hedging strategies for decades are coming undone by the escalating war in Iran.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/investors-hunt-for-hedges-as-war-shatters-decades-old-strategies",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:00:00 GMT"
+      },
+      {
+        "titulo": "Gold Steadies After Two-Day Drop as Oil Prices Rally Further",
+        "resumen": "Gold steadied after a two-day decline, as traders weighed a stronger US dollar and rallying oil prices nearly two weeks into the war in the Middle East.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:20:17 GMT"
+      },
+      {
         "titulo": "War Cost Sinks Long-Term Government Bonds on Deficit Worries",
         "resumen": "Investors are growing worried that the Iran war will drive up expenditures and swell budget deficits in countries around the world, sparking a selloff in long-term government bonds.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/war-spending-sinks-long-term-government-bonds-on-deficit-worries",
@@ -149,40 +185,16 @@
         "fecha_publicacion": "Thu, 12 Mar 2026 16:22:57 GMT"
       },
       {
-        "titulo": "Asian Stocks, Bonds to Echo US Drop as Crude Rises: Markets Wrap",
-        "resumen": "Asian stocks and bonds were primed to follow Wall Street lower as a renewed oil spike stoked fears the war in Iran will further crimp energy supplies and fuel inflation.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
-      },
-      {
         "titulo": "Carney Unveils Billions for Military Upgrades in Canada’s Far North",
         "resumen": "Prime Minister Mark Carney announced billions for defense upgrades in Canada’s far north, boosting the country’s military presence after the White House complained about its vulnerabilities in the region.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/carney-unveils-billions-for-military-upgrades-in-canada-s-far-north",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:21:52 GMT"
       },
       {
-        "titulo": "Gold Steadies After Two-Day Drop as Oil Prices Rally Further",
-        "resumen": "Gold steadied after a two-day decline, as traders weighed a stronger US dollar and high oil prices nearly two weeks into the war in the Middle East.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:20:17 GMT"
-      },
-      {
-        "titulo": "Refueling Plane Crashes in ‘Friendly’ Iraqi Airspace, US Says",
-        "resumen": "A KC-135 refueling plane that was part of the American military campaign against Iran crashed over western Iraq after an incident involving another plane, US Central Command said Thursday night.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/kc-135-tanker-crashes-in-friendly-iraqi-airspace-us-says",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:14:20 GMT"
-      },
-      {
         "titulo": "Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief",
         "resumen": "President Donald Trump and Iran’s new supreme leader both struck defiant tones on the 13th day of the war, offering little relief to energy markets despite fresh US efforts to curb oil prices.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/trump-iran-strike-defiant-tone-as-oil-markets-see-little-relief",
         "fecha_publicacion": "Thu, 12 Mar 2026 16:31:50 GMT"
-      },
-      {
-        "titulo": "Oil Trades Near 42-Month High as Iran Vows to Keep Hormuz Closed",
-        "resumen": "Oil extended gains from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
       },
       {
         "titulo": "Califia Farms CEO on Product Innovation, What’s Next",
@@ -243,18 +255,6 @@
         "resumen": "Once Upon a Farm PBC shares fell 9.8% after the organic kids snacks maker forecast slowing sales growth in 2026 in its first earnings report as a public company.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/jennifer-garner-s-snack-company-falls-in-first-results-since-ipo",
         "fecha_publicacion": "Thu, 12 Mar 2026 20:42:17 GMT"
-      },
-      {
-        "titulo": "Blue Owl Tells Investors Its Loan Sale Had No Hidden Incentives",
-        "resumen": "Blue Owl Capital Inc. defended its recent sale of $1.4 billion of loans from three of its funds, arguing the transaction contained no backstops or hidden incentives, as the asset manager remains a primary target of bets on a private-credit reckoning.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/blue-owl-tells-investors-its-loan-sale-had-no-hidden-incentives",
-        "fecha_publicacion": "Thu, 12 Mar 2026 11:00:40 GMT"
-      },
-      {
-        "titulo": "This Map May Decide the Iran War",
-        "resumen": "Two bypass oil pipelines offer a temporary solution to control prices &mdash; but nothing will replace reopening the Strait of Hormuz, Bloomberg Opinion columnist Javier Blas explains. (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-12/opinion-this-map-may-decide-the-iran-war-video",
-        "fecha_publicacion": "Thu, 12 Mar 2026 20:36:01 GMT"
       }
     ],
     "total_entradas": 20
@@ -397,6 +397,42 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Politico: La UE avanza para prohibir IA que permite desnudar personas",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33fe9e9ff712060439e5b.jpg\" style=\"float: left;\" />\n        \tLa iniciativa llega después que Grok permitió generar millones de imágenes de personas reales en bikini o completamente desnudas.",
+        "link": "https://actualidad.rt.com/actualidad/592561-politico-ue-avanza-prohibir-ia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:38:48 +0000"
+      },
+      {
+        "titulo": "Subsidios y recortes: América Latina intenta blindarse ante la escalada contra Irán",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2f6fbe9ff710a814279ea.jpg\" style=\"float: left;\" />\n        \tDe momento, la mayor parte de las medidas se limita al mercado interno de los combustibles.",
+        "link": "https://actualidad.rt.com/actualidad/592504-subsidios-recortes-america-latina-estrategia-conflicto-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:27:29 +0000"
+      },
+      {
+        "titulo": "\"No comprendieron los detalles técnicos\": canciller iraní da una lección a Washington",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3344f59bf5b4b6268e278.jpg\" style=\"float: left;\" />\n        \tAbbas Araghchi señaló que \"los estadounidenses no 'ganarán dinero' con el aumento de los precios del petróleo\".",
+        "link": "https://actualidad.rt.com/actualidad/592552-conocimiento-hechos-importante-canciller-irani?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:11:55 +0000"
+      },
+      {
+        "titulo": "El Senado de EE.UU. rechaza la financiación del ente 'cazamigrantes'",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592555-senado-rechaza-financiacion-ente-cazamigrantes?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:02:45 +0000"
+      },
+      {
+        "titulo": "Localizar a militares de EE.UU.: Inteligencia iraní hace un llamado a \"hermanos árabes\"",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331b3e9ff711f956a91c2.jpg\" style=\"float: left;\" />\n        \tEl llamamiento resalta que es un \"deber islámico informar con precisión sobre los lugares donde se esconden terroristas estadounidenses\".",
+        "link": "https://actualidad.rt.com/actualidad/592545-localizar-militares-eeuu-inteligencia-irani-llamado-hermanos-arabes?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:57:56 +0000"
+      },
+      {
+        "titulo": "Irán asegura que grupos de resistencia de Irak derribaron el avión cisterna de EE.UU.",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3475759bf5b7bd55fbf9f.jpg\" style=\"float: left;\" />\n        \tToda la tripulación perdió la vida en el ataque, según militares iraníes.",
+        "link": "https://actualidad.rt.com/actualidad/592565-iran-confirma-grupos-resistencia-irak?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:49:43 +0000"
+      },
+      {
         "titulo": "Milei se pronuncia sobre el caso del ministro que llevó a su esposa a gira en EE.UU.",
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331dee9ff71384d379d29.jpg\" style=\"float: left;\" />\n        \tEl alto funcionario fue demandado por presunta malversación de fondos e incumplimiento de deberes.",
         "link": "https://actualidad.rt.com/actualidad/592530-milei-pronunciarse-escandalo-manuel-adorni-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all",
@@ -419,42 +455,6 @@
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33a1d59bf5b4c9c75a335.jpg\" style=\"float: left;\" />\n        \tFuncionarios estadounidenses aseguraron que el CGRI  tiene capacidad para desplegar miles de pequeñas embarcaciones con ese propósito.",
         "link": "https://actualidad.rt.com/actualidad/592557-nyt-iran-esta-colocando-minas?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:19:04 +0000"
-      },
-      {
-        "titulo": "India recurre a este país latinoamericano para abastecerse de gas ante la emergencia energética",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3336ce9ff71304d552fff.jpg\" style=\"float: left;\" />\n        \tLa crisis provocada por el conflicto en Medio Oriente redujo las reservas de gas licuado en el país asiático y obligó a buscar suministros de urgencia en mercados lejanos.",
-        "link": "https://actualidad.rt.com/actualidad/592524-india-recurre-pais-latinoamericano-abastecerse?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:17:06 +0000"
-      },
-      {
-        "titulo": "Disculpa y lucha contra el narco: Así avanza el deshielo entre Petro y Trump",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b335c8e9ff7168d863549b.jpg\" style=\"float: left;\" />\n        \tAmbos líderes dialogaron cerca de media hora.",
-        "link": "https://actualidad.rt.com/actualidad/592542-disculpa-lucha-narco-deshielo-petro-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:08:24 +0000"
-      },
-      {
-        "titulo": "Mató a golpes a su hijo y lo tiró a una zanja: el filicidio que horroriza a Uruguay",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30b9ee9ff710a814279fc.jpeg\" style=\"float: left;\" />\n        \tEl mandatario uruguayo reconoció que hay responsables dentro del Estado.",
-        "link": "https://actualidad.rt.com/actualidad/592512-matar-golpes-hijo-caso-horrorizar-uruguay?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:03:25 +0000"
-      },
-      {
-        "titulo": "VIDEO: Drones rusos hacen arder objetivos de infraestructura ucraniana",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3298de9ff7130843dd6c3.jpg\" style=\"float: left;\" />\n        \tDrones rusos Guerán destruyeron un punto de despliegue temporal de operadores de vehículos aéreos no tripulados y un almacén de drones de la Guardia Nacional ucraniana en la localidad de Prosianka, en la provincia de Járkov.",
-        "link": "https://actualidad.rt.com/actualidad/592540-video-drones-rusos-hacen-arder?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 21:52:20 +0000"
-      },
-      {
-        "titulo": "EE.UU. confirma la pérdida de un avión cisterna sobre Irak",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3391359bf5b29de1aeea8.jpg\" style=\"float: left;\" />\n        \tEl Comando Central estadounidense informó que el incidente no se debió a fuego enemigo ni tampoco amigo.",
-        "link": "https://actualidad.rt.com/actualidad/592554-eeuu-confirma-perdida-avion-cisterna-irak?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 21:50:31 +0000"
-      },
-      {
-        "titulo": "Reportan que la reunión entre Gustavo Petro y Delcy Rodríguez habría sido cancelada",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592551-reportar-cancelada-reunion-petro-delcy-rodriguez?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 21:42:47 +0000"
       }
     ],
     "total_entradas": 10
@@ -467,13 +467,25 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Iran envoy says Tehran will keep Strait of Hormuz open",
+        "resumen": "Iran’s UN envoy Amir Saeid Iravani said Tehran will not close the Strait of Hormuz and remains committed to freedom.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:18:48 +0000"
+      },
+      {
+        "titulo": "Qatar rejects attempts to ‘drive wedge’ with US over gas pause",
+        "resumen": "Qatari official denies political motives for decision to halt LNG production following Iranian strikes.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/qatar-rejects-attempts-to-drive-wedge-with-us-over-gas-pause?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:17:28 +0000"
+      },
+      {
         "titulo": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
         "resumen": "Rastriya Swatantra Party, founded just four years ago, set to dominate new parliament with near two-thirds majority.",
         "link": "https://www.aljazeera.com/news/2026/3/12/ex-rapper-balendra-shah-sweeps-to-power-in-nepal-landslide-election-victory?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:12:46 +0000"
       },
       {
-        "titulo": "US military announces rescue effort after fueling aircraft crashes in Iraq",
+        "titulo": "US military announces rescue effort after fuelling aircraft crashes in Iraq",
         "resumen": "No deaths have been reported so far, but the military said the crash involved two aircraft, one of which landed safely.",
         "link": "https://www.aljazeera.com/news/2026/3/12/us-military-announces-loss-of-refueling-aircraft-over-western-iraq?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:10:05 +0000"
@@ -573,18 +585,6 @@
         "resumen": "Authorities say suspect opened fire in a university building, FBI investigating as &#039;act of terror&#039;.",
         "link": "https://www.aljazeera.com/news/2026/3/12/two-in-critical-condition-after-shooting-at-old-dominion-university-in-us?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 17:36:39 +0000"
-      },
-      {
-        "titulo": "Israel drops charges against soldiers in Palestinian detainee abuse case",
-        "resumen": "Charges dropped against five soldiers accused of sexually abusing a Palestinian detainee at a military facility.",
-        "link": "https://www.aljazeera.com/news/2026/3/12/israel-drops-charges-on-soldiers-who-allegedly-raped-palestinian-detainee?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 17:30:08 +0000"
-      },
-      {
-        "titulo": "Trump says not ‘appropriate’ for Iran to participate in the World Cup in US",
-        "resumen": "US president, who won the FIFA Peace Prize says Iran would be welcome but should not come for its players&#039; safety.",
-        "link": "https://www.aljazeera.com/news/2026/3/12/trump-says-not-appropriate-for-iran-to-participate-in-the-world-cup-in-us?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 17:20:41 +0000"
       }
     ],
     "total_entradas": 20
@@ -596,6 +596,18 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "California’s Governor Newsom says no imminent threat despite warning of Iran drone attack",
+        "resumen": "California Governor Gavin Newsom said there was no imminent threat to the state, despite a warning from the FBI that Iran could send drones to the west coast in retaliation for war.\nNewsom said drone issues “have always been top of mind”.\n“We’ve been aware of that information. … It’s all about a posture of preparedness for worst-case scenarios,” the governor said on Wednesday.\nThe Federal Bureau of Investigation (FBI) recently warned police departments about Iran and a possible California...",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346422/californias-governor-newsom-says-no-imminent-threat-despite-warning-iran-drone-attack?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:29:49 +0000"
+      },
+      {
+        "titulo": "US military refuelling plane crashes in Iraq, rescue efforts are under way",
+        "resumen": "An American military refuelling plane went down in Iraq and rescue efforts were under way, US Central Command said on Thursday.\nThe KC-135 aircraft was part of the operation against Iran but the crash was not due to hostile fire or friendly fire, the military said in a statement.\nUS Central Command, which oversees the Middle East, said two aircraft were involved and that one landed safely and the other went down in western Iraq. It described the latter as “a loss”.\nA US official, who spoke on...",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3346421/us-military-refuelling-plane-crashes-iraq-rescue-efforts-are-under-way?utm_source=rss_feed",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:02:39 +0000"
+      },
       {
         "titulo": "Serbian president confirms his country owns Chinese supersonic missiles after photo leak",
         "resumen": "Serbia’s president confirmed late on Thursday that his country possesses Chinese supersonic surface-attack cruise missiles, after photos of the weapons attached to Serbian fighter jets leaked online.\nPhotos, which began circulating on social media and defence blogs earlier this week, showed missiles believed to be Chinese-made CM-400AKG cruise missiles attached to Serbia’s Russian-made MiG-29 planes.\n“We have things we do not show,” President Aleksandar Vucic told Serbia’s national broadcaster...",
@@ -703,18 +715,6 @@
         "resumen": "The Trump administration on Wednesday opened a new trade investigation into manufacturing in foreign countries – an effort that comes after the Supreme Court struck down US President Donald Trump’s previous use of tariffs by declaring an economic emergency.\nTrump and his team have made clear that they’re seeking to replace the hundreds of billions of dollars in lost revenues after the Supreme Court’s February ruling by using different laws to establish new tariffs.\nIn this case, the...",
         "link": "https://www.scmp.com/news/world/united-states-canada/article/3346279/us-launches-trade-probe-china-and-eu-bid-revive-trump-tariffs?utm_source=rss_feed",
         "fecha_publicacion": "Wed, 11 Mar 2026 23:46:48 +0000"
-      },
-      {
-        "titulo": "UN Security Council demands Iran halt attacks on Gulf states",
-        "resumen": "The UN Security Council on Wednesday called for Iran to halt its attacks on Gulf states, in a resolution that did not mention US or Israeli strikes on Iran, prompting Tehran’s ambassador to decry a “blatant misuse” of the international body.\nThe resolution, passed by 13 votes with two abstentions, “demands the immediate cessation of all attacks by the Islamic Republic of Iran against Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, the United Arab Emirates and Jordan”.\nIt also “condemns any actions...",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3346278/un-security-council-demands-iran-halt-attacks-gulf-states?utm_source=rss_feed",
-        "fecha_publicacion": "Wed, 11 Mar 2026 23:03:38 +0000"
-      },
-      {
-        "titulo": "Iran-linked hackers claim attack on US medical tech giant Stryker",
-        "resumen": "An Iran-linked hacking group claimed responsibility Wednesday for a cyberattack on US medical technology giant Stryker, saying it had extracted 50 terabytes of data in retaliation for military strikes on Iran.\n“Our major cyber operation has been executed with complete success,” Handala said in a statement.\nIt described the hack as retribution for what it called “the brutal attack on the Minab school” in Iran, where authorities said more than 150 people were killed, and for “ongoing cyber...",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3346277/iran-group-hacks-us-medical-firm-retaliation-strike-girls-school?utm_source=rss_feed",
-        "fecha_publicacion": "Wed, 11 Mar 2026 21:45:11 +0000"
       }
     ],
     "total_entradas": 20
