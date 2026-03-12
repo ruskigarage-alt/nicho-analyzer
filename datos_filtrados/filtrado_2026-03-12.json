@@ -131,36 +131,20 @@
   ],
   "geopolitica": [
     {
+      "titulo": "Oil at $120 or $130 Could Trigger a Recession, Hooper Says",
+      "resumen": "Man Group Chief Market Strategist Kristina Hooper is worried about how high energy costs are impacting consumers. She says oil at $120 or $130 could trigger a recession in the US. She speaks on Bloomberg The Close. Brent crude settled above $100 a barrel Thursday for the first time since August 2022. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-12/high-oil-prices-could-trigger-a-recession-hooper-says-video",
+      "fecha_publicacion": "Thu, 12 Mar 2026 21:01:54 GMT",
+      "fuente_nombre": "bloomberg_markets",
+      "relevancia_score": 0.5376
+    },
+    {
       "titulo": "Stocks Fall on War, Credit Woes as Brent Tops $100: Markets Wrap",
       "resumen": "A renewed oil spike stoked fears the war in Iran will further crimp energy supplies and fuel inflation, spurring a slide in stocks, which were also hit by signs of distress in the $1.8 trillion private-credit market.",
       "link": "https://www.bloomberg.com/news/articles/2026-03-11/stock-market-today-dow-s-p-live-updates-",
       "fecha_publicacion": "Wed, 11 Mar 2026 22:45:40 GMT",
       "fuente_nombre": "bloomberg_markets",
       "relevancia_score": 0.5127
-    },
-    {
-      "titulo": "US Two-Year Yields Soar as War, Inflation Angst Intensifies",
-      "resumen": "US Treasuries are sliding as investors grow more concerned that the surge in oil prices will fuel inflation and keep the Federal Reserve from cutting interest rates anytime soon.",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-12/traders-are-no-longer-fully-pricing-in-a-fed-rate-cut-this-year",
-      "fecha_publicacion": "Thu, 12 Mar 2026 15:08:03 GMT",
-      "fuente_nombre": "bloomberg_markets",
-      "relevancia_score": 0.5696
-    },
-    {
-      "titulo": "Brazil Cuts Fuel Tax to Offset Oil Price Surge as Iran War Rages On",
-      "resumen": "Brazil’s government is moving to shield consumers from surging oil prices worldwide by cutting federal taxes on the import and sale of fuels, while introducing a levy on crude oil exports to offset the revenue loss.",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-12/brazil-cuts-fuel-tax-to-offset-oil-price-surge-as-iran-war-rages",
-      "fecha_publicacion": "Thu, 12 Mar 2026 17:15:30 GMT",
-      "fuente_nombre": "bloomberg_markets",
-      "relevancia_score": 0.4656
-    },
-    {
-      "titulo": "Greater Scrutiny Facing Companies Ahead of IPO",
-      "resumen": "Joe Lucosky, founding and managing partner of Lucosky Brookman, joins Matt Miller on \"Bloomberg Markets.\" He discusses, market and regulatory pressures facing companies as they seek public listing.  (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-12/greater-scrutiny-facing-companies-ahead-of-ipo-video",
-      "fecha_publicacion": "Thu, 12 Mar 2026 18:41:04 GMT",
-      "fuente_nombre": "bloomberg_markets",
-      "relevancia_score": 0.4733
     },
     {
       "titulo": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
@@ -179,20 +163,28 @@
       "relevancia_score": 0.463
     },
     {
-      "titulo": "Why Netanyahu Chose to Strike Iran Now",
-      "resumen": "After threatening war for decades, the Israeli leader saw his window of opportunity closing.",
-      "link": "https://foreignpolicy.com/2026/03/10/iran-war-us-israel-netanyahu-trump-elections-corruption-trial/",
-      "fecha_publicacion": "Tue, 10 Mar 2026 19:00:40 +0000",
-      "fuente_nombre": "foreign_policy",
-      "relevancia_score": 0.6082
+      "titulo": "Al menos 6 soldados franceses heridos en un ataque con drones contra una base en Irak",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg\" style=\"float: left;\" />",
+      "link": "https://actualidad.rt.com/actualidad/592544-soldados-franceses-heridos-ataque-irak?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Thu, 12 Mar 2026 21:14:16 +0000",
+      "fuente_nombre": "rt_espanol",
+      "relevancia_score": 0.4664
     },
     {
-      "titulo": "\"El pedófilo Trump se jactó\": Greta Thunberg pide al mundo defender a Cuba del bloqueo de EE.UU.",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3082be9ff7168d8635445.jpg\" style=\"float: left;\" />\n        \tLa activista señaló que es el momento para proteger la isla caribeña del \"cerco\" y la política de Washington que pretende \"estrangular\" a los cubanos.",
-      "link": "https://actualidad.rt.com/actualidad/592507-pedofilo-trump-greta-thunberg-defender-cuba?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fecha_publicacion": "Thu, 12 Mar 2026 20:22:23 +0000",
+      "titulo": "Enviado de Putin avisa que \"la mayor crisis energética de la historia\" ya ha comenzado",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b32ad459bf5b3d5d1368d5.jpg\" style=\"float: left;\" />\n        \tKiril Dmítriev comentó las ganancias petroleras adicionales de Rusia por el alza de precios de crudo provocada por el cierre del estrecho de Ormuz.",
+      "link": "https://actualidad.rt.com/actualidad/592523-enviado-putin-dice-comenzo-mayor?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Thu, 12 Mar 2026 21:02:25 +0000",
       "fuente_nombre": "rt_espanol",
-      "relevancia_score": 0.4709
+      "relevancia_score": 0.6207
+    },
+    {
+      "titulo": "El Brent supera los 100 dólares mientras el cierre del estrecho de Ormuz dispara el precio del crudo",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b324ee59bf5b3527459399.jpg\" style=\"float: left;\" />\n        \tEl líder supremo de Irán, Mojtabá , ordenó mantener cerrado el estratégico estrecho de Ormuz en medio del conflicto armado que se ha ampliado por todo Oriente Medio.",
+      "link": "https://actualidad.rt.com/actualidad/592536-brent-supera-100-dolares-cierre-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Thu, 12 Mar 2026 20:55:21 +0000",
+      "fuente_nombre": "rt_espanol",
+      "relevancia_score": 0.5225
     },
     {
       "titulo": "Minerales críticos y tierras raras: el primer guiño de Kast a EE.UU.",
@@ -201,30 +193,6 @@
       "fecha_publicacion": "Thu, 12 Mar 2026 20:07:43 +0000",
       "fuente_nombre": "rt_espanol",
       "relevancia_score": 0.7531
-    },
-    {
-      "titulo": "Desalentar inversión y promover demandas: la ley que internacionaliza el bloqueo sobre Cuba",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2e20659bf5b0397041029.jpg\" style=\"float: left;\" />\n        \tClinton se opuso inicialmente a la normativa, pero al final la promulgó en marzo de 1996.",
-      "link": "https://actualidad.rt.com/a-fondo/592490-ley-helms-burton-internacionalizar-bloqueo-cuba?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fecha_publicacion": "Thu, 12 Mar 2026 19:53:45 +0000",
-      "fuente_nombre": "rt_espanol",
-      "relevancia_score": 0.461
-    },
-    {
-      "titulo": "Netanyahu afirma que Israel es ya una \"potencia global\" tras el ataque contra Irán",
-      "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-      "link": "https://actualidad.rt.com/actualidad/592521-netanyahu-afirma-israel-potencia-global?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fecha_publicacion": "Thu, 12 Mar 2026 19:41:51 +0000",
-      "fuente_nombre": "rt_espanol",
-      "relevancia_score": 0.4628
-    },
-    {
-      "titulo": "Secretario del Tesoro de EE.UU.: La Marina escoltará buques por el estrecho de Ormuz cuando sea \"militarmente posible\"",
-      "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-      "link": "https://actualidad.rt.com/actualidad/592519-secretario-tesoro-marina-eeuu-escoltar-buques-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fecha_publicacion": "Thu, 12 Mar 2026 19:37:07 +0000",
-      "fuente_nombre": "rt_espanol",
-      "relevancia_score": 0.493
     },
     {
       "titulo": "How oil is at the center of the US-Israel war with Iran",
@@ -265,22 +233,6 @@
       "fecha_publicacion": "Thu, 12 Mar 2026 15:31:26 +0000",
       "fuente_nombre": "aljazeera",
       "relevancia_score": 0.6241
-    },
-    {
-      "titulo": "Up to 3.2 million people displaced across Iran amid US-Israeli attacks: UN",
-      "resumen": "UN refugee agency says forced displacement likely to increase as US and Israel continue deadly strikes across Iran.",
-      "link": "https://www.aljazeera.com/news/2026/3/12/up-to-3-2-million-people-displaced-across-iran-amid-us-israeli-attacks-un?traffic_source=rss",
-      "fecha_publicacion": "Thu, 12 Mar 2026 14:29:43 +0000",
-      "fuente_nombre": "aljazeera",
-      "relevancia_score": 0.4792
-    },
-    {
-      "titulo": "Aftermath of US-Israeli attacks on Tehran",
-      "resumen": "Explosions are heard for a 13th day in Iran, Israel and several Middle Eastern states.",
-      "link": "https://www.aljazeera.com/gallery/2026/3/12/aftermath-of-us-israeli-attacks-on-tehran?traffic_source=rss",
-      "fecha_publicacion": "Thu, 12 Mar 2026 14:22:13 +0000",
-      "fuente_nombre": "aljazeera",
-      "relevancia_score": 0.5288
     },
     {
       "titulo": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
