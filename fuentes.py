@@ -51,6 +51,90 @@ FUENTES_RSS = [
         "ssl": True
     },
 
+
+    # POLÍTICA LOCAL — ZACATECAS
+    {
+        "nombre": "ntr_zacatecas",
+        "url": "https://ntrzacatecas.com/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+    {
+        "nombre": "express_zacatecas",
+        "url": "https://expresszacatecas.com/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+
+    # POLÍTICA LOCAL — SAN LUIS POTOSÍ
+    {
+        "nombre": "plano_informativo_slp",
+        "url": "https://www.planoinformativo.com/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+    {
+        "nombre": "globalmedia_slp",
+        "url": "https://www.globalmedia.mx/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+
+    # POLÍTICA LOCAL — AGUASCALIENTES
+    {
+        "nombre": "hydra_aguascalientes",
+        "url": "https://www.hydranews.mx/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+    {
+        "nombre": "puntual_aguascalientes",
+        "url": "https://puntual.com.mx/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+
+    # POLÍTICA LOCAL — ZACATECAS
+    {
+        "nombre": "ntr_zacatecas",
+        "url": "https://ntrzacatecas.com/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+    {
+        "nombre": "express_zacatecas",
+        "url": "https://expresszacatecas.com/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+
+    # POLÍTICA LOCAL — SAN LUIS POTOSÍ
+    {
+        "nombre": "plano_informativo_slp",
+        "url": "https://www.planoinformativo.com/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+    {
+        "nombre": "globalmedia_slp",
+        "url": "https://www.globalmedia.mx/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+
+    # POLÍTICA LOCAL — AGUASCALIENTES
+    {
+        "nombre": "hydra_aguascalientes",
+        "url": "https://www.hydranews.mx/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
+    {
+        "nombre": "puntual_aguascalientes",
+        "url": "https://puntual.com.mx/feed",
+        "nicho": "politica_local_bajio",
+        "ssl": True
+    },
     # INSTITUCIONALES
     {
         "nombre": "fed_speeches",

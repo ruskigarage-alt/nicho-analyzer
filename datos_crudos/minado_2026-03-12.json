@@ -137,10 +137,40 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Tech Giants Hover on Cusp of a Correction as War Heats Up",
+        "resumen": "A swoon in US stocks has left technology giants on the brink of a correction as the war in Iran drives up oil prices and sparked inflation worries.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/us-stock-futures-drop-with-oil-near-100-as-iran-war-escalates",
+        "fecha_publicacion": "Thu, 12 Mar 2026 12:10:54 GMT"
+      },
+      {
+        "titulo": "Brent Oil Closes Above $100 for First Time Since August 2022",
+        "resumen": "Brent crude settled above $100 a barrel for the first time since August 2022 as millions of barrels remain trapped in the Persian Gulf, leading to the biggest oil market disruption in history.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/brent-oil-closes-above-100-for-first-time-since-august-2022",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:57:26 GMT"
+      },
+      {
+        "titulo": "SoftBank-Backed PayPay Shares Jump 14% After $880 Million IPO",
+        "resumen": "Shares of PayPay Corp. jumped 14% in its trading debut Thursday after the digital payments firm’s $879.8 million US IPO, the biggest listing for a Japanese company on a US stock exchange in a decade.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/softbank-backed-paypay-rises-19-after-880-million-ipo",
+        "fecha_publicacion": "Thu, 12 Mar 2026 16:56:57 GMT"
+      },
+      {
+        "titulo": "Man Killed After Ramming Car Into Michigan Synagogue",
+        "resumen": "A man was killed after ramming his vehicle into the front doors of a synagogue in suburban Detroit on Thursday afternoon. There was an exchange of gunfire with security staff. Police say the driver died in the car, but the cause of death has not been determined. Multiple law enforcement agencies, including the FBI, responded to the scene. Bloomberg's Myles Miller joins Bloomberg Businessweek Daily with the latest. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-12/man-killed-after-ramming-car-into-michigan-synagogue",
+        "fecha_publicacion": "Thu, 12 Mar 2026 20:07:11 GMT"
+      },
+      {
         "titulo": "Stocks Fall on War, Credit Woes as Brent Tops $100: Markets Wrap",
         "resumen": "A renewed oil spike stoked fears the war in Iran will further crimp energy supplies and fuel inflation, spurring a slide in stocks, which were also hit by signs of distress in the $1.8 trillion private-credit market.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-11/stock-market-today-dow-s-p-live-updates-",
         "fecha_publicacion": "Wed, 11 Mar 2026 22:45:40 GMT"
+      },
+      {
+        "titulo": "S&amp;P Weighs Rule Changes That Would Speed SpaceX’s S&amp;P 500 Entry",
+        "resumen": "S&amp;P Dow Jones Indices LLC is considering changes to rules governing how companies join the S&amp;P 500 Index, a move that would potentially fast-track SpaceX’s entry after its IPO, people familiar with the matter said.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/s-p-weighs-rule-changes-that-would-speed-spacex-s-p-500-entry",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:59:42 GMT"
       },
       {
         "titulo": "Deutsche Bank's Chadha Cautions Against Fed Rate Cuts",
@@ -165,12 +195,6 @@
         "resumen": "The Trump administration plans to waive a century-old maritime law that requires American ships be used to transport goods between US ports as it seeks to blunt surging oil and gasoline prices, according to people familiar with the matter.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/trump-administration-set-to-suspend-jones-act-to-tame-oil-prices",
         "fecha_publicacion": "Thu, 12 Mar 2026 14:47:10 GMT"
-      },
-      {
-        "titulo": "Brent Oil Closes Above $100 for First Time Since August 2022",
-        "resumen": "Brent crude settled above $100 a barrel for the first time since August 2022 as millions of barrels remain trapped in the Persian Gulf, leading to the biggest oil market disruption in history.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/brent-oil-closes-above-100-for-first-time-since-august-2022",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:57:26 GMT"
       },
       {
         "titulo": "US Two-Year Yields Soar as War, Inflation Angst Intensifies",
@@ -231,30 +255,6 @@
         "resumen": "Erik Hirsch, Co-CEO of Hamilton Lane, joins Matt Miller on \"Bloomberg Markets.\" While most funds had tried to meet investor demands for cash, BlackRock last week decided to limit withdrawals in a move that other managers have since followed. Hirsch says he expects more managers to follow suit. (Source: Bloomberg)",
         "link": "https://www.bloomberg.com/news/videos/2026-03-12/more-private-credit-mangers-will-hold-the-line-hirsch-video",
         "fecha_publicacion": "Thu, 12 Mar 2026 18:31:16 GMT"
-      },
-      {
-        "titulo": "War Cost Sinks Long-Term Government Bonds on Deficit Worries",
-        "resumen": "Investors are growing worried that the Iran war will drive up expenditures and swell budget deficits in countries around the world, sparking a selloff in long-term government bonds.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/war-spending-sinks-long-term-government-bonds-on-deficit-worries",
-        "fecha_publicacion": "Thu, 12 Mar 2026 09:45:00 GMT"
-      },
-      {
-        "titulo": "US and Israeli Endgames for Iran Are Diverging as War Drags On",
-        "resumen": "Israeli Prime Minister Benjamin Netanyahu has made clear that when it comes to the Iran war, he’s not done yet. Less clear is President Donald Trump’s willingness to let the conflict drag on much longer. Michael Oren, former Israeli ambassador to the US, Said the intense military stage of the war with Iran may be followed by a protracted standoff that may look more like the Cold War than a conclusive end. (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-12/us-israeli-endgames-for-iran-are-diverging-as-war-drags-video",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:28:19 GMT"
-      },
-      {
-        "titulo": "The White House Might Press the Jones Act Button",
-        "resumen": "What Trump can do to dampen oil prices.",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-03-12/the-white-house-might-press-the-jones-act-button",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:27:52 GMT"
-      },
-      {
-        "titulo": "State Street Sees Strongest Dollar Buying in Nearly Two Years",
-        "resumen": "Institutional investors are buying US dollars at the strongest level in nearly two years, as conflict in the Middle East drives demand for safe-haven assets, according to State Street.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/state-street-sees-strongest-dollar-buying-in-nearly-two-years",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:27:29 GMT"
       }
     ],
     "total_entradas": 20
@@ -397,6 +397,18 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "VIDEO: El astronómico 'fracaso' de millones de EE.UU. frente a las armas iraníes",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b318ad59bf5b352745938e.jpg\" style=\"float: left;\" />\n        \tMedios iraníes han compartido un video que muestra el fallido intento de cuatro misiles antiaéreos Patriot, valorados en millones de dólares cada uno, de interceptar un misil iraní antes de que alcanzara su objetivo. Señalan que este fracaso ha costado 16 millones de dólares, y lo utilizan para criticar el elevado coste del armamento estadounidense y su desempeño frente a los misiles iraníes, que son más baratos y eficaces.",
+        "link": "https://actualidad.rt.com/actualidad/592522-astronomico-fracaso-millones-eeuu-armas-iranies?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 20:10:17 +0000"
+      },
+      {
+        "titulo": "Minerales críticos y tierras raras: el primer guiño de Kast a EE.UU.",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30598e9ff713be47816ef.jpg\" style=\"float: left;\" />\n        \tEl nuevo mandatario de Chile recibió al vicesecretario de Estado, Christopher Landau.",
+        "link": "https://actualidad.rt.com/actualidad/592510-primer-guino-kast-eeuu-minerales-criticos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 20:07:43 +0000"
+      },
+      {
         "titulo": "Irán no da su brazo a torcer, mientras EE.UU. intenta convencerse de que la guerra ha terminado: MINUTO A MINUTO",
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b315b859bf5b5b86105b01.jpg\" style=\"float: left;\" />\n        \tEl nuevo líder supremo de la República Islámica, Mojtabá Jameneí, aseguró que no renunciarán a la venganza de \"cada miembro de la nación martirizado por el enemigo\".",
         "link": "https://actualidad.rt.com/actualidad/592520-iran-brazo-torcer-eeuu-guerra-terminado?utm_source=rss&utm_medium=rss&utm_campaign=all",
@@ -443,18 +455,6 @@
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3072659bf5b3415729028.jpg\" style=\"float: left;\" />\n        \tSamuel Ramírez Jr., ciudadano estadounidense de 33 años, fue capturado en el estado de Sinaloa tras casi tres años prófugo por un tiroteo que dejó dos mujeres muertas en Washington, EE.UU.",
         "link": "https://actualidad.rt.com/actualidad/592501-detienen-mexico-buscados-fbi?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Thu, 12 Mar 2026 19:04:47 +0000"
-      },
-      {
-        "titulo": "\"La gota que colmó el vaso\" y definió el cese de la 'cazamigrantes' de Trump fue presunta infidelidad",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2ac14e9ff715bba440418.jpg\" style=\"float: left;\" />\n        \tEl descontento del presidente Trump se habría ido acumulando y 'estalló' por el modo en que reaccionó Kristi Noem en una audiencia en la Cámara de Representantes.",
-        "link": "https://actualidad.rt.com/actualidad/592446-razon-trump-despedir-cazamigrantes-peso?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 19:03:00 +0000"
-      },
-      {
-        "titulo": "VIDEO: Embajada de China trolea el 'escudo' que EE.UU. ofrece a las Américas",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3061059bf5b4c9c75a30e.jpeg\" style=\"float: left;\" />\n        \tLa Embajada china en EE.UU. publicó en su cuenta de X un dibujo animado en el que se ve un águila apretar un botón rojo, provocando explosiones a una distancia. Un grupo de aves pequeños se asusta, pero este personaje simbólico de EE.UU. les pone un escudo por encima para su defensa. De este descienden barrotes, dejando las aves enjauladas. \"A veces, la seguridad implica un poco de control\", explica el águila.",
-        "link": "https://actualidad.rt.com/actualidad/592509-video-china-trolear-escudo-eeuu-ofrecer-americas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:33:16 +0000"
       }
     ],
     "total_entradas": 10
@@ -466,6 +466,24 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Taiwan cheering row overshadows China quarterfinal at Asian Cup",
+        "resumen": "Taiwan face China in a tense Women&#039;s Asian Cup football quarterfinal, where political tensions will be at the fore.",
+        "link": "https://www.aljazeera.com/sports/2026/3/12/taiwan-cheering-row-overshadows-china-quarter-final-at-asian-cup?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:57:43 +0000"
+      },
+      {
+        "titulo": "How will the war on Iran impact the US economy?",
+        "resumen": "Outcomes depend on how quickly oil tankers can return to the Strait of Hormuz, experts said.",
+        "link": "https://www.aljazeera.com/economy/2026/3/12/how-will-the-war-on-iran-impact-the-us-economy?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:50:51 +0000"
+      },
+      {
+        "titulo": "Does President Trump have an exit strategy for the war with Iran?",
+        "resumen": "United States officials are issuing contradictory statements on the war&#039;s timeline and objectives.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/12/does-president-trump-have-an-exit-strategy-for-the-war-with-iran?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 19:50:37 +0000"
+      },
       {
         "titulo": "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war",
         "resumen": "Ali Larijani responds to US threat to hit Iran&#039;s power infrastructure, saying the &#039;whole region will go dark&#039;.",
@@ -567,24 +585,6 @@
         "resumen": "Explosions are heard for a 13th day in Iran, Israel and several Middle Eastern states.",
         "link": "https://www.aljazeera.com/gallery/2026/3/12/aftermath-of-us-israeli-attacks-on-tehran?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 14:22:13 +0000"
-      },
-      {
-        "titulo": "Israeli attack hits civilians at Beirut beachfront: What we know",
-        "resumen": "An Israeli strike on Beirut’s seafront killed at least 8 people and injured dozens more.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israeli-attack-hits-civilians-at-beirut-beachfront-what-we-know?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 14:20:25 +0000"
-      },
-      {
-        "titulo": "Bunker-busting bombs loaded onto US planes at UK airbase amid Iran war",
-        "resumen": "The use of RAF Fairford by US forces highlights the UK&#039;s increasingly active role in the US-Israeli war on Iran.",
-        "link": "https://www.aljazeera.com/news/2026/3/12/bunker-busting-bombs-loaded-onto-us-planes-at-uk-airbase-amid-iran-war?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 14:18:54 +0000"
-      },
-      {
-        "titulo": "Drug use on Ukraine’s front lines ‘rampant among Russian troops’",
-        "resumen": "As the war drags into another year, a lesser-known crisis afflicts troops on both sides.",
-        "link": "https://www.aljazeera.com/news/2026/3/12/drug-use-on-ukraines-front-lines-rampant-among-russian-troops?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 14:08:08 +0000"
       }
     ],
     "total_entradas": 20
