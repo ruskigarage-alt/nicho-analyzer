@@ -163,14 +163,6 @@
       "relevancia_score": 0.4733
     },
     {
-      "titulo": "US To Ease Ship Rule, Effort to Tame Fuel Prices | Bloomberg Markets 3/12/2026",
-      "resumen": "\"Bloomberg Markets\" follows the market moves across every global asset class and discusses the biggest issues for Wall Street. Today's guests, Atlantic Council's Senior Fellow Ellen Wald, Founding and Managing Partner of Lucosky Brookman, Joseph Lucosky, and Co-CEO of Hamilton Lane Erik Hirsch. \n (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-12/bloomberg-markets-3-12-2026-video",
-      "fecha_publicacion": "Thu, 12 Mar 2026 18:38:27 GMT",
-      "fuente_nombre": "bloomberg_markets",
-      "relevancia_score": 0.5505
-    },
-    {
       "titulo": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
       "resumen": "Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.",
       "link": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/",
@@ -193,6 +185,14 @@
       "fecha_publicacion": "Tue, 10 Mar 2026 19:00:40 +0000",
       "fuente_nombre": "foreign_policy",
       "relevancia_score": 0.6082
+    },
+    {
+      "titulo": "\"El pedófilo Trump se jactó\": Greta Thunberg pide al mundo defender a Cuba del bloqueo de EE.UU.",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3082be9ff7168d8635445.jpg\" style=\"float: left;\" />\n        \tLa activista señaló que es el momento para proteger la isla caribeña del \"cerco\" y la política de Washington que pretende \"estrangular\" a los cubanos.",
+      "link": "https://actualidad.rt.com/actualidad/592507-pedofilo-trump-greta-thunberg-defender-cuba?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Thu, 12 Mar 2026 20:22:23 +0000",
+      "fuente_nombre": "rt_espanol",
+      "relevancia_score": 0.4709
     },
     {
       "titulo": "Minerales críticos y tierras raras: el primer guiño de Kast a EE.UU.",
@@ -225,22 +225,6 @@
       "fecha_publicacion": "Thu, 12 Mar 2026 19:37:07 +0000",
       "fuente_nombre": "rt_espanol",
       "relevancia_score": 0.493
-    },
-    {
-      "titulo": "VIDEO: Atacan de un cabezazo a un diputado durante un operativo por inundaciones",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30fa559bf5b34873f8388.jpg\" style=\"float: left;\" />\n        \tEl diputado nacional por Tucumán (Argentina) Federico Pelli, del oficialismo libertario, fue agredido con un cabezazo por un hombre mientras participaba en una actividad de asistencia a damnificados por las inundaciones en la localidad de La Madrid. La escena quedó registrada en video y muestra el momento en que el legislador recibe el golpe y cae al suelo, tras lo cual debió ser trasladado a un centro médico con fractura de tabique, según informaron desde su espacio político.",
-      "link": "https://actualidad.rt.com/viral/592513-video-atacan-cabezazo-diputado-durante?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fecha_publicacion": "Thu, 12 Mar 2026 19:27:07 +0000",
-      "fuente_nombre": "rt_espanol",
-      "relevancia_score": 0.4839
-    },
-    {
-      "titulo": "Moscú a la opositora clave sueca: \"¿Quién eres para amenazar a Rusia con armas nucleares?\"",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30657e9ff7119602f7830.jpg\" style=\"float: left;\" />\n        \tLa líder de los socialdemócratas de Estocolmo afirmó que Europa ya tiene armas nucleares para bombardear Rusia hasta reducirla a pedazos.",
-      "link": "https://actualidad.rt.com/actualidad/592508-moscu-opositora-amenazar-armas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fecha_publicacion": "Thu, 12 Mar 2026 19:23:28 +0000",
-      "fuente_nombre": "rt_espanol",
-      "relevancia_score": 0.5057
     },
     {
       "titulo": "How oil is at the center of the US-Israel war with Iran",
@@ -299,12 +283,12 @@
       "relevancia_score": 0.5288
     },
     {
-      "titulo": "Strait of Hormuz must stay closed, Iran’s Mojtaba Khamenei says in defiant statement",
+      "titulo": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
       "resumen": "Iran’s new supreme leader has vowed to keep blocking the Strait of Hormuz, attack US bases and avenge the blood of its martyrs in his first statement since succeeding his father.\n“The lever of blocking the Strait of Hormuz must definitely be used,” Mojtaba Khamenei said about the strategic waterway, which carries about a fifth of global oil shipments.\nKhamenei urged Iran’s Gulf neighbours to close US military bases in the region “as soon as possible, because they must have realised by now that...",
       "link": "https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed",
       "fecha_publicacion": "Thu, 12 Mar 2026 14:05:21 +0000",
       "fuente_nombre": "scmp",
-      "relevancia_score": 0.5587
+      "relevancia_score": 0.5544
     },
     {
       "titulo": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
