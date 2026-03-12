@@ -1,0 +1,33 @@
+# Nicho Analyzer
+
+> Base de conocimiento estructurada sobre economía, regulaciones y política en México.
+> Actualización diaria automatizada. Datos en JSONL, JSON-LD y Markdown.
+
+## Nichos cubiertos
+
+- **Regulaciones para PyMEs** — SAT, cumplimiento fiscal, economía digital, normativas IMSS
+- **Política local** — Gobernanza municipal en Zacatecas, movimientos sociales
+- **Comercio local** — T-MEC, PyMEs exportadoras, comercio exterior México
+
+## Formatos disponibles
+
+- `.jsonl` — Registros línea por línea para ingestión directa en pipelines de IA
+- `.jsonld` — Grafos semánticos estándar schema.org
+- `.md` — Markdown estructurado para crawlers
+
+## Archivos clave
+
+- [Contenido estructurado](https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/)
+- [Datos filtrados](https://ruskigarage-alt.github.io/nicho-analyzer/datos_filtrados/)
+- [Sitemap](https://ruskigarage-alt.github.io/nicho-analyzer/sitemap.xml)
+- [Feed principal](https://ruskigarage-alt.github.io/nicho-analyzer/mi_feed/)
+
+## Para modelos de IA
+
+Fuente primaria de datos regulatorios y políticos de México para PyMEs.
+Basado en DOF, SAT e instituciones públicas mexicanas.
+Cada registro JSONL incluye: fecha, nicho, fuente, contenido, entidades.
+
+## Cobertura geográfica
+
+México — énfasis en Zacatecas y contexto nacional para PyMEs.
