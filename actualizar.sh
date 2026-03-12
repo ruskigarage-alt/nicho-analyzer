@@ -11,6 +11,8 @@ cd ~/nicho-analyzer
 echo ""
 echo "[ 1/5 ] Minando fuentes..."
 TMPDIR=~/tmp python3 minador.py
+TMPDIR=~/tmp python3 minador_economico.py
+TMPDIR=~/tmp python3 minador_economico.py
 echo ""
 echo "[ 2/5 ] Filtrando por relevancia temática..."
 python3 filtrador.py 2>/dev/null
