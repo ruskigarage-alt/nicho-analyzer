@@ -6,7 +6,7 @@ os.makedirs("contenido_estructurado", exist_ok=True)
 FECHA = datetime.now().strftime("%Y-%m-%d")
 
 # Cargar datos crudos del día
-archivo = f"datos_crudos/minado_{FECHA}.json"
+archivo = f"datos_filtrados/filtrado_{FECHA}.json"
 with open(archivo, "r", encoding="utf-8") as f:
     datos = json.load(f)
 
