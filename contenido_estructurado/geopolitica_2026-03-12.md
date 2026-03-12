@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-12"
 date: "2026-03-12"
 nicho: "geopolitica"
-total_entradas: 19
+total_entradas: 22
 schema: "NewsDigest"
 ---
 
@@ -11,12 +11,12 @@ schema: "NewsDigest"
 
 ## Entradas del día
 
-### Oil at $120 or $130 Could Trigger a Recession, Hooper Says
-- **Fecha**: Thu, 12 Mar 2026 21:01:54 GMT
+### Oil Trades Near 42-Month High as Iran Vows to Keep Hormuz Closed
+- **Fecha**: Thu, 12 Mar 2026 22:05:31 GMT
 - **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/videos/2026-03-12/high-oil-prices-could-trigger-a-recession-hooper-says-video
-- **Resumen**: Man Group Chief Market Strategist Kristina Hooper is worried about how high energy costs are impacting consumers. She says oil at $120 or $130 could trigger a recession in the US. She speaks on Bloomberg The Close. Brent crude settled above $100 a barrel Thursday for the first time since August 2022. (Source: Bloomberg)
-- **Relevancia**: 0.5376
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13
+- **Resumen**: Oil extended gains from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.
+- **Relevancia**: 0.4786
 
 ### Stocks Fall on War, Credit Woes as Brent Tops $100: Markets Wrap
 - **Fecha**: Wed, 11 Mar 2026 22:45:40 GMT
@@ -24,6 +24,13 @@ schema: "NewsDigest"
 - **URL**: https://www.bloomberg.com/news/articles/2026-03-11/stock-market-today-dow-s-p-live-updates-
 - **Resumen**: A renewed oil spike stoked fears the war in Iran will further crimp energy supplies and fuel inflation, spurring a slide in stocks, which were also hit by signs of distress in the $1.8 trillion private-credit market.
 - **Relevancia**: 0.5127
+
+### Oil at $120 or $130 Could Trigger a Recession, Hooper Says
+- **Fecha**: Thu, 12 Mar 2026 21:01:54 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/videos/2026-03-12/high-oil-prices-could-trigger-a-recession-hooper-says-video
+- **Resumen**: Man Group Chief Market Strategist Kristina Hooper is worried about how high energy costs are impacting consumers. She says oil at $120 or $130 could trigger a recession in the US. She speaks on Bloomberg The Close. Brent crude settled above $100 a barrel Thursday for the first time since August 2022. (Source: Bloomberg)
+- **Relevancia**: 0.5376
 
 ### Trump’s Efforts to Defuse the Oil Spike Aren’t Working
 - **Fecha**: Thu, 12 Mar 2026 17:53:32 +0000
@@ -39,36 +46,59 @@ schema: "NewsDigest"
 - **Resumen**: An emergency military spending request to continue the Iran strikes may soon be sent to U.S lawmakers.
 - **Relevancia**: 0.463
 
-### Al menos 6 soldados franceses heridos en un ataque con drones contra una base en Irak
-- **Fecha**: Thu, 12 Mar 2026 21:14:16 +0000
+### Milei se pronuncia sobre el caso del ministro que llevó a su esposa a gira en EE.UU.
+- **Fecha**: Thu, 12 Mar 2026 22:39:17 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592544-soldados-franceses-heridos-ataque-irak?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg" style="float: left;" />
-- **Relevancia**: 0.4664
+- **URL**: https://actualidad.rt.com/actualidad/592530-milei-pronunciarse-escandalo-manuel-adorni-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331dee9ff71384d379d29.jpg" style="float: left;" />
+        	El alto funcionario fue demandado por presunta malversación de fondos e incumplimiento de deberes.
+- **Relevancia**: 0.5231
 
-### Enviado de Putin avisa que "la mayor crisis energética de la historia" ya ha comenzado
-- **Fecha**: Thu, 12 Mar 2026 21:02:25 +0000
+### NYT: Irán está colocando minas en el estrecho de Ormuz
+- **Fecha**: Thu, 12 Mar 2026 22:19:04 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592523-enviado-putin-dice-comenzo-mayor?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b32ad459bf5b3d5d1368d5.jpg" style="float: left;" />
-        	Kiril Dmítriev comentó las ganancias petroleras adicionales de Rusia por el alza de precios de crudo provocada por el cierre del estrecho de Ormuz.
-- **Relevancia**: 0.6207
+- **URL**: https://actualidad.rt.com/actualidad/592557-nyt-iran-esta-colocando-minas?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33a1d59bf5b4c9c75a335.jpg" style="float: left;" />
+        	Funcionarios estadounidenses aseguraron que el CGRI  tiene capacidad para desplegar miles de pequeñas embarcaciones con ese propósito.
+- **Relevancia**: 0.4911
 
-### El Brent supera los 100 dólares mientras el cierre del estrecho de Ormuz dispara el precio del crudo
-- **Fecha**: Thu, 12 Mar 2026 20:55:21 +0000
+### India recurre a este país latinoamericano para abastecerse de gas ante la emergencia energética
+- **Fecha**: Thu, 12 Mar 2026 22:17:06 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592536-brent-supera-100-dolares-cierre-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b324ee59bf5b3527459399.jpg" style="float: left;" />
-        	El líder supremo de Irán, Mojtabá , ordenó mantener cerrado el estratégico estrecho de Ormuz en medio del conflicto armado que se ha ampliado por todo Oriente Medio.
-- **Relevancia**: 0.5225
+- **URL**: https://actualidad.rt.com/actualidad/592524-india-recurre-pais-latinoamericano-abastecerse?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3336ce9ff71304d552fff.jpg" style="float: left;" />
+        	La crisis provocada por el conflicto en Medio Oriente redujo las reservas de gas licuado en el país asiático y obligó a buscar suministros de urgencia en mercados lejanos.
+- **Relevancia**: 0.5421
 
-### Minerales críticos y tierras raras: el primer guiño de Kast a EE.UU.
-- **Fecha**: Thu, 12 Mar 2026 20:07:43 +0000
+### Mató a golpes a su hijo y lo tiró a una zanja: el filicidio que horroriza a Uruguay
+- **Fecha**: Thu, 12 Mar 2026 22:03:25 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592510-primer-guino-kast-eeuu-minerales-criticos?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30598e9ff713be47816ef.jpg" style="float: left;" />
-        	El nuevo mandatario de Chile recibió al vicesecretario de Estado, Christopher Landau.
-- **Relevancia**: 0.7531
+- **URL**: https://actualidad.rt.com/actualidad/592512-matar-golpes-hijo-caso-horrorizar-uruguay?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b30b9ee9ff710a814279fc.jpeg" style="float: left;" />
+        	El mandatario uruguayo reconoció que hay responsables dentro del Estado.
+- **Relevancia**: 0.5041
+
+### EE.UU. confirma la pérdida de un avión cisterna sobre Irak
+- **Fecha**: Thu, 12 Mar 2026 21:50:31 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592554-eeuu-confirma-perdida-avion-cisterna-irak?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3391359bf5b29de1aeea8.jpg" style="float: left;" />
+        	El Comando Central estadounidense informó que el incidente no se debió a fuego enemigo ni tampoco amigo.
+- **Relevancia**: 0.4841
+
+### Air attacks target bases of Iran-backed forces in Iraq
+- **Fecha**: Thu, 12 Mar 2026 22:01:00 +0000
+- **Fuente**: aljazeera
+- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss
+- **Resumen**: Air attacks have targeted military bases across Iraq belonging to Iran-backed forces.
+- **Relevancia**: 0.4939
+
+### Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war
+- **Fecha**: Thu, 12 Mar 2026 21:32:46 +0000
+- **Fuente**: aljazeera
+- **URL**: https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss
+- **Resumen**: Prime minister says US-Israeli war prevented Iran from moving its nuclear and ballistic projects underground.
+- **Relevancia**: 0.4997
 
 ### How oil is at the center of the US-Israel war with Iran
 - **Fecha**: Thu, 12 Mar 2026 18:36:20 +0000
@@ -91,19 +121,13 @@ schema: "NewsDigest"
 - **Resumen**: Israel targets centre of Lebanese capital in escalation of military campaign that has killed nearly 700 people.
 - **Relevancia**: 0.5419
 
-### Iran’s president sets terms to end the war: Is an off-ramp in sight?
-- **Fecha**: Thu, 12 Mar 2026 15:41:29 +0000
-- **Fuente**: aljazeera
-- **URL**: https://www.aljazeera.com/news/2026/3/12/irans-president-sets-terms-to-end-the-war-is-an-off-ramp-in-sight?traffic_source=rss
-- **Resumen**: Iran is asking for &#039;reparations&#039; and a guarantee that the US and Israel will not attack in the future.
-- **Relevancia**: 0.4631
-
-### US military ‘not ready’ to escort oil ships through Hormuz, official says
-- **Fecha**: Thu, 12 Mar 2026 15:31:26 +0000
-- **Fuente**: aljazeera
-- **URL**: https://www.aljazeera.com/news/2026/3/12/us-military-not-ready-to-escort-oil-ships-through-hormuz-official-says?traffic_source=rss
-- **Resumen**: Iran&#039;s Mojtaba Khamenei says strait should remain closed as Donald Trump claims US benefits from high oil prices.
-- **Relevancia**: 0.6241
+### Netanyahu threatens Iran’s new supreme leader, defends joint assault with US
+- **Fecha**: Thu, 12 Mar 2026 21:31:01 +0000
+- **Fuente**: scmp
+- **URL**: https://www.scmp.com/news/world/middle-east/article/3346419/netanyahu-threatens-irans-new-supreme-leader-defends-joint-assault-us?utm_source=rss_feed
+- **Resumen**: Israeli Prime Minister Benjamin Netanyahu on Thursday issued ⁠a veiled threat to kill Iran’s new supreme leader Mojtaba Khamenei even as he acknowledged that Israel’s joint air war with the US may not lead to a collapse of Tehran’s clerical government.
+Holding his first press conference since the start of the war, ‌the Israeli leader said that Iran was “no longer the same” after nearly two weeks of bombardment and that Tehran had suffered blows to its elite Revolutionary Guards Corps and Basij...
+- **Relevancia**: 0.5526
 
 ### Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement
 - **Fecha**: Thu, 12 Mar 2026 14:05:21 +0000

@@ -11,6 +11,20 @@ schema: "NewsDigest"
 
 ## Entradas del día
 
+### México llevará el acero como primer tema comercial a la mesa del T-MEC
+- **Fecha**: Thu, 12 Mar 2026 22:12:23 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec
+- **Resumen**: Durante el último año, el comercio de acero entre ambos países se convirtió en uno de los puntos más sensibles de la relación bilateral.
+- **Relevancia**: 0.6495
+
+### México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd
+- **Fecha**: Thu, 12 Mar 2026 21:35:37 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/12/mexico-gana-frente-canada-exportaciones-se-disparan
+- **Resumen**: Gobiernos y sector privado impulsan misiones comerciales y acuerdos empresariales para ampliar el intercambio entre México y Canadá.
+- **Relevancia**: 0.5687
+
 ### Citi México: Financiaremos proyectos de energía del plan de infraestructura
 - **Fecha**: Thu, 12 Mar 2026 19:20:27 GMT
 - **Fuente**: expansion_economia
@@ -108,18 +122,4 @@ schema: "NewsDigest"
 - **URL**: https://expansion.mx/economia/2026/03/06/juez-concede-a-agencia-estadounidense-moratoria-para-devolver-los-aranceles
 - **Resumen**: La CBP presentó un documento ante la corte después de que un juez federal ordenara esta semana a la administración Trump que comenzara a rembolsar el dinero obtenido por los aranceles.
 - **Relevancia**: 0.5186
-
-### Inflación en Venezuela se dispara a 475% en 2025, la más alta del mundo
-- **Fecha**: Sat, 07 Mar 2026 00:32:30 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/06/inflacion-en-venezuela-se-dispara-a-475-en-2025-la-mas-alta-del-mundo
-- **Resumen**: El Banco Central de Venezuela (BCV) reveló el dato de la inflación el viernes, la primera vez que lo publica desde hace más de un año.
-- **Relevancia**: 0.4914
-
-### DolarApp evoluciona a ARQ con una inversión millonaria para México
-- **Fecha**: Fri, 06 Mar 2026 21:55:35 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/06/dolarapp-evoluciona-a-arq
-- **Resumen**: Con el respaldo de 70 millones de dólares, por parte de Sequoia Capital y Founders Fund, la compañía seguirá consolidándose como una plataforma integral de finanzas para el segmento afluente mexicano.
-- **Relevancia**: 0.5292
 
