@@ -25,6 +25,7 @@ python3 generar_indices.py
 python3 generar_dataset.py
 python3 generar_feed_json.py
 python3 generar_feed_nichos.py
+python3 generar_dashboard.py
 # ─────────────────────────────────────────
 # PASO 2 — TU RESUMEN
 # ─────────────────────────────────────────
