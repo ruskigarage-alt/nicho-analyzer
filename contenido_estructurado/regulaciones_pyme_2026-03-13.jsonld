@@ -198,40 +198,6 @@
       "position": 12,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
-        "description": "Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.",
-        "url": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion",
-        "datePublished": "Fri, 13 Mar 2026 00:30:33 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "expansion_economia"
-        },
-        "keywords": "regulaciones, pyme",
-        "relevanceScore": 0.5477
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 13,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
-        "description": "El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.",
-        "url": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas",
-        "datePublished": "Fri, 13 Mar 2026 00:25:17 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "expansion_economia"
-        },
-        "keywords": "regulaciones, pyme",
-        "relevanceScore": 0.6305
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 14,
-      "item": {
-        "@type": "NewsArticle",
         "headline": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
         "description": "Durante el último año, el comercio de acero entre ambos países se convirtió en uno de los puntos más sensibles de la relación bilateral.",
         "url": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec",
@@ -246,7 +212,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 15,
+      "position": 13,
       "item": {
         "@type": "NewsArticle",
         "headline": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
@@ -263,7 +229,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 16,
+      "position": 14,
       "item": {
         "@type": "NewsArticle",
         "headline": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
@@ -280,7 +246,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 17,
+      "position": 15,
       "item": {
         "@type": "NewsArticle",
         "headline": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
@@ -297,7 +263,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 18,
+      "position": 16,
       "item": {
         "@type": "NewsArticle",
         "headline": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
@@ -314,7 +280,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 19,
+      "position": 17,
       "item": {
         "@type": "NewsArticle",
         "headline": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
@@ -331,7 +297,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 20,
+      "position": 18,
       "item": {
         "@type": "NewsArticle",
         "headline": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
@@ -348,7 +314,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 21,
+      "position": 19,
       "item": {
         "@type": "NewsArticle",
         "headline": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
@@ -365,7 +331,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 22,
+      "position": 20,
       "item": {
         "@type": "NewsArticle",
         "headline": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
@@ -382,7 +348,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 23,
+      "position": 21,
       "item": {
         "@type": "NewsArticle",
         "headline": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
@@ -399,7 +365,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 24,
+      "position": 22,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bankaool: Nuestros sistemas antilavado nacieron fuertes",
@@ -416,7 +382,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 25,
+      "position": 23,
       "item": {
         "@type": "NewsArticle",
         "headline": "México perfila revisión del T-MEC con foco en reglas de origen, cadenas y seguridad",
@@ -433,7 +399,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 26,
+      "position": 24,
       "item": {
         "@type": "NewsArticle",
         "headline": "Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico",
@@ -450,7 +416,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 27,
+      "position": 25,
       "item": {
         "@type": "NewsArticle",
         "headline": "Nu: Tenemos más de 2 millones de clientes en el sur; el crédito es transformador",
@@ -463,6 +429,40 @@
         },
         "keywords": "regulaciones, pyme",
         "relevanceScore": 0.4623
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Revolut: \"En México hay millones de personas que no están cómodas con su banco\"",
+        "description": "Juan Miguel Guerra, director del banco, ve una gran oportunidad en la insatisfacción con los servicios financieros tradicionales y apuesta por ofrecer más productos en una sola app para competir con la banca en México.",
+        "url": "https://expansion.mx/economia/2026/03/09/revolut-en-mexico-hay-millones-de-personas-que-no-estan-comodas-con-su-banco",
+        "datePublished": "Mon, 09 Mar 2026 11:55:34 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.6965
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Juez concede a agencia estadounidense moratoria para devolver los aranceles",
+        "description": "La CBP presentó un documento ante la corte después de que un juez federal ordenara esta semana a la administración Trump que comenzara a rembolsar el dinero obtenido por los aranceles.",
+        "url": "https://expansion.mx/economia/2026/03/06/juez-concede-a-agencia-estadounidense-moratoria-para-devolver-los-aranceles",
+        "datePublished": "Sat, 07 Mar 2026 00:38:10 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5186
       }
     }
   ]

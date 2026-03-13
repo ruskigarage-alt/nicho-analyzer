@@ -88,20 +88,6 @@ schema: "NewsDigest"
 - **Resumen**: El sentimiento de los inversionistas hacia México ha cambiado para bien, pues tienen la impresión de que las cosas mejoran. Ese viraje de ánimo responde, en buena medida, a la credibilidad que la presidenta Claudia Sheinbaum ha logrado construir a escala global, afirma Jorge Arce Gama, director general de HSBC México y América Latina.
 - **Relevancia**: 0.5713
 
-### Analistas advierten que la guerra podría durar dos meses, con peligro de recesión
-- **Fecha**: Fri, 13 Mar 2026 00:30:33 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion
-- **Resumen**: Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.
-- **Relevancia**: 0.5477
-
-### El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas
-- **Fecha**: Fri, 13 Mar 2026 00:25:17 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas
-- **Resumen**: El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.
-- **Relevancia**: 0.6305
-
 ### México llevará el acero como primer tema comercial a la mesa del T-MEC
 - **Fecha**: Thu, 12 Mar 2026 22:12:23 GMT
 - **Fuente**: expansion_economia
@@ -199,4 +185,18 @@ schema: "NewsDigest"
 - **URL**: https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador
 - **Resumen**: Armando Herrera, CEO de Nu México, dijo que de los más de 13 millones de clientes que tienen, un 14% está en la región de menos inclusión financiera.
 - **Relevancia**: 0.4623
+
+### Revolut: "En México hay millones de personas que no están cómodas con su banco"
+- **Fecha**: Mon, 09 Mar 2026 11:55:34 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/09/revolut-en-mexico-hay-millones-de-personas-que-no-estan-comodas-con-su-banco
+- **Resumen**: Juan Miguel Guerra, director del banco, ve una gran oportunidad en la insatisfacción con los servicios financieros tradicionales y apuesta por ofrecer más productos en una sola app para competir con la banca en México.
+- **Relevancia**: 0.6965
+
+### Juez concede a agencia estadounidense moratoria para devolver los aranceles
+- **Fecha**: Sat, 07 Mar 2026 00:38:10 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/06/juez-concede-a-agencia-estadounidense-moratoria-para-devolver-los-aranceles
+- **Resumen**: La CBP presentó un documento ante la corte después de que un juez federal ordenara esta semana a la administración Trump que comenzara a rembolsar el dinero obtenido por los aranceles.
+- **Relevancia**: 0.5186
 

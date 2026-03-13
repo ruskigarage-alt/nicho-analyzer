@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-13"
 date: "2026-03-13"
 nicho: "geopolitica"
-total_entradas: 36
+total_entradas: 35
 schema: "NewsDigest"
 ---
 
@@ -204,14 +204,6 @@ SCMP Plus readers get early access...
 - **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36f8359bf5b221950cf55.jpg" style="float: left;" />
         	Medios iraníes difundieron una foto de vista aérea del estrecho de Ormuz, donde decenas de barcos esperan para pasar, en medio de las tensiones por la agresión de EE.UU. e Israel contra Irán. La nación persa bloqueó casi por completo la ruta marítima por donde circula alrededor de 20 % de todo el petróleo que se comercia en el mundo, lo que causó el alza de precios en el mercado energético.
 - **Relevancia**: 0.4601
-
-### "Estaremos todos en el culo profundo": Fico advierte a la OTAN sobre el envío de tropas a Ucrania
-- **Fecha**: Fri, 13 Mar 2026 02:13:51 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592538-estaremos-culo-profundo-fico-otan?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331a359bf5b34873f83a5.jpg" style="float: left;" />
-        	"Alguien podría activar el Artículo 5", alertó el jefe del Gobierno eslovaco.
-- **Relevancia**: 0.5015
 
 ### Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry
 - **Fecha**: Wed, 04 Jun 2025 14:21:03 +0300

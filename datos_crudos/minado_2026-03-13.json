@@ -453,18 +453,6 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
-        "resumen": "Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.",
-        "link": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:30:33 GMT"
-      },
-      {
-        "titulo": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
-        "resumen": "El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.",
-        "link": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:25:17 GMT"
-      },
-      {
         "titulo": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
         "resumen": "Durante el último año, el comercio de acero entre ambos países se convirtió en uno de los puntos más sensibles de la relación bilateral.",
         "link": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec",
@@ -571,6 +559,18 @@
         "resumen": "Armando Herrera, CEO de Nu México, dijo que de los más de 13 millones de clientes que tienen, un 14% está en la región de menos inclusión financiera.",
         "link": "https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador",
         "fecha_publicacion": "Mon, 09 Mar 2026 11:55:50 GMT"
+      },
+      {
+        "titulo": "Revolut: \"En México hay millones de personas que no están cómodas con su banco\"",
+        "resumen": "Juan Miguel Guerra, director del banco, ve una gran oportunidad en la insatisfacción con los servicios financieros tradicionales y apuesta por ofrecer más productos en una sola app para competir con la banca en México.",
+        "link": "https://expansion.mx/economia/2026/03/09/revolut-en-mexico-hay-millones-de-personas-que-no-estan-comodas-con-su-banco",
+        "fecha_publicacion": "Mon, 09 Mar 2026 11:55:34 GMT"
+      },
+      {
+        "titulo": "Juez concede a agencia estadounidense moratoria para devolver los aranceles",
+        "resumen": "La CBP presentó un documento ante la corte después de que un juez federal ordenara esta semana a la administración Trump que comenzara a rembolsar el dinero obtenido por los aranceles.",
+        "link": "https://expansion.mx/economia/2026/03/06/juez-concede-a-agencia-estadounidense-moratoria-para-devolver-los-aranceles",
+        "fecha_publicacion": "Sat, 07 Mar 2026 00:38:10 GMT"
       }
     ],
     "total_entradas": 20
@@ -611,7 +611,19 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "FTSE 100 Futures Steady, Pound Falls Ahead of GDP Data",
+        "titulo": "Stock Selloff Eases Into Weekend as Oil Rally Ebbs: Markets Wrap",
+        "resumen": "A selloff in global stocks eased as oil prices steadied after a volatile stretch, though investors remained wary of risks from the Iran war heading into the weekend.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
+      },
+      {
+        "titulo": "China Consumption Start to Year Seen as Worst Outside Covid",
+        "resumen": "China’s consumer spending may have booked the worst start to any year outside the pandemic, highlighting the challenge to a government that has targeted a bigger role for domestic demand.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/china-consumption-start-to-year-seen-as-worst-ever-outside-covid",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:00:00 GMT"
+      },
+      {
+        "titulo": "UK’s Economy Unexpectedly Stalled in January",
         "resumen": "",
         "link": "https://www.bloomberg.com/news/live-blog/2026-03-13/ftse-100-live-uk-gdp-pound-bonds-trump-iran-oil-prices-what-s-moving-uk-markets-right-now-markets-today-mmoj97cq",
         "fecha_publicacion": "Fri, 13 Mar 2026 06:45:48 GMT"
@@ -641,12 +653,6 @@
         "fecha_publicacion": "Fri, 13 Mar 2026 06:17:06 GMT"
       },
       {
-        "titulo": "Stock Selloff Eases Into Weekend as Oil Rally Ebbs: Markets Wrap",
-        "resumen": "A selloff in global stocks eased as oil prices steadied after a volatile stretch, though investors remained wary of risks from the Iran war heading into the weekend.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
-      },
-      {
         "titulo": "Singapore 'In Good Position' to Attract Capital Flows",
         "resumen": "Singapore Minister of State for the Trade & Industry & National Development Alvin Tan says the island state is in a good position to attract capital flows. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
         "link": "https://www.bloomberg.com/news/videos/2026-03-13/singapore-in-good-position-to-attract-capital-flows-video",
@@ -663,6 +669,12 @@
         "resumen": "The US-Iran conflict has become a fight for the very survival of the Iranian regime where the Iranian leadership believes they can outlast the US in the fight, according to Middle East specialist Kim Ghattas. (Source: Bloomberg)",
         "link": "https://www.bloomberg.com/news/videos/2026-03-13/iran-s-leaders-aim-to-outlast-us-military-expert-video",
         "fecha_publicacion": "Fri, 13 Mar 2026 06:02:59 GMT"
+      },
+      {
+        "titulo": "Goldman Says Iran War Risks Weighing on Rand, Forcing Rate Move",
+        "resumen": "Prolonged higher oil prices could force the South African central bank to consider raising interest rates as a weaker rand pushes inflation higher than it’s prepared to tolerate.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/goldman-says-iran-war-risks-weighing-on-rand-forcing-rate-move",
+        "fecha_publicacion": "Fri, 13 Mar 2026 06:00:00 GMT"
       },
       {
         "titulo": "Hedge Fund Regal Hit by 89% Crash in Australian Biotech Stock",
@@ -717,18 +729,6 @@
         "resumen": "Economists see the European Central Bank keeping interest rates unchanged through 2027 even as inflation threats resurface.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-13/economists-see-ecb-holding-rates-until-2028-in-split-from-market",
         "fecha_publicacion": "Fri, 13 Mar 2026 05:15:00 GMT"
-      },
-      {
-        "titulo": "Asian Stocks Lower as US & Iran Remain Defiant | The Asia Trade 3/13/2026",
-        "resumen": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-13/the-asia-trade-3-13-2026-video",
-        "fecha_publicacion": "Fri, 13 Mar 2026 04:46:31 GMT"
-      },
-      {
-        "titulo": "Hong Kong Moves to Lower Threshold for Dual-Class Share Listings",
-        "resumen": "Hong Kong is proposing to lower the minimum market value for dual-class shares to debut on the city’s exchange, part of a broader push to revive its status as a premier destination for global initial public offerings.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/hong-kong-moves-to-lower-threshold-for-dual-class-share-listings",
-        "fecha_publicacion": "Fri, 13 Mar 2026 04:17:49 GMT"
       }
     ],
     "total_entradas": 20
@@ -871,12 +871,6 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "Force majeure: What is it and why have some Gulf countries invoked it?",
-        "resumen": "Several Gulf nations have declared force majeure on oil and gas shipment since the US-Israel’s war on Iran was launched.",
-        "link": "https://www.aljazeera.com/news/2026/3/13/force-majeure-what-is-it-and-why-have-some-gulf-countries-invoked-it?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 06:52:32 +0000"
-      },
-      {
         "titulo": "Iran war: What is happening on day 14 of US-Israel attacks?",
         "resumen": "Israel strikes Tehran as Iran retaliates across the Gulf; Hormuz disruption pushes oil prices higher and tensions rise.",
         "link": "https://www.aljazeera.com/news/2026/3/13/iran-war-what-is-happening-on-day-14-of-us-israel-attacks?traffic_source=rss",
@@ -989,6 +983,12 @@
         "resumen": "Prime minister says US-Israeli war prevented Iran from moving its nuclear and ballistic projects underground.",
         "link": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 21:32:46 +0000"
+      },
+      {
+        "titulo": "Fuel shortages bring queues, protests around the world",
+        "resumen": "Rising fuel prices have caused long queues and protests around the world as the US-Israeli war on Iran rages.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fuel-shortages-bring-queues-protests-around-the-world?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 21:30:54 +0000"
       }
     ],
     "total_entradas": 20
@@ -1131,6 +1131,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Israel lanza oleada de ataques a gran escala en todo Teherán (VIDEO)",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592619-israel-oleada-ataques-gran-escala-todo-teheran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 07:04:07 +0000"
+      },
+      {
         "titulo": "Mujer con muerte cerebral resucita gracias a un bache",
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b39f31e9ff710f735e0192.jpg\" style=\"float: left;\" />\n        \tSu familia ya preparaba los ritos funerarios cuando ocurrió una inesperada resurrección.",
         "link": "https://actualidad.rt.com/actualidad/592607-mujer-muerte-cerebral-resucita-gracias?utm_source=rss&utm_medium=rss&utm_campaign=all",
@@ -1183,12 +1189,6 @@
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36f8359bf5b221950cf55.jpg\" style=\"float: left;\" />\n        \tMedios iraníes difundieron una foto de vista aérea del estrecho de Ormuz, donde decenas de barcos esperan para pasar, en medio de las tensiones por la agresión de EE.UU. e Israel contra Irán. La nación persa bloqueó casi por completo la ruta marítima por donde circula alrededor de 20 % de todo el petróleo que se comercia en el mundo, lo que causó el alza de precios en el mercado energético.",
         "link": "https://actualidad.rt.com/actualidad/592589-foto-decenas-barcos-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Fri, 13 Mar 2026 02:17:20 +0000"
-      },
-      {
-        "titulo": "\"Estaremos todos en el culo profundo\": Fico advierte a la OTAN sobre el envío de tropas a Ucrania",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331a359bf5b34873f83a5.jpg\" style=\"float: left;\" />\n        \t\"Alguien podría activar el Artículo 5\", alertó el jefe del Gobierno eslovaco.",
-        "link": "https://actualidad.rt.com/actualidad/592538-estaremos-culo-profundo-fico-otan?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:13:51 +0000"
       }
     ],
     "total_entradas": 10
