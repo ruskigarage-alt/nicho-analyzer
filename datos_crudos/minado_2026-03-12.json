@@ -1,11 +1,463 @@
 [
   {
+    "fuente": "jornada_politica",
+    "url": "https://www.jornada.com.mx/rss/politica.xml",
+    "nicho": "politica_local",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Permanente, plataforma contra noticias falsas",
+        "resumen": "El Instituto Nacional Electoral (INE) dio carácter permanente a una plataforma interna que tiene como propósito identificar y exhibir noticias falsas en la materia.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/005n2pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Sheinbaum rinde homenaje a los militares caídos en el operativo contra El Mencho",
+        "resumen": "El fuerte sonar de la corneta se elevó en memoria de los caídos. Le siguió el retumbar de los tambores de la banda de guerra. El acorde fue inequívoco: “el toque militar de silencio” replicó para honrar y despedir a los elementos militares que murieron durante y después el operativo contra el capo del cártel Jalisco Nueva Generación (CJNG), Nemesio Oseguera Cervantes, El Mencho.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/008n1pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Nadya Rasheed*: Esa otra manifestación de la política genocida en Cisjordania",
+        "resumen": "A la luz de los hechos, quienes creemos en la justicia debemos tener la voluntad para mirar de frente a la imposición del poder por el poder mismo, pues el sentido de la verdad nos muestra que las vías que conducen a la igualdad de condiciones y oportunidades para existir están fuera del mapa, del piso y techo que la justicia debe ofrecernos.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/017a1pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Unánime respaldo en el Senado a terminar con las pensiones doradas",
+        "resumen": "El Senado de la República aprobó por unanimidad la reforma al artículo 127 constitucional, que acaba con las pensiones millonarias que perciben ex funcionarios de empresas paraestatales, banca de desarrollo y otros organismos públicos, al establecer un límite a esos ingresos “estratosféricos”.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/007n1pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Decide hoy la Corte sobre lucro de Grupo Xcaret con la cultura maya",
+        "resumen": "La Suprema Corte de Justicia de la Nación (SCJN) enlistó para su discusión de hoy un proyecto de la ministra María Estela Ríos González que propone revocar la suspensión definitiva en un juicio de amparo indirecto que permitió a Grupo Xcaret seguir utilizando elementos del patrimonio cultural maya en la promoción turística de sus hoteles y parques. De aprobarse, la empresa tendría que retirar esa simbología de su publicidad mientras se resuelve el litigio de fondo.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/014n1pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Taxistas del aeropuerto capitalino bloquean tres horas las terminales 1 y 2",
+        "resumen": "A 90 días de celebrarse la inauguración del Mundial 2026 de la FIFA, donde el país es una de las tres sedes, agrupaciones de taxis autorizados en el Aeropuerto Internacional de la Ciudad de México (AICM) bloquearon durante tres horas las terminales 1 y 2.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/012n1pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Consolida Durazo conectividad vial y desarrollo de Sonora",
+        "resumen": "Hermosillo, Son., Con el Programa de MejoramientoCarretero, el gobernador AlfonsoDurazo Montaño consolida una transformación profunda en conec-tividad y desarrollo de la entidad, mediante inversiones históricas en infraestructura vial que alcanzan 10 mil 285 millones de pesos.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/015n4pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Autos de aplicación no están autorizados para operar en el polígono del AICM: autoridades",
+        "resumen": "Uber no cuenta con autorización para prestar servicios dentro del polígono del Aeropuerto Internacional de la Ciudad de México (AICM) y demás terminales aéreas, sostuvo la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT).",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/012n2pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Comprará Sader 1.1 millones de toneladas de maíz a productores",
+        "resumen": "Ante el amago de protestas de productores de maíz por la falta de comercialización y problemas de rentabilidad, la Secretaría de Agricultura y Desarrollo Social (Sader), junto con el gobierno de Sinaloa, anunciaron un acuerdo para la compra de una cuota inicial de 1.1 millones de toneladas del grano.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/012n3pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Imanol Ordorika: Ni teocracia ni imperio",
+        "resumen": "La guerra contra Irán ha vuelto a colocar a amplios sectores ante un dilema tramposo: o se condena al régimen iraní –autoritario, represivo, teocrático– o se denuncia la agresión militar de Estados Unidos e Israel como nuevo episodio del imperialismo contemporáneo. Como si ambas cosas fueran incompatibles; como si la crítica a uno exigiera la absolución del otro. Esta formulación binaria empobrece el análisis y coarta la conversación pública.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/016a2pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Justifica Morena la asistencia de Yunes Márquez a reunión de senadores en París",
+        "resumen": "Sobre la presencia de Miguel Ángel Yunes Márquez en París, donde asiste a una reunión de parlamentarios de la Organización para la Cooperación y el Desarrollo Económicos (OCDE), la presidenta del Senado, Laura Itzel Castillo, declaró ayer que participa a título personal, no como representante de esta cámara, y que él cubrió su boleto de avión y su estancia en la capital francesa.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/007n3pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Cero tolerancia al acoso sexual en la FGR, afirma Godoy",
+        "resumen": "La Fiscalía General de la República (FGR) se conduce bajo una política institucional de cero tolerancia al hostigamiento y acoso sexual, así como a otras formas de violencia y discriminación basadas en el género, señaló la titular de la dependencia, Ernestina Godoy.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/009n2pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Rechaza la Corte admitir perspectiva de trauma en casos de violaciones de niños",
+        "resumen": "El p leno de la Suprema Corte de Justicia de la Nación (SCJN) rechazó ayer reconocer la llamada “perspectiva de trauma”, sugerida por la ministra María Estela Ríos González, como un nuevo método judicial para casos de violencia sexual contra menores.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/009n3pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Julio Hernández López: Astillero",
+        "resumen": "Va el plan B, que en realidad es el  plan E(lectoral). Lo de menos, relativamente, es que la iniciativa presidencial haya sido rechazada; lo trascendente es que la presidenta Sheinbaum se ha hecho de una bandera rumbo a las urnas intermedias de 2027: convocar a militantes de Morena y simpatizantes en general del proceso 4T a votar en abundancia por las candidaturas guindas a San Lázaro para empujar las reformas que ahora le fueron impedidas por el Verde y el PT, en el primer desa-compañamiento de estos partidos “aliados” desde 2018.",
+        "link": "https://www.jornada.com.mx/2026/03/12/opinion/008o1pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Sancionan a magistradas por amparo  a ex gobernador de Tamaulipas",
+        "resumen": "La Comisión de Disciplina del Tribunal de Disciplina Judicial (TDJ) del Poder Judicial de la Federación suspendió a las recién nombradas magistradas Lourdes Guadalupe Ávila Tovías y Dulce Yanet Vega Camacho, del tribunal colegiado de circuito del norte del país, por conceder un amparo y evitar la extradición del ex gobernador de Tamaulipas, Eugenio Hernández Flores.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/014n2pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Nuevo titular de la ASF debe avanzar en castigo a corruptos: Sheinbaum",
+        "resumen": "“No participé en la decisión” para nombrar al nuevo titular de la Auditoría Superior de la Federación (ASF), Aureliano Hernández Palacios Cardel, afirmó ayer la presidenta Claudia Sheinbuam Pardo.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/005n3pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "“Mentiras de Tv Azteca”",
+        "resumen": "La Habana. “El Observatorio de medios de Cubadebate analizó cómo la noticia falsa y malintencionada de Tv Azteca sobre la ayuda material de México recibida en Cuba (que aseguró fue vendida en la isla) corrió más rápido que la verdad y llegó a más personas”, denunció el canciller cubano, Bruno Rodríguez, en X.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/013n2pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Cooperación en seguridad con EU, basada en responsabilidad compartida: Velasco Álvarez",
+        "resumen": "El subsecretario para América del Norte, Roberto Velasco Álvarez, afirmó ayer que la cooperación en materia de seguridad entre México y Estados Unidos se basa en principios y en responsabilidad compartida, no en presiones externas.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/014n3pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "IMSS-Bienestar estrena app para agendar citas médicas en Edomex",
+        "resumen": "IMSS-Bienestar anunció la puesta en marcha de una plataforma electrónica para la obtención de citas en los centros de salud. En una primera etapa, el mecanismo funciona en 155 unidades médicas de 11 municipios de la zona oriente del estado de México.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/015n2pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "La Presidenta envía a San Lázaro iniciativa para cambiar la Ley de Vivienda",
+        "resumen": "La presidenta Claudia Sheinbaum envió ayer a la Cámara de Diputados una iniciativa de cambios a la Ley de Vivienda, para reglamentar la reforma al artículo cuarto constitucional en materia de vivienda adecuada y precisar los siete elementos básicos que deben incluir estas edificaciones.",
+        "link": "https://www.jornada.com.mx/2026/03/12/politica/006n2pol?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      }
+    ],
+    "total_entradas": 20
+  },
+  {
+    "fuente": "jornada_economia",
+    "url": "https://www.jornada.com.mx/rss/economia.xml",
+    "nicho": "regulaciones_pyme",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Investigará EU a México y 15 economías más por supuesto comercio desleal",
+        "resumen": "El gobierno de Estados Unidos anunció el inicio de investigaciones comerciales contra 16 economías, entre ellas México, para determinar si sus políticas industriales y niveles de producción manufacturera generan un “exceso estructural de capacidad” que afecte a la industria estadunidense.",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/021n1eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Enrique Galván Ochoa: Dinero",
+        "resumen": "Se cumplen 12 días del comienzo de la guerra en Medio Oriente. No ha ocurrido lo que calculó el presidente Trump: fue asesinado el ayatollah Ali Jamenei y el pueblo no salió a las calles a derribar el gobierno. Lo que vino a suceder en realidad es que las fuerzas armadas iraníes lanzaron una ofensiva contra Israel y ocho países para destruir sus estructuras petroleras. Aseguran que llevarán el precio del petróleo a 200 dólares el barril, lo cual crearía una crisis económica y financiera mundial. La situación obligó a liberar 172 millones de barriles de la Reserva Estratégica de Petróleo de Estados Unidos, un depósito que se mantiene oculto justamente para tiempos de guerra, a fin de estabilizar el precio de la gasolina. Su consumo diario es de 20 millones de barriles; apenas es un paliativo. ¿Quién va ganando? Putin. La economía rusa está pasando por un mal momento por la guerra con Ucrania, es uno de los grandes productores de petróleo y gas; habló recientemente con Trump para que le quiten algunas sanciones, es un tanque de oxígeno en el momento en que más lo necesita.",
+        "link": "https://www.jornada.com.mx/2026/03/12/opinion/006o1eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Cemla: mexicanos, 11.6% de los trabajadores en Estados Unidos",
+        "resumen": "En 2025 los trabajadores de origen mexicano en Estados Unidos sumaron cerca de 19 millones de personas, 11.6 por ciento de los ocupados en ese país, de acuerdo con el Centro de Estudios Monetarios Latinoamericanos (Cemla).",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/021n2eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Dependencia del gas importado, punto débil",
+        "resumen": "El sistema energético mexicano es vulnerable a la volatilidad de productos petrolíferos diferentes de las gasolinas, aunque el efecto dependerá de la duración del conflicto en Medio Oriente, según expertos.",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/018n3eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Importaciones de maíz repuntaron 29.4% durante el primer bimestre",
+        "resumen": "En el primer bimestre México importó una cifra histórica para un periodo similar de 4 millones 20 mil toneladas de maíz, un crecimiento anual de 29.4 por ciento frente a las 3 millones 110 mil toneladas registradas en el mismo lapso de 2025, reportó el Grupo Consultor de Mercados Agrícolas (GCMA) con base en datos adelantados de la Agencia Nacional de Aduanas de México (ANAM).",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/020n1eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Correos de México, en franca revitalización, asegura su directora",
+        "resumen": "Correos de México se encuentra en franca “revitalización”, ya que está enfocado en atender a municipios del alta marginación y ha retomado la actividad de mensajería a través de Mexicana de Aviación, destacó Violeta Giorgina Abreu González, directora general del Servicio Postal Mexicano (Correos de México) en entrevista.",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/022n1eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Pérdidas millonarias en turismo por la guerra en Medio Oriente: WTTC",
+        "resumen": "El conflicto que se vive en Medio Oriente genera pérdidas diarias de 600 millones de dólares en la industria turística, de acuerdo con estimaciones del Consejo Mundial de Viajes y Turismo (WTTC, por sus siglas en inglés).",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/022n2eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Orlando Delgado Selley: Banca de desarrollo",
+        "resumen": "En el mediocre crecimiento de la economía mexicana de los últimos 30 años mucho tiene que ver la ausencia de la banca de desarrollo. Las instituciones de fomento creadas por el Estado mexicano fueron fundamentales para que la economía creciera a tasas anuales de 6 por ciento. Pero llegaron los neoliberales en 1982 y redujeron drásticamente la presencia estatal en la economía. Las transformaciones de la banca de desarrollo llegaron con las reformas neoliberales. Bancos trascendentes por su función en apoyo a actividades productivas específicas, como Banrural y el Banco del Pequeño Comercio, fueron liquidados. A otros, como Nacional Financiera, Bancomext y Banobras, les modificaron sus funciones de fomento, convirtiéndolos en bancos de segundo piso.",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/020a1eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Renuevan por seis meses el pacto para no subir gasolina",
+        "resumen": "La presidenta Claudia Sheinbaum Pardo y más de 20 empresarios gasolineros renovaron ayer la estrategia nacional para estabilizar el precio de la gasolina Magna, por lo cual el litro se mantendrá en 23.99 pesos seis meses más.",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/018n1eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Reconoce la Sener a los empresarios",
+        "resumen": "La continuidad del pacto para mantener el precio de la gasolina regular por debajo de 24 pesos por litro se debe a las empresas del sector, señaló Luz Elena González, titular de la Secretaría de Energía (Sener).",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/018n2eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Crecieron ventas en línea 19.2% en 2025",
+        "resumen": "En 2025 el peso del comercio electrónico en la economía de México alcanzó el nivel más alto desde que hay registros, al sumar 941 mil millones de pesos, un aumento de 19.2 por ciento en comparación con 2024, informó la Asociación Mexicana de Venta Online (AMVO).",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/020n2eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Carlos Fernández-Vega: México SA",
+        "resumen": "Para ser  declarados “enemigos del Estado” y compartir la fábula de que éste es el “problema, no la solución” (Ronald Reagan dixit), al grupo de barones autóctonos nada mal le ha ido en los 36 años de régimen neoliberal y los siete de la Cuarta Transformación, porque en ese periodo sus respectivas fortunas han crecido de forma por demás generosa y algunas de ellas de manera exponencial, con crisis o sin ella, y siempre amparadas en la explotación de bienes otrora propiedad de su odiado rival, amén de las no pocas “atenciones” del poder político.",
+        "link": "https://www.jornada.com.mx/2026/03/12/opinion/022o1eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Sheinbaum  da credibilidad  a México en todo el mundo",
+        "resumen": "El sentimiento de los inversionistas hacia México ha cambiado para bien, pues tienen la impresión de que las cosas mejoran. Ese viraje de ánimo responde, en buena medida, a la credibilidad que la presidenta Claudia Sheinbaum ha logrado construir a escala global, afirma Jorge Arce Gama, director general de HSBC México y América Latina.",
+        "link": "https://www.jornada.com.mx/2026/03/12/economia/019e1eco?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      }
+    ],
+    "total_entradas": 13
+  },
+  {
+    "fuente": "jornada_mundo",
+    "url": "https://www.jornada.com.mx/rss/mundo.xml",
+    "nicho": "geopolitica",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "La guerra contra Irán, el “inicio del fin del gobierno” de Trump",
+        "resumen": "Nueva York y Washington. Doce días después de que Donald Trump ordenó el comienzo de la guerra contra Irán, críticos advierten que podría ser el inicio de la Tercera Guerra Mundial, que existe el riesgo del uso de armamento nuclear y que también podría marcar el inicio del fin de su presidencia.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/025n1mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "FBI instala oficina en Ecuador para combatir el crimen regional",
+        "resumen": "Quito. El primer despacho de la Oficina Federal de Investigaciones (FBI, por sus siglas en inglés) de Estados Unidos en territorio ecuatoriano quedó inaugurada este miércoles, con la presencia de la vicepresidenta María José Pinto y en compañía de Lawrence Petroni, encargado de Negocios de la representación diplomática de Washington en Quito.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/027n2mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Kast asume presidencia de Chile; firma decretos contra migrantes",
+        "resumen": "Santiago. José Antonio Kast, el ultraderechista admirador del dictador Augusto Pinochet e integrista católico, asumió ayer la presidencia de Chile en una ceremonia republicana en el Congreso Nacional, tras la cual, desde un balcón en el palacio de La Moneda, sede del gobierno, aseguró que “nos han entregado un país en peores condiciones de las que podíamos imaginar”.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/027n1mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Ya no queda nada qué atacar: Trump",
+        "resumen": "Washington. El presidente estadunidense, Donald Trump, reiteró ayer que la guerra de Estados Unidos e Israel contra Irán terminará “pronto” porque “prácticamente no queda nada qué atacar… ha resultado más fácil de lo que pensábamos.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/024n2mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Burócratas se movilizan en Argentina contra los bajos salarios",
+        "resumen": "Buenos Aires. Fuerte tensión sacudía anoche a San Salvador, capital de la provincia de Jujuy, cuando la infantería policial intentaba detener una manifestación de antorchas con centenares de docentes, empleados estatales y vecinos que se dirigían a la casa de gobierno, ante la gravísima situación que les impide comenzar las clases este año, con un salario de 400 mil pesos (casi 400 dólares), y la canasta básica que se calcula en 2 millones 300 mil (poco más 2 mil dólares), lo que condena a 80 por ciento de trabajadores de todo el país a la pobreza y muchos a la indigencia.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/028n1mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "La ONU condena a Irán y le exige cese el fuego, pero no a EU ni a Israel",
+        "resumen": "Nueva York. El Consejo de Seguridad de la Organización de Naciones Unidas (ONU) aprobó ayer una resolución que exige a Irán cesar de inmediato sus ataques contra los países del golfo Pérsico y Jordania por violar el derecho internacional y representar una “grave amenaza para la paz y la seguridad internacionales”, al tiempo que rechazó otro proyecto de resolución que pedía el cese de acciones militares en Medio Oriente.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/026n3mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "En la Casa Blanca, todos usan los mismos zapatos del presidente, aunque les queden grandes",
+        "resumen": "Nueva York y Washington. En la Casa Blanca, el dicho de que se tienen que poner en los zapatos del jefe, es literal.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/025n2mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Ataques israelíes en Gaza han dejado 72 mil 135 muertos",
+        "resumen": "Ramallah. El Ministerio de Sanidad gazatí cifró ayer en 650 los muertos y mil 732 heridos por ataques de las Fuerzas de Defensa Israelíes que violan el alto el fuego desde que entró en vigor el pasado 10 de octubre, mientras 756 cuerpos han sido recuperados en las zonas de las que se retiró el ejército.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/028n2mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Irán ataca con misiles 3 buques en el estrecho de Ormuz y 2 en Irak",
+        "resumen": "Teherán. Irán reforzó ayer su ofensiva con ataques a tres buques en el estrecho de Ormuz y a dos más en aguas de Irak, así como al aeropuerto internacional de Dubái e instalaciones de almacenamiento de petróleo en el puerto de Salalah, en Omán, entre otros puntos de la región; mientras, Estados Unidos e Israel continuaron con bombardeos contra la república islámica y fuerzas de Tel Aviv prosiguieron la intensa jornada bélica sobre Líbano.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/023n1mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Mexicanos en Líbano deben salir ahora, alerta la SRE",
+        "resumen": "La Secretaría de Relaciones Exteriores (SRE) recomendó ayer a los mexicanos que se encuentran en Líbano salir del país “ahora”, y reiteró su llamado a evitar viajes a Medio Oriente mientras persista el conflicto en la región. En ese contexto, informó que las acciones consulares del personal diplomático mexicano han facilitado hasta ahora la evacuación de mil 55 residentes y turistas nacionales desde diversos países de esa zona.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/024n3mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Mercados continúan en la incertidumbre; suben dólar y bonos",
+        "resumen": "La creciente incertidumbre geopolítica ha provocado que el dólar y el rendimiento de los bonos del Tesoro de Estados Unidos suban nuevamente como medida defensiva ante la guerra en Medio Oriente.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/026n2mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Los primeros seis días de guerra costaron 11 mil 300 mdd a EU",
+        "resumen": "Washington. Funcionarios del gobierno de Donald Trump estimaron durante una sesión informativa del Congreso esta semana que los primeros seis días de la guerra contra Irán habían costado a Estados Unidos al menos 11 mil 300 millones de dólares, informó ayer una fuente familiarizada con el asunto.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/024n1mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Preocupa el aumento de discursos de odio racistas en Estados Unidos: ONU",
+        "resumen": "Ginebra. El Comité de Naciones Unidas para la Eliminación de la Discriminación Racial (CERD) manifestó su profunda preocupación por el creciente “discurso de odio racista” en Estados Unidos, el uso de “lenguaje despectivo y deshumanizante” y de estereotipos dañinos dirigidos contra migrantes, refugiados y solicitantes de asilo.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/028n3mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Pese a acuerdo para liberar reservas, sigue volatilidad en precio de combustibles",
+        "resumen": "El acuerdo de la Agencia Internacional de la Energía (IEA, por sus siglas en inglés) de hacer el mayor uso coordinado de reservas de petróleo en el más de medio siglo de la organización, no aplacó el nerviosismo del mercado y el precio del crudo se incrementó más de 4 por ciento este miércoles.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/026n1mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "El nuevo líder supremo, herido desde el comienzo del conflicto",
+        "resumen": "Dubái. El nuevo líder supremo de Irán, Mojtaba Jamenei, resultó levemente herido al principio de la guerra, cuando los ataques aéreos mataron a su padre, su madre, su esposa y un hijo, informaron ayer funcionarios locales.",
+        "link": "https://www.jornada.com.mx/2026/03/12/mundo/023n2mun?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      }
+    ],
+    "total_entradas": 15
+  },
+  {
+    "fuente": "jornada_estados",
+    "url": "https://www.jornada.com.mx/rss/estados.xml",
+    "nicho": "politica_local",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Cuernavaca: cancelan Feria de la Primavera por el feminicidio de alumnas de la UAEM",
+        "resumen": "Cuernavaca, Mor., Ante la crisis que enfrenta la Universidad Autónoma del Estado de Morelos (UAEM) por la desaparición y feminicidio de dos de sus alumnas, la Feria de la Primavera en Cuernavaca fue cancelada, informó ayer el alcalde de la capital del estado, José Luis Urióstegui.",
+        "link": "https://www.jornada.com.mx/2026/03/12/estados/030n2est?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Acusan a priístas de vandalizar anuncios de Morena-Coahuila",
+        "resumen": "Morena aseguró que en Coahuila hay una “operación coordinada desde el gobierno del estado”, que encabeza el priísta Manolo Jiménez, para vandalizar espectaculares del partido guinda, o de los aspirantes rumbo a las elecciones locales de julio entrante, que renovarán al Congreso estatal. Además, difundió fotografías de nueve anuncios espectaculares contratados por Morena, a los que les arrancaron lonas con mensajes. Expuso en un comunicado que esos daños “evidencian un intento anticipado de intervenir en el proceso democrático mediante prácticas ilegales y actos de intimidación”; igualmente que “cuando un gobierno recurre a este tipo de prácticas es porque está nervioso. El PRI sabe que la ciudadanía está cada vez más consciente y que el deseo de cambio en Coahuila es real”.",
+        "link": "https://www.jornada.com.mx/2026/03/12/estados/030n3est?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Exigen liberar a 4 detenidos en marcha de 8-M en Campeche",
+        "resumen": "El Observatorio Ciudadano Nacional del Feminicidio y la Red de Mujeres y Hombres por una Opinión Pública con Perspectiva de Género exigieron al Poder Judicial y al gobierno de Campeche la “inmediata liberación de las compañeras” Lady Sosa, Idalia Chino, Yahari Brito y de José Ismael Pacheco, “privados de la libertad el 8 de marzo, durante el Día Internacional de la Mujer” en la capital campechana. Las detenciones se hicieron tras incidentes en las inmediaciones del palacio de gobierno estatal. “En los últimos días, 40 mujeres y dos hombres detenidos en esa jornada fueron liberadas por falta de pruebas, lo que confirma la debilidad de las acusaciones y la actuación ilegal de la policía estatal”, aseguraron.",
+        "link": "https://www.jornada.com.mx/2026/03/12/estados/030n4est?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Infonavit reporta  entrega de vivienda en 47 fraccionamientos",
+        "resumen": "Octavio Romero Oropeza, director del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit), informó que en 47 fraccionamientos “estamos entregando vivienda en el país, 16 de los cuales están totalmente colocados entre los derechohabientes y en marzo entran 17 más que se concluyeron al cien por ciento”. En la mañanera, vía remota desde Tamaulipas, indicó que se entregaron casi 300 de 935 hogares de un fraccionamiento más en esa entidad. Edna Vega, secretaria de Desarrollo Territorial y Urbano, explicó que aumentará en Tamaulipas la meta original de 43 mil a 84 mil 26 casas. Señaló que hay 42 proyectos.",
+        "link": "https://www.jornada.com.mx/2026/03/12/estados/030n5est?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "“Chapopote” se expande en playas de Veracruz; alcanza Catemaco",
+        "resumen": "Veracruz, Ver., Nueve días después de que comenzó la contaminación por chapopote en playas del estado, la cual ha afectado al menos seis municipios, ninguna autoridad de los tres niveles de gobierno ha informado el origen.",
+        "link": "https://www.jornada.com.mx/2026/03/12/estados/029n1est?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Atacan a tiros a defensor ambiental en Nayarit; lo reportan estable",
+        "resumen": "Bahía de Banderas, Nay., El activista y defensor del territorio Érik Saracho resulto herido tras ser baleado ayer por la mañana cuando regresaba a su domicilio ubicado en el poblado San Pancho del municipio de Bahía de Banderas, Nayarit, después de dejar a su hija en la escuela. Su estado fue reportado como estable.",
+        "link": "https://www.jornada.com.mx/2026/03/12/estados/030n1est?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Autoridades frenan captura ilegal de caracol rosado en  área protegida de Yucatán",
+        "resumen": "Mérida, Yuc., La Procuraduría Federal de Protección al Ambiente (Profepa) informó que en un operativo interinstitucional detectó y frenó la pesca ilegal de caracol rosado del Caribe (Lobatus gigas) dentro del parque nacional Arrecife Alacranes, área natural protegida en la zona marítima de Yucatán, la cual funciona como santuario y criadero para esta especie, en veda permanente.",
+        "link": "https://www.jornada.com.mx/2026/03/12/estados/029n2est?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Recuperan cuerpos de dos pescadores arrastrados por la corriente en Acapulco",
+        "resumen": "Acapulco, Gro., Rescatistas recuperaron ayer los cadáveres de dos pescadores que desaparecieron el martes, luego de ser arrastrados por la corriente de mar de fondo en la playa Mimosa, en la zona poniente del municipio, junto con un tercer marinero que fue localizado vivo antier en la tarde, informó el ayuntamiento porteño en un comunicado.",
+        "link": "https://www.jornada.com.mx/2026/03/12/estados/029n3est?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      }
+    ],
+    "total_entradas": 8
+  },
+  {
+    "fuente": "jornada_capital",
+    "url": "https://www.jornada.com.mx/rss/capital.xml",
+    "nicho": "politica_local",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Es contratista del gobierno central y alcaldías la empresa que demolía inmueble que colapsó",
+        "resumen": "Demec Demoliciones, SA de CV, empresa encargada del derribo del edificio de San Antonio Abad 124, no es ajena a las autoridades capitalinas, pues ha participado como contratista para el Gobierno de la Ciudad de México en trabajos de obra de mitigación social como parte de la ampliación de la línea 12 de Mixcoac a Observatorio.",
+        "link": "https://www.jornada.com.mx/2026/03/12/capital/031n3cap?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Blindará gobierno el gasto social; este año será mayor a 13 mil mdp",
+        "resumen": "El Gobierno de la Ciudad de México destinará más de 13 mil millones de pesos a programas sociales este 2026, y presentará una iniciativa de reforma constitucional para blindar el gasto social y garantizar derechos para la primera infancia.",
+        "link": "https://www.jornada.com.mx/2026/03/12/capital/033n2cap?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Levanta Came contingencia ante pronóstico favorable",
+        "resumen": "Después de 27 horas, la Comisión Ambiental de la Megalópolis (Came) levantó la fase 1 de contingencia ambiental por ozono en la zona metropolitana del valle de México, debido a que este jueves se esperan mejores condiciones para la dispersión de los contaminantes.",
+        "link": "https://www.jornada.com.mx/2026/03/12/capital/033n1cap?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "A las Mujeres luminosas",
+        "resumen": "",
+        "link": "https://www.jornada.com.mx/2026/03/12/capital/031n4cap?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Pese a estar prohibidos, en el Metro comerciantes operan hornos eléctricos para la venta de comida",
+        "resumen": "Locatarios que operan en instalaciones del Sistema de Transporte Colectivo (STC) Metro utilizan hornos, pese a que su uso está prohibido, ya que representa un riesgo para usuarios y ellos mismos; además, evidencian la operación irregular de los espacios que no cuentan con los permisos correspondientes, acusó Juan Ramón Torres, representantes de la Asociación Comerciantes Unidos.",
+        "link": "https://www.jornada.com.mx/2026/03/12/capital/032n2cap?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Se recupera sobreviviente al derrumbe",
+        "resumen": "Ángel Miranda, trabajador que resultó lesionado tras el derrumbe del edificio de San Antonio Abad 124, pasó su primera noche en casa tras el accidente.",
+        "link": "https://www.jornada.com.mx/2026/03/12/capital/031n2cap?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Acepta el sindicato de la UACM alza salarial de 4.1%",
+        "resumen": "A pocas horas de que venciera la prórroga del emplazamiento a huelga, la asamblea del Sindicato Único de Trabajadores de la Universidad Autónoma de la Ciudad de México (Sutuacm) aceptó el último ofrecimiento de alza salarial de 4.1 por ciento hecho el martes por la casa estudios.",
+        "link": "https://www.jornada.com.mx/2026/03/12/capital/033n3cap?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Acusa Morena de omisa y negligente a la alcaldía Cuauhtémoc por caída de edificio",
+        "resumen": "La alcaldía Cuauhtémoc, que gobierna Alessandra Rojo de la Vega, fue omisa y negligente por no verificar la demolición de un inmueble que se realizaba en un predio de la calzada San Antonio Abad, el cual se derrumbó y causó la muerte de tres personas, por lo que debe hacerse responsable de sus facultades legales, señalaron diputados de Morena.",
+        "link": "https://www.jornada.com.mx/2026/03/12/capital/031n1cap?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Ejecutan dos sujetos en moto a ex dirigente del sindicato del Issste",
+        "resumen": "El ex líder sindical del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issste) Luis Miguel Victoria fue ejecutado por dos sujetos armados cuando circulaba en su camioneta sobre Anillo Periférico.",
+        "link": "https://www.jornada.com.mx/2026/03/12/capital/032n3cap?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      },
+      {
+        "titulo": "Moradores en edificio de alto riesgo temen caiga en cualquier momento",
+        "resumen": "Con fachadas desgastadas, muros cuarteados, aplanados desprendidos por la humedad, techos vencidos y escaleras fracturadas con varillas expuestas, familias enteras siguen habitando viejos inmuebles en la alcaldía Cuauhtémoc, marcados por un deterioro estructural que cataloga a la mayoría como de alto riesgo.",
+        "link": "https://www.jornada.com.mx/2026/03/12/capital/032n1cap?partner=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:23:24 GMT"
+      }
+    ],
+    "total_entradas": 10
+  },
+  {
     "fuente": "expansion_economia",
     "url": "https://expansion.mx/rss/economia",
     "nicho": "regulaciones_pyme",
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
+        "resumen": "Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.",
+        "link": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:30:33 GMT"
+      },
       {
         "titulo": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
         "resumen": "El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.",
@@ -119,15 +571,37 @@
         "resumen": "Armando Herrera, CEO de Nu México, dijo que de los más de 13 millones de clientes que tienen, un 14% está en la región de menos inclusión financiera.",
         "link": "https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador",
         "fecha_publicacion": "Mon, 09 Mar 2026 11:55:50 GMT"
-      },
-      {
-        "titulo": "Revolut: \"En México hay millones de personas que no están cómodas con su banco\"",
-        "resumen": "Juan Miguel Guerra, director del banco, ve una gran oportunidad en la insatisfacción con los servicios financieros tradicionales y apuesta por ofrecer más productos en una sola app para competir con la banca en México.",
-        "link": "https://expansion.mx/economia/2026/03/09/revolut-en-mexico-hay-millones-de-personas-que-no-estan-comodas-con-su-banco",
-        "fecha_publicacion": "Mon, 09 Mar 2026 11:55:34 GMT"
       }
     ],
     "total_entradas": 20
+  },
+  {
+    "fuente": "jornada_zacatecas",
+    "url": "https://ljz.mx/feed/",
+    "nicho": "politica_local",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Combatirán la violencia digital hacia las mujeres",
+        "resumen": "El gobierno federal firmó un acuerdo con las plataformas digitales Google, Meta y TikTok para combatir la violencia digital contra las mujeres, mediante el reforzamiento de políticas que alerten de riesgos en estos espacios y alentando una atención más ágil a las denuncias hechas en estas plataformas y su vinculación a otros procesos legales. Durante [&#8230;]",
+        "link": "https://ljz.mx/12/03/2026/combatiran-la-violencia-digital-hacia-las-mujeres/",
+        "fecha_publicacion": "Thu, 12 Mar 2026 16:53:50 +0000"
+      },
+      {
+        "titulo": "Por unanimidad, avalan en el Senado la iniciativa contra pensiones doradas",
+        "resumen": "El Senado de la República aprobó por unanimidad la reforma al artículo 127 constitucional, que acaba con las pensiones millonarias que perciben ex funcionarios de empresas paraestatales, banca de desarrollo y otros organismos públicos, al establecer un límite a esos ingresos “estratosféricos”. Con 116 votos de senadores de todas las fuerzas políticas se avaló esa [&#8230;]",
+        "link": "https://ljz.mx/12/03/2026/por-unanimidad-avalan-en-el-senado-la-iniciativa-contra-pensiones-doradas/",
+        "fecha_publicacion": "Thu, 12 Mar 2026 16:50:44 +0000"
+      },
+      {
+        "titulo": "Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena",
+        "resumen": "Luego de que ayer fue rechazada en la Cámara de Diputados la iniciativa de reforma electoral de la presidenta Claudia Sheinbaum, el grupo parlamentario de Morena definió dos pasos inmediatos: reconstruir su relación con los partidos del Trabajo (PT) y Verde Ecologista de México (PVEM), los cuales –a su juicio– “sí tendrán un costo político” [&#8230;]",
+        "link": "https://ljz.mx/12/03/2026/habra-costo-politico-para-verde-y-pt-por-no-apoyar-la-reforma-electoral-morena/",
+        "fecha_publicacion": "Thu, 12 Mar 2026 16:48:21 +0000"
+      }
+    ],
+    "total_entradas": 3
   },
   {
     "fuente": "bloomberg_markets",
@@ -136,6 +610,24 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Brent Oil Trades Near $100 as Iran Vows to Keep Hormuz Closed",
+        "resumen": "Brent oil traded near $100 a barrel following one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
+      },
+      {
+        "titulo": "How Australia’s Pension System Became One of the World’s Largest",
+        "resumen": "At A$4.5 trillion ($3.2 trillion), Australia’s pension system is the fourth-largest pool of retirement savings in the world &mdash; and the fastest-growing among major markets. It’s expected to overtake the UK and Canada by the early 2030s to become the second-largest globally.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/how-australia-s-superannuation-became-one-of-world-s-largest-pension-systems",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:19:41 GMT"
+      },
+      {
+        "titulo": "Asia Markets at Risk Due to Oil Dependency: BCA Research",
+        "resumen": "BCA Research's Garry Evans says the extent of the pressure on Asian markets \"comes down to the dependence on oil.\" He tells Bloomberg Television that investors should look at places \"that have quite a lot of energy companies in their indexes,\" such as Australia, Canada and Mexico. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-13/asia-markets-at-risk-due-to-oil-dependency-rca-research-video",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:35:58 GMT"
+      },
       {
         "titulo": "Gold Set for Weekly Drop as Mideast War Keeps Oil Prices High",
         "resumen": "Gold rose on Friday, but remained on track for a second weekly decline as the war in the Middle East kept oil near $100 a barrel.",
@@ -161,16 +653,22 @@
         "fecha_publicacion": "Fri, 13 Mar 2026 02:51:28 GMT"
       },
       {
+        "titulo": "Philippines Braces for Iran War Hit on Labor After Jobless Surge",
+        "resumen": "The Philippines is bracing for more pain ahead in its labor market due to the Middle East conflict, after joblessness surged to the highest in nearly four years.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/philippines-braces-for-iran-war-hit-on-labor-after-jobless-surge",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:43:43 GMT"
+      },
+      {
         "titulo": "Xiaomi’s Memory, EV Woes Hand Short Sellers $1.8 Billion Payout",
         "resumen": "Short sellers betting against Xiaomi Corp. are reaping big gains, as surging memory prices and weakening electric-vehicle sales cloud the company’s earnings outlook.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/xiaomi-s-memory-ev-woes-hand-short-sellers-1-8-billion-payout",
         "fecha_publicacion": "Thu, 12 Mar 2026 23:30:00 GMT"
       },
       {
-        "titulo": "Asia Markets at Risk Due to Oil Dependency: BCA Research",
-        "resumen": "BCA Research's Garry Evans says the extent of the pressure on Asian markets \"comes down to the dependence on oil.\" He tells Bloomberg Television that investors should look at places \"that have quite a lot of energy companies in their indexes,\" such as Australia, Canada and Mexico. (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-13/asia-markets-at-risk-due-to-oil-dependency-rca-research-video",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:35:58 GMT"
+        "titulo": "Aluminum Near Four-Year High as War Risks Smelter Closures",
+        "resumen": "Aluminum traded near the highest level in four years on the risk of smelter closures as the Middle East war showed little sign of ending soon.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/aluminum-near-four-year-high-as-war-risks-smelter-closures",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:33:59 GMT"
       },
       {
         "titulo": "India Asks China for Urea as War-Induced Gas Crunch Bites",
@@ -221,8 +719,8 @@
         "fecha_publicacion": "Fri, 13 Mar 2026 01:44:18 GMT"
       },
       {
-        "titulo": "Chinese Power Giant Sheds Light on Arcane Part of Credit Markets",
-        "resumen": "A Chinese energy-construction giant is inadvertently spotlighting an arcane corner of the credit markets, where investors seek to use a technicality to potentially more than double their fixed-income returns.",
+        "titulo": "Traders Seize on China Power Firm’s Possible Dollar-Bond Misstep",
+        "resumen": "Traders have seized on a bond-market technicality in an attempt to more than double the yield on a dollar note issued by one of China’s biggest energy infrastructure firms.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-13/chinese-power-giant-sheds-light-on-arcane-part-of-credit-markets",
         "fecha_publicacion": "Fri, 13 Mar 2026 01:36:23 GMT"
       },
@@ -231,30 +729,6 @@
         "resumen": "One of Australia’s biggest pension funds, Rest Super, is on the hunt for more private markets investments in the US, underscoring the strong appetite from the country’s fast-growing A$4.5 trillion ($3.2 trillion) sector that’s on a roadshow across three American cities.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/australia-pension-eyes-private-us-assets-ahead-of-nyc-meetings",
         "fecha_publicacion": "Thu, 12 Mar 2026 23:33:10 GMT"
-      },
-      {
-        "titulo": "Brent Oil Trades Near $100 as Iran Vows to Keep Hormuz Closed",
-        "resumen": "Brent oil traded near $100 a barrel following one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
-      },
-      {
-        "titulo": "Brookfield Seeks Around $800 Million Loan for World Freight LBO",
-        "resumen": "Brookfield Asset Management Ltd. is seeking a loan of around $800 million to back its proposed purchase of air cargo specialist World Freight Co., according to people familiar with the matter, adding to a recent wave of acquisition financings in Asia.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/brookfield-seeks-around-800-million-loan-for-world-freight-lbo",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:13:23 GMT"
-      },
-      {
-        "titulo": "Magnitude 5.3 Earthquake Hits Turkey, USGS Says",
-        "resumen": "An earthquake with a magnitude of 5.3 struck 16 kilometers east of Erbaa, Turkey, according to the United States Geological Survey.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/magnitude-5-3-earthquake-hits-turkey-usgs-says",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:11:01 GMT"
-      },
-      {
-        "titulo": "China Consumption Start to Year Seen as Worst Ever Outside Covid",
-        "resumen": "China’s consumer spending may have booked the worst start to any year outside the pandemic, highlighting the challenge to a government that has targeted a bigger role for domestic demand.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/china-consumption-start-to-year-seen-as-worst-ever-outside-covid",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:00:00 GMT"
       }
     ],
     "total_entradas": 20
@@ -390,77 +864,7 @@
     "total_entradas": 20
   },
   {
-    "fuente": "rt_espanol",
-    "url": "https://actualidad.rt.com/rss",
-    "nicho": "geopolitica",
-    "fecha_minado": "2026-03-12",
-    "tipo": "rss",
-    "entradas": [
-      {
-        "titulo": "\"Mordí la fibra óptica\": Héroe de Rusia que luchó en solitario 68 días cuenta cómo llegó hasta sus camaradas en Donbass",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34d9be9ff712060439e71.jpg\" style=\"float: left;\" />\n        \tSerguéi Yaráshev, de 21 años, retuvo una posición durante más de dos meses cerca del poblado de Gríshino.",
-        "link": "https://actualidad.rt.com/actualidad/592563-mordia-fibra-optica-heroe-donbass?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:53:15 +0000"
-      },
-      {
-        "titulo": "Reportan supuestos avistamientos de Pie Grande",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36a20e9ff71304d55303b.jpg\" style=\"float: left;\" />\n        \tNinguno de los siete episodios, reportados todos en Ohio (EE.UU.), fue captado por cámaras.",
-        "link": "https://actualidad.rt.com/viral/592587-reportan-supuestos-avistamientos-pie-grande?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:25:02 +0000"
-      },
-      {
-        "titulo": "FOTO deja en evidencia la paralización del paso por el estrecho de Ormuz",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36f8359bf5b221950cf55.jpg\" style=\"float: left;\" />\n        \tMedios iraníes difundieron una foto de vista aérea del estrecho de Ormuz, donde decenas de barcos esperan para pasar, en medio de las tensiones por la agresión de EE.UU. e Israel contra Irán. La nación persa bloqueó casi por completo la ruta marítima por donde circula alrededor de 20 % de todo el petróleo que se comercia en el mundo, lo que causó el alza de precios en el mercado energético.",
-        "link": "https://actualidad.rt.com/actualidad/592589-foto-decenas-barcos-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:17:20 +0000"
-      },
-      {
-        "titulo": "\"Estaremos todos en el culo profundo\": Fico advierte a la OTAN sobre el envío de tropas a Ucrania",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331a359bf5b34873f83a5.jpg\" style=\"float: left;\" />\n        \t\"Alguien podría activar el Artículo 5\", alertó el jefe del Gobierno eslovaco.",
-        "link": "https://actualidad.rt.com/actualidad/592538-estaremos-culo-profundo-fico-otan?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:13:51 +0000"
-      },
-      {
-        "titulo": "Reportan muertos y heridos en un ataque de Pakistán contra Afganistán",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592590-reportan-muertos-heridos-ataque-pakistan?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:01:51 +0000"
-      },
-      {
-        "titulo": "Venezuela firma un acuerdo con dos gigantes energéticos europeos",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592586-venezuela-firma-acuerdo-gigantes-energeticos-europeos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:44:11 +0000"
-      },
-      {
-        "titulo": "¿Cómo impacta la agresión a Irán en los 5 bancos centrales más sólidos de América Latina?",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b349e8e9ff712060439e66.jpg\" style=\"float: left;\" />\n        \tEl panorama energético afecta de distintas formas y plantea escenarios diversos que responden a la posición de los países como exportadores o importadores de crudo.",
-        "link": "https://actualidad.rt.com/actualidad/592499-agresion-iran-impacta-bancos-centrales-latina?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:40:19 +0000"
-      },
-      {
-        "titulo": "Cuba anuncia la próxima liberación de decenas de personas encarceladas",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592584-cuba-anunciar-proxima-liberacion-decenas-presos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:26:00 +0000"
-      },
-      {
-        "titulo": "\"¡Basta ya de este circo!\": Opositor de Macron exige no dar \"ni un euro más para Zelenski\"",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b35c4ae9ff7107e82660e1.jpg\" style=\"float: left;\" />\n        \tFlorian Philippot criticó el inminente encuentro entre el presidente francés y el líder del régimen de Kiev.",
-        "link": "https://actualidad.rt.com/actualidad/592580-opositor-macron-pide-no-dar-euro-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:11:52 +0000"
-      },
-      {
-        "titulo": "País africano endurece las penas contra homosexuales",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b354dd59bf5b397700be42.jpg\" style=\"float: left;\" />\n        \tUna nueva legislación clasifica la homosexualidad junto con la necrofilia y la zoofilia.",
-        "link": "https://actualidad.rt.com/actualidad/592577-pais-africano-aprueba-ley-endurecer?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:10:23 +0000"
-      }
-    ],
-    "total_entradas": 10
-  },
-  {
-    "fuente": "aljazeera",
+    "fuente": "al_jazeera",
     "url": "https://www.aljazeera.com/xml/rss/all.xml",
     "nicho": "geopolitica",
     "fecha_minado": "2026-03-12",
@@ -590,7 +994,7 @@
     "total_entradas": 20
   },
   {
-    "fuente": "scmp",
+    "fuente": "scmp_world",
     "url": "https://www.scmp.com/rss/5/feed",
     "nicho": "geopolitica",
     "fecha_minado": "2026-03-12",
@@ -720,6 +1124,276 @@
     "total_entradas": 20
   },
   {
+    "fuente": "rt_espanol",
+    "url": "https://actualidad.rt.com/rss",
+    "nicho": "geopolitica",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "La NASA fija la fecha del lanzamiento de la histórica misión Artemis II a la órbita lunar",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b35e9d59bf5b397700be4b.jpg\" style=\"float: left;\" />\n        \tLa agencia espacial estadounidense anunció que resolvió fallas técnicas detectadas en el cohete y apunta ahora a realizar el despegue con una tripulación de cuatro astronautas.",
+        "link": "https://actualidad.rt.com/actualidad/592546-nasa-fija-fecha-lanzamiento-historica?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:02:37 +0000"
+      },
+      {
+        "titulo": "\"Mordí la fibra óptica\": Héroe de Rusia que luchó en solitario 68 días cuenta cómo llegó hasta sus camaradas en Donbass",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34d9be9ff712060439e71.jpg\" style=\"float: left;\" />\n        \tSerguéi Yaráshev, de 21 años, retuvo una posición durante más de dos meses cerca del poblado de Gríshino.",
+        "link": "https://actualidad.rt.com/actualidad/592563-mordia-fibra-optica-heroe-donbass?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:53:15 +0000"
+      },
+      {
+        "titulo": "Reportan supuestos avistamientos de Pie Grande",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36a20e9ff71304d55303b.jpg\" style=\"float: left;\" />\n        \tNinguno de los siete episodios, reportados todos en Ohio (EE.UU.), fue captado por cámaras.",
+        "link": "https://actualidad.rt.com/viral/592587-reportan-supuestos-avistamientos-pie-grande?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:25:02 +0000"
+      },
+      {
+        "titulo": "FOTO deja en evidencia la paralización del paso por el estrecho de Ormuz",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36f8359bf5b221950cf55.jpg\" style=\"float: left;\" />\n        \tMedios iraníes difundieron una foto de vista aérea del estrecho de Ormuz, donde decenas de barcos esperan para pasar, en medio de las tensiones por la agresión de EE.UU. e Israel contra Irán. La nación persa bloqueó casi por completo la ruta marítima por donde circula alrededor de 20 % de todo el petróleo que se comercia en el mundo, lo que causó el alza de precios en el mercado energético.",
+        "link": "https://actualidad.rt.com/actualidad/592589-foto-decenas-barcos-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:17:20 +0000"
+      },
+      {
+        "titulo": "\"Estaremos todos en el culo profundo\": Fico advierte a la OTAN sobre el envío de tropas a Ucrania",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331a359bf5b34873f83a5.jpg\" style=\"float: left;\" />\n        \t\"Alguien podría activar el Artículo 5\", alertó el jefe del Gobierno eslovaco.",
+        "link": "https://actualidad.rt.com/actualidad/592538-estaremos-culo-profundo-fico-otan?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:13:51 +0000"
+      },
+      {
+        "titulo": "Reportan muertos y heridos en un ataque de Pakistán contra Afganistán",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592590-reportan-muertos-heridos-ataque-pakistan?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:01:51 +0000"
+      },
+      {
+        "titulo": "Venezuela firma un acuerdo con dos gigantes energéticos europeos",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592586-venezuela-firma-acuerdo-gigantes-energeticos-europeos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:44:11 +0000"
+      },
+      {
+        "titulo": "¿Cómo impacta la agresión a Irán en los 5 bancos centrales más sólidos de América Latina?",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b349e8e9ff712060439e66.jpg\" style=\"float: left;\" />\n        \tEl panorama energético afecta de distintas formas y plantea escenarios diversos que responden a la posición de los países como exportadores o importadores de crudo.",
+        "link": "https://actualidad.rt.com/actualidad/592499-agresion-iran-impacta-bancos-centrales-latina?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:40:19 +0000"
+      },
+      {
+        "titulo": "Cuba anuncia la próxima liberación de decenas de personas encarceladas",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592584-cuba-anunciar-proxima-liberacion-decenas-presos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:26:00 +0000"
+      },
+      {
+        "titulo": "\"¡Basta ya de este circo!\": Opositor de Macron exige no dar \"ni un euro más para Zelenski\"",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b35c4ae9ff7107e82660e1.jpg\" style=\"float: left;\" />\n        \tFlorian Philippot criticó el inminente encuentro entre el presidente francés y el líder del régimen de Kiev.",
+        "link": "https://actualidad.rt.com/actualidad/592580-opositor-macron-pide-no-dar-euro-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:11:52 +0000"
+      }
+    ],
+    "total_entradas": 10
+  },
+  {
+    "fuente": "tass_english",
+    "url": "https://tass.com/rss/v2.xml",
+    "nicho": "geopolitica",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "At least 33 wounded in strike on residential building in north Israel — Ynet",
+        "resumen": "A projectile damaged several houses in the community of Zarzir",
+        "link": "https://tass.com/world/2100955",
+        "fecha_publicacion": "Fri, 13 Mar 2026 06:03:25 +0300"
+      },
+      {
+        "titulo": "Serbia has no plans to join NATO, will remain neutral — president",
+        "resumen": "Aleksandar Vucic says Serbia, NATO maintain \"consistent relations\"",
+        "link": "https://tass.com/world/2100953",
+        "fecha_publicacion": "Fri, 13 Mar 2026 05:54:15 +0300"
+      },
+      {
+        "titulo": "Islamic Resistance in Iraq said it attacked another US plane",
+        "resumen": "The Islamic Resistance in Iraq movement says the crew escaped",
+        "link": "https://tass.com/world/2100951",
+        "fecha_publicacion": "Fri, 13 Mar 2026 05:38:50 +0300"
+      },
+      {
+        "titulo": "Russia to hold TV linkup with over 40 countries on Ukraine’s crimes on March 19",
+        "resumen": "Foreign Ministry’s Ambassador-at-Large Rodion Miroshnik says Russia will offer a detailed picture of the Belgorod Region crimes",
+        "link": "https://tass.com/politics/2100949",
+        "fecha_publicacion": "Fri, 13 Mar 2026 05:30:57 +0300"
+      },
+      {
+        "titulo": "Islamic Resistance in Iraq claims responsibility for downing US refueling plane",
+        "resumen": "The representatives for the movement say \"suitable weapons\" were used for the purpose",
+        "link": "https://tass.com/world/2100947",
+        "fecha_publicacion": "Fri, 13 Mar 2026 05:18:36 +0300"
+      },
+      {
+        "titulo": "European Council to discuss Iran, Ukraine on March 19 — Costa",
+        "resumen": "The situation in Lebanon, the Gaza Strip and the West Bank is also on the agenda",
+        "link": "https://tass.com/world/2100945",
+        "fecha_publicacion": "Fri, 13 Mar 2026 05:13:48 +0300"
+      },
+      {
+        "titulo": "Iraqi tankers can cross Strait of Hormuz — Iran’s ambassador to Baghdad",
+        "resumen": "Two tankers were attacked in the Iraqi waters a day before the statement",
+        "link": "https://tass.com/world/2100941",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:35:13 +0300"
+      },
+      {
+        "titulo": "US distorts facts claiming that Tehran enriched uranium to 60% — envoy to UN",
+        "resumen": "Amir-Saeid Iravani says Washington \"ignores the real root of the situation\"",
+        "link": "https://tass.com/world/2100939",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:19:43 +0300"
+      },
+      {
+        "titulo": "Iranian General Staff says US refueling aircraft was downed over western Iraq",
+        "resumen": "The Central Command of the US armed forces said that the plane had been lost not due to hostile fire or friendly fire",
+        "link": "https://tass.com/world/2100937",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:04:40 +0300"
+      },
+      {
+        "titulo": "US lifts sanctions on Russian oil loaded on vessels before March 12 — Treasury Department",
+        "resumen": "The license allows transactions with Russian fuel before April 11",
+        "link": "https://tass.com/world/2100931",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:59:07 +0300"
+      },
+      {
+        "titulo": "Central Iranian city of Arak bombed — TV",
+        "resumen": "No information on damage or casualties is available so far",
+        "link": "https://tass.com/world/2100927",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:56:41 +0300"
+      },
+      {
+        "titulo": "One DPR civilian wounded in Ukrainian attacks in past day",
+        "resumen": "Two houses were damaged as a result of the attack",
+        "link": "https://tass.com/politics/2100921",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:45:08 +0300"
+      },
+      {
+        "titulo": "Iran warns against attacks on its energy infrastructure",
+        "resumen": "A representative of Khatam al-Anbiya, the central headquarters of the Iranian army, says that otherwise Iran would destroy all oil and gas infrastructure of interest to the US in the region",
+        "link": "https://tass.com/world/2100887",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:33:46 +0300"
+      },
+      {
+        "titulo": "During talks, Iran proposed formally sealing its refusal from nuclear ambitions — minister",
+        "resumen": "Abbas Araghchi says Washington turned down the proposal",
+        "link": "https://tass.com/world/2100913",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:39:04 +0300"
+      },
+      {
+        "titulo": "Israel attacks Hezbollah command centers in Beirut, southern Lebanon",
+        "resumen": "According to the Israeli military, the facilities were used \"to advance terror attacks against the State of Israel and its civilians\"",
+        "link": "https://tass.com/world/2100911",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:21:31 +0300"
+      },
+      {
+        "titulo": "Six French citizens wounded in drone attack in northern Iraq — TV",
+        "resumen": "The incident occurred during a strike on a base of a Kurdish militia group",
+        "link": "https://tass.com/world/2100903",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:39:57 +0300"
+      },
+      {
+        "titulo": "Iranian diplomat blames US for navigation problems in Strait of Hormuz",
+        "resumen": "Iranian Permanent Representative to the United Nations Amir-Saeid Iravani says that Iran is fully committed to the law of the sea",
+        "link": "https://tass.com/world/2100901",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:25:27 +0300"
+      },
+      {
+        "titulo": "Vessels transiting Strait of Hormuz must adhere to wartime laws — Iranian armed forces",
+        "resumen": "The Iranian Armed Forces headquarters noted that this will allow the ships to avoid accidental shelling",
+        "link": "https://tass.com/world/2100899",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:14:02 +0300"
+      },
+      {
+        "titulo": "Hormuz and US-Israel compensation: statement by new supreme leader of Iran",
+        "resumen": "Mojtaba Khamenei confirmed the deaths of his sister and wife",
+        "link": "https://tass.com/world/2100897",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:09:56 +0300"
+      },
+      {
+        "titulo": "Israel comes under new missile fire from Iran during Netanyahu’s press conference",
+        "resumen": "Air raid sirens sounded in the Tel Aviv area",
+        "link": "https://tass.com/world/2100891",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:23:29 +0300"
+      }
+    ],
+    "total_entradas": 20
+  },
+  {
+    "fuente": "politico_europe",
+    "url": "https://www.politico.eu/feed/",
+    "nicho": "geopolitica",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "French soldier killed, several wounded in Iraq attack, Macron confirms",
+        "resumen": "The French president said the war in Iran \"cannot justify\" a drone strike on troops involved in a counterterrorism training exercise in Kurdistan.",
+        "link": "https://www.politico.eu/article/french-soldier-killed-several-wounded-iraq-attack-emmanuel-macron-confirms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:23:44 +0000"
+      },
+      {
+        "titulo": "EU fears Iran war will put new migration rules to the test",
+        "resumen": "Attempts to reform EU migration rules date back to the 2015 refugee crisis, but there are doubts about how the new rules will fare under new pressure.",
+        "link": "https://www.politico.eu/article/eu-fears-iran-war-will-put-new-migration-rules-to-the-test/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:01:00 +0000"
+      },
+      {
+        "titulo": "EU commissioner Kos dogged by fresh secret police collaborator claims",
+        "resumen": "Marta Kos fended off the allegations at her confirmation hearing in 2024. Europe's biggest political group has resurfaced them.",
+        "link": "https://www.politico.eu/article/eu-commissioner-marta-kos-dogged-by-fresh-secret-police-collaborator-claims/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:01:00 +0000"
+      },
+      {
+        "titulo": "Britain’s Labour Party stares into the abyss in its Welsh heartland",
+        "resumen": "In the old coalfields of south Wales, Britain’s center-left establishment faces being crushed by a nationalist left and populist right. POLITICO went to find out why.",
+        "link": "https://www.politico.eu/article/uk-britain-labour-party-stares-into-abyss-wales-heartland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:01:00 +0000"
+      },
+      {
+        "titulo": "The Battle for Labour’s oldest stronghold:  Wales",
+        "resumen": "In May, Labour faces losing some of its oldest heartlands. In Wales, the party has dominated elections for 104 years, but is, according to polls, fighting for third or fourth place against powerful forces on the left and right — Plaid Cymru and Reform. Host Sascha O&#8217;Sullivan and POLITICO&#8217;s political editor Dan Bloom took the [&#8230;]",
+        "link": "https://www.politico.eu/podcast/westminster-insider/the-battle-for-labours-oldest-stronghold-wales/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:00:00 +0000"
+      },
+      {
+        "titulo": "Europe should back American strikes on Iran, says key Merz ally",
+        "resumen": "Presented by Neste",
+        "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/europe-should-back-american-strikes-on-iran-says-key-merz-ally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:00:00 +0000"
+      },
+      {
+        "titulo": "How to watch French local elections like a pro (Round 1)",
+        "resumen": "Think of the contest as the opening act of next year's presidential race.",
+        "link": "https://www.politico.eu/article/france-local-election-how-to-watch-like-a-pro/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:00:00 +0000"
+      },
+      {
+        "titulo": "The only decent jobs left are Eurocrat and shoemaker",
+        "resumen": "Tens of thousands of people want to work in the EU Bubble, and a vastly smaller amount have been forced to wear ill-fitting shoes by Trump.",
+        "link": "https://www.politico.eu/article/the-only-decent-jobs-left-are-eurocrat-and-shoemaker/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:00:00 +0000"
+      },
+      {
+        "titulo": "Colombia’s president on why Trump’s war on drugs is failing",
+        "resumen": "In May, Colombians will choose a successor to President Gustavo Petro, the first leftist leader in the country’s modern history. The results of that election will cement — or erase — Petro’s legacy at home, where voters will choose from a field including leftist Iván Cepeda, conservative Paloma Valencia and far-right lawyer Abelardo Gabriel de [&#8230;]",
+        "link": "https://www.politico.com/news/magazine/2026/03/12/petro-trump-war-on-drugs-q-a-00826484?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:18 +0000"
+      },
+      {
+        "titulo": "Colombian president warns US against building an empire in Latin America",
+        "resumen": "Gustavo Petro tells POLITICO his continent is not a “land to be conquered,” as he criticizes American top diplomat Marco Rubio's view of the world.",
+        "link": "https://www.politico.eu/article/gustavo-petro-colombian-president-us-donald-trump-latin-america-empire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:00:00 +0000"
+      }
+    ],
+    "total_entradas": 10
+  },
+  {
     "fuente": "fed_speeches",
     "url": "https://www.federalreserve.gov/feeds/speeches.xml",
     "nicho": "geopolitica",
@@ -815,6 +1489,106 @@
         "resumen": "Speech At the Delphi Economic Forum, National Gallery – Alexandros Soutsos Museum,  Athens, Greece",
         "link": "https://www.federalreserve.gov/newsevents/speech/miran20260114a.htm",
         "fecha_publicacion": "Wed, 14 Jan 2026 15:30:00 GMT"
+      }
+    ],
+    "total_entradas": 15
+  },
+  {
+    "fuente": "fed_press",
+    "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "nicho": "regulaciones_pyme",
+    "fecha_minado": "2026-03-12",
+    "tipo": "rss",
+    "entradas": [
+      {
+        "titulo": "Minutes of the Board's discount rate meetings on January 20 and 28, 2026",
+        "resumen": "Minutes of the Board's discount rate meetings on January 20 and 28, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260224a.htm",
+        "fecha_publicacion": "Tue, 24 Feb 2026 19:00:00 GMT"
+      },
+      {
+        "titulo": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
+        "resumen": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260218a.htm",
+        "fecha_publicacion": "Wed, 18 Feb 2026 19:00:00 GMT"
+      },
+      {
+        "titulo": "Federal Reserve issues FOMC statement",
+        "resumen": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm",
+        "fecha_publicacion": "Wed, 28 Jan 2026 19:00:00 GMT"
+      },
+      {
+        "titulo": "Federal Open Market Committee reaffirms its \"Statement on Longer-Run Goals and Monetary Policy Strategy\"",
+        "resumen": "Federal Open Market Committee reaffirms its &quot;Statement on Longer-Run Goals and Monetary Policy Strategy&quot;",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128b.htm",
+        "fecha_publicacion": "Wed, 28 Jan 2026 19:00:00 GMT"
+      },
+      {
+        "titulo": "Minutes of the Board's discount rate meeting on December 10, 2025",
+        "resumen": "Minutes of the Board's discount rate meeting on December 10, 2025",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm",
+        "fecha_publicacion": "Tue, 6 Jan 2026 19:00:00 GMT"
+      },
+      {
+        "titulo": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+        "resumen": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
+        "fecha_publicacion": "Tue, 30 Dec 2025 19:00:00 GMT"
+      },
+      {
+        "titulo": "Federal Reserve issues FOMC statement",
+        "resumen": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm",
+        "fecha_publicacion": "Wed, 10 Dec 2025 19:00:00 GMT"
+      },
+      {
+        "titulo": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+        "resumen": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210b.htm",
+        "fecha_publicacion": "Wed, 10 Dec 2025 19:00:00 GMT"
+      },
+      {
+        "titulo": "Minutes of the Board's discount rate meetings on October 6, October 20, and October 29, 2025",
+        "resumen": "Minutes of the Board's discount rate meetings on October 6, October 20, and October 29, 2025",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251125a.htm",
+        "fecha_publicacion": "Tue, 25 Nov 2025 19:00:00 GMT"
+      },
+      {
+        "titulo": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
+        "resumen": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251119a.htm",
+        "fecha_publicacion": "Wed, 19 Nov 2025 19:00:00 GMT"
+      },
+      {
+        "titulo": "Federal Reserve issues FOMC statement",
+        "resumen": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm",
+        "fecha_publicacion": "Wed, 29 Oct 2025 18:00:00 GMT"
+      },
+      {
+        "titulo": "Minutes of the Board's discount rate meetings on August 18 and September 17, 2025",
+        "resumen": "Minutes of the Board's discount rate meetings on August 18 and September 17, 2025",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251014a.htm",
+        "fecha_publicacion": "Tue, 14 Oct 2025 18:00:00 GMT"
+      },
+      {
+        "titulo": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
+        "resumen": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251008a.htm",
+        "fecha_publicacion": "Wed, 8 Oct 2025 18:00:00 GMT"
+      },
+      {
+        "titulo": "Federal Reserve issues FOMC statement",
+        "resumen": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm",
+        "fecha_publicacion": "Wed, 17 Sep 2025 18:00:00 GMT"
+      },
+      {
+        "titulo": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 16-17 FOMC meeting",
+        "resumen": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 16-17 FOMC meeting",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917b.htm",
+        "fecha_publicacion": "Wed, 17 Sep 2025 18:00:00 GMT"
       }
     ],
     "total_entradas": 15

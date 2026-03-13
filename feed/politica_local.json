@@ -1,0 +1,177 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Nicho Analyzer — Politica Local",
+  "description": "Datos sobre Politica Local en Mexico y LATAM.",
+  "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
+  "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json",
+  "language": "es-MX",
+  "date_modified": "2026-03-13T03:29:36.178998+00:00",
+  "total_records": 15,
+  "items": [
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#0",
+      "title": "Sheinbaum rinde homenaje a los militares caídos en el operativo contra El Mencho",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/008n1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#1",
+      "title": "Nadya Rasheed*: Esa otra manifestación de la política genocida en Cisjordania",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/017a1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#2",
+      "title": "Decide hoy la Corte sobre lucro de Grupo Xcaret con la cultura maya",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/014n1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#3",
+      "title": "Consolida Durazo conectividad vial y desarrollo de Sonora",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/015n4pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#4",
+      "title": "Autos de aplicación no están autorizados para operar en el polígono del AICM: autoridades",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/012n2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#5",
+      "title": "Justifica Morena la asistencia de Yunes Márquez a reunión de senadores en París",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/007n3pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#6",
+      "title": "Julio Hernández López: Astillero",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/opinion/008o1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#7",
+      "title": "“Mentiras de Tv Azteca”",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/013n2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#8",
+      "title": "Cooperación en seguridad con EU, basada en responsabilidad compartida: Velasco Álvarez",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/014n3pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#9",
+      "title": "Acusan a priístas de vandalizar anuncios de Morena-Coahuila",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/estados/030n3est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#10",
+      "title": "Es contratista del gobierno central y alcaldías la empresa que demolía inmueble que colapsó",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/capital/031n3cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#11",
+      "title": "Blindará gobierno el gasto social; este año será mayor a 13 mil mdp",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/capital/033n2cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#12",
+      "title": "Levanta Came contingencia ante pronóstico favorable",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/capital/033n1cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#13",
+      "title": "Pese a estar prohibidos, en el Metro comerciantes operan hornos eléctricos para la venta de comida",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.jornada.com.mx/2026/03/12/capital/032n2cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#14",
+      "title": "Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://ljz.mx/12/03/2026/habra-costo-politico-para-verde-y-pt-por-no-apoyar-la-reforma-electoral-morena/",
+      "tags": [
+        "politica_local",
+        "jornada_zacatecas"
+      ]
+    }
+  ]
+}
