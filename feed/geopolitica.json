@@ -1,0 +1,265 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Nicho Analyzer — Geopolitica",
+  "description": "Datos sobre Geopolitica en Mexico y LATAM.",
+  "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
+  "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json",
+  "language": "es-MX",
+  "date_modified": "2026-03-13T02:24:47.703754+00:00",
+  "total_records": 23,
+  "items": [
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#0",
+      "title": "Asian Stocks Track US Declines as Oil in Focus: Markets Wrap",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#1",
+      "title": "Peru Holds Key Rate at 4.25% as Inflation Pressures Mount",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/peru-holds-interest-rate-at-4-25-as-inflation-pressures-mount",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#2",
+      "title": "Investors Hunt for Hedges as War Shatters Decades-Old Strategies",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/investors-hunt-for-hedges-as-war-shatters-decades-old-strategies",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#3",
+      "title": "Stocks Fall on War, Credit Woes as Brent Tops $100: Markets Wrap",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-11/stock-market-today-dow-s-p-live-updates-",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#4",
+      "title": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/",
+      "tags": [
+        "geopolitica",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#5",
+      "title": "Trump Likely to Confront Democratic Wall on Iran War Funding",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://foreignpolicy.com/2026/03/10/trump-iran-war-funding-congress-democrats-military-spending/",
+      "tags": [
+        "geopolitica",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#6",
+      "title": "El Supremo de Brasil bloquea visita de asesor de Trump a Bolsonaro en prisión",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://actualidad.rt.com/actualidad/592574-supremo-brasil-bloquea-visita-asesor-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#7",
+      "title": "Venezuela confirma que se suspende el encuentro entre Delcy Rodríguez y Gustavo Petro",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://actualidad.rt.com/actualidad/592567-venezuela-confirmar-suspension-encuentro-delcy-petro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#8",
+      "title": "\"Somos humanos y cometemos errores\": Jefe de Gabinete argentino se pronuncia por el polémico viaje a EE.UU. con su esposa",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://actualidad.rt.com/actualidad/592562-jefe-gabinete-argentino-pronunciar-polemico-viaje?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#9",
+      "title": "EE.UU. autoriza la venta de ciertas categorías de petróleo ruso en medio de la volatilidad energética",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://actualidad.rt.com/actualidad/592571-eeuu-autoriza-venta-petroleo-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#10",
+      "title": "Politico: La UE avanza para prohibir IA que permite desnudar personas",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://actualidad.rt.com/actualidad/592561-politico-ue-avanza-prohibir-ia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#11",
+      "title": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss",
+      "tags": [
+        "geopolitica",
+        "aljazeera"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#12",
+      "title": "Iran envoy says Tehran will keep Strait of Hormuz open",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss",
+      "tags": [
+        "geopolitica",
+        "aljazeera"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#13",
+      "title": "Air attacks target bases of Iran-backed forces in Iraq",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss",
+      "tags": [
+        "geopolitica",
+        "aljazeera"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#14",
+      "title": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss",
+      "tags": [
+        "geopolitica",
+        "aljazeera"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#15",
+      "title": "How oil is at the center of the US-Israel war with Iran",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/3/12/aje-onl-irn_tuesdayupdates_av_v2-100326?traffic_source=rss",
+      "tags": [
+        "geopolitica",
+        "aljazeera"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#16",
+      "title": "Netanyahu threatens Iran’s new supreme leader, defends joint assault with US",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3346419/netanyahu-threatens-irans-new-supreme-leader-defends-joint-assault-us?utm_source=rss_feed",
+      "tags": [
+        "geopolitica",
+        "scmp"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#17",
+      "title": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed",
+      "tags": [
+        "geopolitica",
+        "scmp"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#18",
+      "title": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.scmp.com/plus/news/china/military/article/3346333/us-israeli-war-iran-may-spark-nuclear-arms-race-carnegie-scholar-says?utm_source=rss_feed",
+      "tags": [
+        "geopolitica",
+        "scmp"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#19",
+      "title": "US launches trade probe into China and EU in bid to revive Trump tariffs",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3346279/us-launches-trade-probe-china-and-eu-bid-revive-trump-tariffs?utm_source=rss_feed",
+      "tags": [
+        "geopolitica",
+        "scmp"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#20",
+      "title": "Bowman, Capital Rules for the Real Economy",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm",
+      "tags": [
+        "geopolitica",
+        "fed_speeches"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#21",
+      "title": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm",
+      "tags": [
+        "geopolitica",
+        "fed_speeches"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#22",
+      "title": "Bowman, Outlook for the Economy and Monetary Policy",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm",
+      "tags": [
+        "geopolitica",
+        "fed_speeches"
+      ]
+    }
+  ]
+}

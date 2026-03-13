@@ -23,6 +23,7 @@ python3 sitemap.py
 python3 generar_indices.py
 python3 generar_dataset.py
 python3 generar_feed_json.py
+python3 generar_feed_nichos.py
 # ─────────────────────────────────────────
 # PASO 2 — TU RESUMEN
 # ─────────────────────────────────────────

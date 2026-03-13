@@ -1,0 +1,210 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Nicho Analyzer — Aranceles Aduanas",
+  "description": "Datos sobre Aranceles Aduanas en Mexico y LATAM.",
+  "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
+  "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json",
+  "language": "es-MX",
+  "date_modified": "2026-03-13T02:24:47.703754+00:00",
+  "total_records": 18,
+  "items": [
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#0",
+      "title": "Perfil arancelario México — 2026-03-12",
+      "content_text": "México (OMC: MEX): T-MEC, TLCUEM, 12 TLCs vigentes. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-12.",
+      "date_published": "2026-03-12T23:40:08.854687+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=MEX",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#1",
+      "title": "Perfil arancelario Brasil — 2026-03-12",
+      "content_text": "Brasil (OMC: BRA): MERCOSUR, arancel externo común. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-12.",
+      "date_published": "2026-03-12T23:40:08.854687+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=BRA",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#2",
+      "title": "Perfil arancelario Argentina — 2026-03-12",
+      "content_text": "Argentina (OMC: ARG): MERCOSUR, restricciones importación activas. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-12.",
+      "date_published": "2026-03-12T23:40:08.854687+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=ARG",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#3",
+      "title": "Perfil arancelario Chile — 2026-03-12",
+      "content_text": "Chile (OMC: CHL): 65+ TLCs — economía más abierta LATAM. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-12.",
+      "date_published": "2026-03-12T23:40:08.854687+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=CHL",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#4",
+      "title": "Perfil arancelario Colombia — 2026-03-12",
+      "content_text": "Colombia (OMC: COL): TLC con USA, UE, Alianza del Pacífico. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-12.",
+      "date_published": "2026-03-12T23:40:08.854687+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=COL",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#5",
+      "title": "Perfil arancelario Perú — 2026-03-12",
+      "content_text": "Perú (OMC: PER): Alianza del Pacífico, TLC con China. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-12.",
+      "date_published": "2026-03-12T23:40:08.854687+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=PER",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#6",
+      "title": "Cambios arancelarios DOF — 2026-03-12",
+      "content_text": "El DOF publica modificaciones a la LIGIE y acuerdos comerciales. Consulta: https://www.dof.gob.mx. Fecha: 2026-03-12.",
+      "date_published": "2026-03-12T23:40:08.854687+00:00",
+      "url": "https://www.dof.gob.mx",
+      "tags": [
+        "aranceles_aduanas",
+        "DOF México"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#7",
+      "title": "Aranceles USA impacto LATAM — 2026-03-12",
+      "content_text": "Cambios arancelarios EE.UU. con impacto en exportaciones LATAM (2025-2026): acero, aluminio, productos agrícolas. Fuente: https://ustr.gov/tariff-actions. Fecha: 2026-03-12.",
+      "date_published": "2026-03-12T23:40:08.854687+00:00",
+      "url": "https://ustr.gov/tariff-actions",
+      "tags": [
+        "aranceles_aduanas",
+        "USTR / Federal Register"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#8",
+      "title": "Monitor comercio exterior LATAM — 2026-03-12",
+      "content_text": "CEPAL publica estadísticas trimestrales de comercio exterior para ALC. Base de datos: https://statistics.cepal.org/portal/cepalstat/. Fecha: 2026-03-12.",
+      "date_published": "2026-03-12T23:40:08.854687+00:00",
+      "url": "https://statistics.cepal.org/portal/cepalstat/",
+      "tags": [
+        "aranceles_aduanas",
+        "CEPAL"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#9",
+      "title": "Perfil arancelario México — 2026-03-13",
+      "content_text": "México (OMC: MEX): T-MEC, TLCUEM, 12 TLCs vigentes. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-13.",
+      "date_published": "2026-03-13T00:33:47.042435+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=MEX",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#10",
+      "title": "Perfil arancelario Brasil — 2026-03-13",
+      "content_text": "Brasil (OMC: BRA): MERCOSUR, arancel externo común. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-13.",
+      "date_published": "2026-03-13T00:33:47.042435+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=BRA",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#11",
+      "title": "Perfil arancelario Argentina — 2026-03-13",
+      "content_text": "Argentina (OMC: ARG): MERCOSUR, restricciones importación activas. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-13.",
+      "date_published": "2026-03-13T00:33:47.042435+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=ARG",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#12",
+      "title": "Perfil arancelario Chile — 2026-03-13",
+      "content_text": "Chile (OMC: CHL): 65+ TLCs — economía más abierta LATAM. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-13.",
+      "date_published": "2026-03-13T00:33:47.042435+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=CHL",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#13",
+      "title": "Perfil arancelario Colombia — 2026-03-13",
+      "content_text": "Colombia (OMC: COL): TLC con USA, UE, Alianza del Pacífico. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-13.",
+      "date_published": "2026-03-13T00:33:47.042435+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=COL",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#14",
+      "title": "Perfil arancelario Perú — 2026-03-13",
+      "content_text": "Perú (OMC: PER): Alianza del Pacífico, TLC con China. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-13.",
+      "date_published": "2026-03-13T00:33:47.042435+00:00",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=PER",
+      "tags": [
+        "aranceles_aduanas",
+        "OMC — Perfiles arancelarios"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#15",
+      "title": "Cambios arancelarios DOF — 2026-03-13",
+      "content_text": "El DOF publica modificaciones a la LIGIE y acuerdos comerciales. Consulta: https://www.dof.gob.mx. Fecha: 2026-03-13.",
+      "date_published": "2026-03-13T00:33:47.042435+00:00",
+      "url": "https://www.dof.gob.mx",
+      "tags": [
+        "aranceles_aduanas",
+        "DOF México"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#16",
+      "title": "Aranceles USA impacto LATAM — 2026-03-13",
+      "content_text": "Cambios arancelarios EE.UU. con impacto en exportaciones LATAM (2025-2026): acero, aluminio, productos agrícolas. Fuente: https://ustr.gov/tariff-actions. Fecha: 2026-03-13.",
+      "date_published": "2026-03-13T00:33:47.042435+00:00",
+      "url": "https://ustr.gov/tariff-actions",
+      "tags": [
+        "aranceles_aduanas",
+        "USTR / Federal Register"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#17",
+      "title": "Monitor comercio exterior LATAM — 2026-03-13",
+      "content_text": "CEPAL publica estadísticas trimestrales de comercio exterior para ALC. Base de datos: https://statistics.cepal.org/portal/cepalstat/. Fecha: 2026-03-13.",
+      "date_published": "2026-03-13T00:33:47.042435+00:00",
+      "url": "https://statistics.cepal.org/portal/cepalstat/",
+      "tags": [
+        "aranceles_aduanas",
+        "CEPAL"
+      ]
+    }
+  ]
+}

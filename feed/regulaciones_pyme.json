@@ -1,0 +1,188 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Nicho Analyzer — Regulaciones Pyme",
+  "description": "Datos sobre Regulaciones Pyme en Mexico y LATAM.",
+  "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
+  "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json",
+  "language": "es-MX",
+  "date_modified": "2026-03-13T02:24:47.703754+00:00",
+  "total_records": 16,
+  "items": [
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#0",
+      "title": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#1",
+      "title": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#2",
+      "title": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/12/mexico-gana-frente-canada-exportaciones-se-disparan",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#3",
+      "title": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#4",
+      "title": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/12/bbva-los-proyectos-del-plan-mexico-seran-exitosos-y-rentables-si-se-ejecutan-bien",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#5",
+      "title": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/11/eu-investiga-mexico-economias-sobrecapacidad-manufactura",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#6",
+      "title": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/11/plan-mexico-credito-pymes-pero-reto-negocios-fuera",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#7",
+      "title": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#8",
+      "title": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#9",
+      "title": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/10/banco-base-acusaciones-de-lavado-de-dinero-fueron-una-sacudida-para-los-bancos",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#10",
+      "title": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#11",
+      "title": "Bankaool: Nuestros sistemas antilavado nacieron fuertes",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/09/bankaool-nuestros-sistemas-antilavado-nacieron-fuertes",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#12",
+      "title": "México perfila revisión del T-MEC con foco en reglas de origen, cadenas y seguridad",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/09/ebrard-revela-plan-accion-revision-tmec",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#13",
+      "title": "Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#14",
+      "title": "Nu: Tenemos más de 2 millones de clientes en el sur; el crédito es transformador",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#15",
+      "title": "Revolut: \"En México hay millones de personas que no están cómodas con su banco\"",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "url": "https://expansion.mx/economia/2026/03/09/revolut-en-mexico-hay-millones-de-personas-que-no-estan-comodas-con-su-banco",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    }
+  ]
+}
