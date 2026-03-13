@@ -5,7 +5,7 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json",
   "language": "es-MX",
-  "date_modified": "2026-03-13T03:29:36.178998+00:00",
+  "date_modified": "2026-03-13T04:24:11.458634+00:00",
   "total_records": 26,
   "items": [
     {
@@ -155,7 +155,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#13",
       "title": "Puerto Veracruz, México (MXVER)",
       "content_text": "Puerto Veracruz (MXVER), México. Actividad: petrolero y carga general. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:MXVER. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXVER",
       "tags": [
         "movimiento_buques",
@@ -166,7 +166,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#14",
       "title": "Puerto Lázaro Cárdenas, México (MXLZC)",
       "content_text": "Puerto Lázaro Cárdenas (MXLZC), México. Actividad: automotriz y granel. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:MXLZC. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXLZC",
       "tags": [
         "movimiento_buques",
@@ -177,7 +177,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#15",
       "title": "Puerto Altamira, México (MXATM)",
       "content_text": "Puerto Altamira (MXATM), México. Actividad: petroquímico e industrial. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:MXATM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXATM",
       "tags": [
         "movimiento_buques",
@@ -188,7 +188,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#16",
       "title": "Puerto Santos, Brasil (BRSSZ)",
       "content_text": "Puerto Santos (BRSSZ), Brasil. Actividad: mayor puerto Sudamérica. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:BRSSZ. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:BRSSZ",
       "tags": [
         "movimiento_buques",
@@ -199,7 +199,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#17",
       "title": "Puerto Valparaíso, Chile (CLVAP)",
       "content_text": "Puerto Valparaíso (CLVAP), Chile. Actividad: cobre y frutas. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:CLVAP. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:CLVAP",
       "tags": [
         "movimiento_buques",
@@ -210,7 +210,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#18",
       "title": "Puerto Buenaventura, Colombia (COBUN)",
       "content_text": "Puerto Buenaventura (COBUN), Colombia. Actividad: Pacífico Colombia. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:COBUN. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:COBUN",
       "tags": [
         "movimiento_buques",
@@ -221,7 +221,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#19",
       "title": "Puerto Callao, Perú (PECLL)",
       "content_text": "Puerto Callao (PECLL), Perú. Actividad: mayor puerto peruano. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:PECLL. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:PECLL",
       "tags": [
         "movimiento_buques",
@@ -232,7 +232,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#20",
       "title": "Puerto Buenos Aires, Argentina (ARBUE)",
       "content_text": "Puerto Buenos Aires (ARBUE), Argentina. Actividad: Río de la Plata. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:ARBUE. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:ARBUE",
       "tags": [
         "movimiento_buques",
@@ -243,7 +243,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#21",
       "title": "Puerto Balboa, Panamá (PAMIT)",
       "content_text": "Puerto Balboa (PAMIT), Panamá. Actividad: Canal de Panamá. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:PAMIT. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:PAMIT",
       "tags": [
         "movimiento_buques",
@@ -254,7 +254,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#22",
       "title": "Zona marítima: Canal de Panamá",
       "content_text": "Canal de Panamá (8.9943,-79.5674): 14,000+ buques/año, paso Asia-LATAM. Monitor: https://www.marinetraffic.com/en/ais/home/centerx:-79.5674/centery:8.9943/zoom:7. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/home/centerx:-79.5674/centery:8.9943/zoom:7",
       "tags": [
         "movimiento_buques",
@@ -265,7 +265,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#23",
       "title": "Zona marítima: Golfo de México",
       "content_text": "Golfo de México (25.0,-90.0): exportaciones petróleo México y USA. Monitor: https://www.marinetraffic.com/en/ais/home/centerx:-90.0/centery:25.0/zoom:7. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/home/centerx:-90.0/centery:25.0/zoom:7",
       "tags": [
         "movimiento_buques",
@@ -276,7 +276,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#24",
       "title": "Zona marítima: Puerto Santos Brasil",
       "content_text": "Puerto Santos Brasil (-23.95,-46.33): mayor puerto América Latina. Monitor: https://www.marinetraffic.com/en/ais/home/centerx:-46.33/centery:-23.95/zoom:7. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/home/centerx:-46.33/centery:-23.95/zoom:7",
       "tags": [
         "movimiento_buques",
@@ -287,7 +287,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/movimiento_buques.json#25",
       "title": "Zona marítima: Estrecho de Magallanes",
       "content_text": "Estrecho de Magallanes (-52.6,-70.9): ruta alternativa al Canal. Monitor: https://www.marinetraffic.com/en/ais/home/centerx:-70.9/centery:-52.6/zoom:7. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.marinetraffic.com/en/ais/home/centerx:-70.9/centery:-52.6/zoom:7",
       "tags": [
         "movimiento_buques",

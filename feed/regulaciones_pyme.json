@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json",
   "language": "es-MX",
-  "date_modified": "2026-03-13T03:29:36.178998+00:00",
-  "total_records": 27,
+  "date_modified": "2026-03-13T04:24:11.458634+00:00",
+  "total_records": 28,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#0",
@@ -303,6 +303,17 @@
       "tags": [
         "regulaciones_pyme",
         "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#27",
+      "title": "Inflacion INPC anual Mexico",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.inegi.org.mx/temas/inpc/",
+      "tags": [
+        "regulaciones_pyme",
+        "INEGI / Banxico"
       ]
     }
   ]

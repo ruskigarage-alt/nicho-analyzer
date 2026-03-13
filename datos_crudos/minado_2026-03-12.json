@@ -611,10 +611,52 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Asian Stocks Trim Early Losses, Oil Rally Cools: Markets Wrap",
+        "resumen": "Asian stocks pared early declines while S&amp;P 500 futures rose as the US issued a second temporary waiver allowing purchases of Russian oil to help curb surging energy prices.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
+      },
+      {
+        "titulo": "MTR CEO: Cautiously Optimistic About 2026 Revenue",
+        "resumen": "Shares of Hong Kong's MTR Corp. fell on Friday after it reported full-year net income for 2025 that missed analyst estimates. Still, CEO Jeny Yeung says the company's fundamentals remain strong, citing high occupancy rates at its shopping malls and record passenger growth. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-13/mtr-ceo-cautiously-optimistic-about-2026-revenue-video",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:38:26 GMT"
+      },
+      {
+        "titulo": "Iran War Impact: Philippines Sees 16% Power Price Jump",
+        "resumen": "The Philippines expects electricity prices to rise by 16% in April due to higher oil prices, Energy Secretary Sharon Garin tells Bloomberg TV in an exclusive interview. Garin says the country is accelerating its push for more renewable energy, while congress is revisiting the oil deregulation law. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-13/iran-war-impact-philippines-sees-16-power-price-jump-video",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:36:19 GMT"
+      },
+      {
+        "titulo": "China Consumption Start to Year Seen as Worst Ever Outside Covid",
+        "resumen": "China’s consumer spending may have booked the worst start to any year outside the pandemic, highlighting the challenge to a government that has targeted a bigger role for domestic demand.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/china-consumption-start-to-year-seen-as-worst-ever-outside-covid",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:00:00 GMT"
+      },
+      {
+        "titulo": "Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief",
+        "resumen": "President Donald Trump and Iran’s new supreme leader both struck defiant tones on the 13th day of the war, offering little relief to energy markets despite fresh US efforts to curb oil prices.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/trump-iran-strike-defiant-tone-as-oil-markets-see-little-relief",
+        "fecha_publicacion": "Thu, 12 Mar 2026 16:31:50 GMT"
+      },
+      {
         "titulo": "Brent Oil Trades Near $100 as Iran Vows to Keep Hormuz Closed",
         "resumen": "Brent oil traded near $100 a barrel following one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
+      },
+      {
+        "titulo": "UAE Cuts Partners’ Crude Shipments With Flows Sent to Fujairah",
+        "resumen": "Abu Dhabi National Oil Co. cut the volume of crude for its onshore partners by about a fifth for this month, although the flows will still go to a port outside the all-but-shuttered Strait of Hormuz.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/uae-cuts-partners-crude-shipments-with-flows-sent-to-fujairah",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:21:37 GMT"
+      },
+      {
+        "titulo": "Treasuries Fear Gauge Surges to Nine-Month High on War Risks",
+        "resumen": "US Treasuries volatility jumped to a nine-month high as the Iran war fanned inflation concerns and upended traders’ expectations on the Federal Reserve’s policy path.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/treasuries-fear-gauge-surges-to-nine-month-high-on-war-risks",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:20:04 GMT"
       },
       {
         "titulo": "How Australia’s Pension System Became One of the World’s Largest",
@@ -629,6 +671,12 @@
         "fecha_publicacion": "Fri, 13 Mar 2026 02:35:58 GMT"
       },
       {
+        "titulo": "Philippines Seeks Oil Law Review as High Prices Threaten Nation",
+        "resumen": "The Philippines is looking to review a nearly 30-year old law that liberalized its oil industry, as the government aims to have a better grip on fuel prices that have shot higher due to the Iran war.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/philippines-seeks-oil-law-review-as-high-prices-threaten-nation",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:09:26 GMT"
+      },
+      {
         "titulo": "Gold Set for Weekly Drop as Mideast War Keeps Oil Prices High",
         "resumen": "Gold rose on Friday, but remained on track for a second weekly decline as the war in the Middle East kept oil near $100 a barrel.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further",
@@ -639,12 +687,6 @@
         "resumen": "Ian Patrick, CIO at the Australian Retirement Trust, discusses the investment opportunities ahead as Australia’s pension industry aims to deepen their push into overseas markets. He speaks with Haidi Stroud-Watts and Avril Hong from the sidelines of the Australian Superannuation Investment Summit. (Source: Bloomberg)",
         "link": "https://www.bloomberg.com/news/videos/2026-03-13/australian-retirement-trust-cio-on-investment-strategy-video",
         "fecha_publicacion": "Fri, 13 Mar 2026 02:52:39 GMT"
-      },
-      {
-        "titulo": "Asian Stocks Trim Earlier Losses, Oil Rally Cools: Markets Wrap",
-        "resumen": "Asian stocks pared early declines and S&amp;P 500 futures rose after the US issued a second temporary waiver allowing purchases of Russian oil to help curb surging prices and ease inflation concerns.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
       },
       {
         "titulo": "Gas Shortage, Harsh Summer Lure Bulls to India Power Utilities",
@@ -687,48 +729,6 @@
         "resumen": "The hype around artificial intelligence software OpenClaw has heightened the interest in Tencent Holdings Ltd. and Alibaba Group Holding Ltd. earnings and how the agent might drive growth and innovation across multiple technology industry sectors.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-13/tencent-alibaba-due-as-openclaw-ai-mania-spreads-in-china",
         "fecha_publicacion": "Fri, 13 Mar 2026 02:15:21 GMT"
-      },
-      {
-        "titulo": "China’s Train to North Korea Lacks Passengers on Maiden Voyage",
-        "resumen": "Rush-hour was a notch louder at Beijing Station on Thursday, as passengers scurried to board the first K27 train service in six years. Destination: Pyongyang, capital of reclusive North Korea.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/china-s-train-to-north-korea-lacks-passengers-on-maiden-voyage",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:14:10 GMT"
-      },
-      {
-        "titulo": "Hedge Fund Regal Hit by 93% Crash in Australian Biotech Stock",
-        "resumen": "Sydney hedge fund Regal Partners Ltd. was dealt a fresh blow after Immutep Ltd., an Australian biotech company it backs, wiped out most of its A$582 million ($412 million) market value on Friday when it halted trials of a lung cancer drug.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/hedge-fund-regal-hit-by-93-crash-in-australian-biotech-stock",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:53:52 GMT"
-      },
-      {
-        "titulo": "Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief",
-        "resumen": "President Donald Trump and Iran’s new supreme leader both struck defiant tones on the 13th day of the war, offering little relief to energy markets despite fresh US efforts to curb oil prices.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/trump-iran-strike-defiant-tone-as-oil-markets-see-little-relief",
-        "fecha_publicacion": "Thu, 12 Mar 2026 16:31:50 GMT"
-      },
-      {
-        "titulo": "Oil Drillers Resort to Trucks as Key California Pipe Idled",
-        "resumen": "Oil drillers in central California have resorted to the costly and cumbersome alternative of trucking crude barrels 50 miles after the shut down of a refinery and idling of a key pipeline cut off outlets for their products.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/oil-drillers-resort-to-trucks-as-key-california-pipeline-idled",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:47:13 GMT"
-      },
-      {
-        "titulo": "Australian Gold Miner Northern Star Sinks as Output Guidance Cut",
-        "resumen": "Northern Star Resources Ltd. sank the most in six years after the gold miner cut output guidance due to problems at a processing mill.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/australian-gold-miner-northern-star-sinks-as-output-guidance-cut",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:44:18 GMT"
-      },
-      {
-        "titulo": "Traders Seize on China Power Firm’s Possible Dollar-Bond Misstep",
-        "resumen": "Traders have seized on a bond-market technicality in an attempt to more than double the yield on a dollar note issued by one of China’s biggest energy infrastructure firms.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/chinese-power-giant-sheds-light-on-arcane-part-of-credit-markets",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:36:23 GMT"
-      },
-      {
-        "titulo": "Australia Pension Eyes Private US Assets Before NYC Meetings",
-        "resumen": "One of Australia’s biggest pension funds, Rest Super, is on the hunt for more private markets investments in the US, underscoring the strong appetite from the country’s fast-growing A$4.5 trillion ($3.2 trillion) sector that’s on a roadshow across three American cities.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/australia-pension-eyes-private-us-assets-ahead-of-nyc-meetings",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:33:10 GMT"
       }
     ],
     "total_entradas": 20
@@ -740,6 +740,18 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Why Europe’s Approach to Defending Democracy Is Failing",
+        "resumen": "Bromides about the “center holding” miss the point.",
+        "link": "https://foreignpolicy.com/2026/03/13/europe-democracy-strategy-failing-polarization-centrism/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:01:21 +0000"
+      },
+      {
+        "titulo": "Matthew Kroenig and Trita Parsi Debate the War in Iran",
+        "resumen": "Will the campaign advance U.S. interests in the region or set them back?",
+        "link": "https://foreignpolicy.com/2026/03/12/kroenig-parsi-debate-war-in-iran/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:29:42 +0000"
+      },
       {
         "titulo": "Iran’s Strait of Hormuz Toolkit: Drones, Missiles, and Mines",
         "resumen": "A breakdown of the tools Iran has to maintain pressure on Trump.",
@@ -847,18 +859,6 @@
         "resumen": "Trump has warned that doing so will only escalate the U.S. military’s war effort.",
         "link": "https://foreignpolicy.com/2026/03/10/iran-irgc-oil-threats-strait-hormuz-us-strikes-iea-russia/",
         "fecha_publicacion": "Tue, 10 Mar 2026 20:55:50 +0000"
-      },
-      {
-        "titulo": "State Department Refuses Former Staffers’ Help in Middle East Evacuation",
-        "resumen": "Around 250 State Department employees could assist with efforts.",
-        "link": "https://foreignpolicy.com/2026/03/10/state-department-evacuation-middle-east-iran-war-former-employees-rif/",
-        "fecha_publicacion": "Tue, 10 Mar 2026 20:49:57 +0000"
-      },
-      {
-        "titulo": "Why China Might Have a Role to Play in Iran",
-        "resumen": "Diplomatic messaging suggests Beijing’s potential for mediation in the war.",
-        "link": "https://foreignpolicy.com/2026/03/10/iran-war-china-diplomatic-role-negotiations-deal/",
-        "fecha_publicacion": "Tue, 10 Mar 2026 20:13:46 +0000"
       }
     ],
     "total_entradas": 20
@@ -870,6 +870,12 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Israel drops abuse charges against soldiers",
+        "resumen": "The Israeli military has dropped charges against five soldiers accused of sexually abusing a Palestinian detainee.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israel-drops-abuse-charges-against-soldiers?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:39:35 +0000"
+      },
       {
         "titulo": "Iranian missile strikes residential area in northern Israel",
         "resumen": "Video from northern Israel captured the moment an Iranian missile impacted in a residential area early Friday morning.",
@@ -983,12 +989,6 @@
         "resumen": "Ali Larijani responds to US threat to hit Iran&#039;s power infrastructure, saying the &#039;whole region will go dark&#039;.",
         "link": "https://www.aljazeera.com/news/2026/3/12/iran-vows-to-make-trump-pay-for-grave-miscalculation-if-us-escalates-war?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 19:31:34 +0000"
-      },
-      {
-        "titulo": "ICC prosecutor opens probe into Belarus over deportations to Lithuania",
-        "resumen": "The prosecutor&#039;s office said the crimes being investigated include deportation and persecution through deportation.",
-        "link": "https://www.aljazeera.com/news/2026/3/12/icc-prosecutor-opens-probe-into-belarus-over-deportations-to-lithuania?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:56:36 +0000"
       }
     ],
     "total_entradas": 20
@@ -1000,6 +1000,12 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "China’s arms imports plummet, Hong Kong couple’s HK$50,000 Dubai exit: SCMP’s 7 highlights",
+        "resumen": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Why have China’s arms imports plummeted 72% over the past 5 years?\nBeijing’s arms imports have nose-dived by nearly three-quarters over the past five years, as it has replaced overseas weapons purchases with domestic technology,...",
+        "link": "https://www.scmp.com/news/world/article/3346291/chinas-arms-imports-plummet-hong-kong-couples-hk50000-dubai-exit-scmps-7-highlights?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:12:07 +0000"
+      },
       {
         "titulo": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
         "resumen": "The United States has imposed sanctions on two companies and six individuals for their roles in operations that used information technology workers in foreign countries to raise money for North Korea.\nThe Treasury Department said the schemes, orchestrated by the North Korean government, had systematically defrauded US businesses and generated revenue to fund North Korea’s weapons programmes, including nearly US$800 million in 2024.\nThe department also accused workers associated with North Korea...",
@@ -1113,12 +1119,6 @@
         "resumen": "Outdated intelligence likely led to the United States carrying out a deadly missile strike on a junior school in Iran that killed over 165 people, many of them children, in the opening hours of the conflict, according to a US official and a second person briefed on findings of a preliminary US military investigation into the incident.\nThe bombing of the school and its casualties involving children has become a focal point of the war, and if ultimately confirmed to be at the hands of the US,...",
         "link": "https://www.scmp.com/news/world/middle-east/article/3346300/outdated-intelligence-us-faces-mounting-evidence-deadly-strike-iran-school?utm_source=rss_feed",
         "fecha_publicacion": "Thu, 12 Mar 2026 03:52:03 +0000"
-      },
-      {
-        "titulo": "Preparing for the worst? US bunker maker claims big demand in Middle East",
-        "resumen": "Since the war in the Middle East began nearly two weeks ago, the phone at Ron Hubbard’s bomb shelter company in Texas has not stopped ringing.\nForeign and US clients are rushing to buy his bunkers, seeking refuge in case of air raids, nuclear fallout or apocalypse.\nWith the United States and Israel pounding Iran, and Tehran retaliating with strikes across the region, Hubbard has seen demand for his product soar, mostly from Gulf nation clients in Bahrain, Qatar, Kuwait and the United Arab...",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3346295/preparing-worst-us-bunker-maker-claims-big-demand-middle-east?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 03:09:54 +0000"
       }
     ],
     "total_entradas": 20
@@ -1200,6 +1200,24 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "US de-facto admitted that Russian oil crucial for market stability — presidential envoy",
+        "resumen": "Kirill Dmitriev says that the abolishment of restrictions concerns about 100 million barrels of Russian oil",
+        "link": "https://tass.com/economy/2100965",
+        "fecha_publicacion": "Fri, 13 Mar 2026 07:07:29 +0300"
+      },
+      {
+        "titulo": "Israel, US strike eastern Tehran — agency",
+        "resumen": "No reports about damage or casualties are available at this point",
+        "link": "https://tass.com/world/2100963",
+        "fecha_publicacion": "Fri, 13 Mar 2026 07:01:36 +0300"
+      },
+      {
+        "titulo": "Iraqi radical groups say they carried out over 30 attacks on US sites in past day",
+        "resumen": "The Islamic Resistance in Iraq says the armed groups used drones and missiles for the strikes",
+        "link": "https://tass.com/world/2100961",
+        "fecha_publicacion": "Fri, 13 Mar 2026 06:42:08 +0300"
+      },
       {
         "titulo": "At least 33 wounded in strike on residential building in north Israel — Ynet",
         "resumen": "A projectile damaged several houses in the community of Zarzir",
@@ -1301,24 +1319,6 @@
         "resumen": "Iranian Permanent Representative to the United Nations Amir-Saeid Iravani says that Iran is fully committed to the law of the sea",
         "link": "https://tass.com/world/2100901",
         "fecha_publicacion": "Fri, 13 Mar 2026 00:25:27 +0300"
-      },
-      {
-        "titulo": "Vessels transiting Strait of Hormuz must adhere to wartime laws — Iranian armed forces",
-        "resumen": "The Iranian Armed Forces headquarters noted that this will allow the ships to avoid accidental shelling",
-        "link": "https://tass.com/world/2100899",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:14:02 +0300"
-      },
-      {
-        "titulo": "Hormuz and US-Israel compensation: statement by new supreme leader of Iran",
-        "resumen": "Mojtaba Khamenei confirmed the deaths of his sister and wife",
-        "link": "https://tass.com/world/2100897",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:09:56 +0300"
-      },
-      {
-        "titulo": "Israel comes under new missile fire from Iran during Netanyahu’s press conference",
-        "resumen": "Air raid sirens sounded in the Tel Aviv area",
-        "link": "https://tass.com/world/2100891",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:23:29 +0300"
       }
     ],
     "total_entradas": 20

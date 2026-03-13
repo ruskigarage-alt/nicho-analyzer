@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json",
   "language": "es-MX",
-  "date_modified": "2026-03-13T03:29:36.178998+00:00",
-  "total_records": 14,
+  "date_modified": "2026-03-13T04:24:11.458634+00:00",
+  "total_records": 24,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#0",
@@ -142,9 +142,119 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#12",
+      "title": "Proyecto BM [['Republic of Rwanda']]: Boosting Green Finance, Investment and Trade in Rwanda",
+      "content_text": "País: ['Republic of Rwanda']. Sector: . Monto: USD 200,000,000. Objetivo: .",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505244",
+      "tags": [
+        "licitaciones_gobierno",
+        "Banco Mundial — LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#13",
+      "title": "Proyecto BM [['Kingdom of Morocco']]: Transforming Agri-food Systems in Morocco",
+      "content_text": "País: ['Kingdom of Morocco']. Sector: . Monto: USD 250,000,000. Objetivo: .",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181587",
+      "tags": [
+        "licitaciones_gobierno",
+        "Banco Mundial — LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#14",
+      "title": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Health, Nutrition and Population Sector Development Program",
+      "content_text": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 379,000,000. Objetivo: .",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180283",
+      "tags": [
+        "licitaciones_gobierno",
+        "Banco Mundial — LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#15",
+      "title": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Second Bangladesh Green and Climate Resilient Development Credit",
+      "content_text": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 500,000,000. Objetivo: .",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180439",
+      "tags": [
+        "licitaciones_gobierno",
+        "Banco Mundial — LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#16",
+      "title": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Chattogram Water Supply Improvement Project",
+      "content_text": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 280,000,000. Objetivo: .",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176429",
+      "tags": [
+        "licitaciones_gobierno",
+        "Banco Mundial — LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#17",
+      "title": "Proyecto BM [['Republic of India']]: Amaravati Integrated Urban Development Program",
+      "content_text": "País: ['Republic of India']. Sector: . Monto: USD 0. Objetivo: .",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507508",
+      "tags": [
+        "licitaciones_gobierno",
+        "Banco Mundial — LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#18",
+      "title": "Proyecto BM [['Republic of Burundi']]: Burundi Colline Climate Resilience Project",
+      "content_text": "País: ['Republic of Burundi']. Sector: . Monto: USD 70,000,000. Objetivo: .",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180864",
+      "tags": [
+        "licitaciones_gobierno",
+        "Banco Mundial — LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#19",
+      "title": "Proyecto BM [['Republic of Zambia']]: First Zambia Climate and Economic Resilience Programmatic DPF wit",
+      "content_text": "País: ['Republic of Zambia']. Sector: . Monto: USD 0. Objetivo: .",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507116",
+      "tags": [
+        "licitaciones_gobierno",
+        "Banco Mundial — LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#20",
+      "title": "Proyecto BM [['Republic of Togo']]: Togo Digital Acceleration Project",
+      "content_text": "País: ['Republic of Togo']. Sector: . Monto: USD 100,000,000. Objetivo: .",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179138",
+      "tags": [
+        "licitaciones_gobierno",
+        "Banco Mundial — LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#21",
+      "title": "Proyecto BM [['Republic of Honduras']]: Honduras Sustainable Connectivity Project",
+      "content_text": "País: ['Republic of Honduras']. Sector: . Monto: USD 187,000,000. Objetivo: .",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181166",
+      "tags": [
+        "licitaciones_gobierno",
+        "Banco Mundial — LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#22",
       "title": "CompraNet México — portal licitaciones",
       "content_text": "Sistema oficial de contrataciones APF México. Licitaciones públicas, invitaciones y adjudicaciones directas. URL: https://compranet.hacienda.gob.mx. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://compranet.hacienda.gob.mx",
       "tags": [
         "licitaciones_gobierno",
@@ -152,10 +262,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#13",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#23",
       "title": "UNGM — licitaciones ONU en LATAM",
       "content_text": "Licitaciones de UNOPS, PNUD, UNICEF, FAO activas en América Latina. URL: https://www.ungm.org/Public/Notice. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T03:28:10.119384+00:00",
+      "date_published": "2026-03-13T04:22:39.065407+00:00",
       "url": "https://www.ungm.org/Public/Notice",
       "tags": [
         "licitaciones_gobierno",

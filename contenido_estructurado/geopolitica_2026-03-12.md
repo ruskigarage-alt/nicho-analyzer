@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-12"
 date: "2026-03-12"
 nicho: "geopolitica"
-total_entradas: 39
+total_entradas: 40
 schema: "NewsDigest"
 ---
 
@@ -45,6 +45,13 @@ schema: "NewsDigest"
 - **URL**: https://www.jornada.com.mx/2026/03/12/mundo/026n1mun?partner=rss
 - **Resumen**: El acuerdo de la Agencia Internacional de la Energía (IEA, por sus siglas en inglés) de hacer el mayor uso coordinado de reservas de petróleo en el más de medio siglo de la organización, no aplacó el nerviosismo del mercado y el precio del crudo se incrementó más de 4 por ciento este miércoles.
 - **Relevancia**: 0.7023
+
+### Iran War Impact: Philippines Sees 16% Power Price Jump
+- **Fecha**: Fri, 13 Mar 2026 03:36:19 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/videos/2026-03-13/iran-war-impact-philippines-sees-16-power-price-jump-video
+- **Resumen**: The Philippines expects electricity prices to rise by 16% in April due to higher oil prices, Energy Secretary Sharon Garin tells Bloomberg TV in an exclusive interview. Garin says the country is accelerating its push for more renewable energy, while congress is revisiting the oil deregulation law. (Source: Bloomberg)
+- **Relevancia**: 0.5307
 
 ### Asia Markets at Risk Due to Oil Dependency: BCA Research
 - **Fecha**: Fri, 13 Mar 2026 02:35:58 GMT
@@ -115,6 +122,15 @@ schema: "NewsDigest"
 - **URL**: https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss
 - **Resumen**: Prime minister says US-Israeli war prevented Iran from moving its nuclear and ballistic projects underground.
 - **Relevancia**: 0.4997
+
+### China’s arms imports plummet, Hong Kong couple’s HK$50,000 Dubai exit: SCMP’s 7 highlights
+- **Fecha**: Fri, 13 Mar 2026 04:12:07 +0000
+- **Fuente**: scmp_world
+- **URL**: https://www.scmp.com/news/world/article/3346291/chinas-arms-imports-plummet-hong-kong-couples-hk50000-dubai-exit-scmps-7-highlights?utm_source=rss_feed
+- **Resumen**: We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.
+1. Why have China’s arms imports plummeted 72% over the past 5 years?
+Beijing’s arms imports have nose-dived by nearly three-quarters over the past five years, as it has replaced overseas weapons purchases with domestic technology,...
+- **Relevancia**: 0.4841
 
 ### US sanctions 2 firms, 6 individuals for funding North Korean weapons
 - **Fecha**: Fri, 13 Mar 2026 01:35:07 +0000
@@ -205,6 +221,13 @@ SCMP Plus readers get early access...
         	Florian Philippot criticó el inminente encuentro entre el presidente francés y el líder del régimen de Kiev.
 - **Relevancia**: 0.4816
 
+### Israel, US strike eastern Tehran — agency
+- **Fecha**: Fri, 13 Mar 2026 07:01:36 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2100963
+- **Resumen**: No reports about damage or casualties are available at this point
+- **Relevancia**: 0.7171
+
 ### At least 33 wounded in strike on residential building in north Israel — Ynet
 - **Fecha**: Fri, 13 Mar 2026 06:03:25 +0300
 - **Fuente**: tass_english
@@ -239,20 +262,6 @@ SCMP Plus readers get early access...
 - **URL**: https://tass.com/world/2100911
 - **Resumen**: According to the Israeli military, the facilities were used "to advance terror attacks against the State of Israel and its civilians"
 - **Relevancia**: 0.5246
-
-### Vessels transiting Strait of Hormuz must adhere to wartime laws — Iranian armed forces
-- **Fecha**: Fri, 13 Mar 2026 00:14:02 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2100899
-- **Resumen**: The Iranian Armed Forces headquarters noted that this will allow the ships to avoid accidental shelling
-- **Relevancia**: 0.5873
-
-### Israel comes under new missile fire from Iran during Netanyahu’s press conference
-- **Fecha**: Thu, 12 Mar 2026 23:23:29 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2100891
-- **Resumen**: Air raid sirens sounded in the Tel Aviv area
-- **Relevancia**: 0.5419
 
 ### French soldier killed, several wounded in Iraq attack, Macron confirms
 - **Fecha**: Fri, 13 Mar 2026 03:23:44 +0000
