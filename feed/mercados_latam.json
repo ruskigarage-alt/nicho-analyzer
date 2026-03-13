@@ -5,7 +5,7 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json",
   "language": "es-MX",
-  "date_modified": "2026-03-13T07:14:44.656952+00:00",
+  "date_modified": "2026-03-13T15:02:12.588378+00:00",
   "total_records": 30,
   "items": [
     {
@@ -177,7 +177,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#15",
       "title": "Tipo de cambio USD/MXN — 2026-03-13",
       "content_text": "1 USD = 17.82 MXN (Peso mexicano) al 2026-03-13.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://api.exchangerate-api.com",
       "tags": [
         "mercados_latam",
@@ -188,7 +188,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#16",
       "title": "Tipo de cambio USD/BRL — 2026-03-13",
       "content_text": "1 USD = 5.18 BRL (Real brasileño) al 2026-03-13.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://api.exchangerate-api.com",
       "tags": [
         "mercados_latam",
@@ -199,7 +199,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#17",
       "title": "Tipo de cambio USD/ARS — 2026-03-13",
       "content_text": "1 USD = 1452.25 ARS (Peso argentino) al 2026-03-13.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://api.exchangerate-api.com",
       "tags": [
         "mercados_latam",
@@ -210,7 +210,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#18",
       "title": "Tipo de cambio USD/CLP — 2026-03-13",
       "content_text": "1 USD = 897.49 CLP (Peso chileno) al 2026-03-13.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://api.exchangerate-api.com",
       "tags": [
         "mercados_latam",
@@ -221,7 +221,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#19",
       "title": "Tipo de cambio USD/COP — 2026-03-13",
       "content_text": "1 USD = 3701.16 COP (Peso colombiano) al 2026-03-13.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://api.exchangerate-api.com",
       "tags": [
         "mercados_latam",
@@ -232,7 +232,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#20",
       "title": "Tipo de cambio USD/PEN — 2026-03-13",
       "content_text": "1 USD = 3.44 PEN (Sol peruano) al 2026-03-13.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://api.exchangerate-api.com",
       "tags": [
         "mercados_latam",
@@ -242,8 +242,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#21",
       "title": "Commodity Petróleo WTI — 2026-03-13",
-      "content_text": "Petróleo WTI: USD 96.19 al 2026-03-13. Relevancia LATAM: crítico para México y Colombia.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "content_text": "Petróleo WTI: USD 95.17 al 2026-03-13. Relevancia LATAM: crítico para México y Colombia.",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://finance.yahoo.com/quote/CL=F",
       "tags": [
         "mercados_latam",
@@ -253,8 +253,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#22",
       "title": "Commodity Petróleo Brent — 2026-03-13",
-      "content_text": "Petróleo Brent: USD 97.3 al 2026-03-13. Relevancia LATAM: referencia global exportaciones LATAM.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "content_text": "Petróleo Brent: USD 100.33 al 2026-03-13. Relevancia LATAM: referencia global exportaciones LATAM.",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://finance.yahoo.com/quote/BZ=F",
       "tags": [
         "mercados_latam",
@@ -264,8 +264,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#23",
       "title": "Commodity Cobre — 2026-03-13",
-      "content_text": "Cobre: USD 5.8 al 2026-03-13. Relevancia LATAM: crítico para Chile y Perú.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "content_text": "Cobre: USD 5.81 al 2026-03-13. Relevancia LATAM: crítico para Chile y Perú.",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://finance.yahoo.com/quote/HG=F",
       "tags": [
         "mercados_latam",
@@ -275,8 +275,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#24",
       "title": "Commodity Plata — 2026-03-13",
-      "content_text": "Plata: USD 82.805 al 2026-03-13. Relevancia LATAM: México mayor productor mundial.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "content_text": "Plata: USD 82.275 al 2026-03-13. Relevancia LATAM: México mayor productor mundial.",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://finance.yahoo.com/quote/SI=F",
       "tags": [
         "mercados_latam",
@@ -286,8 +286,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#25",
       "title": "Commodity Oro — 2026-03-13",
-      "content_text": "Oro: USD 5091.1 al 2026-03-13. Relevancia LATAM: reservas bancos centrales LATAM.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "content_text": "Oro: USD 5083.8 al 2026-03-13. Relevancia LATAM: reservas bancos centrales LATAM.",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://finance.yahoo.com/quote/GC=F",
       "tags": [
         "mercados_latam",
@@ -297,8 +297,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#26",
       "title": "Commodity Maíz — 2026-03-13",
-      "content_text": "Maíz: USX 462.75 al 2026-03-13. Relevancia LATAM: crítico para México y Argentina.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "content_text": "Maíz: USX 461.75 al 2026-03-13. Relevancia LATAM: crítico para México y Argentina.",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://finance.yahoo.com/quote/ZC=F",
       "tags": [
         "mercados_latam",
@@ -308,8 +308,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#27",
       "title": "Commodity Soya — 2026-03-13",
-      "content_text": "Soya: USX 1219.0 al 2026-03-13. Relevancia LATAM: crítico para Brasil y Argentina.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "content_text": "Soya: USX 1212.75 al 2026-03-13. Relevancia LATAM: crítico para Brasil y Argentina.",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://finance.yahoo.com/quote/ZS=F",
       "tags": [
         "mercados_latam",
@@ -319,8 +319,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#28",
       "title": "Commodity Café — 2026-03-13",
-      "content_text": "Café: USX 291.25 al 2026-03-13. Relevancia LATAM: Colombia, Brasil, México.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "content_text": "Café: USX 286.65 al 2026-03-13. Relevancia LATAM: Colombia, Brasil, México.",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://finance.yahoo.com/quote/KC=F",
       "tags": [
         "mercados_latam",
@@ -330,8 +330,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#29",
       "title": "Commodity Gas natural — 2026-03-13",
-      "content_text": "Gas natural: USD 3.28 al 2026-03-13. Relevancia LATAM: energía industria LATAM.",
-      "date_published": "2026-03-13T07:12:49.664463+00:00",
+      "content_text": "Gas natural: USD 3.143 al 2026-03-13. Relevancia LATAM: energía industria LATAM.",
+      "date_published": "2026-03-13T14:59:36.379248+00:00",
       "url": "https://finance.yahoo.com/quote/NG=F",
       "tags": [
         "mercados_latam",

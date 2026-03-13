@@ -11,82 +11,96 @@ schema: "NewsDigest"
 
 ## Entradas del día
 
-### Investigará EU a México y 15 economías más por supuesto comercio desleal
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Efectos de la guerra serán breves en México: Hacienda
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/economia/021n1eco?partner=rss
-- **Resumen**: El gobierno de Estados Unidos anunció el inicio de investigaciones comerciales contra 16 economías, entre ellas México, para determinar si sus políticas industriales y niveles de producción manufacturera generan un “exceso estructural de capacidad” que afecte a la industria estadunidense.
-- **Relevancia**: 0.7496
+- **URL**: https://www.jornada.com.mx/2026/03/13/economia/016n1eco?partner=rss
+- **Resumen**: Los efectos de la guerra en Medio Oriente serán de corto plazo en México gracias a los mecanismos con los que cuenta el país, aseguró Édgar Amador Zamora, titular de la Secretaría de Hacienda y Crédito Público (SHCP), por lo que pidió tranquilidad ante posibles repercusiones en el precio de la gasolina.
+- **Relevancia**: 0.5673
 
-### Enrique Galván Ochoa: Dinero
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### El nuevo gobierno de Chile debuta con un recorte de 3 mil mdd
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/opinion/006o1eco?partner=rss
-- **Resumen**: Se cumplen 12 días del comienzo de la guerra en Medio Oriente. No ha ocurrido lo que calculó el presidente Trump: fue asesinado el ayatollah Ali Jamenei y el pueblo no salió a las calles a derribar el gobierno. Lo que vino a suceder en realidad es que las fuerzas armadas iraníes lanzaron una ofensiva contra Israel y ocho países para destruir sus estructuras petroleras. Aseguran que llevarán el precio del petróleo a 200 dólares el barril, lo cual crearía una crisis económica y financiera mundial. La situación obligó a liberar 172 millones de barriles de la Reserva Estratégica de Petróleo de Estados Unidos, un depósito que se mantiene oculto justamente para tiempos de guerra, a fin de estabilizar el precio de la gasolina. Su consumo diario es de 20 millones de barriles; apenas es un paliativo. ¿Quién va ganando? Putin. La economía rusa está pasando por un mal momento por la guerra con Ucrania, es uno de los grandes productores de petróleo y gas; habló recientemente con Trump para que le quiten algunas sanciones, es un tanque de oxígeno en el momento en que más lo necesita.
-- **Relevancia**: 0.4639
+- **URL**: https://www.jornada.com.mx/2026/03/13/economia/020n1eco?partner=rss
+- **Resumen**: Santiago. La “mano dura” con que el presidente chileno, José Antonio Kast, anunció que conduciría su “gobierno de emergencia nacional” comenzó a evidenciarse con la orden dada a ministerios y servicios públicos para que identifiquen partidas presupuestarias a suprimir, a fin de ahorrar en lo inmediato 3 mil millones de dólares en gasto fiscal.
+- **Relevancia**: 0.4763
 
-### Cemla: mexicanos, 11.6% de los trabajadores en Estados Unidos
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Viven al día ocho de cada 10 mexicanos y apenas logran pagar deudas, dice consultora
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/economia/021n2eco?partner=rss
-- **Resumen**: En 2025 los trabajadores de origen mexicano en Estados Unidos sumaron cerca de 19 millones de personas, 11.6 por ciento de los ocupados en ese país, de acuerdo con el Centro de Estudios Monetarios Latinoamericanos (Cemla).
-- **Relevancia**: 0.5129
+- **URL**: https://www.jornada.com.mx/2026/03/13/economia/017n2eco?partner=rss
+- **Resumen**: Mientras un selecto grupo de 24 empresarios mexicanos acumulan una fortuna combinada que supera 267 mil millones de dólares, según Forbes, la realidad financiera de una buena parte de la población es muy distinta.
+- **Relevancia**: 0.5637
 
-### Importaciones de maíz repuntaron 29.4% durante el primer bimestre
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### José Romero: Transformación política, continuidad económica
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/economia/020n1eco?partner=rss
-- **Resumen**: En el primer bimestre México importó una cifra histórica para un periodo similar de 4 millones 20 mil toneladas de maíz, un crecimiento anual de 29.4 por ciento frente a las 3 millones 110 mil toneladas registradas en el mismo lapso de 2025, reportó el Grupo Consultor de Mercados Agrícolas (GCMA) con base en datos adelantados de la Agencia Nacional de Aduanas de México (ANAM).
-- **Relevancia**: 0.527
+- **URL**: https://www.jornada.com.mx/2026/03/13/economia/018a1eco?partner=rss
+- **Resumen**: La transformación    política ocurrió. Negarlo sería desconocer uno de los cambios más profundos en la vida pública mexicana de las últimas décadas. El obradorismo alteró el equilibrio del poder político, desplazó a las élites que habían gobernado el país durante más de 30 años y reconstruyó la legitimidad popular del Estado. Se ampliaron las transferencias sociales, se fortaleció el papel del gobierno federal y se reconfiguró la relación entre política y sociedad. Esa ruptura fue real y cambió el mapa político del país. Sin embargo, toda transformación política plantea inevitablemente una segunda pregunta: si el cambio en el poder político será capaz de modificar también la estructura económica que sostiene el funcionamiento del país.
+- **Relevancia**: 0.5651
 
-### Correos de México, en franca revitalización, asegura su directora
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Tres de cada cuatro pobres dedicados al cuidado sin pago nunca dejan de serlo
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/economia/022n1eco?partner=rss
-- **Resumen**: Correos de México se encuentra en franca “revitalización”, ya que está enfocado en atender a municipios del alta marginación y ha retomado la actividad de mensajería a través de Mexicana de Aviación, destacó Violeta Giorgina Abreu González, directora general del Servicio Postal Mexicano (Correos de México) en entrevista.
-- **Relevancia**: 0.6574
+- **URL**: https://www.jornada.com.mx/2026/03/13/economia/017n1eco?partner=rss
+- **Resumen**: Tres de cada cuatro personas en México que nacen pobres y a lo largo de su vida se dedican al cuidado no remunerado de otra persona mueren pobres. Siendo así, la carga de cuidados –realizados sobre todo por mujeres– es determinante en la desigualdad de oportunidades entre la población mexicana y “factor que agudiza la pobreza”, evidenció el Centro de Estudios Espinosa Yglesias (CEEY).
+- **Relevancia**: 0.5369
 
-### Orlando Delgado Selley: Banca de desarrollo
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Descarta Ebrard que investigación comercial de Washington afecte al país
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/economia/020a1eco?partner=rss
-- **Resumen**: En el mediocre crecimiento de la economía mexicana de los últimos 30 años mucho tiene que ver la ausencia de la banca de desarrollo. Las instituciones de fomento creadas por el Estado mexicano fueron fundamentales para que la economía creciera a tasas anuales de 6 por ciento. Pero llegaron los neoliberales en 1982 y redujeron drásticamente la presencia estatal en la economía. Las transformaciones de la banca de desarrollo llegaron con las reformas neoliberales. Bancos trascendentes por su función en apoyo a actividades productivas específicas, como Banrural y el Banco del Pequeño Comercio, fueron liquidados. A otros, como Nacional Financiera, Bancomext y Banobras, les modificaron sus funciones de fomento, convirtiéndolos en bancos de segundo piso.
-- **Relevancia**: 0.6399
+- **URL**: https://www.jornada.com.mx/2026/03/13/economia/019n1eco?partner=rss
+- **Resumen**: Marcelo Ebrard Casaubón, titular de la Secretaría de Economía (SE), descartó que el inicio de investigaciones comerciales del gobierno de Estados Unidos contra 16 economías (incluido México) tenga repercusiones significativas para el país, pues 85 por ciento del comercio nacional amparado por el Tratado entre México, Estados Unidos y Canadá (T-MEC) no está sujeto a la sección 301 de la Ley de Comercio de 1974 de ese país.
+- **Relevancia**: 0.5637
 
-### Renuevan por seis meses el pacto para no subir gasolina
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### El país comenzó 2026 como principal socio comercial de EU
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/economia/018n1eco?partner=rss
-- **Resumen**: La presidenta Claudia Sheinbaum Pardo y más de 20 empresarios gasolineros renovaron ayer la estrategia nacional para estabilizar el precio de la gasolina Magna, por lo cual el litro se mantendrá en 23.99 pesos seis meses más.
-- **Relevancia**: 0.4609
+- **URL**: https://www.jornada.com.mx/2026/03/13/economia/016n2eco?partner=rss
+- **Resumen**: México arrancó 2026 como el principal socio comercial de Estados Unidos. En enero, según datos de la Oficina del Censo del Departamento de Comercio de ese país, el valor del intercambio bilateral alcanzó 74 mil 100 millones de dólares, cifra sin precedente para un mes similar desde que existen registros, lo que representa un alza anual de 6.5 por ciento.
+- **Relevancia**: 0.578
 
-### Reconoce la Sener a los empresarios
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Incertidumbre arancelaria  e inseguridad limitan la producción, indica el BdeM
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/economia/018n2eco?partner=rss
-- **Resumen**: La continuidad del pacto para mantener el precio de la gasolina regular por debajo de 24 pesos por litro se debe a las empresas del sector, señaló Luz Elena González, titular de la Secretaría de Energía (Sener).
-- **Relevancia**: 0.633
+- **URL**: https://www.jornada.com.mx/2026/03/13/economia/017n3eco?partner=rss
+- **Resumen**: En el cuarto trimestre de 2025, la elevada incertidumbre comercial con Estados Unidos y la inseguridad disminuyeron la producción y los envíos de mercancías de las empresas en México, al tiempo que se elevaron sus costos operativos, informó el Banco de México (BdeM).
+- **Relevancia**: 0.5838
 
-### Crecieron ventas en línea 19.2% en 2025
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Renovará México aranceles  a 220 productos siderúrgicos
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/economia/020n2eco?partner=rss
-- **Resumen**: En 2025 el peso del comercio electrónico en la economía de México alcanzó el nivel más alto desde que hay registros, al sumar 941 mil millones de pesos, un aumento de 19.2 por ciento en comparación con 2024, informó la Asociación Mexicana de Venta Online (AMVO).
-- **Relevancia**: 0.5313
+- **URL**: https://www.jornada.com.mx/2026/03/13/economia/018n1eco?partner=rss
+- **Resumen**: México renovará los aranceles temporales a 220 productos de acero, una industria gravemente perjudicada por el comercio desleal y las tarifas impuestas a sus exportaciones, anunció ante empresarios del sector Marcelo Ebrard Casaubón, titular de la Secretaría de Economía (SE).
+- **Relevancia**: 0.6256
+
+### México necesita dar a los inversionistas certidumbre para crecer a largo plazo
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
+- **Fuente**: jornada_economia
+- **URL**: https://www.jornada.com.mx/2026/03/13/economia/019e1eco?partner=rss
+- **Resumen**: México necesita dar    certidumbre de largo plazo a los inversionistas para detonar su potencial de crecimiento económico, sostuvo Manuel Romo, director general de Banamex.
+- **Relevancia**: 0.6252
 
 ### Carlos Fernández-Vega: México SA
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/opinion/022o1eco?partner=rss
-- **Resumen**: Para ser  declarados “enemigos del Estado” y compartir la fábula de que éste es el “problema, no la solución” (Ronald Reagan dixit), al grupo de barones autóctonos nada mal le ha ido en los 36 años de régimen neoliberal y los siete de la Cuarta Transformación, porque en ese periodo sus respectivas fortunas han crecido de forma por demás generosa y algunas de ellas de manera exponencial, con crisis o sin ella, y siempre amparadas en la explotación de bienes otrora propiedad de su odiado rival, amén de las no pocas “atenciones” del poder político.
-- **Relevancia**: 0.6593
+- **URL**: https://www.jornada.com.mx/2026/03/13/opinion/020o1eco?partner=rss
+- **Resumen**: Una de las primeras    sacudidas económicas que provoca una guerra, máxime si se registra en una de las principales zonas productoras, es el enloquecido aumento de los precios internacionales de petróleo, y la artera agresión de Estados Unidos e Israel a Irán obviamente no es una excepción, pues en cuestión de días aquéllos se han incrementado en alrededor de 50 por ciento, y contando, lo que, si bien beneficia a unos cuantos países –México entre ellos–, descompone la de por sí frágil estabilidad internacional.
+- **Relevancia**: 0.6442
 
-### Sheinbaum  da credibilidad  a México en todo el mundo
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
-- **Fuente**: jornada_economia
-- **URL**: https://www.jornada.com.mx/2026/03/12/economia/019e1eco?partner=rss
-- **Resumen**: El sentimiento de los inversionistas hacia México ha cambiado para bien, pues tienen la impresión de que las cosas mejoran. Ese viraje de ánimo responde, en buena medida, a la credibilidad que la presidenta Claudia Sheinbaum ha logrado construir a escala global, afirma Jorge Arce Gama, director general de HSBC México y América Latina.
-- **Relevancia**: 0.5713
+### Analistas advierten que la guerra podría durar dos meses, con peligro de recesión
+- **Fecha**: Fri, 13 Mar 2026 00:30:33 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion
+- **Resumen**: Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.
+- **Relevancia**: 0.5477
+
+### El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas
+- **Fecha**: Fri, 13 Mar 2026 00:25:17 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas
+- **Resumen**: El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.
+- **Relevancia**: 0.6305
 
 ### México llevará el acero como primer tema comercial a la mesa del T-MEC
 - **Fecha**: Thu, 12 Mar 2026 22:12:23 GMT
@@ -185,18 +199,4 @@ schema: "NewsDigest"
 - **URL**: https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador
 - **Resumen**: Armando Herrera, CEO de Nu México, dijo que de los más de 13 millones de clientes que tienen, un 14% está en la región de menos inclusión financiera.
 - **Relevancia**: 0.4623
-
-### Revolut: "En México hay millones de personas que no están cómodas con su banco"
-- **Fecha**: Mon, 09 Mar 2026 11:55:34 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/09/revolut-en-mexico-hay-millones-de-personas-que-no-estan-comodas-con-su-banco
-- **Resumen**: Juan Miguel Guerra, director del banco, ve una gran oportunidad en la insatisfacción con los servicios financieros tradicionales y apuesta por ofrecer más productos en una sola app para competir con la banca en México.
-- **Relevancia**: 0.6965
-
-### Juez concede a agencia estadounidense moratoria para devolver los aranceles
-- **Fecha**: Sat, 07 Mar 2026 00:38:10 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/06/juez-concede-a-agencia-estadounidense-moratoria-para-devolver-los-aranceles
-- **Resumen**: La CBP presentó un documento ante la corte después de que un juez federal ordenara esta semana a la administración Trump que comenzara a rembolsar el dinero obtenido por los aranceles.
-- **Relevancia**: 0.5186
 

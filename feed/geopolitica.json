@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json",
   "language": "es-MX",
-  "date_modified": "2026-03-13T07:14:44.656952+00:00",
-  "total_records": 91,
+  "date_modified": "2026-03-13T15:02:12.588378+00:00",
+  "total_records": 98,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#0",
@@ -439,10 +439,10 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#39",
-      "title": "La guerra contra Irán, el “inicio del fin del gobierno” de Trump",
+      "title": "EU escoltará buques por Ormuz “cuando sea militarmente posible”",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.jornada.com.mx/2026/03/12/mundo/025n1mun?partner=rss",
+      "url": "https://www.jornada.com.mx/2026/03/13/mundo/022n1mun?partner=rss",
       "tags": [
         "geopolitica",
         "jornada_mundo"
@@ -450,10 +450,10 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#40",
-      "title": "Burócratas se movilizan en Argentina contra los bajos salarios",
+      "title": "Kast inicia su mandato con cesiones a EU e indultos",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.jornada.com.mx/2026/03/12/mundo/028n1mun?partner=rss",
+      "url": "https://www.jornada.com.mx/2026/03/13/mundo/025n4mun?partner=rss",
       "tags": [
         "geopolitica",
         "jornada_mundo"
@@ -461,10 +461,10 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#41",
-      "title": "La ONU condena a Irán y le exige cese el fuego, pero no a EU ni a Israel",
+      "title": "Tiene el peso cotización más baja ante el dólar en el año",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n3mun?partner=rss",
+      "url": "https://www.jornada.com.mx/2026/03/13/mundo/023n3mun?partner=rss",
       "tags": [
         "geopolitica",
         "jornada_mundo"
@@ -472,10 +472,10 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#42",
-      "title": "Mercados continúan en la incertidumbre; suben dólar y bonos",
+      "title": "China redobla la apuesta por transformar su economía",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n2mun?partner=rss",
+      "url": "https://www.jornada.com.mx/2026/03/13/mundo/026n3mun?partner=rss",
       "tags": [
         "geopolitica",
         "jornada_mundo"
@@ -483,10 +483,10 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#43",
-      "title": "Pese a acuerdo para liberar reservas, sigue volatilidad en precio de combustibles",
+      "title": "PDVSA se asocia con Repsol y ENI para la explotación de gas",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n1mun?partner=rss",
+      "url": "https://www.jornada.com.mx/2026/03/13/mundo/025n2mun?partner=rss",
       "tags": [
         "geopolitica",
         "jornada_mundo"
@@ -494,39 +494,105 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#44",
-      "title": "Investors Hunt for Hedges as War Shatters Decades-Old Strategies",
+      "title": "EU permitirá la “venta temporal” de petróleo ruso para bajar precios",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-12/investors-hunt-for-hedges-as-war-shatters-decades-old-strategies",
+      "url": "https://www.jornada.com.mx/2026/03/13/mundo/023n1mun?partner=rss",
       "tags": [
         "geopolitica",
-        "bloomberg_markets"
+        "jornada_mundo"
       ]
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#45",
-      "title": "Iran's Leaders Aim to 'Outlast' US Military: Expert",
+      "title": "El mundo, en nueva era oscura de abusos: relator de la ONU",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.bloomberg.com/news/videos/2026-03-13/iran-s-leaders-aim-to-outlast-us-military-expert-video",
+      "url": "https://www.jornada.com.mx/2026/03/13/mundo/024n1mun?partner=rss",
       "tags": [
         "geopolitica",
-        "bloomberg_markets"
+        "jornada_mundo"
       ]
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#46",
-      "title": "Economists See ECB Holding Rates Until 2028 in Split From Market",
+      "title": "Trump se disculpa con Petro por excluirlo del Escudo de las Américas",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-13/economists-see-ecb-holding-rates-until-2028-in-split-from-market",
+      "url": "https://www.jornada.com.mx/2026/03/13/mundo/026n1mun?partner=rss",
+      "tags": [
+        "geopolitica",
+        "jornada_mundo"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#47",
+      "title": "Persiste alza en crudo por agravamiento de la guerra en Medio Oriente",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.jornada.com.mx/2026/03/13/mundo/023n2mun?partner=rss",
+      "tags": [
+        "geopolitica",
+        "jornada_mundo"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#48",
+      "title": "BofA’s Hartnett Warns Markets Looking Like 2008",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-13/bofa-s-hartnett-warns-markets-are-starting-to-look-like-2008",
       "tags": [
         "geopolitica",
         "bloomberg_markets"
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#47",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#49",
+      "title": "Gold Heads for Weekly Drop as Mideast War Keeps Oil Prices High",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#50",
+      "title": "European Stocks Rebound on Hopes of Hormuz Passage for Tankers",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-13/european-stocks-set-for-second-weekly-drop-as-iran-war-weighs",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#51",
+      "title": "Treasuries Rise as Data Supports Case for Fed Rate Cut This Year",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-13/treasuries-rise-as-data-backs-case-for-a-fed-rate-cut-this-year",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#52",
+      "title": "How the Iran War Could Usher in a New Era of Global Shiite Extremism",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://foreignpolicy.com/2026/03/13/terroism-iran-war-shiite-extremism/",
+      "tags": [
+        "geopolitica",
+        "foreign_policy"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#53",
       "title": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -537,77 +603,11 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#48",
-      "title": "Trump Likely to Confront Democratic Wall on Iran War Funding",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://foreignpolicy.com/2026/03/10/trump-iran-war-funding-congress-democrats-military-spending/",
-      "tags": [
-        "geopolitica",
-        "foreign_policy"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#49",
-      "title": "Iran war: What is happening on day 14 of US-Israel attacks?",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://www.aljazeera.com/news/2026/3/13/iran-war-what-is-happening-on-day-14-of-us-israel-attacks?traffic_source=rss",
-      "tags": [
-        "geopolitica",
-        "al_jazeera"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#50",
-      "title": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss",
-      "tags": [
-        "geopolitica",
-        "al_jazeera"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#51",
-      "title": "Iranian missile strikes residential area in northern Israel",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss",
-      "tags": [
-        "geopolitica",
-        "al_jazeera"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#52",
-      "title": "Netanyahu says Israeli strikes killed Iranian nuclear scientists",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss",
-      "tags": [
-        "geopolitica",
-        "al_jazeera"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#53",
-      "title": "Iran war live: US-Israeli strikes across Tehran; drones near Riyadh",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss",
-      "tags": [
-        "geopolitica",
-        "al_jazeera"
-      ]
-    },
-    {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#54",
-      "title": "Iran envoy says Tehran will keep Strait of Hormuz open",
+      "title": "What’s happened in Gaza and the West Bank since the start of the Iran war?",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/3/13/whats-happened-in-gaza-and-the-west-bank-since-the-start-of-the-iran-war?traffic_source=rss",
       "tags": [
         "geopolitica",
         "al_jazeera"
@@ -615,10 +615,10 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#55",
-      "title": "Air attacks target bases of Iran-backed forces in Iraq",
+      "title": "Dozens injured after missile attack hits northern Israel",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/dozens-injured-after-missile-attack-hits-northern-israel?traffic_source=rss",
       "tags": [
         "geopolitica",
         "al_jazeera"
@@ -626,10 +626,10 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#56",
-      "title": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
+      "title": "Air attack strikes Tehran during al-Quds Day rally",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/air-attack-strikes-tehran-during-al-quds-day-rally?traffic_source=rss",
       "tags": [
         "geopolitica",
         "al_jazeera"
@@ -637,6 +637,50 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#57",
+      "title": "Turkiye says NATO defences intercepted third missile from Iran",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.aljazeera.com/news/2026/3/13/turkiye-says-nato-defences-intercepted-third-missile-from-iran?traffic_source=rss",
+      "tags": [
+        "geopolitica",
+        "al_jazeera"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#58",
+      "title": "Strait of Hormuz transiting ships flash ‘China owner’ signals to evade Iran blockade",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.scmp.com/economy/global-economy/article/3346542/strait-hormuz-transiting-ships-flash-china-owner-signals-evade-iran-blockade?utm_source=rss_feed",
+      "tags": [
+        "geopolitica",
+        "scmp_world"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#59",
+      "title": "US-Israeli war on Iran makes a mockery of global governance rules",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3346410/us-israeli-war-iran-makes-mockery-global-governance-rules?utm_source=rss_feed",
+      "tags": [
+        "geopolitica",
+        "scmp_world"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#60",
+      "title": "UK says Russia, Iran trying to ‘hijack global economy’ amid Hormuz blockade",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.scmp.com/news/world/europe/article/3346523/uk-says-russia-iran-trying-hijack-global-economy-amid-hormuz-blockade?utm_source=rss_feed",
+      "tags": [
+        "geopolitica",
+        "scmp_world"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#61",
       "title": "China’s arms imports plummet, Hong Kong couple’s HK$50,000 Dubai exit: SCMP’s 7 highlights",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -647,7 +691,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#58",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#62",
       "title": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -658,7 +702,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#59",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#63",
       "title": "Netanyahu threatens Iran’s new supreme leader, defends joint assault with US",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -669,8 +713,8 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#60",
-      "title": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#64",
+      "title": "Iran’s new supreme leader defies Trump, says Hormuz must stay blocked",
       "content_text": "",
       "date_published": "2026-03-13",
       "url": "https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed",
@@ -680,51 +724,62 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#61",
-      "title": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://www.scmp.com/plus/news/china/military/article/3346333/us-israeli-war-iran-may-spark-nuclear-arms-race-carnegie-scholar-says?utm_source=rss_feed",
-      "tags": [
-        "geopolitica",
-        "scmp_world"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#62",
-      "title": "EE.UU. le busca reemplazo a sus Patriot por ser \"excesivamente caros\"",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://actualidad.rt.com/actualidad/592600-eeuu-patriot-costoso-reemplazo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "tags": [
-        "geopolitica",
-        "rt_espanol"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#63",
-      "title": "Reportan supuestos avistamientos de Pie Grande",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://actualidad.rt.com/viral/592587-reportan-supuestos-avistamientos-pie-grande?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "tags": [
-        "geopolitica",
-        "rt_espanol"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#64",
-      "title": "FOTO deja en evidencia la paralización del paso por el estrecho de Ormuz",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://actualidad.rt.com/actualidad/592589-foto-decenas-barcos-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "tags": [
-        "geopolitica",
-        "rt_espanol"
-      ]
-    },
-    {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#65",
+      "title": "\"Que piense en sus cinco hijos y seis nietos\": general retirado de Ucrania amenaza a Orbán",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://actualidad.rt.com/actualidad/592511-general-ucrania-amenazar-orban?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#66",
+      "title": "Cómo China puede ser la gran ganadora de la guerra en Oriente Medio",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://actualidad.rt.com/actualidad/592644-nyt-china-gran-ganadora-guerra-oriente-medio?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#67",
+      "title": "Sismo de magnitud 6,3 sacude la costa central de Chile",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://actualidad.rt.com/actualidad/592697-sismo-magnitud-sacude-costa-chile?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#68",
+      "title": "Cancillería de Rusia convoca a los embajadores de Reino Unido y Francia por ataques contra Briansk",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://actualidad.rt.com/actualidad/592692-cancilleria-rusia-embajadores-reino-unido-francia-ataques-misiles-briansk?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#69",
+      "title": "Uno de cada tres hombres de la generación Z prefiere una esposa obediente",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://actualidad.rt.com/actualidad/592643-tres-hombres-jovenes-prefiere-tener?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#70",
       "title": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -735,7 +790,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#66",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#71",
       "title": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -746,7 +801,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#67",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#72",
       "title": "Russia not interested in arms race with Europe, European Parliament member says",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -757,7 +812,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#68",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#73",
       "title": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -768,29 +823,51 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#69",
-      "title": "French soldier killed, several wounded in Iraq attack, Macron confirms",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#74",
+      "title": "Republican lawmakers shrug at more funding for Iran war",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.politico.eu/article/french-soldier-killed-several-wounded-iraq-attack-emmanuel-macron-confirms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "url": "https://www.politico.com/news/2026/03/13/getting-congress-to-pay-for-the-iran-war-wont-be-an-easy-sell-00826757?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "tags": [
         "geopolitica",
         "politico_europe"
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#70",
-      "title": "Europe should back American strikes on Iran, says key Merz ally",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#75",
+      "title": "‘Not very logical’: Zelenskyy blasts US for easing Russia sanctions",
       "content_text": "",
       "date_published": "2026-03-13",
-      "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/europe-should-back-american-strikes-on-iran-says-key-merz-ally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "url": "https://www.politico.eu/article/zelenskyy-us-easing-of-sanctions-not-very-logical/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "tags": [
         "geopolitica",
         "politico_europe"
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#71",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#76",
+      "title": "NATO intercepts third Iranian missile heading toward Turkey",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.politico.eu/article/nato-intercepts-third-iran-missile-toward-turkey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "tags": [
+        "geopolitica",
+        "politico_europe"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#77",
+      "title": "Trump is ‘wrong’: Europeans slam US decision to ease Russia oil sanctions",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://www.politico.eu/article/germany-friedrich-merz-blasts-donald-trump-lift-russian-energy-sanctions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "tags": [
+        "geopolitica",
+        "politico_europe"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#78",
       "title": "Bowman, Capital Rules for the Real Economy",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -801,7 +878,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#72",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#79",
       "title": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -812,7 +889,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#73",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#80",
       "title": "Bowman, Outlook for the Economy and Monetary Policy",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -823,10 +900,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#74",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#81",
       "title": "Council on Foreign Relations — feed geopolitico 2026-03-13",
       "content_text": "Council on Foreign Relations (EEUU): Analisis de politica exterior y geopolitica global. Feed RSS referencia: https://www.cfr.org/blog/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.cfr.org/blog/feed",
       "tags": [
         "geopolitica",
@@ -834,10 +911,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#75",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#82",
       "title": "CSIS — feed geopolitico 2026-03-13",
       "content_text": "CSIS (EEUU): Centro de Estudios Estrategicos e Internacionales. Feed RSS referencia: https://www.csis.org/blogs/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.csis.org/blogs/feed",
       "tags": [
         "geopolitica",
@@ -845,10 +922,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#76",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#83",
       "title": "Brookings Institution — feed geopolitico 2026-03-13",
       "content_text": "Brookings Institution (EEUU): Think tank politica publica y economia global. Feed RSS activo: https://www.brookings.edu/feed/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.brookings.edu/feed/",
       "tags": [
         "geopolitica",
@@ -856,10 +933,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#77",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#84",
       "title": "Carnegie Endowment — feed geopolitico 2026-03-13",
       "content_text": "Carnegie Endowment (EEUU): Geopolitica y relaciones internacionales. Feed RSS activo: https://carnegieendowment.org/rss/solr/feed/?fa=pub. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://carnegieendowment.org/rss/solr/feed/?fa=pub",
       "tags": [
         "geopolitica",
@@ -867,10 +944,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#78",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#85",
       "title": "Chatham House — feed geopolitico 2026-03-13",
       "content_text": "Chatham House (Europa): Relaciones internacionales Reino Unido. Feed RSS referencia: https://www.chathamhouse.org/research/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.chathamhouse.org/research/",
       "tags": [
         "geopolitica",
@@ -878,10 +955,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#79",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#86",
       "title": "Bruegel — feed geopolitico 2026-03-13",
       "content_text": "Bruegel (Europa): Economia europea y politica comercial. Feed RSS activo: https://www.bruegel.org/rss.xml. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.bruegel.org/rss.xml",
       "tags": [
         "geopolitica",
@@ -889,10 +966,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#80",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#87",
       "title": "RIAC — feed geopolitico 2026-03-13",
       "content_text": "RIAC (Rusia): Consejo Ruso de Asuntos Internacionales. Feed RSS activo: https://russiancouncil.ru/en/rss/analytics/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://russiancouncil.ru/en/rss/analytics/",
       "tags": [
         "geopolitica",
@@ -900,10 +977,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#81",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#88",
       "title": "Reuters — Business — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — Business (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US",
       "tags": [
         "geopolitica",
@@ -911,10 +988,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#82",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#89",
       "title": "Reuters — World — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — World (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US",
       "tags": [
         "geopolitica",
@@ -922,10 +999,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#83",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#90",
       "title": "Financial Times — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Financial Times (Global). Estado: activo. URL: https://www.ft.com/world?format=rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.ft.com/world?format=rss",
       "tags": [
         "geopolitica",
@@ -933,10 +1010,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#84",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#91",
       "title": "Bloomberg Markets — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Bloomberg Markets (Global). Estado: activo. URL: https://feeds.bloomberg.com/markets/news.rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://feeds.bloomberg.com/markets/news.rss",
       "tags": [
         "geopolitica",
@@ -944,10 +1021,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#85",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#92",
       "title": "WSJ Markets — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: WSJ Markets (EEUU). Estado: activo. URL: https://feeds.a.dj.com/rss/RSSMarketsMain.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
       "tags": [
         "geopolitica",
@@ -955,10 +1032,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#86",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#93",
       "title": "Nikkei Asia — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Nikkei Asia (Asia). Estado: activo. URL: https://asia.nikkei.com/rss/feed/nar. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://asia.nikkei.com/rss/feed/nar",
       "tags": [
         "geopolitica",
@@ -966,10 +1043,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#87",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#94",
       "title": "South China Morning Post — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: South China Morning Post (Asia). Estado: activo. URL: https://www.scmp.com/rss/91/feed. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.scmp.com/rss/91/feed",
       "tags": [
         "geopolitica",
@@ -977,10 +1054,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#88",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#95",
       "title": "TASS — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: TASS (Rusia). Estado: activo. URL: https://tass.com/rss/v2.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://tass.com/rss/v2.xml",
       "tags": [
         "geopolitica",
@@ -988,10 +1065,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#89",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#96",
       "title": "Politico Europe — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Politico Europe (Europa). Estado: activo. URL: https://www.politico.eu/feed/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.politico.eu/feed/",
       "tags": [
         "geopolitica",
@@ -999,10 +1076,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#90",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#97",
       "title": "Defense News — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Defense News (EEUU). Estado: activo. URL: https://www.defensenews.com/arc/outboundfeeds/rss/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
       "tags": [
         "geopolitica",

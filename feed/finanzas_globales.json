@@ -5,14 +5,14 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json",
   "language": "es-MX",
-  "date_modified": "2026-03-13T07:14:44.656952+00:00",
+  "date_modified": "2026-03-13T15:02:12.588378+00:00",
   "total_records": 18,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#0",
       "title": "Deuda publica USA — 2026-03-13",
       "content_text": "Deuda publica total de EE.UU. al 2026-03-11: USD 38882422422396.88 millones. Deuda en manos del publico: USD 31285946384224.81 millones.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/",
       "tags": [
         "finanzas_globales",
@@ -23,7 +23,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#1",
       "title": "Tasa interes bonos USA: Treasury Bills — 2026-02-28",
       "content_text": "Instrumento: Treasury Bills. Tipo: Marketable. Tasa promedio: 3.720%. Fecha: 2026-02-28.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://fiscaldata.treasury.gov/datasets/average-interest-rates-treasury-securities/",
       "tags": [
         "finanzas_globales",
@@ -34,7 +34,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#2",
       "title": "Tasa interes bonos USA: Treasury Notes — 2026-02-28",
       "content_text": "Instrumento: Treasury Notes. Tipo: Marketable. Tasa promedio: 3.190%. Fecha: 2026-02-28.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://fiscaldata.treasury.gov/datasets/average-interest-rates-treasury-securities/",
       "tags": [
         "finanzas_globales",
@@ -45,7 +45,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#3",
       "title": "Tasa interes bonos USA: Treasury Bonds — 2026-02-28",
       "content_text": "Instrumento: Treasury Bonds. Tipo: Marketable. Tasa promedio: 3.377%. Fecha: 2026-02-28.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://fiscaldata.treasury.gov/datasets/average-interest-rates-treasury-securities/",
       "tags": [
         "finanzas_globales",
@@ -56,7 +56,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#4",
       "title": "Fed — Comunicados politica monetaria — 2026-03-13",
       "content_text": "Feed RSS oficial de la Reserva Federal de EE.UU. con comunicados de politica monetaria, decisiones de tasas, discursos y reportes. Relevante para LATAM por impacto en tipos de cambio. URL: https://www.federalreserve.gov/feeds/press_monetary.xml. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
       "tags": [
         "finanzas_globales",
@@ -67,7 +67,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#5",
       "title": "Fed — Todos los comunicados — 2026-03-13",
       "content_text": "Feed RSS oficial de la Reserva Federal de EE.UU. con comunicados de politica monetaria, decisiones de tasas, discursos y reportes. Relevante para LATAM por impacto en tipos de cambio. URL: https://www.federalreserve.gov/feeds/press_all.xml. Fecha: 2026-03-13.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.federalreserve.gov/feeds/press_all.xml",
       "tags": [
         "finanzas_globales",
@@ -76,9 +76,9 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#6",
-      "title": "Tipo de cambio EUR/USD BCE — 2026-03-06",
-      "content_text": "Tipo de cambio oficial EUR/USD del Banco Central Europeo: 1.1561 al 2026-03-06. Referencia para comercio exterior Mexico-UE y deuda corporativa LATAM en euros.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "title": "Tipo de cambio EUR/USD BCE — 2026-03-09",
+      "content_text": "Tipo de cambio oficial EUR/USD del Banco Central Europeo: 1.1555 al 2026-03-09. Referencia para comercio exterior Mexico-UE y deuda corporativa LATAM en euros.",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://data.ecb.europa.eu/data/datasets/EXR",
       "tags": [
         "finanzas_globales",
@@ -87,9 +87,9 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#7",
-      "title": "Tipo de cambio EUR/USD BCE — 2026-03-09",
-      "content_text": "Tipo de cambio oficial EUR/USD del Banco Central Europeo: 1.1555 al 2026-03-09. Referencia para comercio exterior Mexico-UE y deuda corporativa LATAM en euros.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "title": "Tipo de cambio EUR/USD BCE — 2026-03-10",
+      "content_text": "Tipo de cambio oficial EUR/USD del Banco Central Europeo: 1.1641 al 2026-03-10. Referencia para comercio exterior Mexico-UE y deuda corporativa LATAM en euros.",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://data.ecb.europa.eu/data/datasets/EXR",
       "tags": [
         "finanzas_globales",
@@ -98,9 +98,9 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#8",
-      "title": "Tipo de cambio EUR/USD BCE — 2026-03-10",
-      "content_text": "Tipo de cambio oficial EUR/USD del Banco Central Europeo: 1.1641 al 2026-03-10. Referencia para comercio exterior Mexico-UE y deuda corporativa LATAM en euros.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "title": "Tipo de cambio EUR/USD BCE — 2026-03-11",
+      "content_text": "Tipo de cambio oficial EUR/USD del Banco Central Europeo: 1.1581 al 2026-03-11. Referencia para comercio exterior Mexico-UE y deuda corporativa LATAM en euros.",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://data.ecb.europa.eu/data/datasets/EXR",
       "tags": [
         "finanzas_globales",
@@ -111,7 +111,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#9",
       "title": "Crecimiento PIB Argentina 2030",
       "content_text": "Tasa de crecimiento real del PIB de Argentina en 2030: 3.2%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
       "tags": [
         "finanzas_globales",
@@ -122,7 +122,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#10",
       "title": "Crecimiento PIB Brasil 2030",
       "content_text": "Tasa de crecimiento real del PIB de Brasil en 2030: 2.5%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
       "tags": [
         "finanzas_globales",
@@ -133,7 +133,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#11",
       "title": "Crecimiento PIB Chile 2030",
       "content_text": "Tasa de crecimiento real del PIB de Chile en 2030: 2.2%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
       "tags": [
         "finanzas_globales",
@@ -144,7 +144,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#12",
       "title": "Crecimiento PIB Colombia 2030",
       "content_text": "Tasa de crecimiento real del PIB de Colombia en 2030: 2.8%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
       "tags": [
         "finanzas_globales",
@@ -155,7 +155,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#13",
       "title": "Crecimiento PIB Mexico 2030",
       "content_text": "Tasa de crecimiento real del PIB de Mexico en 2030: 2.1%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
       "tags": [
         "finanzas_globales",
@@ -166,7 +166,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/finanzas_globales.json#14",
       "title": "Crecimiento PIB Peru 2030",
       "content_text": "Tasa de crecimiento real del PIB de Peru en 2030: 2.5%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
-      "date_published": "2026-03-13T07:13:00.386269+00:00",
+      "date_published": "2026-03-13T14:59:45.558823+00:00",
       "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
       "tags": [
         "finanzas_globales",

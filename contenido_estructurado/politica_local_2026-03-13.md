@@ -2,7 +2,7 @@
 title: "Politica Local — Actualización 2026-03-13"
 date: "2026-03-13"
 nicho: "politica_local"
-total_entradas: 15
+total_entradas: 16
 schema: "NewsDigest"
 ---
 
@@ -11,103 +11,110 @@ schema: "NewsDigest"
 
 ## Entradas del día
 
-### Sheinbaum rinde homenaje a los militares caídos en el operativo contra El Mencho
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Anuncia Sheinbaum iniciativa para indagar mejor los feminicidios
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_politica
-- **URL**: https://www.jornada.com.mx/2026/03/12/politica/008n1pol?partner=rss
-- **Resumen**: El fuerte sonar de la corneta se elevó en memoria de los caídos. Le siguió el retumbar de los tambores de la banda de guerra. El acorde fue inequívoco: “el toque militar de silencio” replicó para honrar y despedir a los elementos militares que murieron durante y después el operativo contra el capo del cártel Jalisco Nueva Generación (CJNG), Nemesio Oseguera Cervantes, El Mencho.
-- **Relevancia**: 0.4721
+- **URL**: https://www.jornada.com.mx/2026/03/13/politica/008n1pol?partner=rss
+- **Resumen**: La presidenta Claudia Sheinbaum anunció que enviará al Congreso una iniciativa para mejorar los protocolos de investigación en los casos de feminicidio, de manera similar a las que promovió en la Ciudad de México cuando era jefa de Gobierno.
+- **Relevancia**: 0.5063
 
-### Nadya Rasheed*: Esa otra manifestación de la política genocida en Cisjordania
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Proponen rechazar chats como pruebas en juicios electorales
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_politica
-- **URL**: https://www.jornada.com.mx/2026/03/12/politica/017a1pol?partner=rss
-- **Resumen**: A la luz de los hechos, quienes creemos en la justicia debemos tener la voluntad para mirar de frente a la imposición del poder por el poder mismo, pues el sentido de la verdad nos muestra que las vías que conducen a la igualdad de condiciones y oportunidades para existir están fuera del mapa, del piso y techo que la justicia debe ofrecernos.
-- **Relevancia**: 0.5107
+- **URL**: https://www.jornada.com.mx/2026/03/13/politica/012n2pol?partner=rss
+- **Resumen**: Las conversaciones privadas no pueden ser tomadas como pruebas lícitas en juicios electorales, concluye el proyecto de sentencia del magistrado Felipe de la Mata, el cual será votado en la próxima sesión de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación (TEPJF).
+- **Relevancia**: 0.4806
 
-### Decide hoy la Corte sobre lucro de Grupo Xcaret con la cultura maya
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Con modernización de aduanas y senderos seguros, gobernador Durazo fortalece la movilidad comercial y seguridad fronteriza
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_politica
-- **URL**: https://www.jornada.com.mx/2026/03/12/politica/014n1pol?partner=rss
-- **Resumen**: La Suprema Corte de Justicia de la Nación (SCJN) enlistó para su discusión de hoy un proyecto de la ministra María Estela Ríos González que propone revocar la suspensión definitiva en un juicio de amparo indirecto que permitió a Grupo Xcaret seguir utilizando elementos del patrimonio cultural maya en la promoción turística de sus hoteles y parques. De aprobarse, la empresa tendría que retirar esa simbología de su publicidad mientras se resuelve el litigio de fondo.
-- **Relevancia**: 0.4935
-
-### Consolida Durazo conectividad vial y desarrollo de Sonora
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
-- **Fuente**: jornada_politica
-- **URL**: https://www.jornada.com.mx/2026/03/12/politica/015n4pol?partner=rss
-- **Resumen**: Hermosillo, Son., Con el Programa de MejoramientoCarretero, el gobernador AlfonsoDurazo Montaño consolida una transformación profunda en conec-tividad y desarrollo de la entidad, mediante inversiones históricas en infraestructura vial que alcanzan 10 mil 285 millones de pesos.
-- **Relevancia**: 0.4903
-
-### Autos de aplicación no están autorizados para operar en el polígono del AICM: autoridades
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
-- **Fuente**: jornada_politica
-- **URL**: https://www.jornada.com.mx/2026/03/12/politica/012n2pol?partner=rss
-- **Resumen**: Uber no cuenta con autorización para prestar servicios dentro del polígono del Aeropuerto Internacional de la Ciudad de México (AICM) y demás terminales aéreas, sostuvo la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT).
-- **Relevancia**: 0.4681
-
-### Justifica Morena la asistencia de Yunes Márquez a reunión de senadores en París
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
-- **Fuente**: jornada_politica
-- **URL**: https://www.jornada.com.mx/2026/03/12/politica/007n3pol?partner=rss
-- **Resumen**: Sobre la presencia de Miguel Ángel Yunes Márquez en París, donde asiste a una reunión de parlamentarios de la Organización para la Cooperación y el Desarrollo Económicos (OCDE), la presidenta del Senado, Laura Itzel Castillo, declaró ayer que participa a título personal, no como representante de esta cámara, y que él cubrió su boleto de avión y su estancia en la capital francesa.
-- **Relevancia**: 0.5179
+- **URL**: https://www.jornada.com.mx/2026/03/13/politica/011n4pol?partner=rss
+- **Resumen**: Con una inversión cercana a 400 millones de pesos y en beneficio de alrededor de 600 mil habitantes de la región, el gobernador Alfonso Durazo Montaño dio inicio a la modernización de la Aduana de San Luis Río Colorado I, una obra estratégica que busca fortalecer la actividad económica y consolidar a esta frontera como un nodo logístico clave del noroeste del país.
+- **Relevancia**: 0.5105
 
 ### Julio Hernández López: Astillero
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_politica
-- **URL**: https://www.jornada.com.mx/2026/03/12/opinion/008o1pol?partner=rss
-- **Resumen**: Va el plan B, que en realidad es el  plan E(lectoral). Lo de menos, relativamente, es que la iniciativa presidencial haya sido rechazada; lo trascendente es que la presidenta Sheinbaum se ha hecho de una bandera rumbo a las urnas intermedias de 2027: convocar a militantes de Morena y simpatizantes en general del proceso 4T a votar en abundancia por las candidaturas guindas a San Lázaro para empujar las reformas que ahora le fueron impedidas por el Verde y el PT, en el primer desa-compañamiento de estos partidos “aliados” desde 2018.
-- **Relevancia**: 0.4676
+- **URL**: https://www.jornada.com.mx/2026/03/13/opinion/008o1pol?partner=rss
+- **Resumen**: Luego del muy cantado revés aritmético en San Lázaro con la iniciativa de reforma electoral, la presidenta Sheinbaum ha anunciado la presentación de otra propuesta de modificaciones constitucionales que requiere mayoría calificada para su aprobación.
+- **Relevancia**: 0.4961
 
-### “Mentiras de Tv Azteca”
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Legisladora pide a diputados dar acceso a mujeres rurales a la tenencia de la tierra
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_politica
-- **URL**: https://www.jornada.com.mx/2026/03/12/politica/013n2pol?partner=rss
-- **Resumen**: La Habana. “El Observatorio de medios de Cubadebate analizó cómo la noticia falsa y malintencionada de Tv Azteca sobre la ayuda material de México recibida en Cuba (que aseguró fue vendida en la isla) corrió más rápido que la verdad y llegó a más personas”, denunció el canciller cubano, Bruno Rodríguez, en X.
-- **Relevancia**: 0.5281
+- **URL**: https://www.jornada.com.mx/2026/03/13/politica/005n3pol?partner=rss
+- **Resumen**: La senadora de Morena Guadalupe Chavira llamó a la Cámara de Diputados a aprobar las modificaciones a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres, las cuales buscan el acceso de las mujeres rurales a la tenencia de la tierra, así como garantizar su participación plena y efectiva en los espacios de toma de decisión en el ámbito agrario.
+- **Relevancia**: 0.5007
 
-### Cooperación en seguridad con EU, basada en responsabilidad compartida: Velasco Álvarez
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Decomisan 270 kilos de fentanilo y detienen a capo de célula criminal
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_politica
-- **URL**: https://www.jornada.com.mx/2026/03/12/politica/014n3pol?partner=rss
-- **Resumen**: El subsecretario para América del Norte, Roberto Velasco Álvarez, afirmó ayer que la cooperación en materia de seguridad entre México y Estados Unidos se basa en principios y en responsabilidad compartida, no en presiones externas.
-- **Relevancia**: 0.5953
+- **URL**: https://www.jornada.com.mx/2026/03/13/politica/010n1pol?partner=rss
+- **Resumen**: Autoridades federales aseguraron alrededor de 270 kilogramos de fentanilo –equivalentes a unas 14 millones de dosis– y detuvieron a seis personas, incluido el presunto líder de una célula criminal, durante un operativo en el municipio de Villa de Álvarez, Colima, realizado con intercambio de información con Estados Unidos, informó ayer el gabinete de seguridad del gobierno de México.
+- **Relevancia**: 0.4755
 
-### Acusan a priístas de vandalizar anuncios de Morena-Coahuila
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### INE esperará a conocer los textos para definir su postura
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/13/politica/004n3pol?partner=rss
+- **Resumen**: Consejeros del Instituto Nacional Electoral (INE) expresaron que es necesario conocer a detalle el plan B para poder emitir una opinión, sobre todo en la definición de los privilegios de legisladores locales y en municipios.
+- **Relevancia**: 0.4844
+
+### Cae en Sinaloa otro de los  10 más buscados por la FBI
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/13/politica/010n3pol?partner=rss
+- **Resumen**: Efectivos de las corporaciones de seguridad de México detuvieron en Culiacán, Sinaloa, a Samuel Ramírez Jr, sospechoso del asesinato de dos mujeres en 2023 y uno de los 10 fugitivos más buscados de la Oficina Federal de Investigación (FBI, por sus siglas en inglés), informó en redes sociales ayer el titular de la Secretaría de Seguridad y Protección Ciudadana (SSPC), Omar García Harfuch.
+- **Relevancia**: 0.5691
+
+### “Barco privado” provocó el derrame  de crudo en costas de Veracruz: Nahle
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_estados
-- **URL**: https://www.jornada.com.mx/2026/03/12/estados/030n3est?partner=rss
-- **Resumen**: Morena aseguró que en Coahuila hay una “operación coordinada desde el gobierno del estado”, que encabeza el priísta Manolo Jiménez, para vandalizar espectaculares del partido guinda, o de los aspirantes rumbo a las elecciones locales de julio entrante, que renovarán al Congreso estatal. Además, difundió fotografías de nueve anuncios espectaculares contratados por Morena, a los que les arrancaron lonas con mensajes. Expuso en un comunicado que esos daños “evidencian un intento anticipado de intervenir en el proceso democrático mediante prácticas ilegales y actos de intimidación”; igualmente que “cuando un gobierno recurre a este tipo de prácticas es porque está nervioso. El PRI sabe que la ciudadanía está cada vez más consciente y que el deseo de cambio en Coahuila es real”.
-- **Relevancia**: 0.4775
+- **URL**: https://www.jornada.com.mx/2026/03/13/estados/027n1est?partner=rss
+- **Resumen**: Veracruz, Ver., La gobernadora Rocío Nahle García aseguró que el derrame de hidrocarburo que ha contaminado decenas de kilómetros de las costas de la entidad proviene de un barco petrolero localizado en aguas del vecino estado de Tabasco.
+- **Relevancia**: 0.4866
 
-### Es contratista del gobierno central y alcaldías la empresa que demolía inmueble que colapsó
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
-- **Fuente**: jornada_capital
-- **URL**: https://www.jornada.com.mx/2026/03/12/capital/031n3cap?partner=rss
-- **Resumen**: Demec Demoliciones, SA de CV, empresa encargada del derribo del edificio de San Antonio Abad 124, no es ajena a las autoridades capitalinas, pues ha participado como contratista para el Gobierno de la Ciudad de México en trabajos de obra de mitigación social como parte de la ampliación de la línea 12 de Mixcoac a Observatorio.
-- **Relevancia**: 0.5826
+### Diez días después del desastre no hay postura oficial
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/13/estados/027n2est?partner=rss
+- **Resumen**: A 10 días del derrame de chapopote en costas de Veracruz y Tabasco, que ha afectado al menos 39 localidades y 230 kilómetros de litoral, las autoridades ambientales federales no han emitido una postura oficial sobre los hechos.
+- **Relevancia**: 0.5089
 
-### Blindará gobierno el gasto social; este año será mayor a 13 mil mdp
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
-- **Fuente**: jornada_capital
-- **URL**: https://www.jornada.com.mx/2026/03/12/capital/033n2cap?partner=rss
-- **Resumen**: El Gobierno de la Ciudad de México destinará más de 13 mil millones de pesos a programas sociales este 2026, y presentará una iniciativa de reforma constitucional para blindar el gasto social y garantizar derechos para la primera infancia.
-- **Relevancia**: 0.5931
+### Pemex ofrece “apoyar con acciones en favor del medio ambiente”
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/13/estados/027n3est?partner=rss
+- **Resumen**: Petróleos Mexicanos (Pemex) aseguró ayer que el derrame de chapopote que afecta al estado de Veracruz y parte de Tabasco no es resultado de sus operaciones en la zona; sin embargo, “ha decidido tomar acciones responsables y solidarias en apoyo al medio ambiente y a las comunidades costeras”.
+- **Relevancia**: 0.5319
 
-### Levanta Came contingencia ante pronóstico favorable
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
-- **Fuente**: jornada_capital
-- **URL**: https://www.jornada.com.mx/2026/03/12/capital/033n1cap?partner=rss
-- **Resumen**: Después de 27 horas, la Comisión Ambiental de la Megalópolis (Came) levantó la fase 1 de contingencia ambiental por ozono en la zona metropolitana del valle de México, debido a que este jueves se esperan mejores condiciones para la dispersión de los contaminantes.
-- **Relevancia**: 0.5132
+### En Puebla, organizaciones sociales preparan amparos contra obras del Cablebús
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/13/estados/028n4est?partner=rss
+- **Resumen**: Organizaciones sociales advirtieron que tramitarán un amparos “contra el proyecto del Cablebús en la ciudad de Puebla,y recurrirán, entre otros instrumentos jurídicos, al Acuerdo de Escazú y la Declaración de Río sobre Medio Ambiente y Desarrollo”.
+- **Relevancia**: 0.5203
 
-### Pese a estar prohibidos, en el Metro comerciantes operan hornos eléctricos para la venta de comida
-- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+### Pese al rezago de servicios, la alcaldía Cuauhtémoc desoye quejas de colonos
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
 - **Fuente**: jornada_capital
-- **URL**: https://www.jornada.com.mx/2026/03/12/capital/032n2cap?partner=rss
-- **Resumen**: Locatarios que operan en instalaciones del Sistema de Transporte Colectivo (STC) Metro utilizan hornos, pese a que su uso está prohibido, ya que representa un riesgo para usuarios y ellos mismos; además, evidencian la operación irregular de los espacios que no cuentan con los permisos correspondientes, acusó Juan Ramón Torres, representantes de la Asociación Comerciantes Unidos.
-- **Relevancia**: 0.5504
+- **URL**: https://www.jornada.com.mx/2026/03/13/capital/031n1cap?partner=rss
+- **Resumen**: Ante peticiones ciudadanas de mantenimiento público como mejoramiento de banquetas y colocación de coladeras, la alcaldía Cuauhtémoc, a cargo de Alessandra Rojo de la Vega, responde que no cuenta con los materiales o que, simplemente, “por el momento no es posible realizar las labores”, según información del Sistema Unificado de Atención Ciudadana (SUAC).
+- **Relevancia**: 0.5035
+
+### Nuevo intento de desalojo enfrentan moradores de inmueble en la Narvarte
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
+- **Fuente**: jornada_capital
+- **URL**: https://www.jornada.com.mx/2026/03/13/capital/032n3cap?partner=rss
+- **Resumen**: Habitantes del inmueble ubicado en la calle Heriberto Frías número 250, en la colonia Narvarte, alcaldía Benito Juárez, enfrentaron ayer un nuevo intento de desalojo presuntamente irregular, a pesar de que existe una suspensión definitiva otorgada dentro de un juicio de amparo radicado en el juzgado décimo primero de lo civil de la Ciudad de México bajo el expediente 12182/2025 que impide cualquier acción para retirar a los ocupantes del predio.
+- **Relevancia**: 0.4968
+
+### Humedad, salitre y goteras están fuera de las mejoras que el STC realiza de cara al Mundial
+- **Fecha**: Fri, 13 Mar 2026 07:35:46 GMT
+- **Fuente**: jornada_capital
+- **URL**: https://www.jornada.com.mx/2026/03/13/capital/030n2cap?partner=rss
+- **Resumen**: A pesar de ser el acceso principal al Aeropuerto Internacional de la Ciudad de México, la estación Terminal Aérea de la línea 5 del Metro no forma parte de los trabajos de mejora en infraestructura que el Sistema de Transporte Colectivo (STC) realiza en otras rutas con miras al Mundial de Futbol, la cual además sufre filtraciones considerables.
+- **Relevancia**: 0.5054
 
 ### Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena
 - **Fecha**: Thu, 12 Mar 2026 16:48:21 +0000
