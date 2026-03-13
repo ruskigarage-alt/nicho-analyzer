@@ -1,0 +1,622 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "geopolitica — 2026-03-13",
+  "description": "Digest semántico de geopolitica generado el 2026-03-13",
+  "datePublished": "2026-03-13",
+  "numberOfItems": 36,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "La guerra contra Irán, el “inicio del fin del gobierno” de Trump",
+        "description": "Nueva York y Washington. Doce días después de que Donald Trump ordenó el comienzo de la guerra contra Irán, críticos advierten que podría ser el inicio de la Tercera Guerra Mundial, que existe el riesgo del uso de armamento nuclear y que también podría marcar el inicio del fin de su presidencia.",
+        "url": "https://www.jornada.com.mx/2026/03/12/mundo/025n1mun?partner=rss",
+        "datePublished": "Thu, 12 Mar 2026 10:23:24 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4698
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Burócratas se movilizan en Argentina contra los bajos salarios",
+        "description": "Buenos Aires. Fuerte tensión sacudía anoche a San Salvador, capital de la provincia de Jujuy, cuando la infantería policial intentaba detener una manifestación de antorchas con centenares de docentes, empleados estatales y vecinos que se dirigían a la casa de gobierno, ante la gravísima situación que les impide comenzar las clases este año, con un salario de 400 mil pesos (casi 400 dólares), y la canasta básica que se calcula en 2 millones 300 mil (poco más 2 mil dólares), lo que condena a 80 por ciento de trabajadores de todo el país a la pobreza y muchos a la indigencia.",
+        "url": "https://www.jornada.com.mx/2026/03/12/mundo/028n1mun?partner=rss",
+        "datePublished": "Thu, 12 Mar 2026 10:23:24 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4965
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "La ONU condena a Irán y le exige cese el fuego, pero no a EU ni a Israel",
+        "description": "Nueva York. El Consejo de Seguridad de la Organización de Naciones Unidas (ONU) aprobó ayer una resolución que exige a Irán cesar de inmediato sus ataques contra los países del golfo Pérsico y Jordania por violar el derecho internacional y representar una “grave amenaza para la paz y la seguridad internacionales”, al tiempo que rechazó otro proyecto de resolución que pedía el cese de acciones militares en Medio Oriente.",
+        "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n3mun?partner=rss",
+        "datePublished": "Thu, 12 Mar 2026 10:23:24 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5025
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Mercados continúan en la incertidumbre; suben dólar y bonos",
+        "description": "La creciente incertidumbre geopolítica ha provocado que el dólar y el rendimiento de los bonos del Tesoro de Estados Unidos suban nuevamente como medida defensiva ante la guerra en Medio Oriente.",
+        "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n2mun?partner=rss",
+        "datePublished": "Thu, 12 Mar 2026 10:23:24 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5531
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Pese a acuerdo para liberar reservas, sigue volatilidad en precio de combustibles",
+        "description": "El acuerdo de la Agencia Internacional de la Energía (IEA, por sus siglas en inglés) de hacer el mayor uso coordinado de reservas de petróleo en el más de medio siglo de la organización, no aplacó el nerviosismo del mercado y el precio del crudo se incrementó más de 4 por ciento este miércoles.",
+        "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n1mun?partner=rss",
+        "datePublished": "Thu, 12 Mar 2026 10:23:24 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.7023
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Investors Hunt for Hedges as War Shatters Decades-Old Strategies",
+        "description": "The basic assumptions that have underpinned hedging strategies for decades are coming undone by the escalating war in Iran.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-12/investors-hunt-for-hedges-as-war-shatters-decades-old-strategies",
+        "datePublished": "Thu, 12 Mar 2026 23:00:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4739
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran's Leaders Aim to 'Outlast' US Military: Expert",
+        "description": "The US-Iran conflict has become a fight for the very survival of the Iranian regime where the Iranian leadership believes they can outlast the US in the fight, according to Middle East specialist Kim Ghattas. (Source: Bloomberg)",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-13/iran-s-leaders-aim-to-outlast-us-military-expert-video",
+        "datePublished": "Fri, 13 Mar 2026 06:02:59 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4816
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Economists See ECB Holding Rates Until 2028 in Split From Market",
+        "description": "Economists see the European Central Bank keeping interest rates unchanged through 2027 even as inflation threats resurface.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-13/economists-see-ecb-holding-rates-until-2028-in-split-from-market",
+        "datePublished": "Fri, 13 Mar 2026 05:15:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5426
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
+        "description": "Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.",
+        "url": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/",
+        "datePublished": "Thu, 12 Mar 2026 17:53:32 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "foreign_policy"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4675
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Trump Likely to Confront Democratic Wall on Iran War Funding",
+        "description": "An emergency military spending request to continue the Iran strikes may soon be sent to U.S lawmakers.",
+        "url": "https://foreignpolicy.com/2026/03/10/trump-iran-war-funding-congress-democrats-military-spending/",
+        "datePublished": "Tue, 10 Mar 2026 21:53:23 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "foreign_policy"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.463
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran war: What is happening on day 14 of US-Israel attacks?",
+        "description": "Israel strikes Tehran as Iran retaliates across the Gulf; Hormuz disruption pushes oil prices higher and tensions rise.",
+        "url": "https://www.aljazeera.com/news/2026/3/13/iran-war-what-is-happening-on-day-14-of-us-israel-attacks?traffic_source=rss",
+        "datePublished": "Fri, 13 Mar 2026 06:13:25 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6695
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
+        "description": "Energy markets remain on tenterhooks as the prospect of prolonged war in the Middle East grows.",
+        "url": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss",
+        "datePublished": "Fri, 13 Mar 2026 03:58:19 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6436
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iranian missile strikes residential area in northern Israel",
+        "description": "Video from northern Israel captured the moment an Iranian missile impacted in a residential area early Friday morning.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss",
+        "datePublished": "Fri, 13 Mar 2026 01:55:30 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6108
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Netanyahu says Israeli strikes killed Iranian nuclear scientists",
+        "description": "Israeli Prime Minister Benjamin Netanyahu said several Iranian nuclear scientists were killed in Israeli strikes.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss",
+        "datePublished": "Fri, 13 Mar 2026 00:25:46 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5594
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran war live: US-Israeli strikes across Tehran; drones near Riyadh",
+        "description": "Israeli strikes kill dozens more in Lebanon, including 5 children among nine people killed in attack on village of Arki.",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss",
+        "datePublished": "Fri, 13 Mar 2026 00:00:00 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.7208
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran envoy says Tehran will keep Strait of Hormuz open",
+        "description": "Iran’s UN envoy Amir Saeid Iravani said Tehran will not close the Strait of Hormuz and remains committed to freedom.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss",
+        "datePublished": "Thu, 12 Mar 2026 23:18:48 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5033
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Air attacks target bases of Iran-backed forces in Iraq",
+        "description": "Air attacks have targeted military bases across Iraq belonging to Iran-backed forces.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss",
+        "datePublished": "Thu, 12 Mar 2026 22:01:00 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4939
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
+        "description": "Prime minister says US-Israeli war prevented Iran from moving its nuclear and ballistic projects underground.",
+        "url": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss",
+        "datePublished": "Thu, 12 Mar 2026 21:32:46 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4997
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "China’s arms imports plummet, Hong Kong couple’s HK$50,000 Dubai exit: SCMP’s 7 highlights",
+        "description": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Why have China’s arms imports plummeted 72% over the past 5 years?\nBeijing’s arms imports have nose-dived by nearly three-quarters over the past five years, as it has replaced overseas weapons purchases with domestic technology,...",
+        "url": "https://www.scmp.com/news/world/article/3346291/chinas-arms-imports-plummet-hong-kong-couples-hk50000-dubai-exit-scmps-7-highlights?utm_source=rss_feed",
+        "datePublished": "Fri, 13 Mar 2026 04:12:07 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4841
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
+        "description": "The United States has imposed sanctions on two companies and six individuals for their roles in operations that used information technology workers in foreign countries to raise money for North Korea.\nThe Treasury Department said the schemes, orchestrated by the North Korean government, had systematically defrauded US businesses and generated revenue to fund North Korea’s weapons programmes, including nearly US$800 million in 2024.\nThe department also accused workers associated with North Korea...",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed",
+        "datePublished": "Fri, 13 Mar 2026 01:35:07 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5313
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Netanyahu threatens Iran’s new supreme leader, defends joint assault with US",
+        "description": "Israeli Prime Minister Benjamin Netanyahu on Thursday issued ⁠a veiled threat to kill Iran’s new supreme leader Mojtaba Khamenei even as he acknowledged that Israel’s joint air war with the US may not lead to a collapse of Tehran’s clerical government.\nHolding his first press conference since the start of the war, ‌the Israeli leader said that Iran was “no longer the same” after nearly two weeks of bombardment and that Tehran had suffered blows to its elite Revolutionary Guards Corps and Basij...",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3346419/netanyahu-threatens-irans-new-supreme-leader-defends-joint-assault-us?utm_source=rss_feed",
+        "datePublished": "Thu, 12 Mar 2026 21:31:01 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5526
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
+        "description": "Iran’s new supreme leader has vowed to keep blocking the Strait of Hormuz, attack US bases and avenge the blood of its martyrs in his first statement since succeeding his father.\n“The lever of blocking the Strait of Hormuz must definitely be used,” Mojtaba Khamenei said about the strategic waterway, which carries about a fifth of global oil shipments.\nKhamenei urged Iran’s Gulf neighbours to close US military bases in the region “as soon as possible, because they must have realised by now that...",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed",
+        "datePublished": "Thu, 12 Mar 2026 14:05:21 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5544
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
+        "description": "Zhao Tong is a senior fellow with the Nuclear Policy Programme at Washington-based think tank the Carnegie Endowment for International Peace and its East Asia-based research centre on contemporary China, Carnegie China.\nHis research focuses on strategic security issues, including nuclear weapons policy, deterrence, arms control, non-proliferation, missile defence, hypersonic weapons, regional security in the Asia-Pacific and China’s security and foreign policy.\nSCMP Plus readers get early access...",
+        "url": "https://www.scmp.com/plus/news/china/military/article/3346333/us-israeli-war-iran-may-spark-nuclear-arms-race-carnegie-scholar-says?utm_source=rss_feed",
+        "datePublished": "Thu, 12 Mar 2026 07:39:17 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4831
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "EE.UU. le busca reemplazo a sus Patriot por ser \"excesivamente caros\"",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b39436e9ff712a173012fa.jpg\" style=\"float: left;\" />\n        \tEl embajador de EE.UU. ante la OTAN admitió que un solo disparo de ese sistema \"cuesta cuatro millones de dólares\".",
+        "url": "https://actualidad.rt.com/actualidad/592600-eeuu-patriot-costoso-reemplazo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Fri, 13 Mar 2026 05:24:52 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5238
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Reportan supuestos avistamientos de Pie Grande",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36a20e9ff71304d55303b.jpg\" style=\"float: left;\" />\n        \tNinguno de los siete episodios, reportados todos en Ohio (EE.UU.), fue captado por cámaras.",
+        "url": "https://actualidad.rt.com/viral/592587-reportan-supuestos-avistamientos-pie-grande?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Fri, 13 Mar 2026 02:25:02 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4634
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "FOTO deja en evidencia la paralización del paso por el estrecho de Ormuz",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36f8359bf5b221950cf55.jpg\" style=\"float: left;\" />\n        \tMedios iraníes difundieron una foto de vista aérea del estrecho de Ormuz, donde decenas de barcos esperan para pasar, en medio de las tensiones por la agresión de EE.UU. e Israel contra Irán. La nación persa bloqueó casi por completo la ruta marítima por donde circula alrededor de 20 % de todo el petróleo que se comercia en el mundo, lo que causó el alza de precios en el mercado energético.",
+        "url": "https://actualidad.rt.com/actualidad/592589-foto-decenas-barcos-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Fri, 13 Mar 2026 02:17:20 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4601
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "\"Estaremos todos en el culo profundo\": Fico advierte a la OTAN sobre el envío de tropas a Ucrania",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331a359bf5b34873f83a5.jpg\" style=\"float: left;\" />\n        \t\"Alguien podría activar el Artículo 5\", alertó el jefe del Gobierno eslovaco.",
+        "url": "https://actualidad.rt.com/actualidad/592538-estaremos-culo-profundo-fico-otan?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Fri, 13 Mar 2026 02:13:51 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5015
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
+        "description": "\"As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire,\" Maria Zakharova said",
+        "url": "https://tass.com/politics/1968329",
+        "datePublished": "Wed, 04 Jun 2025 14:21:03 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4822
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
+        "description": "According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine",
+        "url": "https://tass.com/world/1968271",
+        "datePublished": "Wed, 04 Jun 2025 13:22:26 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4853
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Russia not interested in arms race with Europe, European Parliament member says",
+        "description": "Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as \"strategic patience\"",
+        "url": "https://tass.com/world/1968241",
+        "datePublished": "Wed, 04 Jun 2025 13:02:43 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5195
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
+        "description": "Top stories from the Russian press on Wednesday, June 4th",
+        "url": "https://tass.com/pressreview/1968153",
+        "datePublished": "Wed, 04 Jun 2025 13:00:01 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4758
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "French soldier killed, several wounded in Iraq attack, Macron confirms",
+        "description": "The French president said the war in Iran \"cannot justify\" a drone strike on troops involved in a counterterrorism training exercise in Kurdistan.",
+        "url": "https://www.politico.eu/article/french-soldier-killed-several-wounded-iraq-attack-emmanuel-macron-confirms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "datePublished": "Fri, 13 Mar 2026 03:23:44 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "politico_europe"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5033
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Europe should back American strikes on Iran, says key Merz ally",
+        "description": "Presented by Neste",
+        "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/europe-should-back-american-strikes-on-iran-says-key-merz-ally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "datePublished": "Fri, 13 Mar 2026 03:00:00 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "politico_europe"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4984
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Bowman, Capital Rules for the Real Economy",
+        "description": "Speech At the Cato Institute Policy Forum: Basel III and Bank Capital Rules, Washington, D.C.",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm",
+        "datePublished": "Thu, 12 Mar 2026 15:00:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "fed_speeches"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4734
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
+        "description": "Speech At The Roundtable on Liquidity and Lender of Last Resort sponsored by the Committee on Capital Markets Regulation, Washington, D.C.",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm",
+        "datePublished": "Tue, 3 Mar 2026 13:30:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "fed_speeches"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4634
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Bowman, Outlook for the Economy and Monetary Policy",
+        "description": "Speech At Outlook 26:  The New England Economic Forum, Foxborough, Massachusetts",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm",
+        "datePublished": "Fri, 16 Jan 2026 16:00:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "fed_speeches"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4652
+      }
+    }
+  ]
+}

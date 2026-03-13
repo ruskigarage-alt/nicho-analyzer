@@ -11,10 +11,307 @@
       "url": "https://ruskigarage-alt.github.io/nicho-analyzer"
     }
   ],
-  "date_modified": "2026-03-13T05:24:58.832166+00:00",
+  "date_modified": "2026-03-13T07:00:32.692607+00:00",
   "items": [
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#0",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#0",
+      "title": "Investigará EU a México y 15 economías más por supuesto comercio desleal",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/economia/021n1eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#1",
+      "title": "Enrique Galván Ochoa: Dinero",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/opinion/006o1eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#2",
+      "title": "Cemla: mexicanos, 11.6% de los trabajadores en Estados Unidos",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/economia/021n2eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#3",
+      "title": "Importaciones de maíz repuntaron 29.4% durante el primer bimestre",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/economia/020n1eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#4",
+      "title": "Correos de México, en franca revitalización, asegura su directora",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/economia/022n1eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#5",
+      "title": "Orlando Delgado Selley: Banca de desarrollo",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/economia/020a1eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#6",
+      "title": "Renuevan por seis meses el pacto para no subir gasolina",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/economia/018n1eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#7",
+      "title": "Reconoce la Sener a los empresarios",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/economia/018n2eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#8",
+      "title": "Crecieron ventas en línea 19.2% en 2025",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/economia/020n2eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#9",
+      "title": "Carlos Fernández-Vega: México SA",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/opinion/022o1eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#10",
+      "title": "Sheinbaum  da credibilidad  a México en todo el mundo",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/economia/019e1eco?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#11",
+      "title": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#12",
+      "title": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#13",
+      "title": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#14",
+      "title": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/mexico-gana-frente-canada-exportaciones-se-disparan"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#15",
+      "title": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#16",
+      "title": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/bbva-los-proyectos-del-plan-mexico-seran-exitosos-y-rentables-si-se-ejecutan-bien"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#17",
+      "title": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/11/eu-investiga-mexico-economias-sobrecapacidad-manufactura"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#18",
+      "title": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/11/plan-mexico-credito-pymes-pero-reto-negocios-fuera"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#19",
+      "title": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#20",
+      "title": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#21",
+      "title": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/10/banco-base-acusaciones-de-lavado-de-dinero-fueron-una-sacudida-para-los-bancos"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#22",
+      "title": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#23",
+      "title": "Bankaool: Nuestros sistemas antilavado nacieron fuertes",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/bankaool-nuestros-sistemas-antilavado-nacieron-fuertes"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#24",
+      "title": "México perfila revisión del T-MEC con foco en reglas de origen, cadenas y seguridad",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/ebrard-revela-plan-accion-revision-tmec"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#25",
+      "title": "Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.jsonl#26",
+      "title": "Nu: Tenemos más de 2 millones de clientes en el sur; el crédito es transformador",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#27",
       "title": "Investigará EU a México y 15 economías más por supuesto comercio desleal",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -25,7 +322,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/economia/021n1eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#1",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#28",
       "title": "Enrique Galván Ochoa: Dinero",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -36,7 +333,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/opinion/006o1eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#2",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#29",
       "title": "Cemla: mexicanos, 11.6% de los trabajadores en Estados Unidos",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -47,7 +344,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/economia/021n2eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#3",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#30",
       "title": "Importaciones de maíz repuntaron 29.4% durante el primer bimestre",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -58,7 +355,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/economia/020n1eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#4",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#31",
       "title": "Correos de México, en franca revitalización, asegura su directora",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -69,7 +366,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/economia/022n1eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#5",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#32",
       "title": "Orlando Delgado Selley: Banca de desarrollo",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -80,7 +377,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/economia/020a1eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#6",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#33",
       "title": "Renuevan por seis meses el pacto para no subir gasolina",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -91,7 +388,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/economia/018n1eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#7",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#34",
       "title": "Reconoce la Sener a los empresarios",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -102,7 +399,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/economia/018n2eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#8",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#35",
       "title": "Crecieron ventas en línea 19.2% en 2025",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -113,7 +410,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/economia/020n2eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#9",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#36",
       "title": "Carlos Fernández-Vega: México SA",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -124,7 +421,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/opinion/022o1eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#10",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#37",
       "title": "Sheinbaum  da credibilidad  a México en todo el mundo",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -135,7 +432,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/economia/019e1eco?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#11",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#38",
       "title": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -146,7 +443,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#12",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#39",
       "title": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -157,7 +454,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#13",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#40",
       "title": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -168,7 +465,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#14",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#41",
       "title": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -179,7 +476,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/mexico-gana-frente-canada-exportaciones-se-disparan"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#15",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#42",
       "title": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -190,7 +487,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#16",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#43",
       "title": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -201,7 +498,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/bbva-los-proyectos-del-plan-mexico-seran-exitosos-y-rentables-si-se-ejecutan-bien"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#17",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#44",
       "title": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -212,7 +509,7 @@
       "url": "https://expansion.mx/economia/2026/03/11/eu-investiga-mexico-economias-sobrecapacidad-manufactura"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#18",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#45",
       "title": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -223,7 +520,7 @@
       "url": "https://expansion.mx/economia/2026/03/11/plan-mexico-credito-pymes-pero-reto-negocios-fuera"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#19",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#46",
       "title": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -234,7 +531,7 @@
       "url": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#20",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#47",
       "title": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -245,7 +542,7 @@
       "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#21",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#48",
       "title": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -256,7 +553,7 @@
       "url": "https://expansion.mx/economia/2026/03/10/banco-base-acusaciones-de-lavado-de-dinero-fueron-una-sacudida-para-los-bancos"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#22",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#49",
       "title": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -267,7 +564,7 @@
       "url": "https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#23",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#50",
       "title": "Bankaool: Nuestros sistemas antilavado nacieron fuertes",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -278,7 +575,7 @@
       "url": "https://expansion.mx/economia/2026/03/09/bankaool-nuestros-sistemas-antilavado-nacieron-fuertes"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#24",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#51",
       "title": "México perfila revisión del T-MEC con foco en reglas de origen, cadenas y seguridad",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -289,7 +586,7 @@
       "url": "https://expansion.mx/economia/2026/03/09/ebrard-revela-plan-accion-revision-tmec"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#25",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#52",
       "title": "Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -300,7 +597,7 @@
       "url": "https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#26",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#53",
       "title": "Nu: Tenemos más de 2 millones de clientes en el sur; el crédito es transformador",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -311,7 +608,172 @@
       "url": "https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#27",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#54",
+      "title": "Sheinbaum rinde homenaje a los militares caídos en el operativo contra El Mencho",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/008n1pol?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#55",
+      "title": "Nadya Rasheed*: Esa otra manifestación de la política genocida en Cisjordania",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/017a1pol?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#56",
+      "title": "Decide hoy la Corte sobre lucro de Grupo Xcaret con la cultura maya",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/014n1pol?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#57",
+      "title": "Consolida Durazo conectividad vial y desarrollo de Sonora",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/015n4pol?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#58",
+      "title": "Autos de aplicación no están autorizados para operar en el polígono del AICM: autoridades",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/012n2pol?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#59",
+      "title": "Justifica Morena la asistencia de Yunes Márquez a reunión de senadores en París",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/007n3pol?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#60",
+      "title": "Julio Hernández López: Astillero",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/opinion/008o1pol?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#61",
+      "title": "“Mentiras de Tv Azteca”",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/013n2pol?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#62",
+      "title": "Cooperación en seguridad con EU, basada en responsabilidad compartida: Velasco Álvarez",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/politica/014n3pol?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#63",
+      "title": "Acusan a priístas de vandalizar anuncios de Morena-Coahuila",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/estados/030n3est?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#64",
+      "title": "Es contratista del gobierno central y alcaldías la empresa que demolía inmueble que colapsó",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/capital/031n3cap?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#65",
+      "title": "Blindará gobierno el gasto social; este año será mayor a 13 mil mdp",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/capital/033n2cap?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#66",
+      "title": "Levanta Came contingencia ante pronóstico favorable",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/capital/033n1cap?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#67",
+      "title": "Pese a estar prohibidos, en el Metro comerciantes operan hornos eléctricos para la venta de comida",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/capital/032n2cap?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.jsonl#68",
+      "title": "Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "politica_local",
+        "jornada_zacatecas"
+      ],
+      "url": "https://ljz.mx/12/03/2026/habra-costo-politico-para-verde-y-pt-por-no-apoyar-la-reforma-electoral-morena/"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#69",
       "title": "Sheinbaum rinde homenaje a los militares caídos en el operativo contra El Mencho",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -322,7 +784,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/politica/008n1pol?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#28",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#70",
       "title": "Nadya Rasheed*: Esa otra manifestación de la política genocida en Cisjordania",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -333,7 +795,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/politica/017a1pol?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#29",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#71",
       "title": "Decide hoy la Corte sobre lucro de Grupo Xcaret con la cultura maya",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -344,7 +806,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/politica/014n1pol?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#30",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#72",
       "title": "Consolida Durazo conectividad vial y desarrollo de Sonora",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -355,7 +817,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/politica/015n4pol?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#31",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#73",
       "title": "Autos de aplicación no están autorizados para operar en el polígono del AICM: autoridades",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -366,7 +828,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/politica/012n2pol?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#32",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#74",
       "title": "Justifica Morena la asistencia de Yunes Márquez a reunión de senadores en París",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -377,7 +839,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/politica/007n3pol?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#33",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#75",
       "title": "Julio Hernández López: Astillero",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -388,7 +850,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/opinion/008o1pol?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#34",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#76",
       "title": "“Mentiras de Tv Azteca”",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -399,7 +861,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/politica/013n2pol?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#35",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#77",
       "title": "Cooperación en seguridad con EU, basada en responsabilidad compartida: Velasco Álvarez",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -410,7 +872,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/politica/014n3pol?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#36",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#78",
       "title": "Acusan a priístas de vandalizar anuncios de Morena-Coahuila",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -421,7 +883,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/estados/030n3est?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#37",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#79",
       "title": "Es contratista del gobierno central y alcaldías la empresa que demolía inmueble que colapsó",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -432,7 +894,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/capital/031n3cap?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#38",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#80",
       "title": "Blindará gobierno el gasto social; este año será mayor a 13 mil mdp",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -443,7 +905,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/capital/033n2cap?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#39",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#81",
       "title": "Levanta Came contingencia ante pronóstico favorable",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -454,7 +916,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/capital/033n1cap?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#40",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#82",
       "title": "Pese a estar prohibidos, en el Metro comerciantes operan hornos eléctricos para la venta de comida",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -465,7 +927,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/capital/032n2cap?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#41",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.jsonl#83",
       "title": "Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -476,7 +938,403 @@
       "url": "https://ljz.mx/12/03/2026/habra-costo-politico-para-verde-y-pt-por-no-apoyar-la-reforma-electoral-morena/"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#42",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#84",
+      "title": "La guerra contra Irán, el “inicio del fin del gobierno” de Trump",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "jornada_mundo"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/mundo/025n1mun?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#85",
+      "title": "Burócratas se movilizan en Argentina contra los bajos salarios",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "jornada_mundo"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/mundo/028n1mun?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#86",
+      "title": "La ONU condena a Irán y le exige cese el fuego, pero no a EU ni a Israel",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "jornada_mundo"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n3mun?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#87",
+      "title": "Mercados continúan en la incertidumbre; suben dólar y bonos",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "jornada_mundo"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n2mun?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#88",
+      "title": "Pese a acuerdo para liberar reservas, sigue volatilidad en precio de combustibles",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "jornada_mundo"
+      ],
+      "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n1mun?partner=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#89",
+      "title": "Investors Hunt for Hedges as War Shatters Decades-Old Strategies",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/investors-hunt-for-hedges-as-war-shatters-decades-old-strategies"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#90",
+      "title": "Iran's Leaders Aim to 'Outlast' US Military: Expert",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-13/iran-s-leaders-aim-to-outlast-us-military-expert-video"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#91",
+      "title": "Economists See ECB Holding Rates Until 2028 in Split From Market",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-13/economists-see-ecb-holding-rates-until-2028-in-split-from-market"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#92",
+      "title": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "foreign_policy"
+      ],
+      "url": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#93",
+      "title": "Trump Likely to Confront Democratic Wall on Iran War Funding",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "foreign_policy"
+      ],
+      "url": "https://foreignpolicy.com/2026/03/10/trump-iran-war-funding-congress-democrats-military-spending/"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#94",
+      "title": "Iran war: What is happening on day 14 of US-Israel attacks?",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "al_jazeera"
+      ],
+      "url": "https://www.aljazeera.com/news/2026/3/13/iran-war-what-is-happening-on-day-14-of-us-israel-attacks?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#95",
+      "title": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "al_jazeera"
+      ],
+      "url": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#96",
+      "title": "Iranian missile strikes residential area in northern Israel",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "al_jazeera"
+      ],
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#97",
+      "title": "Netanyahu says Israeli strikes killed Iranian nuclear scientists",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "al_jazeera"
+      ],
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#98",
+      "title": "Iran war live: US-Israeli strikes across Tehran; drones near Riyadh",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "al_jazeera"
+      ],
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#99",
+      "title": "Iran envoy says Tehran will keep Strait of Hormuz open",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "al_jazeera"
+      ],
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#100",
+      "title": "Air attacks target bases of Iran-backed forces in Iraq",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "al_jazeera"
+      ],
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#101",
+      "title": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "al_jazeera"
+      ],
+      "url": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#102",
+      "title": "China’s arms imports plummet, Hong Kong couple’s HK$50,000 Dubai exit: SCMP’s 7 highlights",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "scmp_world"
+      ],
+      "url": "https://www.scmp.com/news/world/article/3346291/chinas-arms-imports-plummet-hong-kong-couples-hk50000-dubai-exit-scmps-7-highlights?utm_source=rss_feed"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#103",
+      "title": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "scmp_world"
+      ],
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#104",
+      "title": "Netanyahu threatens Iran’s new supreme leader, defends joint assault with US",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "scmp_world"
+      ],
+      "url": "https://www.scmp.com/news/world/middle-east/article/3346419/netanyahu-threatens-irans-new-supreme-leader-defends-joint-assault-us?utm_source=rss_feed"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#105",
+      "title": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "scmp_world"
+      ],
+      "url": "https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#106",
+      "title": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "scmp_world"
+      ],
+      "url": "https://www.scmp.com/plus/news/china/military/article/3346333/us-israeli-war-iran-may-spark-nuclear-arms-race-carnegie-scholar-says?utm_source=rss_feed"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#107",
+      "title": "EE.UU. le busca reemplazo a sus Patriot por ser \"excesivamente caros\"",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ],
+      "url": "https://actualidad.rt.com/actualidad/592600-eeuu-patriot-costoso-reemplazo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#108",
+      "title": "Reportan supuestos avistamientos de Pie Grande",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ],
+      "url": "https://actualidad.rt.com/viral/592587-reportan-supuestos-avistamientos-pie-grande?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#109",
+      "title": "FOTO deja en evidencia la paralización del paso por el estrecho de Ormuz",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ],
+      "url": "https://actualidad.rt.com/actualidad/592589-foto-decenas-barcos-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#110",
+      "title": "\"Estaremos todos en el culo profundo\": Fico advierte a la OTAN sobre el envío de tropas a Ucrania",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ],
+      "url": "https://actualidad.rt.com/actualidad/592538-estaremos-culo-profundo-fico-otan?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#111",
+      "title": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "tass_english"
+      ],
+      "url": "https://tass.com/politics/1968329"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#112",
+      "title": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "tass_english"
+      ],
+      "url": "https://tass.com/world/1968271"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#113",
+      "title": "Russia not interested in arms race with Europe, European Parliament member says",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "tass_english"
+      ],
+      "url": "https://tass.com/world/1968241"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#114",
+      "title": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "tass_english"
+      ],
+      "url": "https://tass.com/pressreview/1968153"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#115",
+      "title": "French soldier killed, several wounded in Iraq attack, Macron confirms",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "politico_europe"
+      ],
+      "url": "https://www.politico.eu/article/french-soldier-killed-several-wounded-iraq-attack-emmanuel-macron-confirms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#116",
+      "title": "Europe should back American strikes on Iran, says key Merz ally",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "politico_europe"
+      ],
+      "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/europe-should-back-american-strikes-on-iran-says-key-merz-ally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#117",
+      "title": "Bowman, Capital Rules for the Real Economy",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "fed_speeches"
+      ],
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#118",
+      "title": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "fed_speeches"
+      ],
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#119",
+      "title": "Bowman, Outlook for the Economy and Monetary Policy",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "tags": [
+        "geopolitica",
+        "fed_speeches"
+      ],
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#120",
       "title": "La guerra contra Irán, el “inicio del fin del gobierno” de Trump",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -487,7 +1345,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/mundo/025n1mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#43",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#121",
       "title": "Burócratas se movilizan en Argentina contra los bajos salarios",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -498,7 +1356,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/mundo/028n1mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#44",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#122",
       "title": "La ONU condena a Irán y le exige cese el fuego, pero no a EU ni a Israel",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -509,7 +1367,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n3mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#45",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#123",
       "title": "Mercados continúan en la incertidumbre; suben dólar y bonos",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -520,7 +1378,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n2mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#46",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#124",
       "title": "Pese a acuerdo para liberar reservas, sigue volatilidad en precio de combustibles",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -531,7 +1389,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n1mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#47",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#125",
       "title": "Iran War Impact: Philippines Sees 16% Power Price Jump",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -542,7 +1400,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-03-13/iran-war-impact-philippines-sees-16-power-price-jump-video"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#48",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#126",
       "title": "Asia Markets at Risk Due to Oil Dependency: BCA Research",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -553,7 +1411,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-03-13/asia-markets-at-risk-due-to-oil-dependency-rca-research-video"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#49",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#127",
       "title": "Gold Set for Weekly Drop as Mideast War Keeps Oil Prices High",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -564,7 +1422,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#50",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#128",
       "title": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -575,7 +1433,7 @@
       "url": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#51",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#129",
       "title": "Trump Likely to Confront Democratic Wall on Iran War Funding",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -586,7 +1444,7 @@
       "url": "https://foreignpolicy.com/2026/03/10/trump-iran-war-funding-congress-democrats-military-spending/"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#52",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#130",
       "title": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -597,7 +1455,7 @@
       "url": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#53",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#131",
       "title": "Iranian missile strikes residential area in northern Israel",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -608,7 +1466,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#54",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#132",
       "title": "Netanyahu says Israeli strikes killed Iranian nuclear scientists",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -619,7 +1477,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#55",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#133",
       "title": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -630,7 +1488,7 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#56",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#134",
       "title": "Iran envoy says Tehran will keep Strait of Hormuz open",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -641,7 +1499,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#57",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#135",
       "title": "Air attacks target bases of Iran-backed forces in Iraq",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -652,7 +1510,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#58",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#136",
       "title": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -663,7 +1521,7 @@
       "url": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#59",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#137",
       "title": "China’s arms imports plummet, Hong Kong couple’s HK$50,000 Dubai exit: SCMP’s 7 highlights",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -674,7 +1532,7 @@
       "url": "https://www.scmp.com/news/world/article/3346291/chinas-arms-imports-plummet-hong-kong-couples-hk50000-dubai-exit-scmps-7-highlights?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#60",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#138",
       "title": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -685,7 +1543,7 @@
       "url": "https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#61",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#139",
       "title": "Netanyahu threatens Iran’s new supreme leader, defends joint assault with US",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -696,7 +1554,7 @@
       "url": "https://www.scmp.com/news/world/middle-east/article/3346419/netanyahu-threatens-irans-new-supreme-leader-defends-joint-assault-us?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#62",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#140",
       "title": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -707,7 +1565,7 @@
       "url": "https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#63",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#141",
       "title": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -718,7 +1576,7 @@
       "url": "https://www.scmp.com/plus/news/china/military/article/3346333/us-israeli-war-iran-may-spark-nuclear-arms-race-carnegie-scholar-says?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#64",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#142",
       "title": "Reportan supuestos avistamientos de Pie Grande",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -729,7 +1587,7 @@
       "url": "https://actualidad.rt.com/viral/592587-reportan-supuestos-avistamientos-pie-grande?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#65",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#143",
       "title": "FOTO deja en evidencia la paralización del paso por el estrecho de Ormuz",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -740,7 +1598,7 @@
       "url": "https://actualidad.rt.com/actualidad/592589-foto-decenas-barcos-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#66",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#144",
       "title": "\"Estaremos todos en el culo profundo\": Fico advierte a la OTAN sobre el envío de tropas a Ucrania",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -751,7 +1609,7 @@
       "url": "https://actualidad.rt.com/actualidad/592538-estaremos-culo-profundo-fico-otan?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#67",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#145",
       "title": "Venezuela firma un acuerdo con dos gigantes energéticos europeos",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -762,7 +1620,7 @@
       "url": "https://actualidad.rt.com/actualidad/592586-venezuela-firma-acuerdo-gigantes-energeticos-europeos?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#68",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#146",
       "title": "Russia necessary for mitigating global energy crisis — presidential envoy",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -773,7 +1631,7 @@
       "url": "https://tass.com/economy/2100973"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#69",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#147",
       "title": "Almost 60 wounded in missile attack on northern Israel — newspaper",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -784,7 +1642,7 @@
       "url": "https://tass.com/world/2100967"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#70",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#148",
       "title": "Israel, US strike eastern Tehran — agency",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -795,7 +1653,7 @@
       "url": "https://tass.com/world/2100963"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#71",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#149",
       "title": "At least 33 wounded in strike on residential building in north Israel — Ynet",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -806,7 +1664,7 @@
       "url": "https://tass.com/world/2100955"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#72",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#150",
       "title": "Serbia has no plans to join NATO, will remain neutral — president",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -817,7 +1675,7 @@
       "url": "https://tass.com/world/2100953"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#73",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#151",
       "title": "Iraqi tankers can cross Strait of Hormuz — Iran’s ambassador to Baghdad",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -828,7 +1686,7 @@
       "url": "https://tass.com/world/2100941"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#74",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#152",
       "title": "Central Iranian city of Arak bombed — TV",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -839,7 +1697,7 @@
       "url": "https://tass.com/world/2100927"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#75",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#153",
       "title": "French soldier killed, several wounded in Iraq attack, Macron confirms",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -850,7 +1708,7 @@
       "url": "https://www.politico.eu/article/french-soldier-killed-several-wounded-iraq-attack-emmanuel-macron-confirms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#76",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#154",
       "title": "Europe should back American strikes on Iran, says key Merz ally",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -861,7 +1719,7 @@
       "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/europe-should-back-american-strikes-on-iran-says-key-merz-ally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#77",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#155",
       "title": "Colombian president warns US against building an empire in Latin America",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -872,7 +1730,7 @@
       "url": "https://www.politico.eu/article/gustavo-petro-colombian-president-us-donald-trump-latin-america-empire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#78",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#156",
       "title": "Bowman, Capital Rules for the Real Economy",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -883,7 +1741,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#79",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#157",
       "title": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -894,7 +1752,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#80",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#158",
       "title": "Bowman, Outlook for the Economy and Monetary Policy",
       "content_text": "",
       "date_published": "2026-03-12",

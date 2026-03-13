@@ -2,32 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ruskigarage-alt.github.io/nicho-analyzer/</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ruskigarage-alt.github.io/nicho-analyzer/mi_feed/feed.xml</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.md</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.md</loc>
+    <lastmod>2026-03-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-12.md</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/politica_local_2026-03-13.md</loc>
+    <lastmod>2026-03-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.md</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-13.md</loc>
+    <lastmod>2026-03-13</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

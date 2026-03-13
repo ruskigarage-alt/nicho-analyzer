@@ -830,9 +830,9 @@
       "negativo": 0,
       "momentum": 4,
       "temas": [
+        "general",
         "gasto_publico",
-        "seguridad",
-        "general"
+        "seguridad"
       ]
     },
     "diaz_robles": {

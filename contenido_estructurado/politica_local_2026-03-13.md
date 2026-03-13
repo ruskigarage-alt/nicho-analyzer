@@ -1,0 +1,118 @@
+---
+title: "Politica Local — Actualización 2026-03-13"
+date: "2026-03-13"
+nicho: "politica_local"
+total_entradas: 15
+schema: "NewsDigest"
+---
+
+# Politica Local
+> Digest estructurado para sistemas de IA — 2026-03-13
+
+## Entradas del día
+
+### Sheinbaum rinde homenaje a los militares caídos en el operativo contra El Mencho
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/12/politica/008n1pol?partner=rss
+- **Resumen**: El fuerte sonar de la corneta se elevó en memoria de los caídos. Le siguió el retumbar de los tambores de la banda de guerra. El acorde fue inequívoco: “el toque militar de silencio” replicó para honrar y despedir a los elementos militares que murieron durante y después el operativo contra el capo del cártel Jalisco Nueva Generación (CJNG), Nemesio Oseguera Cervantes, El Mencho.
+- **Relevancia**: 0.4721
+
+### Nadya Rasheed*: Esa otra manifestación de la política genocida en Cisjordania
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/12/politica/017a1pol?partner=rss
+- **Resumen**: A la luz de los hechos, quienes creemos en la justicia debemos tener la voluntad para mirar de frente a la imposición del poder por el poder mismo, pues el sentido de la verdad nos muestra que las vías que conducen a la igualdad de condiciones y oportunidades para existir están fuera del mapa, del piso y techo que la justicia debe ofrecernos.
+- **Relevancia**: 0.5107
+
+### Decide hoy la Corte sobre lucro de Grupo Xcaret con la cultura maya
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/12/politica/014n1pol?partner=rss
+- **Resumen**: La Suprema Corte de Justicia de la Nación (SCJN) enlistó para su discusión de hoy un proyecto de la ministra María Estela Ríos González que propone revocar la suspensión definitiva en un juicio de amparo indirecto que permitió a Grupo Xcaret seguir utilizando elementos del patrimonio cultural maya en la promoción turística de sus hoteles y parques. De aprobarse, la empresa tendría que retirar esa simbología de su publicidad mientras se resuelve el litigio de fondo.
+- **Relevancia**: 0.4935
+
+### Consolida Durazo conectividad vial y desarrollo de Sonora
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/12/politica/015n4pol?partner=rss
+- **Resumen**: Hermosillo, Son., Con el Programa de MejoramientoCarretero, el gobernador AlfonsoDurazo Montaño consolida una transformación profunda en conec-tividad y desarrollo de la entidad, mediante inversiones históricas en infraestructura vial que alcanzan 10 mil 285 millones de pesos.
+- **Relevancia**: 0.4903
+
+### Autos de aplicación no están autorizados para operar en el polígono del AICM: autoridades
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/12/politica/012n2pol?partner=rss
+- **Resumen**: Uber no cuenta con autorización para prestar servicios dentro del polígono del Aeropuerto Internacional de la Ciudad de México (AICM) y demás terminales aéreas, sostuvo la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT).
+- **Relevancia**: 0.4681
+
+### Justifica Morena la asistencia de Yunes Márquez a reunión de senadores en París
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/12/politica/007n3pol?partner=rss
+- **Resumen**: Sobre la presencia de Miguel Ángel Yunes Márquez en París, donde asiste a una reunión de parlamentarios de la Organización para la Cooperación y el Desarrollo Económicos (OCDE), la presidenta del Senado, Laura Itzel Castillo, declaró ayer que participa a título personal, no como representante de esta cámara, y que él cubrió su boleto de avión y su estancia en la capital francesa.
+- **Relevancia**: 0.5179
+
+### Julio Hernández López: Astillero
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/12/opinion/008o1pol?partner=rss
+- **Resumen**: Va el plan B, que en realidad es el  plan E(lectoral). Lo de menos, relativamente, es que la iniciativa presidencial haya sido rechazada; lo trascendente es que la presidenta Sheinbaum se ha hecho de una bandera rumbo a las urnas intermedias de 2027: convocar a militantes de Morena y simpatizantes en general del proceso 4T a votar en abundancia por las candidaturas guindas a San Lázaro para empujar las reformas que ahora le fueron impedidas por el Verde y el PT, en el primer desa-compañamiento de estos partidos “aliados” desde 2018.
+- **Relevancia**: 0.4676
+
+### “Mentiras de Tv Azteca”
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/12/politica/013n2pol?partner=rss
+- **Resumen**: La Habana. “El Observatorio de medios de Cubadebate analizó cómo la noticia falsa y malintencionada de Tv Azteca sobre la ayuda material de México recibida en Cuba (que aseguró fue vendida en la isla) corrió más rápido que la verdad y llegó a más personas”, denunció el canciller cubano, Bruno Rodríguez, en X.
+- **Relevancia**: 0.5281
+
+### Cooperación en seguridad con EU, basada en responsabilidad compartida: Velasco Álvarez
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/12/politica/014n3pol?partner=rss
+- **Resumen**: El subsecretario para América del Norte, Roberto Velasco Álvarez, afirmó ayer que la cooperación en materia de seguridad entre México y Estados Unidos se basa en principios y en responsabilidad compartida, no en presiones externas.
+- **Relevancia**: 0.5953
+
+### Acusan a priístas de vandalizar anuncios de Morena-Coahuila
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/12/estados/030n3est?partner=rss
+- **Resumen**: Morena aseguró que en Coahuila hay una “operación coordinada desde el gobierno del estado”, que encabeza el priísta Manolo Jiménez, para vandalizar espectaculares del partido guinda, o de los aspirantes rumbo a las elecciones locales de julio entrante, que renovarán al Congreso estatal. Además, difundió fotografías de nueve anuncios espectaculares contratados por Morena, a los que les arrancaron lonas con mensajes. Expuso en un comunicado que esos daños “evidencian un intento anticipado de intervenir en el proceso democrático mediante prácticas ilegales y actos de intimidación”; igualmente que “cuando un gobierno recurre a este tipo de prácticas es porque está nervioso. El PRI sabe que la ciudadanía está cada vez más consciente y que el deseo de cambio en Coahuila es real”.
+- **Relevancia**: 0.4775
+
+### Es contratista del gobierno central y alcaldías la empresa que demolía inmueble que colapsó
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_capital
+- **URL**: https://www.jornada.com.mx/2026/03/12/capital/031n3cap?partner=rss
+- **Resumen**: Demec Demoliciones, SA de CV, empresa encargada del derribo del edificio de San Antonio Abad 124, no es ajena a las autoridades capitalinas, pues ha participado como contratista para el Gobierno de la Ciudad de México en trabajos de obra de mitigación social como parte de la ampliación de la línea 12 de Mixcoac a Observatorio.
+- **Relevancia**: 0.5826
+
+### Blindará gobierno el gasto social; este año será mayor a 13 mil mdp
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_capital
+- **URL**: https://www.jornada.com.mx/2026/03/12/capital/033n2cap?partner=rss
+- **Resumen**: El Gobierno de la Ciudad de México destinará más de 13 mil millones de pesos a programas sociales este 2026, y presentará una iniciativa de reforma constitucional para blindar el gasto social y garantizar derechos para la primera infancia.
+- **Relevancia**: 0.5931
+
+### Levanta Came contingencia ante pronóstico favorable
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_capital
+- **URL**: https://www.jornada.com.mx/2026/03/12/capital/033n1cap?partner=rss
+- **Resumen**: Después de 27 horas, la Comisión Ambiental de la Megalópolis (Came) levantó la fase 1 de contingencia ambiental por ozono en la zona metropolitana del valle de México, debido a que este jueves se esperan mejores condiciones para la dispersión de los contaminantes.
+- **Relevancia**: 0.5132
+
+### Pese a estar prohibidos, en el Metro comerciantes operan hornos eléctricos para la venta de comida
+- **Fecha**: Thu, 12 Mar 2026 10:23:24 GMT
+- **Fuente**: jornada_capital
+- **URL**: https://www.jornada.com.mx/2026/03/12/capital/032n2cap?partner=rss
+- **Resumen**: Locatarios que operan en instalaciones del Sistema de Transporte Colectivo (STC) Metro utilizan hornos, pese a que su uso está prohibido, ya que representa un riesgo para usuarios y ellos mismos; además, evidencian la operación irregular de los espacios que no cuentan con los permisos correspondientes, acusó Juan Ramón Torres, representantes de la Asociación Comerciantes Unidos.
+- **Relevancia**: 0.5504
+
+### Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena
+- **Fecha**: Thu, 12 Mar 2026 16:48:21 +0000
+- **Fuente**: jornada_zacatecas
+- **URL**: https://ljz.mx/12/03/2026/habra-costo-politico-para-verde-y-pt-por-no-apoyar-la-reforma-electoral-morena/
+- **Resumen**: Luego de que ayer fue rechazada en la Cámara de Diputados la iniciativa de reforma electoral de la presidenta Claudia Sheinbaum, el grupo parlamentario de Morena definió dos pasos inmediatos: reconstruir su relación con los partidos del Trabajo (PT) y Verde Ecologista de México (PVEM), los cuales –a su juicio– “sí tendrán un costo político” [&#8230;]
+- **Relevancia**: 0.5352
+

@@ -13,6 +13,7 @@ echo "[ 1/5 ] Minando fuentes..."
 TMPDIR=~/tmp python3 minador.py
 TMPDIR=~/tmp python3 minador_economico.py
 TMPDIR=~/tmp python3 minador_global.py
+TMPDIR=~/tmp python3 minador_electoral.py
 echo ""
 echo "[ 2/5 ] Filtrando por relevancia temática..."
 python3 filtrador.py 2>/dev/null
@@ -27,6 +28,7 @@ python3 generar_feed_nichos.py
 python3 minador_macro_mx.py
 python3 minador_macro_mx.py
 python3 generar_dashboard.py
+python3 generar_scoreboard.py
 # ─────────────────────────────────────────
 # PASO 2 — TU RESUMEN
 # ─────────────────────────────────────────
