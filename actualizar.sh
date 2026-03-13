@@ -20,6 +20,7 @@ echo ""
 echo "[ 3/5 ] Estructurando contenido..."
 python3 estructurador.py
 python3 sitemap.py
+python3 generar_indices.py
 # ─────────────────────────────────────────
 # PASO 2 — TU RESUMEN
 # ─────────────────────────────────────────
