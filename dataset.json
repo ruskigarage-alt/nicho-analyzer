@@ -5,7 +5,7 @@
   "url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Nicho Analyzer Pipeline",
-  "dateModified": "2026-03-13T00:31:35.703518+00:00",
+  "dateModified": "2026-03-13T00:34:08.711303+00:00",
   "dateCreated": "2026-03-13",
   "inLanguage": "es",
   "keywords": [
@@ -41,12 +41,12 @@
     "jsonld",
     "markdown"
   ],
-  "total_records": 142,
+  "total_records": 127,
   "nichos": {
-    "geopolitica": 28,
+    "geopolitica": 23,
     "regulaciones_pyme": 16,
     "mercados_latam": 30,
-    "licitaciones_gobierno": 24,
+    "licitaciones_gobierno": 14,
     "movimiento_buques": 26,
     "aranceles_aduanas": 18
   },
@@ -54,12 +54,12 @@
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-12",
-      "titulo": "Oil Trades Near 42-Month High as Iran Vows to Keep Hormuz Closed",
-      "resumen": "Oil rose from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
+      "titulo": "Asian Stocks Track US Declines as Oil in Focus: Markets Wrap",
+      "resumen": "Asian stocks followed US peers lower in early trading Friday, with oil prices in focus on growing fears that the war in Iran will further crimp energy supplies and boost inflation.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
       "fuente": "bloomberg_markets",
-      "relevancia_score": 0.4734,
-      "texto_completo": "Oil Trades Near 42-Month High as Iran Vows to Keep Hormuz Closed. Oil rose from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut."
+      "relevancia_score": 0.464,
+      "texto_completo": "Asian Stocks Track US Declines as Oil in Focus: Markets Wrap. Asian stocks followed US peers lower in early trading Friday, with oil prices in focus on growing fears that the war in Iran will further crimp energy supplies and boost inflation."
     },
     {
       "nicho": "geopolitica",
@@ -94,16 +94,6 @@
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-12",
-      "titulo": "Oil at $120 or $130 Could Trigger a Recession, Hooper Says",
-      "resumen": "Man Group Chief Market Strategist Kristina Hooper is worried about how high energy costs are impacting consumers. She says oil at $120 or $130 could trigger a recession in the US. She speaks on Bloomberg The Close. Brent crude settled above $100 a barrel Thursday for the first time since August 2022. (Source: Bloomberg)",
-      "url": "https://www.bloomberg.com/news/videos/2026-03-12/high-oil-prices-could-trigger-a-recession-hooper-says-video",
-      "fuente": "bloomberg_markets",
-      "relevancia_score": 0.5376,
-      "texto_completo": "Oil at $120 or $130 Could Trigger a Recession, Hooper Says. Man Group Chief Market Strategist Kristina Hooper is worried about how high energy costs are impacting consumers. She says oil at $120 or $130 could trigger a recession in the US. She speaks on Bloomberg The Close. Brent crude settled above $100 a barrel Thursday for the first time since August 2022. (Source: Bloomberg)"
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-12",
       "titulo": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
       "resumen": "Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.",
       "url": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/",
@@ -120,6 +110,16 @@
       "fuente": "foreign_policy",
       "relevancia_score": 0.463,
       "texto_completo": "Trump Likely to Confront Democratic Wall on Iran War Funding. An emergency military spending request to continue the Iran strikes may soon be sent to U.S lawmakers."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-12",
+      "titulo": "El Supremo de Brasil bloquea visita de asesor de Trump a Bolsonaro en prisión",
+      "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+      "url": "https://actualidad.rt.com/actualidad/592574-supremo-brasil-bloquea-visita-asesor-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fuente": "rt_espanol",
+      "relevancia_score": 0.4664,
+      "texto_completo": "El Supremo de Brasil bloquea visita de asesor de Trump a Bolsonaro en prisión. <img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />"
     },
     {
       "nicho": "geopolitica",
@@ -164,42 +164,12 @@
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-12",
-      "titulo": "Subsidios y recortes: América Latina intenta blindarse ante la escalada contra Irán",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2f6fbe9ff710a814279ea.jpg\" style=\"float: left;\" />\n        \tDe momento, la mayor parte de las medidas se limita al mercado interno de los combustibles.",
-      "url": "https://actualidad.rt.com/actualidad/592504-subsidios-recortes-america-latina-estrategia-conflicto-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fuente": "rt_espanol",
-      "relevancia_score": 0.4911,
-      "texto_completo": "Subsidios y recortes: América Latina intenta blindarse ante la escalada contra Irán. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2f6fbe9ff710a814279ea.jpg\" style=\"float: left;\" />\n        \tDe momento, la mayor parte de las medidas se limita al mercado interno de los combustibles."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-12",
-      "titulo": "\"No comprendieron los detalles técnicos\": canciller iraní da una lección a Washington",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3344f59bf5b4b6268e278.jpg\" style=\"float: left;\" />\n        \tAbbas Araghchi señaló que \"los estadounidenses no 'ganarán dinero' con el aumento de los precios del petróleo\".",
-      "url": "https://actualidad.rt.com/actualidad/592552-conocimiento-hechos-importante-canciller-irani?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fuente": "rt_espanol",
-      "relevancia_score": 0.613,
-      "texto_completo": "\"No comprendieron los detalles técnicos\": canciller iraní da una lección a Washington. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3344f59bf5b4b6268e278.jpg\" style=\"float: left;\" />\n        \tAbbas Araghchi señaló que \"los estadounidenses no 'ganarán dinero' con el aumento de los precios del petróleo\"."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-12",
-      "titulo": "Localizar a militares de EE.UU.: Inteligencia iraní hace un llamado a \"hermanos árabes\"",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331b3e9ff711f956a91c2.jpg\" style=\"float: left;\" />\n        \tEl llamamiento resalta que es un \"deber islámico informar con precisión sobre los lugares donde se esconden terroristas estadounidenses\".",
-      "url": "https://actualidad.rt.com/actualidad/592545-localizar-militares-eeuu-inteligencia-irani-llamado-hermanos-arabes?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fuente": "rt_espanol",
-      "relevancia_score": 0.5008,
-      "texto_completo": "Localizar a militares de EE.UU.: Inteligencia iraní hace un llamado a \"hermanos árabes\". <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331b3e9ff711f956a91c2.jpg\" style=\"float: left;\" />\n        \tEl llamamiento resalta que es un \"deber islámico informar con precisión sobre los lugares donde se esconden terroristas estadounidenses\"."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-12",
-      "titulo": "Irán asegura que grupos de resistencia de Irak derribaron el avión cisterna de EE.UU.",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3475759bf5b7bd55fbf9f.jpg\" style=\"float: left;\" />\n        \tToda la tripulación perdió la vida en el ataque, según militares iraníes.",
-      "url": "https://actualidad.rt.com/actualidad/592565-iran-confirma-grupos-resistencia-irak?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fuente": "rt_espanol",
-      "relevancia_score": 0.4978,
-      "texto_completo": "Irán asegura que grupos de resistencia de Irak derribaron el avión cisterna de EE.UU.. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3475759bf5b7bd55fbf9f.jpg\" style=\"float: left;\" />\n        \tToda la tripulación perdió la vida en el ataque, según militares iraníes."
+      "titulo": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
+      "resumen": "Israeli strikes kill dozens more in Lebanon, including 5 children among nine people killed in attack on village of Arki.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss",
+      "fuente": "aljazeera",
+      "relevancia_score": 0.6417,
+      "texto_completo": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks. Israeli strikes kill dozens more in Lebanon, including 5 children among nine people killed in attack on village of Arki."
     },
     {
       "nicho": "geopolitica",
@@ -240,26 +210,6 @@
       "fuente": "aljazeera",
       "relevancia_score": 0.5903,
       "texto_completo": "How oil is at the center of the US-Israel war with Iran. As oil prices rise, the US, Israel and Iran seem ready to keep fighting no matter the costs."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-12",
-      "titulo": "Israel launches air attack on Beirut during live Al Jazeera broadcast",
-      "resumen": "An Israeli air attack struck a building during a live Al Jazeera broadcast in a new &quot;wave of attacks&quot; on Hezbollah.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israel-launches-air-attack-on-beirut-during-live-al-jazeera-broadcast?traffic_source=rss",
-      "fuente": "aljazeera",
-      "relevancia_score": 0.5166,
-      "texto_completo": "Israel launches air attack on Beirut during live Al Jazeera broadcast. An Israeli air attack struck a building during a live Al Jazeera broadcast in a new &quot;wave of attacks&quot; on Hezbollah."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-12",
-      "titulo": "Israel attacks central Beirut in escalation of deadly assault on Lebanon",
-      "resumen": "Israel targets centre of Lebanese capital in escalation of military campaign that has killed nearly 700 people.",
-      "url": "https://www.aljazeera.com/news/2026/3/12/israel-attacks-central-beirut-in-escalation-of-deadly-assault-on-lebanon?traffic_source=rss",
-      "fuente": "aljazeera",
-      "relevancia_score": 0.5419,
-      "texto_completo": "Israel attacks central Beirut in escalation of deadly assault on Lebanon. Israel targets centre of Lebanese capital in escalation of military campaign that has killed nearly 700 people."
     },
     {
       "nicho": "geopolitica",
@@ -330,6 +280,16 @@
       "fuente": "fed_speeches",
       "relevancia_score": 0.4652,
       "texto_completo": "Bowman, Outlook for the Economy and Monetary Policy. Speech At Outlook 26:  The New England Economic Forum, Foxborough, Massachusetts"
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-12",
+      "titulo": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
+      "resumen": "El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.",
+      "url": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.6305,
+      "texto_completo": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas. El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año."
     },
     {
       "nicho": "regulaciones_pyme",
@@ -480,16 +440,6 @@
       "fuente": "expansion_economia",
       "relevancia_score": 0.6965,
       "texto_completo": "Revolut: \"En México hay millones de personas que no están cómodas con su banco\". Juan Miguel Guerra, director del banco, ve una gran oportunidad en la insatisfacción con los servicios financieros tradicionales y apuesta por ofrecer más productos en una sola app para competir con la banca en México."
-    },
-    {
-      "nicho": "regulaciones_pyme",
-      "fecha": "2026-03-12",
-      "titulo": "Juez concede a agencia estadounidense moratoria para devolver los aranceles",
-      "resumen": "La CBP presentó un documento ante la corte después de que un juez federal ordenara esta semana a la administración Trump que comenzara a rembolsar el dinero obtenido por los aranceles.",
-      "url": "https://expansion.mx/economia/2026/03/06/juez-concede-a-agencia-estadounidense-moratoria-para-devolver-los-aranceles",
-      "fuente": "expansion_economia",
-      "relevancia_score": 0.5186,
-      "texto_completo": "Juez concede a agencia estadounidense moratoria para devolver los aranceles. La CBP presentó un documento ante la corte después de que un juez federal ordenara esta semana a la administración Trump que comenzara a rembolsar el dinero obtenido por los aranceles."
     },
     {
       "fecha": "2026-03-12T23:40:08.854687+00:00",
@@ -1087,7 +1037,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/MXN — 2026-03-13",
@@ -1099,7 +1049,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/BRL — 2026-03-13",
@@ -1111,7 +1061,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/ARS — 2026-03-13",
@@ -1123,7 +1073,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/CLP — 2026-03-13",
@@ -1135,7 +1085,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/COP — 2026-03-13",
@@ -1147,7 +1097,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/PEN — 2026-03-13",
@@ -1159,91 +1109,91 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Petróleo WTI — 2026-03-13",
-      "contenido": "Petróleo WTI: USD 96.47 al 2026-03-13. Relevancia LATAM: crítico para México y Colombia.",
+      "contenido": "Petróleo WTI: USD 95.35 al 2026-03-13. Relevancia LATAM: crítico para México y Colombia.",
       "url": "https://finance.yahoo.com/quote/CL=F",
       "extra": {
         "symbol": "CL=F",
-        "precio": 96.47
+        "precio": 95.35
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Petróleo Brent — 2026-03-13",
-      "contenido": "Petróleo Brent: USD 97.5 al 2026-03-13. Relevancia LATAM: referencia global exportaciones LATAM.",
+      "contenido": "Petróleo Brent: USD 96.68 al 2026-03-13. Relevancia LATAM: referencia global exportaciones LATAM.",
       "url": "https://finance.yahoo.com/quote/BZ=F",
       "extra": {
         "symbol": "BZ=F",
-        "precio": 97.5
+        "precio": 96.68
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Cobre — 2026-03-13",
-      "contenido": "Cobre: USD 5.828 al 2026-03-13. Relevancia LATAM: crítico para Chile y Perú.",
+      "contenido": "Cobre: USD 5.835 al 2026-03-13. Relevancia LATAM: crítico para Chile y Perú.",
       "url": "https://finance.yahoo.com/quote/HG=F",
       "extra": {
         "symbol": "HG=F",
-        "precio": 5.828
+        "precio": 5.835
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Plata — 2026-03-13",
-      "contenido": "Plata: USD 84.275 al 2026-03-13. Relevancia LATAM: México mayor productor mundial.",
+      "contenido": "Plata: USD 84.865 al 2026-03-13. Relevancia LATAM: México mayor productor mundial.",
       "url": "https://finance.yahoo.com/quote/SI=F",
       "extra": {
         "symbol": "SI=F",
-        "precio": 84.275
+        "precio": 84.865
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Oro — 2026-03-13",
-      "contenido": "Oro: USD 5105.7 al 2026-03-13. Relevancia LATAM: reservas bancos centrales LATAM.",
+      "contenido": "Oro: USD 5109.2 al 2026-03-13. Relevancia LATAM: reservas bancos centrales LATAM.",
       "url": "https://finance.yahoo.com/quote/GC=F",
       "extra": {
         "symbol": "GC=F",
-        "precio": 5105.7
+        "precio": 5109.2
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Maíz — 2026-03-13",
-      "contenido": "Maíz: USX 461.75 al 2026-03-13. Relevancia LATAM: crítico para México y Argentina.",
+      "contenido": "Maíz: USX 462.25 al 2026-03-13. Relevancia LATAM: crítico para México y Argentina.",
       "url": "https://finance.yahoo.com/quote/ZC=F",
       "extra": {
         "symbol": "ZC=F",
-        "precio": 461.75
+        "precio": 462.25
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Soya — 2026-03-13",
-      "contenido": "Soya: USX 1227.25 al 2026-03-13. Relevancia LATAM: crítico para Brasil y Argentina.",
+      "contenido": "Soya: USX 1225.25 al 2026-03-13. Relevancia LATAM: crítico para Brasil y Argentina.",
       "url": "https://finance.yahoo.com/quote/ZS=F",
       "extra": {
         "symbol": "ZS=F",
-        "precio": 1227.25
+        "precio": 1225.25
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Café — 2026-03-13",
@@ -1255,159 +1205,19 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Gas natural — 2026-03-13",
-      "contenido": "Gas natural: USD 3.232 al 2026-03-13. Relevancia LATAM: energía industria LATAM.",
+      "contenido": "Gas natural: USD 3.226 al 2026-03-13. Relevancia LATAM: energía industria LATAM.",
       "url": "https://finance.yahoo.com/quote/NG=F",
       "extra": {
         "symbol": "NG=F",
-        "precio": 3.232
+        "precio": 3.226
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [['Republic of Rwanda']]: Boosting Green Finance, Investment and Trade in Rwanda",
-      "contenido": "País: ['Republic of Rwanda']. Sector: . Monto: USD 200,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505244",
-      "extra": {
-        "pais": [
-          "Republic of Rwanda"
-        ],
-        "monto_usd": "200,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [['Kingdom of Morocco']]: Transforming Agri-food Systems in Morocco",
-      "contenido": "País: ['Kingdom of Morocco']. Sector: . Monto: USD 250,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181587",
-      "extra": {
-        "pais": [
-          "Kingdom of Morocco"
-        ],
-        "monto_usd": "250,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [['Republic of Burundi']]: Burundi Colline Climate Resilience Project",
-      "contenido": "País: ['Republic of Burundi']. Sector: . Monto: USD 70,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180864",
-      "extra": {
-        "pais": [
-          "Republic of Burundi"
-        ],
-        "monto_usd": "70,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Second Bangladesh Green and Climate Resilient Development Credit",
-      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 500,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180439",
-      "extra": {
-        "pais": [
-          "People's Republic of Bangladesh"
-        ],
-        "monto_usd": "500,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [['Republic of India']]: Amaravati Integrated Urban Development Program",
-      "contenido": "País: ['Republic of India']. Sector: . Monto: USD 0. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507508",
-      "extra": {
-        "pais": [
-          "Republic of India"
-        ],
-        "monto_usd": "0"
-      }
-    },
-    {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Chattogram Water Supply Improvement Project",
-      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 280,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176429",
-      "extra": {
-        "pais": [
-          "People's Republic of Bangladesh"
-        ],
-        "monto_usd": "280,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Health, Nutrition and Population Sector Development Program",
-      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 379,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180283",
-      "extra": {
-        "pais": [
-          "People's Republic of Bangladesh"
-        ],
-        "monto_usd": "379,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [['Republic of Togo']]: Togo Digital Acceleration Project",
-      "contenido": "País: ['Republic of Togo']. Sector: . Monto: USD 100,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179138",
-      "extra": {
-        "pais": [
-          "Republic of Togo"
-        ],
-        "monto_usd": "100,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [['Republic of Zambia']]: First Zambia Climate and Economic Resilience Programmatic DPF wit",
-      "contenido": "País: ['Republic of Zambia']. Sector: . Monto: USD 0. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507116",
-      "extra": {
-        "pais": [
-          "Republic of Zambia"
-        ],
-        "monto_usd": "0"
-      }
-    },
-    {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [['Republic of Honduras']]: Honduras Sustainable Connectivity Project",
-      "contenido": "País: ['Republic of Honduras']. Sector: . Monto: USD 187,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181166",
-      "extra": {
-        "pais": [
-          "Republic of Honduras"
-        ],
-        "monto_usd": "187,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Referencia portal",
       "titulo": "CompraNet México — portal licitaciones",
@@ -1416,7 +1226,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Referencia portal",
       "titulo": "UNGM — licitaciones ONU en LATAM",
@@ -1425,7 +1235,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Veracruz, México (MXVER)",
@@ -1437,7 +1247,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Lázaro Cárdenas, México (MXLZC)",
@@ -1449,7 +1259,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Altamira, México (MXATM)",
@@ -1461,7 +1271,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Santos, Brasil (BRSSZ)",
@@ -1473,7 +1283,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Valparaíso, Chile (CLVAP)",
@@ -1485,7 +1295,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Buenaventura, Colombia (COBUN)",
@@ -1497,7 +1307,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Callao, Perú (PECLL)",
@@ -1509,7 +1319,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Buenos Aires, Argentina (ARBUE)",
@@ -1521,7 +1331,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Balboa, Panamá (PAMIT)",
@@ -1533,7 +1343,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Canal de Panamá",
@@ -1545,7 +1355,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Golfo de México",
@@ -1557,7 +1367,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Puerto Santos Brasil",
@@ -1569,7 +1379,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Estrecho de Magallanes",
@@ -1581,7 +1391,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario México — 2026-03-13",
@@ -1593,7 +1403,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Brasil — 2026-03-13",
@@ -1605,7 +1415,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Argentina — 2026-03-13",
@@ -1617,7 +1427,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Chile — 2026-03-13",
@@ -1629,7 +1439,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Colombia — 2026-03-13",
@@ -1641,7 +1451,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Perú — 2026-03-13",
@@ -1653,7 +1463,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "DOF México",
       "titulo": "Cambios arancelarios DOF — 2026-03-13",
@@ -1662,7 +1472,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "USTR / Federal Register",
       "titulo": "Aranceles USA impacto LATAM — 2026-03-13",
@@ -1673,7 +1483,7 @@
       }
     },
     {
-      "fecha": "2026-03-13T00:11:31.647002+00:00",
+      "fecha": "2026-03-13T00:33:47.042435+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "CEPAL",
       "titulo": "Monitor comercio exterior LATAM — 2026-03-13",

@@ -11,6 +11,13 @@ schema: "NewsDigest"
 
 ## Entradas del día
 
+### El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas
+- **Fecha**: Fri, 13 Mar 2026 00:25:17 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas
+- **Resumen**: El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.
+- **Relevancia**: 0.6305
+
 ### México llevará el acero como primer tema comercial a la mesa del T-MEC
 - **Fecha**: Thu, 12 Mar 2026 22:12:23 GMT
 - **Fuente**: expansion_economia
@@ -115,11 +122,4 @@ schema: "NewsDigest"
 - **URL**: https://expansion.mx/economia/2026/03/09/revolut-en-mexico-hay-millones-de-personas-que-no-estan-comodas-con-su-banco
 - **Resumen**: Juan Miguel Guerra, director del banco, ve una gran oportunidad en la insatisfacción con los servicios financieros tradicionales y apuesta por ofrecer más productos en una sola app para competir con la banca en México.
 - **Relevancia**: 0.6965
-
-### Juez concede a agencia estadounidense moratoria para devolver los aranceles
-- **Fecha**: Sat, 07 Mar 2026 00:38:10 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/06/juez-concede-a-agencia-estadounidense-moratoria-para-devolver-los-aranceles
-- **Resumen**: La CBP presentó un documento ante la corte después de que un juez federal ordenara esta semana a la administración Trump que comenzara a rembolsar el dinero obtenido por los aranceles.
-- **Relevancia**: 0.5186
 

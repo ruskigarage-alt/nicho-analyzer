@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-12"
 date: "2026-03-12"
 nicho: "geopolitica"
-total_entradas: 28
+total_entradas: 23
 schema: "NewsDigest"
 ---
 
@@ -11,12 +11,12 @@ schema: "NewsDigest"
 
 ## Entradas del día
 
-### Oil Trades Near 42-Month High as Iran Vows to Keep Hormuz Closed
-- **Fecha**: Thu, 12 Mar 2026 22:05:31 GMT
+### Asian Stocks Track US Declines as Oil in Focus: Markets Wrap
+- **Fecha**: Thu, 12 Mar 2026 22:27:20 GMT
 - **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13
-- **Resumen**: Oil rose from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.
-- **Relevancia**: 0.4734
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap
+- **Resumen**: Asian stocks followed US peers lower in early trading Friday, with oil prices in focus on growing fears that the war in Iran will further crimp energy supplies and boost inflation.
+- **Relevancia**: 0.464
 
 ### Peru Holds Key Rate at 4.25% as Inflation Pressures Mount
 - **Fecha**: Thu, 12 Mar 2026 23:07:13 GMT
@@ -39,13 +39,6 @@ schema: "NewsDigest"
 - **Resumen**: A renewed oil spike stoked fears the war in Iran will further crimp energy supplies and fuel inflation, spurring a slide in stocks, which were also hit by signs of distress in the $1.8 trillion private-credit market.
 - **Relevancia**: 0.5127
 
-### Oil at $120 or $130 Could Trigger a Recession, Hooper Says
-- **Fecha**: Thu, 12 Mar 2026 21:01:54 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/videos/2026-03-12/high-oil-prices-could-trigger-a-recession-hooper-says-video
-- **Resumen**: Man Group Chief Market Strategist Kristina Hooper is worried about how high energy costs are impacting consumers. She says oil at $120 or $130 could trigger a recession in the US. She speaks on Bloomberg The Close. Brent crude settled above $100 a barrel Thursday for the first time since August 2022. (Source: Bloomberg)
-- **Relevancia**: 0.5376
-
 ### Trump’s Efforts to Defuse the Oil Spike Aren’t Working
 - **Fecha**: Thu, 12 Mar 2026 17:53:32 +0000
 - **Fuente**: foreign_policy
@@ -59,6 +52,13 @@ schema: "NewsDigest"
 - **URL**: https://foreignpolicy.com/2026/03/10/trump-iran-war-funding-congress-democrats-military-spending/
 - **Resumen**: An emergency military spending request to continue the Iran strikes may soon be sent to U.S lawmakers.
 - **Relevancia**: 0.463
+
+### El Supremo de Brasil bloquea visita de asesor de Trump a Bolsonaro en prisión
+- **Fecha**: Fri, 13 Mar 2026 00:32:14 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592574-supremo-brasil-bloquea-visita-asesor-trump?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
+- **Relevancia**: 0.4664
 
 ### Venezuela confirma que se suspende el encuentro entre Delcy Rodríguez y Gustavo Petro
 - **Fecha**: Thu, 12 Mar 2026 23:56:51 +0000
@@ -92,37 +92,12 @@ schema: "NewsDigest"
         	La iniciativa llega después que Grok permitió generar millones de imágenes de personas reales en bikini o completamente desnudas.
 - **Relevancia**: 0.4639
 
-### Subsidios y recortes: América Latina intenta blindarse ante la escalada contra Irán
-- **Fecha**: Thu, 12 Mar 2026 23:27:29 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592504-subsidios-recortes-america-latina-estrategia-conflicto-iran?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2f6fbe9ff710a814279ea.jpg" style="float: left;" />
-        	De momento, la mayor parte de las medidas se limita al mercado interno de los combustibles.
-- **Relevancia**: 0.4911
-
-### "No comprendieron los detalles técnicos": canciller iraní da una lección a Washington
-- **Fecha**: Thu, 12 Mar 2026 23:11:55 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592552-conocimiento-hechos-importante-canciller-irani?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3344f59bf5b4b6268e278.jpg" style="float: left;" />
-        	Abbas Araghchi señaló que "los estadounidenses no 'ganarán dinero' con el aumento de los precios del petróleo".
-- **Relevancia**: 0.613
-
-### Localizar a militares de EE.UU.: Inteligencia iraní hace un llamado a "hermanos árabes"
-- **Fecha**: Thu, 12 Mar 2026 22:57:56 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592545-localizar-militares-eeuu-inteligencia-irani-llamado-hermanos-arabes?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331b3e9ff711f956a91c2.jpg" style="float: left;" />
-        	El llamamiento resalta que es un "deber islámico informar con precisión sobre los lugares donde se esconden terroristas estadounidenses".
-- **Relevancia**: 0.5008
-
-### Irán asegura que grupos de resistencia de Irak derribaron el avión cisterna de EE.UU.
-- **Fecha**: Thu, 12 Mar 2026 22:49:43 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592565-iran-confirma-grupos-resistencia-irak?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3475759bf5b7bd55fbf9f.jpg" style="float: left;" />
-        	Toda la tripulación perdió la vida en el ataque, según militares iraníes.
-- **Relevancia**: 0.4978
+### Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks
+- **Fecha**: Fri, 13 Mar 2026 00:00:00 +0000
+- **Fuente**: aljazeera
+- **URL**: https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss
+- **Resumen**: Israeli strikes kill dozens more in Lebanon, including 5 children among nine people killed in attack on village of Arki.
+- **Relevancia**: 0.6417
 
 ### Iran envoy says Tehran will keep Strait of Hormuz open
 - **Fecha**: Thu, 12 Mar 2026 23:18:48 +0000
@@ -151,20 +126,6 @@ schema: "NewsDigest"
 - **URL**: https://www.aljazeera.com/video/the-take-2/2026/3/12/aje-onl-irn_tuesdayupdates_av_v2-100326?traffic_source=rss
 - **Resumen**: As oil prices rise, the US, Israel and Iran seem ready to keep fighting no matter the costs.
 - **Relevancia**: 0.5903
-
-### Israel launches air attack on Beirut during live Al Jazeera broadcast
-- **Fecha**: Thu, 12 Mar 2026 17:51:08 +0000
-- **Fuente**: aljazeera
-- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/12/israel-launches-air-attack-on-beirut-during-live-al-jazeera-broadcast?traffic_source=rss
-- **Resumen**: An Israeli air attack struck a building during a live Al Jazeera broadcast in a new &quot;wave of attacks&quot; on Hezbollah.
-- **Relevancia**: 0.5166
-
-### Israel attacks central Beirut in escalation of deadly assault on Lebanon
-- **Fecha**: Thu, 12 Mar 2026 17:50:35 +0000
-- **Fuente**: aljazeera
-- **URL**: https://www.aljazeera.com/news/2026/3/12/israel-attacks-central-beirut-in-escalation-of-deadly-assault-on-lebanon?traffic_source=rss
-- **Resumen**: Israel targets centre of Lebanese capital in escalation of military campaign that has killed nearly 700 people.
-- **Relevancia**: 0.5419
 
 ### Netanyahu threatens Iran’s new supreme leader, defends joint assault with US
 - **Fecha**: Thu, 12 Mar 2026 21:31:01 +0000

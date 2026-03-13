@@ -4,23 +4,23 @@
   "name": "geopolitica — 2026-03-12",
   "description": "Digest semántico de geopolitica generado el 2026-03-12",
   "datePublished": "2026-03-12",
-  "numberOfItems": 28,
+  "numberOfItems": 23,
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Oil Trades Near 42-Month High as Iran Vows to Keep Hormuz Closed",
-        "description": "Oil rose from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
-        "datePublished": "Thu, 12 Mar 2026 22:05:31 GMT",
+        "headline": "Asian Stocks Track US Declines as Oil in Focus: Markets Wrap",
+        "description": "Asian stocks followed US peers lower in early trading Friday, with oil prices in focus on growing fears that the war in Iran will further crimp energy supplies and boost inflation.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
+        "datePublished": "Thu, 12 Mar 2026 22:27:20 GMT",
         "publisher": {
           "@type": "Organization",
           "name": "bloomberg_markets"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.4734
+        "relevanceScore": 0.464
       }
     },
     {
@@ -79,23 +79,6 @@
       "position": 5,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Oil at $120 or $130 Could Trigger a Recession, Hooper Says",
-        "description": "Man Group Chief Market Strategist Kristina Hooper is worried about how high energy costs are impacting consumers. She says oil at $120 or $130 could trigger a recession in the US. She speaks on Bloomberg The Close. Brent crude settled above $100 a barrel Thursday for the first time since August 2022. (Source: Bloomberg)",
-        "url": "https://www.bloomberg.com/news/videos/2026-03-12/high-oil-prices-could-trigger-a-recession-hooper-says-video",
-        "datePublished": "Thu, 12 Mar 2026 21:01:54 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "bloomberg_markets"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5376
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 6,
-      "item": {
-        "@type": "NewsArticle",
         "headline": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
         "description": "Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.",
         "url": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/",
@@ -110,7 +93,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 7,
+      "position": 6,
       "item": {
         "@type": "NewsArticle",
         "headline": "Trump Likely to Confront Democratic Wall on Iran War Funding",
@@ -123,6 +106,23 @@
         },
         "keywords": "geopolitica",
         "relevanceScore": 0.463
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "El Supremo de Brasil bloquea visita de asesor de Trump a Bolsonaro en prisión",
+        "description": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "url": "https://actualidad.rt.com/actualidad/592574-supremo-brasil-bloquea-visita-asesor-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Fri, 13 Mar 2026 00:32:14 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4664
       }
     },
     {
@@ -198,72 +198,21 @@
       "position": 12,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Subsidios y recortes: América Latina intenta blindarse ante la escalada contra Irán",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2f6fbe9ff710a814279ea.jpg\" style=\"float: left;\" />\n        \tDe momento, la mayor parte de las medidas se limita al mercado interno de los combustibles.",
-        "url": "https://actualidad.rt.com/actualidad/592504-subsidios-recortes-america-latina-estrategia-conflicto-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Thu, 12 Mar 2026 23:27:29 +0000",
+        "headline": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
+        "description": "Israeli strikes kill dozens more in Lebanon, including 5 children among nine people killed in attack on village of Arki.",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss",
+        "datePublished": "Fri, 13 Mar 2026 00:00:00 +0000",
         "publisher": {
           "@type": "Organization",
-          "name": "rt_espanol"
+          "name": "aljazeera"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.4911
+        "relevanceScore": 0.6417
       }
     },
     {
       "@type": "ListItem",
       "position": 13,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "\"No comprendieron los detalles técnicos\": canciller iraní da una lección a Washington",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3344f59bf5b4b6268e278.jpg\" style=\"float: left;\" />\n        \tAbbas Araghchi señaló que \"los estadounidenses no 'ganarán dinero' con el aumento de los precios del petróleo\".",
-        "url": "https://actualidad.rt.com/actualidad/592552-conocimiento-hechos-importante-canciller-irani?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Thu, 12 Mar 2026 23:11:55 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.613
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 14,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Localizar a militares de EE.UU.: Inteligencia iraní hace un llamado a \"hermanos árabes\"",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331b3e9ff711f956a91c2.jpg\" style=\"float: left;\" />\n        \tEl llamamiento resalta que es un \"deber islámico informar con precisión sobre los lugares donde se esconden terroristas estadounidenses\".",
-        "url": "https://actualidad.rt.com/actualidad/592545-localizar-militares-eeuu-inteligencia-irani-llamado-hermanos-arabes?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Thu, 12 Mar 2026 22:57:56 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5008
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 15,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Irán asegura que grupos de resistencia de Irak derribaron el avión cisterna de EE.UU.",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3475759bf5b7bd55fbf9f.jpg\" style=\"float: left;\" />\n        \tToda la tripulación perdió la vida en el ataque, según militares iraníes.",
-        "url": "https://actualidad.rt.com/actualidad/592565-iran-confirma-grupos-resistencia-irak?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Thu, 12 Mar 2026 22:49:43 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4978
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 16,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran envoy says Tehran will keep Strait of Hormuz open",
@@ -280,7 +229,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 17,
+      "position": 14,
       "item": {
         "@type": "NewsArticle",
         "headline": "Air attacks target bases of Iran-backed forces in Iraq",
@@ -297,7 +246,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 18,
+      "position": 15,
       "item": {
         "@type": "NewsArticle",
         "headline": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
@@ -314,7 +263,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 19,
+      "position": 16,
       "item": {
         "@type": "NewsArticle",
         "headline": "How oil is at the center of the US-Israel war with Iran",
@@ -331,41 +280,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 20,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Israel launches air attack on Beirut during live Al Jazeera broadcast",
-        "description": "An Israeli air attack struck a building during a live Al Jazeera broadcast in a new &quot;wave of attacks&quot; on Hezbollah.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israel-launches-air-attack-on-beirut-during-live-al-jazeera-broadcast?traffic_source=rss",
-        "datePublished": "Thu, 12 Mar 2026 17:51:08 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "aljazeera"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5166
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 21,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Israel attacks central Beirut in escalation of deadly assault on Lebanon",
-        "description": "Israel targets centre of Lebanese capital in escalation of military campaign that has killed nearly 700 people.",
-        "url": "https://www.aljazeera.com/news/2026/3/12/israel-attacks-central-beirut-in-escalation-of-deadly-assault-on-lebanon?traffic_source=rss",
-        "datePublished": "Thu, 12 Mar 2026 17:50:35 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "aljazeera"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5419
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 22,
+      "position": 17,
       "item": {
         "@type": "NewsArticle",
         "headline": "Netanyahu threatens Iran’s new supreme leader, defends joint assault with US",
@@ -382,7 +297,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 23,
+      "position": 18,
       "item": {
         "@type": "NewsArticle",
         "headline": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
@@ -399,7 +314,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 24,
+      "position": 19,
       "item": {
         "@type": "NewsArticle",
         "headline": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
@@ -416,7 +331,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 25,
+      "position": 20,
       "item": {
         "@type": "NewsArticle",
         "headline": "US launches trade probe into China and EU in bid to revive Trump tariffs",
@@ -433,7 +348,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 26,
+      "position": 21,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Capital Rules for the Real Economy",
@@ -450,7 +365,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 27,
+      "position": 22,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
@@ -467,7 +382,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 28,
+      "position": 23,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Outlook for the Economy and Monetary Policy",

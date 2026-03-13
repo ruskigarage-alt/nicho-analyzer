@@ -7,6 +7,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
+        "resumen": "El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.",
+        "link": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:25:17 GMT"
+      },
+      {
         "titulo": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
         "resumen": "Durante el último año, el comercio de acero entre ambos países se convirtió en uno de los puntos más sensibles de la relación bilateral.",
         "link": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec",
@@ -119,12 +125,6 @@
         "resumen": "Juan Miguel Guerra, director del banco, ve una gran oportunidad en la insatisfacción con los servicios financieros tradicionales y apuesta por ofrecer más productos en una sola app para competir con la banca en México.",
         "link": "https://expansion.mx/economia/2026/03/09/revolut-en-mexico-hay-millones-de-personas-que-no-estan-comodas-con-su-banco",
         "fecha_publicacion": "Mon, 09 Mar 2026 11:55:34 GMT"
-      },
-      {
-        "titulo": "Juez concede a agencia estadounidense moratoria para devolver los aranceles",
-        "resumen": "La CBP presentó un documento ante la corte después de que un juez federal ordenara esta semana a la administración Trump que comenzara a rembolsar el dinero obtenido por los aranceles.",
-        "link": "https://expansion.mx/economia/2026/03/06/juez-concede-a-agencia-estadounidense-moratoria-para-devolver-los-aranceles",
-        "fecha_publicacion": "Sat, 07 Mar 2026 00:38:10 GMT"
       }
     ],
     "total_entradas": 20
@@ -137,16 +137,40 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Asian Stocks Track US Declines as Oil in Focus: Markets Wrap",
+        "resumen": "Asian stocks followed US peers lower in early trading Friday, with oil prices in focus on growing fears that the war in Iran will further crimp energy supplies and boost inflation.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
+      },
+      {
+        "titulo": "Gold Set for Second Weekly Decline as Oil Prices Rally Further",
+        "resumen": "Gold was headed for a second weekly decline as the dollar strengthened and the ongoing war in the Middle East forced oil prices higher.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:20:17 GMT"
+      },
+      {
+        "titulo": "Brent Oil Trades Above $100 as Iran Vows to Keep Hormuz Closed",
+        "resumen": "Brent oil traded above $100 a barrel following one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
+      },
+      {
+        "titulo": "China AI Giants Offer Better Value Than US Peers, Top Fund Says",
+        "resumen": "A top-performing emerging markets fund is increasing its exposure to major Chinese artificial intelligence hyperscalers, betting they offer better value than US tech giants that are pouring vast sums into expansion.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/china-ai-giants-offer-better-value-than-us-peers-top-fund-says",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:14:19 GMT"
+      },
+      {
+        "titulo": "Honda Falls After Warning of $15.7 Billion Charge on EV Downturn",
+        "resumen": "Honda Motor Co. shares fell the most in almost a year after warning investors that it faces as much as ¥2.5 trillion ($15.7 billion) in charges and a historic annual loss, joining a growing list of global brands battered by the rapid unraveling of the electric vehicle transition.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/honda-warns-of-15-7-billion-charge-as-global-ev-downturn-grows",
+        "fecha_publicacion": "Thu, 12 Mar 2026 06:49:23 GMT"
+      },
+      {
         "titulo": "Brazil Judge Bars US Official From Visiting Bolsonaro in Prison",
         "resumen": "Brazil Supreme Court Justice Alexandre de Moraes barred a US State Department official from visiting Jair Bolsonaro, the right-wing former president who is serving a 27-year prison sentence in the country’s capital.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/brazil-judge-bars-us-official-from-visiting-bolsonaro-in-prison",
         "fecha_publicacion": "Thu, 12 Mar 2026 23:57:05 GMT"
-      },
-      {
-        "titulo": "Oil Trades Near 42-Month High as Iran Vows to Keep Hormuz Closed",
-        "resumen": "Oil rose from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
       },
       {
         "titulo": "New Zealand’s Economic Recovery Likely Lost Momentum in Late ‘25",
@@ -167,12 +191,6 @@
         "fecha_publicacion": "Thu, 12 Mar 2026 23:07:13 GMT"
       },
       {
-        "titulo": "Asian Stocks, Bonds to Echo US Drop as Crude Rises: Markets Wrap",
-        "resumen": "Asian stocks and bonds were primed to follow Wall Street lower as a renewed oil spike stoked fears the war in Iran will further crimp energy supplies and fuel inflation.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
-      },
-      {
         "titulo": "US Refueling Plane Crashes Over Iraq, Central Command Says",
         "resumen": "A KC-135 refueling plane that was part of the American military campaign against Iran crashed over western Iraq after an incident involving another plane, US Central Command said Thursday night.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/kc-135-tanker-crashes-in-friendly-iraqi-airspace-us-says",
@@ -183,12 +201,6 @@
         "resumen": "The basic assumptions that have underpinned hedging strategies for decades are coming undone by the escalating war in Iran.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/investors-hunt-for-hedges-as-war-shatters-decades-old-strategies",
         "fecha_publicacion": "Thu, 12 Mar 2026 23:00:00 GMT"
-      },
-      {
-        "titulo": "Gold Steadies After Two-Day Drop as Oil Prices Rally Further",
-        "resumen": "Gold steadied after a two-day decline, as traders weighed a stronger US dollar and rallying oil prices nearly two weeks into the war in the Middle East.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:20:17 GMT"
       },
       {
         "titulo": "War Cost Sinks Long-Term Government Bonds on Deficit Worries",
@@ -243,18 +255,6 @@
         "resumen": "1789 Capital Partner Paul Abrahimzadeh discusses the 2026 IPO pipeline showing reasons for optimism despite broader market volatility. He talks with Romaine Bostick and Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
         "link": "https://www.bloomberg.com/news/videos/2026-03-12/abrahimzadeh-reasons-to-be-optimistic-on-ipo-outlook-video",
         "fecha_publicacion": "Thu, 12 Mar 2026 21:02:24 GMT"
-      },
-      {
-        "titulo": "Oil at $120 or $130 Could Trigger a Recession, Hooper Says",
-        "resumen": "Man Group Chief Market Strategist Kristina Hooper is worried about how high energy costs are impacting consumers. She says oil at $120 or $130 could trigger a recession in the US. She speaks on Bloomberg The Close. Brent crude settled above $100 a barrel Thursday for the first time since August 2022. (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-12/high-oil-prices-could-trigger-a-recession-hooper-says-video",
-        "fecha_publicacion": "Thu, 12 Mar 2026 21:01:54 GMT"
-      },
-      {
-        "titulo": "How the Pentagon Got Hooked on AI War Machines",
-        "resumen": "The United States has made two dramatic moves that could shape the future of AI-powered warfare.\n\nKatrina Manson explains how the US enlisted Silicon Valley in its vision for AI warfare, now playing out in Iran. (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-12/how-the-pentagon-got-hooked-on-ai-war-machines",
-        "fecha_publicacion": "Thu, 12 Mar 2026 21:00:04 GMT"
       }
     ],
     "total_entradas": 20
@@ -397,6 +397,36 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "El Supremo de Brasil bloquea visita de asesor de Trump a Bolsonaro en prisión",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592574-supremo-brasil-bloquea-visita-asesor-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:32:14 +0000"
+      },
+      {
+        "titulo": "VIDEOS: Misiles iraníes se abren paso por el cielo israelí",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3596259bf5b04a267896e.jpg\" style=\"float: left;\" />\n        \tMedios iraníes divulgaron una serie de videos de la nueva oleada de misiles lanzados en represalia por Teherán contra el territorio israelí. En las imágenes, se pueden ver los cielos de varias zonas del país hebreo llenos de proyectiles, así como impactos directos en las regiones del norte y centro del territorio israelí.",
+        "link": "https://actualidad.rt.com/actualidad/592579-videos-misiles-iranies-abren-paso?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:30:57 +0000"
+      },
+      {
+        "titulo": "\"El presidente nos miente\": senador arremete contra Trump por el bombardeo de la escuela iraní",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34099e9ff712a173012b2.jpg\" style=\"float: left;\" />\n        \tEl demócrata Chris Murphy acusó a la Casa Blanca de ocultar la responsabilidad estadounidense en el ataque que dejó al menos 175 muertos, en su mayoría niñas, en una escuela del sur de Irán.",
+        "link": "https://actualidad.rt.com/actualidad/592543-presidente-miente-senador-eeuu-arremete?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:25:12 +0000"
+      },
+      {
+        "titulo": "Hombre cae de escaleras mecánicas a más de 30 metros de altura tras explotar su celular",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3469059bf5b659c6686d0.jpg\" style=\"float: left;\" />\n        \tLa víctima, aún sin identificar, tenía alrededor de 40 años.",
+        "link": "https://actualidad.rt.com/actualidad/592564-hombre-cae-escaleras-mecanicas-explotar-celular?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:20:08 +0000"
+      },
+      {
+        "titulo": "VIDEO: Madre iraní y sus hijos despiden al padre muerto en los ataques de EE.UU. e Israel",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34ea959bf5b221950cf36.png\" style=\"float: left;\" />\n        \tRodeada de sus seis hijos, una mujer despide a su marido fallecido durante los ataques de Estados Unidos e Israel contra Irán. Un video compartido por los medios iraníes muestra a la madre y a varios niños reunidos alrededor del ataúd durante su funeral.",
+        "link": "https://actualidad.rt.com/actualidad/592570-madre-hijos-despiden-fallecido-ataques-eeuu-israel-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:15:08 +0000"
+      },
+      {
         "titulo": "Trump revela si sigue interesado en que le otorguen el Nobel de la Paz",
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34e15e9ff712060439e74.jpg\" style=\"float: left;\" />\n        \tEl mandatario aseguró que no ha hablado del tema con los líderes extranjeros con los que ha mantenido contacto en los últimos días.",
         "link": "https://actualidad.rt.com/actualidad/592558-trump-revelar-interesado-nobel-paz?utm_source=rss&utm_medium=rss&utm_campaign=all",
@@ -425,36 +455,6 @@
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33fe9e9ff712060439e5b.jpg\" style=\"float: left;\" />\n        \tLa iniciativa llega después que Grok permitió generar millones de imágenes de personas reales en bikini o completamente desnudas.",
         "link": "https://actualidad.rt.com/actualidad/592561-politico-ue-avanza-prohibir-ia?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Thu, 12 Mar 2026 23:38:48 +0000"
-      },
-      {
-        "titulo": "Subsidios y recortes: América Latina intenta blindarse ante la escalada contra Irán",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b2f6fbe9ff710a814279ea.jpg\" style=\"float: left;\" />\n        \tDe momento, la mayor parte de las medidas se limita al mercado interno de los combustibles.",
-        "link": "https://actualidad.rt.com/actualidad/592504-subsidios-recortes-america-latina-estrategia-conflicto-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:27:29 +0000"
-      },
-      {
-        "titulo": "\"No comprendieron los detalles técnicos\": canciller iraní da una lección a Washington",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3344f59bf5b4b6268e278.jpg\" style=\"float: left;\" />\n        \tAbbas Araghchi señaló que \"los estadounidenses no 'ganarán dinero' con el aumento de los precios del petróleo\".",
-        "link": "https://actualidad.rt.com/actualidad/592552-conocimiento-hechos-importante-canciller-irani?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:11:55 +0000"
-      },
-      {
-        "titulo": "El Senado de EE.UU. rechaza la financiación del ente 'cazamigrantes'",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592555-senado-rechaza-financiacion-ente-cazamigrantes?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:02:45 +0000"
-      },
-      {
-        "titulo": "Localizar a militares de EE.UU.: Inteligencia iraní hace un llamado a \"hermanos árabes\"",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331b3e9ff711f956a91c2.jpg\" style=\"float: left;\" />\n        \tEl llamamiento resalta que es un \"deber islámico informar con precisión sobre los lugares donde se esconden terroristas estadounidenses\".",
-        "link": "https://actualidad.rt.com/actualidad/592545-localizar-militares-eeuu-inteligencia-irani-llamado-hermanos-arabes?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:57:56 +0000"
-      },
-      {
-        "titulo": "Irán asegura que grupos de resistencia de Irak derribaron el avión cisterna de EE.UU.",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3475759bf5b7bd55fbf9f.jpg\" style=\"float: left;\" />\n        \tToda la tripulación perdió la vida en el ataque, según militares iraníes.",
-        "link": "https://actualidad.rt.com/actualidad/592565-iran-confirma-grupos-resistencia-irak?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:49:43 +0000"
       }
     ],
     "total_entradas": 10
@@ -466,6 +466,18 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Michigan synagogue ramming an ‘act of targeted violence’: FBI",
+        "resumen": "The FBI says it is treating a vehicle ramming at a Michigan synagogue as an attack on the Jewish community.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/michigan-synagogue-ramming-an-act-of-targeted-violence-fbi?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:06:16 +0000"
+      },
+      {
+        "titulo": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
+        "resumen": "Israeli strikes kill dozens more in Lebanon, including 5 children among nine people killed in attack on village of Arki.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:00:00 +0000"
+      },
       {
         "titulo": "UN fact-finding mission warns of continued human rights abuses in Venezuela",
         "resumen": "In an address to the UN Human Rights Council, experts warned that the &#039;machinery&#039; of repression was &#039;mutating&#039;.",
@@ -573,18 +585,6 @@
         "resumen": "Authorities report car ramming at Temple Israel Synagogue in West Bloomfield Township, Michigan; Attacker found dead.",
         "link": "https://www.aljazeera.com/news/2026/3/12/fbi-reports-active-shooter-situation-at-detroit-area-synagogue-in-the-us?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 18:02:19 +0000"
-      },
-      {
-        "titulo": "Israel launches air attack on Beirut during live Al Jazeera broadcast",
-        "resumen": "An Israeli air attack struck a building during a live Al Jazeera broadcast in a new &quot;wave of attacks&quot; on Hezbollah.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israel-launches-air-attack-on-beirut-during-live-al-jazeera-broadcast?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 17:51:08 +0000"
-      },
-      {
-        "titulo": "Israel attacks central Beirut in escalation of deadly assault on Lebanon",
-        "resumen": "Israel targets centre of Lebanese capital in escalation of military campaign that has killed nearly 700 people.",
-        "link": "https://www.aljazeera.com/news/2026/3/12/israel-attacks-central-beirut-in-escalation-of-deadly-assault-on-lebanon?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 17:50:35 +0000"
       }
     ],
     "total_entradas": 20
