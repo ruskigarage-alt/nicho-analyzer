@@ -386,15 +386,15 @@ for locode, nombre, pais, actividad in PUERTOS:
 print("\n[ 6/7 ] Think tanks geopoliticos...")
 
 THINK_TANKS = [
-    ("Council on Foreign Relations", "https://www.cfr.org/rss/rss_all.xml", "EEUU",
+    ("Council on Foreign Relations", "https://www.cfr.org/blog/feed", "EEUU",
      "Analisis de politica exterior y geopolitica global"),
-    ("CSIS", "https://www.csis.org/analysis/feed", "EEUU",
+    ("CSIS", "https://www.csis.org/blogs/feed", "EEUU",
      "Centro de Estudios Estrategicos e Internacionales"),
     ("Brookings Institution", "https://www.brookings.edu/feed/", "EEUU",
      "Think tank politica publica y economia global"),
     ("Carnegie Endowment", "https://carnegieendowment.org/rss/solr/feed/?fa=pub", "EEUU",
      "Geopolitica y relaciones internacionales"),
-    ("Chatham House", "https://www.chathamhouse.org/rss.xml", "Europa",
+    ("Chatham House", "https://www.chathamhouse.org/research/", "Europa",
      "Relaciones internacionales Reino Unido"),
     ("Bruegel", "https://www.bruegel.org/rss.xml", "Europa",
      "Economia europea y politica comercial"),
@@ -420,8 +420,8 @@ for nombre, rss_url, region, descripcion in THINK_TANKS:
 print("\n[ 7/7 ] Medios geopoliticos internacionales...")
 
 MEDIOS_RSS = [
-    ("Reuters — Business", "https://feeds.reuters.com/reuters/businessNews", "Global"),
-    ("Reuters — World", "https://feeds.reuters.com/reuters/worldNews", "Global"),
+    ("Reuters — Business", "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US", "Global"),
+    ("Reuters — World", "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US", "Global"),
     ("Financial Times", "https://www.ft.com/world?format=rss", "Global"),
     ("Bloomberg Markets", "https://feeds.bloomberg.com/markets/news.rss", "Global"),
     ("WSJ Markets", "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "EEUU"),
