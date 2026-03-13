@@ -211,6 +211,7 @@ try:
         # EMBI aprox: referencia histórica México ~170pb (moderado)
         # Estimado por diferencial de tasas implícitas
         embi_aprox = round((tasa_objetivo - t10) * 100 * 0.85, 0)
+    precio_hoy = eww_hoy
 
         guardar(
             nicho   = "finanzas_globales",
@@ -275,7 +276,8 @@ print("\n[ 7/7 ] Indice de confianza compuesto — calculo propio")
 try:
     # Componentes normalizados 0-1
     score_reservas = min(reservas / 250.0, 1.0)           # max referencia 250 mmd
-    score_mxn      = max(0, 1 - (precio_hoy - 15) / 10)  # 15=fuerte, 25=debil
+    _mxn = precio_hoy if 'precio_hoy' in dir() else 20.5
+    score_mxn      = max(0, 1 - (_mxn - 15) / 10)  # 15=fuerte, 25=debil
     score_embi     = max(0, 1 - embi_aprox / 500)         # 0pb=máx confianza
     score_inflacion= max(0, 1 - abs(inflacion_anual - 3) / 5)  # meta=3%
     score_deficit  = max(0, 1 - abs(deficit_pib) / 5)    # 0=superavit
@@ -318,3 +320,4 @@ with open(OUTPUT, "w", encoding="utf-8") as f:
 
 print(f"\n✓ {len(registros)} indicadores guardados → {OUTPUT}")
 print(f"  Fecha: {FECHA} {HORA}")
+# PARCHE — reemplazar en minador_macro_mx.py los bloques 5 y 7
