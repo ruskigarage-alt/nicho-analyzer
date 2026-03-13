@@ -611,6 +611,18 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Hong Kong Moves to Lower Threshold for Dual-Class Share Listings",
+        "resumen": "Hong Kong is proposing to lower the minimum market value for dual-class shares to debut on the city’s exchange, part of a broader push to revive its status as a premier destination for global initial public offerings.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/hong-kong-moves-to-lower-threshold-for-dual-class-share-listings",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:17:49 GMT"
+      },
+      {
+        "titulo": "SoftBank’s PayPay Keeps Dual Listing on Table After Solid US IPO",
+        "resumen": "SoftBank Group Corp.-backed PayPay Corp. is open to a dual listing with a presence on Tokyo’s bourse, its chief said after the digital payments company’s $880 million trading debut in New York.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:13:34 GMT"
+      },
+      {
         "titulo": "Asian Stocks Trim Early Losses, Oil Rally Cools: Markets Wrap",
         "resumen": "Asian stocks pared early declines while S&amp;P 500 futures rose as the US issued a second temporary waiver allowing purchases of Russian oil to help curb surging energy prices.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
@@ -717,18 +729,6 @@
         "resumen": "India has asked China to allow the sale of some urea cargoes as the war in the Middle East curtails the nation’s gas supplies, threatening fertilizer production in the agricultural powerhouse.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/india-asks-china-for-urea-as-war-induced-gas-crunch-hits-plants",
         "fecha_publicacion": "Thu, 12 Mar 2026 10:52:48 GMT"
-      },
-      {
-        "titulo": "Iron Ore Set for Biggest Weekly Gain In a Year on CMRG’s Curbs",
-        "resumen": "Iron ore headed for its biggest weekly gain in over a year, after China’s state-backed buyer moved to expand restrictions on BHP Group products.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/iron-ore-set-for-biggest-weekly-gain-in-a-year-on-cmrg-s-curbs",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:27:20 GMT"
-      },
-      {
-        "titulo": "Tencent, Alibaba Due as OpenClaw AI Mania Spreads in China",
-        "resumen": "The hype around artificial intelligence software OpenClaw has heightened the interest in Tencent Holdings Ltd. and Alibaba Group Holding Ltd. earnings and how the agent might drive growth and innovation across multiple technology industry sectors.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/tencent-alibaba-due-as-openclaw-ai-mania-spreads-in-china",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:15:21 GMT"
       }
     ],
     "total_entradas": 20
@@ -871,6 +871,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
+        "resumen": "Energy markets remain on tenterhooks as the prospect of prolonged war in the Middle East grows.",
+        "link": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 03:58:19 +0000"
+      },
+      {
         "titulo": "Israel drops abuse charges against soldiers",
         "resumen": "The Israeli military has dropped charges against five soldiers accused of sexually abusing a Palestinian detainee.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israel-drops-abuse-charges-against-soldiers?traffic_source=rss",
@@ -983,12 +989,6 @@
         "resumen": "United States officials are issuing contradictory statements on the war&#039;s timeline and objectives.",
         "link": "https://www.aljazeera.com/video/inside-story/2026/3/12/does-president-trump-have-an-exit-strategy-for-the-war-with-iran?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 19:50:37 +0000"
-      },
-      {
-        "titulo": "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war",
-        "resumen": "Ali Larijani responds to US threat to hit Iran&#039;s power infrastructure, saying the &#039;whole region will go dark&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/3/12/iran-vows-to-make-trump-pay-for-grave-miscalculation-if-us-escalates-war?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 19:31:34 +0000"
       }
     ],
     "total_entradas": 20
@@ -1201,6 +1201,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Almost 60 wounded in missile attack on northern Israel — newspaper",
+        "resumen": "A building was damaged. Bomb squads are working in the area",
+        "link": "https://tass.com/world/2100967",
+        "fecha_publicacion": "Fri, 13 Mar 2026 07:21:15 +0300"
+      },
+      {
         "titulo": "US de-facto admitted that Russian oil crucial for market stability — presidential envoy",
         "resumen": "Kirill Dmitriev says that the abolishment of restrictions concerns about 100 million barrels of Russian oil",
         "link": "https://tass.com/economy/2100965",
@@ -1313,12 +1319,6 @@
         "resumen": "The incident occurred during a strike on a base of a Kurdish militia group",
         "link": "https://tass.com/world/2100903",
         "fecha_publicacion": "Fri, 13 Mar 2026 00:39:57 +0300"
-      },
-      {
-        "titulo": "Iranian diplomat blames US for navigation problems in Strait of Hormuz",
-        "resumen": "Iranian Permanent Representative to the United Nations Amir-Saeid Iravani says that Iran is fully committed to the law of the sea",
-        "link": "https://tass.com/world/2100901",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:25:27 +0300"
       }
     ],
     "total_entradas": 20

@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-12"
 date: "2026-03-12"
 nicho: "geopolitica"
-total_entradas: 40
+total_entradas: 42
 schema: "NewsDigest"
 ---
 
@@ -80,6 +80,13 @@ schema: "NewsDigest"
 - **URL**: https://foreignpolicy.com/2026/03/10/trump-iran-war-funding-congress-democrats-military-spending/
 - **Resumen**: An emergency military spending request to continue the Iran strikes may soon be sent to U.S lawmakers.
 - **Relevancia**: 0.463
+
+### Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz
+- **Fecha**: Fri, 13 Mar 2026 03:58:19 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss
+- **Resumen**: Energy markets remain on tenterhooks as the prospect of prolonged war in the Middle East grows.
+- **Relevancia**: 0.6436
 
 ### Iranian missile strikes residential area in northern Israel
 - **Fecha**: Fri, 13 Mar 2026 01:55:30 +0000
@@ -220,6 +227,13 @@ SCMP Plus readers get early access...
 - **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b35c4ae9ff7107e82660e1.jpg" style="float: left;" />
         	Florian Philippot criticó el inminente encuentro entre el presidente francés y el líder del régimen de Kiev.
 - **Relevancia**: 0.4816
+
+### Almost 60 wounded in missile attack on northern Israel — newspaper
+- **Fecha**: Fri, 13 Mar 2026 07:21:15 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2100967
+- **Resumen**: A building was damaged. Bomb squads are working in the area
+- **Relevancia**: 0.6014
 
 ### Israel, US strike eastern Tehran — agency
 - **Fecha**: Fri, 13 Mar 2026 07:01:36 +0300

@@ -4,7 +4,7 @@
   "name": "geopolitica — 2026-03-12",
   "description": "Digest semántico de geopolitica generado el 2026-03-12",
   "datePublished": "2026-03-12",
-  "numberOfItems": 40,
+  "numberOfItems": 42,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -181,6 +181,23 @@
       "position": 11,
       "item": {
         "@type": "NewsArticle",
+        "headline": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
+        "description": "Energy markets remain on tenterhooks as the prospect of prolonged war in the Middle East grows.",
+        "url": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss",
+        "datePublished": "Fri, 13 Mar 2026 03:58:19 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6436
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "NewsArticle",
         "headline": "Iranian missile strikes residential area in northern Israel",
         "description": "Video from northern Israel captured the moment an Iranian missile impacted in a residential area early Friday morning.",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss",
@@ -195,7 +212,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 12,
+      "position": 13,
       "item": {
         "@type": "NewsArticle",
         "headline": "Netanyahu says Israeli strikes killed Iranian nuclear scientists",
@@ -212,7 +229,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 13,
+      "position": 14,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
@@ -229,7 +246,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 14,
+      "position": 15,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran envoy says Tehran will keep Strait of Hormuz open",
@@ -246,7 +263,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 15,
+      "position": 16,
       "item": {
         "@type": "NewsArticle",
         "headline": "Air attacks target bases of Iran-backed forces in Iraq",
@@ -263,7 +280,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 16,
+      "position": 17,
       "item": {
         "@type": "NewsArticle",
         "headline": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
@@ -280,7 +297,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 17,
+      "position": 18,
       "item": {
         "@type": "NewsArticle",
         "headline": "China’s arms imports plummet, Hong Kong couple’s HK$50,000 Dubai exit: SCMP’s 7 highlights",
@@ -297,7 +314,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 18,
+      "position": 19,
       "item": {
         "@type": "NewsArticle",
         "headline": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
@@ -314,7 +331,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 19,
+      "position": 20,
       "item": {
         "@type": "NewsArticle",
         "headline": "Netanyahu threatens Iran’s new supreme leader, defends joint assault with US",
@@ -331,7 +348,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 20,
+      "position": 21,
       "item": {
         "@type": "NewsArticle",
         "headline": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
@@ -348,7 +365,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 21,
+      "position": 22,
       "item": {
         "@type": "NewsArticle",
         "headline": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
@@ -365,7 +382,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 22,
+      "position": 23,
       "item": {
         "@type": "NewsArticle",
         "headline": "Reportan supuestos avistamientos de Pie Grande",
@@ -382,7 +399,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 23,
+      "position": 24,
       "item": {
         "@type": "NewsArticle",
         "headline": "FOTO deja en evidencia la paralización del paso por el estrecho de Ormuz",
@@ -399,7 +416,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 24,
+      "position": 25,
       "item": {
         "@type": "NewsArticle",
         "headline": "\"Estaremos todos en el culo profundo\": Fico advierte a la OTAN sobre el envío de tropas a Ucrania",
@@ -416,7 +433,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 25,
+      "position": 26,
       "item": {
         "@type": "NewsArticle",
         "headline": "Venezuela firma un acuerdo con dos gigantes energéticos europeos",
@@ -433,7 +450,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 26,
+      "position": 27,
       "item": {
         "@type": "NewsArticle",
         "headline": "¿Cómo impacta la agresión a Irán en los 5 bancos centrales más sólidos de América Latina?",
@@ -450,7 +467,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 27,
+      "position": 28,
       "item": {
         "@type": "NewsArticle",
         "headline": "Cuba anuncia la próxima liberación de decenas de personas encarceladas",
@@ -467,7 +484,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 28,
+      "position": 29,
       "item": {
         "@type": "NewsArticle",
         "headline": "\"¡Basta ya de este circo!\": Opositor de Macron exige no dar \"ni un euro más para Zelenski\"",
@@ -484,7 +501,24 @@
     },
     {
       "@type": "ListItem",
-      "position": 29,
+      "position": 30,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Almost 60 wounded in missile attack on northern Israel — newspaper",
+        "description": "A building was damaged. Bomb squads are working in the area",
+        "url": "https://tass.com/world/2100967",
+        "datePublished": "Fri, 13 Mar 2026 07:21:15 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6014
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
       "item": {
         "@type": "NewsArticle",
         "headline": "Israel, US strike eastern Tehran — agency",
@@ -501,7 +535,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 30,
+      "position": 32,
       "item": {
         "@type": "NewsArticle",
         "headline": "At least 33 wounded in strike on residential building in north Israel — Ynet",
@@ -518,7 +552,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 31,
+      "position": 33,
       "item": {
         "@type": "NewsArticle",
         "headline": "Serbia has no plans to join NATO, will remain neutral — president",
@@ -535,7 +569,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 32,
+      "position": 34,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iraqi tankers can cross Strait of Hormuz — Iran’s ambassador to Baghdad",
@@ -552,7 +586,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 33,
+      "position": 35,
       "item": {
         "@type": "NewsArticle",
         "headline": "Central Iranian city of Arak bombed — TV",
@@ -569,7 +603,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 34,
+      "position": 36,
       "item": {
         "@type": "NewsArticle",
         "headline": "Israel attacks Hezbollah command centers in Beirut, southern Lebanon",
@@ -586,7 +620,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 35,
+      "position": 37,
       "item": {
         "@type": "NewsArticle",
         "headline": "French soldier killed, several wounded in Iraq attack, Macron confirms",
@@ -603,7 +637,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 36,
+      "position": 38,
       "item": {
         "@type": "NewsArticle",
         "headline": "Europe should back American strikes on Iran, says key Merz ally",
@@ -620,7 +654,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 37,
+      "position": 39,
       "item": {
         "@type": "NewsArticle",
         "headline": "Colombian president warns US against building an empire in Latin America",
@@ -637,7 +671,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 38,
+      "position": 40,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Capital Rules for the Real Economy",
@@ -654,7 +688,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 39,
+      "position": 41,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
@@ -671,7 +705,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 40,
+      "position": 42,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Outlook for the Economy and Monetary Policy",
