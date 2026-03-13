@@ -4,7 +4,7 @@
   "name": "geopolitica — 2026-03-12",
   "description": "Digest semántico de geopolitica generado el 2026-03-12",
   "datePublished": "2026-03-12",
-  "numberOfItems": 42,
+  "numberOfItems": 39,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -453,55 +453,21 @@
       "position": 27,
       "item": {
         "@type": "NewsArticle",
-        "headline": "¿Cómo impacta la agresión a Irán en los 5 bancos centrales más sólidos de América Latina?",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b349e8e9ff712060439e66.jpg\" style=\"float: left;\" />\n        \tEl panorama energético afecta de distintas formas y plantea escenarios diversos que responden a la posición de los países como exportadores o importadores de crudo.",
-        "url": "https://actualidad.rt.com/actualidad/592499-agresion-iran-impacta-bancos-centrales-latina?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Fri, 13 Mar 2026 01:40:19 +0000",
+        "headline": "Russia necessary for mitigating global energy crisis — presidential envoy",
+        "description": "Kirill Dmitriev says European politicians will have to admit their energy policy mistakes",
+        "url": "https://tass.com/economy/2100973",
+        "datePublished": "Fri, 13 Mar 2026 07:48:34 +0300",
         "publisher": {
           "@type": "Organization",
-          "name": "rt_espanol"
+          "name": "tass_english"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.5712
+        "relevanceScore": 0.537
       }
     },
     {
       "@type": "ListItem",
       "position": 28,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Cuba anuncia la próxima liberación de decenas de personas encarceladas",
-        "description": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "url": "https://actualidad.rt.com/actualidad/592584-cuba-anunciar-proxima-liberacion-decenas-presos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Fri, 13 Mar 2026 01:26:00 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4609
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 29,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "\"¡Basta ya de este circo!\": Opositor de Macron exige no dar \"ni un euro más para Zelenski\"",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b35c4ae9ff7107e82660e1.jpg\" style=\"float: left;\" />\n        \tFlorian Philippot criticó el inminente encuentro entre el presidente francés y el líder del régimen de Kiev.",
-        "url": "https://actualidad.rt.com/actualidad/592580-opositor-macron-pide-no-dar-euro-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Fri, 13 Mar 2026 01:11:52 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4816
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 30,
       "item": {
         "@type": "NewsArticle",
         "headline": "Almost 60 wounded in missile attack on northern Israel — newspaper",
@@ -518,7 +484,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 31,
+      "position": 29,
       "item": {
         "@type": "NewsArticle",
         "headline": "Israel, US strike eastern Tehran — agency",
@@ -535,7 +501,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 32,
+      "position": 30,
       "item": {
         "@type": "NewsArticle",
         "headline": "At least 33 wounded in strike on residential building in north Israel — Ynet",
@@ -552,7 +518,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 33,
+      "position": 31,
       "item": {
         "@type": "NewsArticle",
         "headline": "Serbia has no plans to join NATO, will remain neutral — president",
@@ -569,7 +535,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 34,
+      "position": 32,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iraqi tankers can cross Strait of Hormuz — Iran’s ambassador to Baghdad",
@@ -586,7 +552,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 35,
+      "position": 33,
       "item": {
         "@type": "NewsArticle",
         "headline": "Central Iranian city of Arak bombed — TV",
@@ -603,24 +569,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 36,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Israel attacks Hezbollah command centers in Beirut, southern Lebanon",
-        "description": "According to the Israeli military, the facilities were used \"to advance terror attacks against the State of Israel and its civilians\"",
-        "url": "https://tass.com/world/2100911",
-        "datePublished": "Fri, 13 Mar 2026 01:21:31 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5246
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 37,
+      "position": 34,
       "item": {
         "@type": "NewsArticle",
         "headline": "French soldier killed, several wounded in Iraq attack, Macron confirms",
@@ -637,7 +586,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 38,
+      "position": 35,
       "item": {
         "@type": "NewsArticle",
         "headline": "Europe should back American strikes on Iran, says key Merz ally",
@@ -654,7 +603,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 39,
+      "position": 36,
       "item": {
         "@type": "NewsArticle",
         "headline": "Colombian president warns US against building an empire in Latin America",
@@ -671,7 +620,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 40,
+      "position": 37,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Capital Rules for the Real Economy",
@@ -688,7 +637,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 41,
+      "position": 38,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
@@ -705,7 +654,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 42,
+      "position": 39,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Outlook for the Economy and Monetary Policy",

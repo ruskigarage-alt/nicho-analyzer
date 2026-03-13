@@ -11,7 +11,7 @@
       "url": "https://ruskigarage-alt.github.io/nicho-analyzer"
     }
   ],
-  "date_modified": "2026-03-13T04:36:10.676409+00:00",
+  "date_modified": "2026-03-13T05:24:58.832166+00:00",
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#0",
@@ -763,39 +763,17 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#68",
-      "title": "¿Cómo impacta la agresión a Irán en los 5 bancos centrales más sólidos de América Latina?",
+      "title": "Russia necessary for mitigating global energy crisis — presidential envoy",
       "content_text": "",
       "date_published": "2026-03-12",
       "tags": [
         "geopolitica",
-        "rt_espanol"
+        "tass_english"
       ],
-      "url": "https://actualidad.rt.com/actualidad/592499-agresion-iran-impacta-bancos-centrales-latina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "url": "https://tass.com/economy/2100973"
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#69",
-      "title": "Cuba anuncia la próxima liberación de decenas de personas encarceladas",
-      "content_text": "",
-      "date_published": "2026-03-12",
-      "tags": [
-        "geopolitica",
-        "rt_espanol"
-      ],
-      "url": "https://actualidad.rt.com/actualidad/592584-cuba-anunciar-proxima-liberacion-decenas-presos?utm_source=rss&utm_medium=rss&utm_campaign=all"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#70",
-      "title": "\"¡Basta ya de este circo!\": Opositor de Macron exige no dar \"ni un euro más para Zelenski\"",
-      "content_text": "",
-      "date_published": "2026-03-12",
-      "tags": [
-        "geopolitica",
-        "rt_espanol"
-      ],
-      "url": "https://actualidad.rt.com/actualidad/592580-opositor-macron-pide-no-dar-euro-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#71",
       "title": "Almost 60 wounded in missile attack on northern Israel — newspaper",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -806,7 +784,7 @@
       "url": "https://tass.com/world/2100967"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#72",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#70",
       "title": "Israel, US strike eastern Tehran — agency",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -817,7 +795,7 @@
       "url": "https://tass.com/world/2100963"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#73",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#71",
       "title": "At least 33 wounded in strike on residential building in north Israel — Ynet",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -828,7 +806,7 @@
       "url": "https://tass.com/world/2100955"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#74",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#72",
       "title": "Serbia has no plans to join NATO, will remain neutral — president",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -839,7 +817,7 @@
       "url": "https://tass.com/world/2100953"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#75",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#73",
       "title": "Iraqi tankers can cross Strait of Hormuz — Iran’s ambassador to Baghdad",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -850,7 +828,7 @@
       "url": "https://tass.com/world/2100941"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#76",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#74",
       "title": "Central Iranian city of Arak bombed — TV",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -861,18 +839,7 @@
       "url": "https://tass.com/world/2100927"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#77",
-      "title": "Israel attacks Hezbollah command centers in Beirut, southern Lebanon",
-      "content_text": "",
-      "date_published": "2026-03-12",
-      "tags": [
-        "geopolitica",
-        "tass_english"
-      ],
-      "url": "https://tass.com/world/2100911"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#78",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#75",
       "title": "French soldier killed, several wounded in Iraq attack, Macron confirms",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -883,7 +850,7 @@
       "url": "https://www.politico.eu/article/french-soldier-killed-several-wounded-iraq-attack-emmanuel-macron-confirms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#79",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#76",
       "title": "Europe should back American strikes on Iran, says key Merz ally",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -894,7 +861,7 @@
       "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/europe-should-back-american-strikes-on-iran-says-key-merz-ally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#80",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#77",
       "title": "Colombian president warns US against building an empire in Latin America",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -905,7 +872,7 @@
       "url": "https://www.politico.eu/article/gustavo-petro-colombian-president-us-donald-trump-latin-america-empire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#81",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#78",
       "title": "Bowman, Capital Rules for the Real Economy",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -916,7 +883,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#82",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#79",
       "title": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -927,7 +894,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#83",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#80",
       "title": "Bowman, Outlook for the Economy and Monetary Policy",
       "content_text": "",
       "date_published": "2026-03-12",

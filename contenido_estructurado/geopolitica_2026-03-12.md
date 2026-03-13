@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-12"
 date: "2026-03-12"
 nicho: "geopolitica"
-total_entradas: 42
+total_entradas: 39
 schema: "NewsDigest"
 ---
 
@@ -205,28 +205,12 @@ SCMP Plus readers get early access...
 - **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
 - **Relevancia**: 0.5654
 
-### ¿Cómo impacta la agresión a Irán en los 5 bancos centrales más sólidos de América Latina?
-- **Fecha**: Fri, 13 Mar 2026 01:40:19 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592499-agresion-iran-impacta-bancos-centrales-latina?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b349e8e9ff712060439e66.jpg" style="float: left;" />
-        	El panorama energético afecta de distintas formas y plantea escenarios diversos que responden a la posición de los países como exportadores o importadores de crudo.
-- **Relevancia**: 0.5712
-
-### Cuba anuncia la próxima liberación de decenas de personas encarceladas
-- **Fecha**: Fri, 13 Mar 2026 01:26:00 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592584-cuba-anunciar-proxima-liberacion-decenas-presos?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
-- **Relevancia**: 0.4609
-
-### "¡Basta ya de este circo!": Opositor de Macron exige no dar "ni un euro más para Zelenski"
-- **Fecha**: Fri, 13 Mar 2026 01:11:52 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592580-opositor-macron-pide-no-dar-euro-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b35c4ae9ff7107e82660e1.jpg" style="float: left;" />
-        	Florian Philippot criticó el inminente encuentro entre el presidente francés y el líder del régimen de Kiev.
-- **Relevancia**: 0.4816
+### Russia necessary for mitigating global energy crisis — presidential envoy
+- **Fecha**: Fri, 13 Mar 2026 07:48:34 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/economy/2100973
+- **Resumen**: Kirill Dmitriev says European politicians will have to admit their energy policy mistakes
+- **Relevancia**: 0.537
 
 ### Almost 60 wounded in missile attack on northern Israel — newspaper
 - **Fecha**: Fri, 13 Mar 2026 07:21:15 +0300
@@ -269,13 +253,6 @@ SCMP Plus readers get early access...
 - **URL**: https://tass.com/world/2100927
 - **Resumen**: No information on damage or casualties is available so far
 - **Relevancia**: 0.4741
-
-### Israel attacks Hezbollah command centers in Beirut, southern Lebanon
-- **Fecha**: Fri, 13 Mar 2026 01:21:31 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2100911
-- **Resumen**: According to the Israeli military, the facilities were used "to advance terror attacks against the State of Israel and its civilians"
-- **Relevancia**: 0.5246
 
 ### French soldier killed, several wounded in Iraq attack, Macron confirms
 - **Fecha**: Fri, 13 Mar 2026 03:23:44 +0000

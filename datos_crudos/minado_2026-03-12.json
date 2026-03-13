@@ -611,6 +611,42 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Brent Oil Trades Near $100 as Iran Vows to Keep Hormuz Closed",
+        "resumen": "Brent oil traded near $100 a barrel following one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
+      },
+      {
+        "titulo": "Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief",
+        "resumen": "President Donald Trump and Iran’s new supreme leader both struck defiant tones on the 13th day of the war, offering little relief to energy markets despite fresh US efforts to curb oil prices.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/trump-iran-strike-defiant-tone-as-oil-markets-see-little-relief",
+        "fecha_publicacion": "Thu, 12 Mar 2026 16:31:50 GMT"
+      },
+      {
+        "titulo": "Asian Stocks Slide, Yen at Weakest Since July 2024: Markets Wrap",
+        "resumen": "Asian stocks dropped as investors remained wary of risks from the Iran conflict heading into the weekend. The Japanese yen fell to its weakest level since July 2024 as the recent surge in oil prices boosted inflation concerns.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
+      },
+      {
+        "titulo": "Asian Stocks Lower as US & Iran Remain Defiant | The Asia Trade 3/13/2026",
+        "resumen": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-13/the-asia-trade-3-13-2026-video",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:46:31 GMT"
+      },
+      {
+        "titulo": "Malaysia Says Its Subsidy Bill to Rise Due to Higher Oil Prices",
+        "resumen": "Malaysia’s subsidy bill will increase because of higher oil prices caused by the war in the Middle East, said Second Finance Minister Amir Hamzah Azizan.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/malaysia-says-its-subsidy-bill-to-rise-due-to-higher-oil-prices",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:44:04 GMT"
+      },
+      {
+        "titulo": "Yen Slides to Weakest Since July 2024 as Iran War Escalates",
+        "resumen": "The yen fell to its weakest level since July 2024 as a deepening war in the Middle East pushes up oil prices.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/yen-slides-to-weakest-since-july-2024-as-iran-war-escalates",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:34:16 GMT"
+      },
+      {
         "titulo": "Hong Kong Moves to Lower Threshold for Dual-Class Share Listings",
         "resumen": "Hong Kong is proposing to lower the minimum market value for dual-class shares to debut on the city’s exchange, part of a broader push to revive its status as a premier destination for global initial public offerings.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-13/hong-kong-moves-to-lower-threshold-for-dual-class-share-listings",
@@ -621,12 +657,6 @@
         "resumen": "SoftBank Group Corp.-backed PayPay Corp. is open to a dual listing with a presence on Tokyo’s bourse, its chief said after the digital payments company’s $880 million trading debut in New York.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo",
         "fecha_publicacion": "Fri, 13 Mar 2026 04:13:34 GMT"
-      },
-      {
-        "titulo": "Asian Stocks Trim Early Losses, Oil Rally Cools: Markets Wrap",
-        "resumen": "Asian stocks pared early declines while S&amp;P 500 futures rose as the US issued a second temporary waiver allowing purchases of Russian oil to help curb surging energy prices.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
       },
       {
         "titulo": "MTR CEO: Cautiously Optimistic About 2026 Revenue",
@@ -645,18 +675,6 @@
         "resumen": "China’s consumer spending may have booked the worst start to any year outside the pandemic, highlighting the challenge to a government that has targeted a bigger role for domestic demand.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-13/china-consumption-start-to-year-seen-as-worst-ever-outside-covid",
         "fecha_publicacion": "Fri, 13 Mar 2026 01:00:00 GMT"
-      },
-      {
-        "titulo": "Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief",
-        "resumen": "President Donald Trump and Iran’s new supreme leader both struck defiant tones on the 13th day of the war, offering little relief to energy markets despite fresh US efforts to curb oil prices.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/trump-iran-strike-defiant-tone-as-oil-markets-see-little-relief",
-        "fecha_publicacion": "Thu, 12 Mar 2026 16:31:50 GMT"
-      },
-      {
-        "titulo": "Brent Oil Trades Near $100 as Iran Vows to Keep Hormuz Closed",
-        "resumen": "Brent oil traded near $100 a barrel following one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
       },
       {
         "titulo": "UAE Cuts Partners’ Crude Shipments With Flows Sent to Fujairah",
@@ -711,24 +729,6 @@
         "resumen": "The Philippines is bracing for more pain ahead in its labor market due to the Middle East conflict, after joblessness surged to the highest in nearly four years.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-13/philippines-braces-for-iran-war-hit-on-labor-after-jobless-surge",
         "fecha_publicacion": "Fri, 13 Mar 2026 02:43:43 GMT"
-      },
-      {
-        "titulo": "Xiaomi’s Memory, EV Woes Hand Short Sellers $1.8 Billion Payout",
-        "resumen": "Short sellers betting against Xiaomi Corp. are reaping big gains, as surging memory prices and weakening electric-vehicle sales cloud the company’s earnings outlook.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/xiaomi-s-memory-ev-woes-hand-short-sellers-1-8-billion-payout",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:30:00 GMT"
-      },
-      {
-        "titulo": "Aluminum Near Four-Year High as War Risks Smelter Closures",
-        "resumen": "Aluminum traded near the highest level in four years on the risk of smelter closures as the Middle East war showed little sign of ending soon.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/aluminum-near-four-year-high-as-war-risks-smelter-closures",
-        "fecha_publicacion": "Fri, 13 Mar 2026 02:33:59 GMT"
-      },
-      {
-        "titulo": "India Asks China for Urea as War-Induced Gas Crunch Bites",
-        "resumen": "India has asked China to allow the sale of some urea cargoes as the war in the Middle East curtails the nation’s gas supplies, threatening fertilizer production in the agricultural powerhouse.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/india-asks-china-for-urea-as-war-induced-gas-crunch-hits-plants",
-        "fecha_publicacion": "Thu, 12 Mar 2026 10:52:48 GMT"
       }
     ],
     "total_entradas": 20
@@ -871,6 +871,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "The Palestinians forced to demolish their own homes by Israel",
+        "resumen": "Palestinians in East Jerusalem struggle to get building permits from Israel, leading to demolition orders.",
+        "link": "https://www.aljazeera.com/features/2026/3/13/the-palestinians-forced-to-demolish-their-own-homes-by-israel?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:49:07 +0000"
+      },
+      {
         "titulo": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
         "resumen": "Energy markets remain on tenterhooks as the prospect of prolonged war in the Middle East grows.",
         "link": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss",
@@ -938,7 +944,7 @@
       },
       {
         "titulo": "US military announces rescue effort after fuelling aircraft crashes in Iraq",
-        "resumen": "No deaths have been reported so far, but the military said the crash involved two aircraft, one of which landed safely.",
+        "resumen": "The &#039;Islamic Resistance in Iraq&#039; claims responsibility for shooting down the plane, no deaths reported so far..",
         "link": "https://www.aljazeera.com/news/2026/3/12/us-military-announces-loss-of-refueling-aircraft-over-western-iraq?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:10:05 +0000"
       },
@@ -983,12 +989,6 @@
         "resumen": "Outcomes depend on how quickly oil tankers can return to the Strait of Hormuz, experts said.",
         "link": "https://www.aljazeera.com/economy/2026/3/12/how-will-the-war-on-iran-impact-the-us-economy?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 19:50:51 +0000"
-      },
-      {
-        "titulo": "Does President Trump have an exit strategy for the war with Iran?",
-        "resumen": "United States officials are issuing contradictory statements on the war&#039;s timeline and objectives.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/12/does-president-trump-have-an-exit-strategy-for-the-war-with-iran?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 19:50:37 +0000"
       }
     ],
     "total_entradas": 20
@@ -1131,6 +1131,24 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "VIDEOS: Drones iraníes impactan en una playa y el centro financiero de Dubái",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg\" style=\"float: left;\" />\n        \tComo resultado del impacto, la fachada de uno de los edificios sufrió daños. Por el momento no se ha informado de posibles heridos.",
+        "link": "https://actualidad.rt.com/actualidad/592606-videos-drones-iranies-impactan-playa-centro-financiero-dubai?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:59:10 +0000"
+      },
+      {
+        "titulo": "FT: EE.UU. agotó años de reservas de armamento en su agresión contra Irán",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b38a1be9ff71384d379d73.jpg\" style=\"float: left;\" />\n        \tSe estima que Washington utilizó 168 Tomahawk en las primeras 100 horas de ataque contra territorio iraní.",
+        "link": "https://actualidad.rt.com/actualidad/592597-misiles-anos-suma-astronomica-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:53:20 +0000"
+      },
+      {
+        "titulo": "Irán amenaza con abrir \"nuevos frentes\" mientras golpea con éxito bases de Occidente: MINUTO A MINUTO",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b392b3e9ff713fb3408bbd.jpg\" style=\"float: left;\" />\n        \tEl Comando Central de las Fuerzas Armadas de EE.UU. (CENTCOM) confirmó este jueves la pérdida de un avión cisterna KC-135 en el espacio aéreo iraquí en el marco de la agresión militar de Washington y Tel Aviv contra Irán.",
+        "link": "https://actualidad.rt.com/actualidad/592603-iran-nuevos-frentes-exito-bases-occidente-minuto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 04:43:13 +0000"
+      },
+      {
         "titulo": "La NASA fija la fecha del lanzamiento de la histórica misión Artemis II a la órbita lunar",
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b35e9d59bf5b397700be4b.jpg\" style=\"float: left;\" />\n        \tLa agencia espacial estadounidense anunció que resolvió fallas técnicas detectadas en el cohete y apunta ahora a realizar el despegue con una tripulación de cuatro astronautas.",
         "link": "https://actualidad.rt.com/actualidad/592546-nasa-fija-fecha-lanzamiento-historica?utm_source=rss&utm_medium=rss&utm_campaign=all",
@@ -1171,24 +1189,6 @@
         "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
         "link": "https://actualidad.rt.com/actualidad/592586-venezuela-firma-acuerdo-gigantes-energeticos-europeos?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Fri, 13 Mar 2026 01:44:11 +0000"
-      },
-      {
-        "titulo": "¿Cómo impacta la agresión a Irán en los 5 bancos centrales más sólidos de América Latina?",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b349e8e9ff712060439e66.jpg\" style=\"float: left;\" />\n        \tEl panorama energético afecta de distintas formas y plantea escenarios diversos que responden a la posición de los países como exportadores o importadores de crudo.",
-        "link": "https://actualidad.rt.com/actualidad/592499-agresion-iran-impacta-bancos-centrales-latina?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:40:19 +0000"
-      },
-      {
-        "titulo": "Cuba anuncia la próxima liberación de decenas de personas encarceladas",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592584-cuba-anunciar-proxima-liberacion-decenas-presos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:26:00 +0000"
-      },
-      {
-        "titulo": "\"¡Basta ya de este circo!\": Opositor de Macron exige no dar \"ni un euro más para Zelenski\"",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b35c4ae9ff7107e82660e1.jpg\" style=\"float: left;\" />\n        \tFlorian Philippot criticó el inminente encuentro entre el presidente francés y el líder del régimen de Kiev.",
-        "link": "https://actualidad.rt.com/actualidad/592580-opositor-macron-pide-no-dar-euro-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:11:52 +0000"
       }
     ],
     "total_entradas": 10
@@ -1200,6 +1200,24 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Question of lifting anti-Russian sanctions raised during Japan’s ruling party meeting",
+        "resumen": "Muneo Suzuki noted that Japan could use its geographical advantage to replace oil and gas supplies from the Middle East",
+        "link": "https://tass.com/world/2100975",
+        "fecha_publicacion": "Fri, 13 Mar 2026 08:06:23 +0300"
+      },
+      {
+        "titulo": "Russia necessary for mitigating global energy crisis — presidential envoy",
+        "resumen": "Kirill Dmitriev says European politicians will have to admit their energy policy mistakes",
+        "link": "https://tass.com/economy/2100973",
+        "fecha_publicacion": "Fri, 13 Mar 2026 07:48:34 +0300"
+      },
+      {
+        "titulo": "US sees no evidence of Russia helping Iran — envoy to NATO",
+        "resumen": "Matthew Whitaker mentioned an earlier conversation where \"the Russians\" told Special Presidential Envoy Steve Witkoff they were not \"participating with the Iranians\"",
+        "link": "https://tass.com/world/2100969",
+        "fecha_publicacion": "Fri, 13 Mar 2026 07:33:41 +0300"
+      },
       {
         "titulo": "Almost 60 wounded in missile attack on northern Israel — newspaper",
         "resumen": "A building was damaged. Bomb squads are working in the area",
@@ -1301,24 +1319,6 @@
         "resumen": "A representative of Khatam al-Anbiya, the central headquarters of the Iranian army, says that otherwise Iran would destroy all oil and gas infrastructure of interest to the US in the region",
         "link": "https://tass.com/world/2100887",
         "fecha_publicacion": "Fri, 13 Mar 2026 02:33:46 +0300"
-      },
-      {
-        "titulo": "During talks, Iran proposed formally sealing its refusal from nuclear ambitions — minister",
-        "resumen": "Abbas Araghchi says Washington turned down the proposal",
-        "link": "https://tass.com/world/2100913",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:39:04 +0300"
-      },
-      {
-        "titulo": "Israel attacks Hezbollah command centers in Beirut, southern Lebanon",
-        "resumen": "According to the Israeli military, the facilities were used \"to advance terror attacks against the State of Israel and its civilians\"",
-        "link": "https://tass.com/world/2100911",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:21:31 +0300"
-      },
-      {
-        "titulo": "Six French citizens wounded in drone attack in northern Iraq — TV",
-        "resumen": "The incident occurred during a strike on a base of a Kurdish militia group",
-        "link": "https://tass.com/world/2100903",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:39:57 +0300"
       }
     ],
     "total_entradas": 20
