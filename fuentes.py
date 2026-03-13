@@ -1,9 +1,41 @@
-# ─────────────────────────────────────────
-# FUENTES RSS
+# fuentes.py — URLs verificadas y funcionales 2026
 # ─────────────────────────────────────────
 
 FUENTES_RSS = [
-    # ECONOMÍA MÉXICO
+
+    # ── LA JORNADA — secciones verificadas ────────────────────
+    {
+        "nombre": "jornada_politica",
+        "url": "https://www.jornada.com.mx/rss/politica.xml",
+        "nicho": "politica_local",
+        "ssl": True
+    },
+    {
+        "nombre": "jornada_economia",
+        "url": "https://www.jornada.com.mx/rss/economia.xml",
+        "nicho": "regulaciones_pyme",
+        "ssl": True
+    },
+    {
+        "nombre": "jornada_mundo",
+        "url": "https://www.jornada.com.mx/rss/mundo.xml",
+        "nicho": "geopolitica",
+        "ssl": True
+    },
+    {
+        "nombre": "jornada_estados",
+        "url": "https://www.jornada.com.mx/rss/estados.xml",
+        "nicho": "politica_local",
+        "ssl": True
+    },
+    {
+        "nombre": "jornada_capital",
+        "url": "https://www.jornada.com.mx/rss/capital.xml",
+        "nicho": "politica_local",
+        "ssl": True
+    },
+
+    # ── ECONOMÍA MÉXICO ────────────────────────────────────────
     {
         "nombre": "expansion_economia",
         "url": "https://expansion.mx/rss/economia",
@@ -11,13 +43,15 @@ FUENTES_RSS = [
         "ssl": True
     },
 
-    # GEOPOLÍTICA — OCCIDENTALES
+    # ── POLÍTICA LOCAL — ZACATECAS ─────────────────────────────
     {
-        "nombre": "reuters_business",
-        "url": "https://feeds.reuters.com/reuters/businessNews",
-        "nicho": "geopolitica",
+        "nombre": "jornada_zacatecas",
+        "url": "https://ljz.mx/feed/",
+        "nicho": "politica_local",
         "ssl": True
     },
+
+    # ── GEOPOLÍTICA GLOBAL ─────────────────────────────────────
     {
         "nombre": "bloomberg_markets",
         "url": "https://feeds.bloomberg.com/markets/news.rss",
@@ -30,8 +64,18 @@ FUENTES_RSS = [
         "nicho": "geopolitica",
         "ssl": True
     },
-
-    # GEOPOLÍTICA — ALTERNATIVAS
+    {
+        "nombre": "al_jazeera",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "nicho": "geopolitica",
+        "ssl": True
+    },
+    {
+        "nombre": "scmp_world",
+        "url": "https://www.scmp.com/rss/5/feed",
+        "nicho": "geopolitica",
+        "ssl": True
+    },
     {
         "nombre": "rt_espanol",
         "url": "https://actualidad.rt.com/rss",
@@ -39,107 +83,47 @@ FUENTES_RSS = [
         "ssl": True
     },
     {
-        "nombre": "aljazeera",
-        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "nombre": "brookings",
+        "url": "https://www.brookings.edu/feed/",
         "nicho": "geopolitica",
         "ssl": True
     },
     {
-        "nombre": "scmp",
-        "url": "https://www.scmp.com/rss/5/feed",
+        "nombre": "carnegie",
+        "url": "https://carnegieendowment.org/rss/solr/feed/?fa=pub",
+        "nicho": "geopolitica",
+        "ssl": True
+    },
+    {
+        "nombre": "tass_english",
+        "url": "https://tass.com/rss/v2.xml",
+        "nicho": "geopolitica",
+        "ssl": True
+    },
+    {
+        "nombre": "politico_europe",
+        "url": "https://www.politico.eu/feed/",
         "nicho": "geopolitica",
         "ssl": True
     },
 
-
-    # POLÍTICA LOCAL — ZACATECAS
-    {
-        "nombre": "ntr_zacatecas",
-        "url": "https://ntrzacatecas.com/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-    {
-        "nombre": "express_zacatecas",
-        "url": "https://expresszacatecas.com/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-
-    # POLÍTICA LOCAL — SAN LUIS POTOSÍ
-    {
-        "nombre": "plano_informativo_slp",
-        "url": "https://www.planoinformativo.com/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-    {
-        "nombre": "globalmedia_slp",
-        "url": "https://www.globalmedia.mx/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-
-    # POLÍTICA LOCAL — AGUASCALIENTES
-    {
-        "nombre": "hydra_aguascalientes",
-        "url": "https://www.hydranews.mx/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-    {
-        "nombre": "puntual_aguascalientes",
-        "url": "https://puntual.com.mx/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-
-    # POLÍTICA LOCAL — ZACATECAS
-    {
-        "nombre": "ntr_zacatecas",
-        "url": "https://ntrzacatecas.com/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-    {
-        "nombre": "express_zacatecas",
-        "url": "https://expresszacatecas.com/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-
-    # POLÍTICA LOCAL — SAN LUIS POTOSÍ
-    {
-        "nombre": "plano_informativo_slp",
-        "url": "https://www.planoinformativo.com/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-    {
-        "nombre": "globalmedia_slp",
-        "url": "https://www.globalmedia.mx/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-
-    # POLÍTICA LOCAL — AGUASCALIENTES
-    {
-        "nombre": "hydra_aguascalientes",
-        "url": "https://www.hydranews.mx/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-    {
-        "nombre": "puntual_aguascalientes",
-        "url": "https://puntual.com.mx/feed",
-        "nicho": "politica_local_bajio",
-        "ssl": True
-    },
-    # INSTITUCIONALES
+    # ── INSTITUCIONALES ────────────────────────────────────────
     {
         "nombre": "fed_speeches",
         "url": "https://www.federalreserve.gov/feeds/speeches.xml",
         "nicho": "geopolitica",
+        "ssl": True
+    },
+    {
+        "nombre": "fed_press",
+        "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+        "nicho": "regulaciones_pyme",
+        "ssl": True
+    },
+    {
+        "nombre": "wto_news",
+        "url": "https://www.wto.org/english/news_e/news_e.rss",
+        "nicho": "comercio_aranceles",
         "ssl": True
     },
 ]
