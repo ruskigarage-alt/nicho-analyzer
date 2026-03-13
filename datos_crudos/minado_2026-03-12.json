@@ -137,88 +137,70 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "Asian Stocks Track US Declines as Oil in Focus: Markets Wrap",
-        "resumen": "Asian stocks followed US peers lower in early trading Friday, with oil prices in focus on growing fears that the war in Iran will further crimp energy supplies and boost inflation.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
-      },
-      {
-        "titulo": "Gold Set for Second Weekly Decline as Oil Prices Rally Further",
-        "resumen": "Gold was headed for a second weekly decline as the dollar strengthened and the ongoing war in the Middle East forced oil prices higher.",
+        "titulo": "Gold Set for Weekly Drop as Mideast War Keeps Oil Prices High",
+        "resumen": "Gold rose on Friday, but remained on track for a second weekly decline as the war in the Middle East kept oil near $100 a barrel.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:20:17 GMT"
       },
       {
-        "titulo": "Brent Oil Trades Above $100 as Iran Vows to Keep Hormuz Closed",
-        "resumen": "Brent oil traded above $100 a barrel following one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
+        "titulo": "Australian Retirement Trust CIO on Investment Strategy",
+        "resumen": "Ian Patrick, CIO at the Australian Retirement Trust, discusses the investment opportunities ahead as Australia’s pension industry aims to deepen their push into overseas markets. He speaks with Haidi Stroud-Watts and Avril Hong from the sidelines of the Australian Superannuation Investment Summit. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-13/australian-retirement-trust-cio-on-investment-strategy-video",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:52:39 GMT"
       },
       {
-        "titulo": "China AI Giants Offer Better Value Than US Peers, Top Fund Says",
-        "resumen": "A top-performing emerging markets fund is increasing its exposure to major Chinese artificial intelligence hyperscalers, betting they offer better value than US tech giants that are pouring vast sums into expansion.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/china-ai-giants-offer-better-value-than-us-peers-top-fund-says",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:14:19 GMT"
+        "titulo": "Asian Stocks Trim Earlier Losses, Oil Rally Cools: Markets Wrap",
+        "resumen": "Asian stocks pared early declines and S&amp;P 500 futures rose after the US issued a second temporary waiver allowing purchases of Russian oil to help curb surging prices and ease inflation concerns.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
       },
       {
-        "titulo": "Honda Falls After Warning of $15.7 Billion Charge on EV Downturn",
-        "resumen": "Honda Motor Co. shares fell the most in almost a year after warning investors that it faces as much as ¥2.5 trillion ($15.7 billion) in charges and a historic annual loss, joining a growing list of global brands battered by the rapid unraveling of the electric vehicle transition.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/honda-warns-of-15-7-billion-charge-as-global-ev-downturn-grows",
-        "fecha_publicacion": "Thu, 12 Mar 2026 06:49:23 GMT"
+        "titulo": "Gas Shortage, Harsh Summer Lure Bulls to India Power Utilities",
+        "resumen": "Coal India shares rose for the third successive day to end at their highest level in over 16 months.",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-03-13/adani-power-tata-power-jsw-energy-shares-rally-coal-india-hits-16-month-high",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:51:28 GMT"
       },
       {
-        "titulo": "Brazil Judge Bars US Official From Visiting Bolsonaro in Prison",
-        "resumen": "Brazil Supreme Court Justice Alexandre de Moraes barred a US State Department official from visiting Jair Bolsonaro, the right-wing former president who is serving a 27-year prison sentence in the country’s capital.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/brazil-judge-bars-us-official-from-visiting-bolsonaro-in-prison",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:57:05 GMT"
+        "titulo": "Xiaomi’s Memory, EV Woes Hand Short Sellers $1.8 Billion Payout",
+        "resumen": "Short sellers betting against Xiaomi Corp. are reaping big gains, as surging memory prices and weakening electric-vehicle sales cloud the company’s earnings outlook.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/xiaomi-s-memory-ev-woes-hand-short-sellers-1-8-billion-payout",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:30:00 GMT"
       },
       {
-        "titulo": "New Zealand’s Economic Recovery Likely Lost Momentum in Late ‘25",
-        "resumen": "New Zealand’s economic recovery probably lost momentum in the final months of 2025, highlighting its fragile nature even before any impact from the spiraling Middle East conflict and surging oil prices.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/new-zealand-s-economic-recovery-likely-lost-momentum-in-late-25",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:34:42 GMT"
+        "titulo": "Asia Markets at Risk Due to Oil Dependency: BCA Research",
+        "resumen": "BCA Research's Garry Evans says the extent of the pressure on Asian markets \"comes down to the dependence on oil.\" He tells Bloomberg Television that investors should look at places \"that have quite a lot of energy companies in their indexes,\" such as Australia, Canada and Mexico. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-13/asia-markets-at-risk-due-to-oil-dependency-rca-research-video",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:35:58 GMT"
       },
       {
-        "titulo": "Australia Pension Eyes Private US Assets Ahead of NYC Meetings",
-        "resumen": "One of Australia’s biggest pension funds, Rest Super, is on the hunt for more private markets investments in the US, underscoring the strong appetite from the country’s fast-growing A$4.5 trillion ($3.2 trillion) sector that’s on a roadshow across three American cities.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/australia-pension-eyes-private-us-assets-ahead-of-nyc-meetings",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:33:10 GMT"
+        "titulo": "India Asks China for Urea as War-Induced Gas Crunch Bites",
+        "resumen": "India has asked China to allow the sale of some urea cargoes as the war in the Middle East curtails the nation’s gas supplies, threatening fertilizer production in the agricultural powerhouse.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/india-asks-china-for-urea-as-war-induced-gas-crunch-hits-plants",
+        "fecha_publicacion": "Thu, 12 Mar 2026 10:52:48 GMT"
       },
       {
-        "titulo": "Peru Holds Key Rate at 4.25% as Inflation Pressures Mount",
-        "resumen": "Peru left interest rates unchanged after inflation accelerated above the midpoint of its target range for the first time in more than a year.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/peru-holds-interest-rate-at-4-25-as-inflation-pressures-mount",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:07:13 GMT"
+        "titulo": "Iron Ore Set for Biggest Weekly Gain In a Year on CMRG’s Curbs",
+        "resumen": "Iron ore headed for its biggest weekly gain in over a year, after China’s state-backed buyer moved to expand restrictions on BHP Group products.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/iron-ore-set-for-biggest-weekly-gain-in-a-year-on-cmrg-s-curbs",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:27:20 GMT"
       },
       {
-        "titulo": "US Refueling Plane Crashes Over Iraq, Central Command Says",
-        "resumen": "A KC-135 refueling plane that was part of the American military campaign against Iran crashed over western Iraq after an incident involving another plane, US Central Command said Thursday night.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/kc-135-tanker-crashes-in-friendly-iraqi-airspace-us-says",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:14:20 GMT"
+        "titulo": "Tencent, Alibaba Due as OpenClaw AI Mania Spreads in China",
+        "resumen": "The hype around artificial intelligence software OpenClaw has heightened the interest in Tencent Holdings Ltd. and Alibaba Group Holding Ltd. earnings and how the agent might drive growth and innovation across multiple technology industry sectors.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/tencent-alibaba-due-as-openclaw-ai-mania-spreads-in-china",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:15:21 GMT"
       },
       {
-        "titulo": "Investors Hunt for Hedges as War Shatters Decades-Old Strategies",
-        "resumen": "The basic assumptions that have underpinned hedging strategies for decades are coming undone by the escalating war in Iran.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/investors-hunt-for-hedges-as-war-shatters-decades-old-strategies",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:00:00 GMT"
+        "titulo": "China’s Train to North Korea Lacks Passengers on Maiden Voyage",
+        "resumen": "Rush-hour was a notch louder at Beijing Station on Thursday, as passengers scurried to board the first K27 train service in six years. Destination: Pyongyang, capital of reclusive North Korea.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/china-s-train-to-north-korea-lacks-passengers-on-maiden-voyage",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:14:10 GMT"
       },
       {
-        "titulo": "War Cost Sinks Long-Term Government Bonds on Deficit Worries",
-        "resumen": "Investors are growing worried that the Iran war will drive up expenditures and swell budget deficits in countries around the world, sparking a selloff in long-term government bonds.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/war-spending-sinks-long-term-government-bonds-on-deficit-worries",
-        "fecha_publicacion": "Thu, 12 Mar 2026 09:45:00 GMT"
-      },
-      {
-        "titulo": "US Allies Near China on Edge as Weapons Shift From Asia to Iran",
-        "resumen": "When the US pulled its only aircraft carrier based in Asia to support the military surge in Afghanistan back in 2010, allies in the region had little concern that China or North Korea might look to take advantage. Today things are different.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/us-allies-near-china-on-edge-as-weapons-shift-from-asia-to-iran",
-        "fecha_publicacion": "Thu, 12 Mar 2026 16:22:57 GMT"
-      },
-      {
-        "titulo": "Carney Unveils Billions for Military Upgrades in Canada’s Far North",
-        "resumen": "Prime Minister Mark Carney announced billions for defense upgrades in Canada’s far north, boosting the country’s military presence after the White House complained about its vulnerabilities in the region.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/carney-unveils-billions-for-military-upgrades-in-canada-s-far-north",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:21:52 GMT"
+        "titulo": "Hedge Fund Regal Hit by 93% Crash in Australian Biotech Stock",
+        "resumen": "Sydney hedge fund Regal Partners Ltd. was dealt a fresh blow after Immutep Ltd., an Australian biotech company it backs, wiped out most of its A$582 million ($412 million) market value on Friday when it halted trials of a lung cancer drug.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/hedge-fund-regal-hit-by-93-crash-in-australian-biotech-stock",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:53:52 GMT"
       },
       {
         "titulo": "Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief",
@@ -227,34 +209,52 @@
         "fecha_publicacion": "Thu, 12 Mar 2026 16:31:50 GMT"
       },
       {
-        "titulo": "Califia Farms CEO on Product Innovation, What’s Next",
-        "resumen": "Califia Farms CEO Dave Ritterbush discusses product innovation, inflation, and what comes next for the company. He talks with Romaine Bostick and Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-12/califia-farms-ceo-on-product-innovation-what-s-next-video",
-        "fecha_publicacion": "Thu, 12 Mar 2026 21:33:17 GMT"
+        "titulo": "Oil Drillers Resort to Trucks as Key California Pipe Idled",
+        "resumen": "Oil drillers in central California have resorted to the costly and cumbersome alternative of trucking crude barrels 50 miles after the shut down of a refinery and idling of a key pipeline cut off outlets for their products.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/oil-drillers-resort-to-trucks-as-key-california-pipeline-idled",
+        "fecha_publicacion": "Thu, 12 Mar 2026 18:47:13 GMT"
       },
       {
-        "titulo": "Stocks Fall on War, Credit Woes as Brent Tops $100: Markets Wrap",
-        "resumen": "A renewed oil spike stoked fears the war in Iran will further crimp energy supplies and fuel inflation, spurring a slide in stocks, which were also hit by signs of distress in the $1.8 trillion private-credit market.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-11/stock-market-today-dow-s-p-live-updates-",
-        "fecha_publicacion": "Wed, 11 Mar 2026 22:45:40 GMT"
+        "titulo": "Australian Gold Miner Northern Star Sinks as Output Guidance Cut",
+        "resumen": "Northern Star Resources Ltd. sank the most in six years after the gold miner cut output guidance due to problems at a processing mill.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/australian-gold-miner-northern-star-sinks-as-output-guidance-cut",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:44:18 GMT"
       },
       {
-        "titulo": "Mexico REIT Fibra MTY Raises $500 Million in Share Offering",
-        "resumen": "Mexican real estate investment trust Fibra MTY raised about $500 million to expand its industrial portfolio.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-11/mexico-reit-fibra-mty-raises-500-million-in-follow-on-offering",
-        "fecha_publicacion": "Wed, 11 Mar 2026 23:00:38 GMT"
+        "titulo": "Chinese Power Giant Sheds Light on Arcane Part of Credit Markets",
+        "resumen": "A Chinese energy-construction giant is inadvertently spotlighting an arcane corner of the credit markets, where investors seek to use a technicality to potentially more than double their fixed-income returns.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/chinese-power-giant-sheds-light-on-arcane-part-of-credit-markets",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:36:23 GMT"
       },
       {
-        "titulo": "Gold Falls as War Hikes Oil Prices and Dims Fed Rate-Cut Outlook",
-        "resumen": "Gold fell, pressured by strength of the US dollar and the prospect of less monetary easing as the war in Iran sent oil prices soaring.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-11/gold-little-changed-as-traders-weigh-reduced-rate-cut-prospects",
-        "fecha_publicacion": "Wed, 11 Mar 2026 22:19:57 GMT"
+        "titulo": "Australia Pension Eyes Private US Assets Before NYC Meetings",
+        "resumen": "One of Australia’s biggest pension funds, Rest Super, is on the hunt for more private markets investments in the US, underscoring the strong appetite from the country’s fast-growing A$4.5 trillion ($3.2 trillion) sector that’s on a roadshow across three American cities.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/australia-pension-eyes-private-us-assets-ahead-of-nyc-meetings",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:33:10 GMT"
       },
       {
-        "titulo": "Abrahimzadeh: Reasons to be Optimistic on IPO Outlook",
-        "resumen": "1789 Capital Partner Paul Abrahimzadeh discusses the 2026 IPO pipeline showing reasons for optimism despite broader market volatility. He talks with Romaine Bostick and Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-12/abrahimzadeh-reasons-to-be-optimistic-on-ipo-outlook-video",
-        "fecha_publicacion": "Thu, 12 Mar 2026 21:02:24 GMT"
+        "titulo": "Brent Oil Trades Near $100 as Iran Vows to Keep Hormuz Closed",
+        "resumen": "Brent oil traded near $100 a barrel following one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
+        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
+      },
+      {
+        "titulo": "Brookfield Seeks Around $800 Million Loan for World Freight LBO",
+        "resumen": "Brookfield Asset Management Ltd. is seeking a loan of around $800 million to back its proposed purchase of air cargo specialist World Freight Co., according to people familiar with the matter, adding to a recent wave of acquisition financings in Asia.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/brookfield-seeks-around-800-million-loan-for-world-freight-lbo",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:13:23 GMT"
+      },
+      {
+        "titulo": "Magnitude 5.3 Earthquake Hits Turkey, USGS Says",
+        "resumen": "An earthquake with a magnitude of 5.3 struck 16 kilometers east of Erbaa, Turkey, according to the United States Geological Survey.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/magnitude-5-3-earthquake-hits-turkey-usgs-says",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:11:01 GMT"
+      },
+      {
+        "titulo": "China Consumption Start to Year Seen as Worst Ever Outside Covid",
+        "resumen": "China’s consumer spending may have booked the worst start to any year outside the pandemic, highlighting the challenge to a government that has targeted a bigger role for domestic demand.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/china-consumption-start-to-year-seen-as-worst-ever-outside-covid",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:00:00 GMT"
       }
     ],
     "total_entradas": 20
@@ -397,64 +397,64 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "El Supremo de Brasil bloquea visita de asesor de Trump a Bolsonaro en prisión",
+        "titulo": "\"Mordí la fibra óptica\": Héroe de Rusia que luchó en solitario 68 días cuenta cómo llegó hasta sus camaradas en Donbass",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34d9be9ff712060439e71.jpg\" style=\"float: left;\" />\n        \tSerguéi Yaráshev, de 21 años, retuvo una posición durante más de dos meses cerca del poblado de Gríshino.",
+        "link": "https://actualidad.rt.com/actualidad/592563-mordia-fibra-optica-heroe-donbass?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:53:15 +0000"
+      },
+      {
+        "titulo": "Reportan supuestos avistamientos de Pie Grande",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36a20e9ff71304d55303b.jpg\" style=\"float: left;\" />\n        \tNinguno de los siete episodios, reportados todos en Ohio (EE.UU.), fue captado por cámaras.",
+        "link": "https://actualidad.rt.com/viral/592587-reportan-supuestos-avistamientos-pie-grande?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:25:02 +0000"
+      },
+      {
+        "titulo": "FOTO deja en evidencia la paralización del paso por el estrecho de Ormuz",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36f8359bf5b221950cf55.jpg\" style=\"float: left;\" />\n        \tMedios iraníes difundieron una foto de vista aérea del estrecho de Ormuz, donde decenas de barcos esperan para pasar, en medio de las tensiones por la agresión de EE.UU. e Israel contra Irán. La nación persa bloqueó casi por completo la ruta marítima por donde circula alrededor de 20 % de todo el petróleo que se comercia en el mundo, lo que causó el alza de precios en el mercado energético.",
+        "link": "https://actualidad.rt.com/actualidad/592589-foto-decenas-barcos-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:17:20 +0000"
+      },
+      {
+        "titulo": "\"Estaremos todos en el culo profundo\": Fico advierte a la OTAN sobre el envío de tropas a Ucrania",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331a359bf5b34873f83a5.jpg\" style=\"float: left;\" />\n        \t\"Alguien podría activar el Artículo 5\", alertó el jefe del Gobierno eslovaco.",
+        "link": "https://actualidad.rt.com/actualidad/592538-estaremos-culo-profundo-fico-otan?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:13:51 +0000"
+      },
+      {
+        "titulo": "Reportan muertos y heridos en un ataque de Pakistán contra Afganistán",
         "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592574-supremo-brasil-bloquea-visita-asesor-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:32:14 +0000"
+        "link": "https://actualidad.rt.com/actualidad/592590-reportan-muertos-heridos-ataque-pakistan?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 02:01:51 +0000"
       },
       {
-        "titulo": "VIDEOS: Misiles iraníes se abren paso por el cielo israelí",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3596259bf5b04a267896e.jpg\" style=\"float: left;\" />\n        \tMedios iraníes divulgaron una serie de videos de la nueva oleada de misiles lanzados en represalia por Teherán contra el territorio israelí. En las imágenes, se pueden ver los cielos de varias zonas del país hebreo llenos de proyectiles, así como impactos directos en las regiones del norte y centro del territorio israelí.",
-        "link": "https://actualidad.rt.com/actualidad/592579-videos-misiles-iranies-abren-paso?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:30:57 +0000"
+        "titulo": "Venezuela firma un acuerdo con dos gigantes energéticos europeos",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592586-venezuela-firma-acuerdo-gigantes-energeticos-europeos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:44:11 +0000"
       },
       {
-        "titulo": "\"El presidente nos miente\": senador arremete contra Trump por el bombardeo de la escuela iraní",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34099e9ff712a173012b2.jpg\" style=\"float: left;\" />\n        \tEl demócrata Chris Murphy acusó a la Casa Blanca de ocultar la responsabilidad estadounidense en el ataque que dejó al menos 175 muertos, en su mayoría niñas, en una escuela del sur de Irán.",
-        "link": "https://actualidad.rt.com/actualidad/592543-presidente-miente-senador-eeuu-arremete?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:25:12 +0000"
+        "titulo": "¿Cómo impacta la agresión a Irán en los 5 bancos centrales más sólidos de América Latina?",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b349e8e9ff712060439e66.jpg\" style=\"float: left;\" />\n        \tEl panorama energético afecta de distintas formas y plantea escenarios diversos que responden a la posición de los países como exportadores o importadores de crudo.",
+        "link": "https://actualidad.rt.com/actualidad/592499-agresion-iran-impacta-bancos-centrales-latina?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:40:19 +0000"
       },
       {
-        "titulo": "Hombre cae de escaleras mecánicas a más de 30 metros de altura tras explotar su celular",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3469059bf5b659c6686d0.jpg\" style=\"float: left;\" />\n        \tLa víctima, aún sin identificar, tenía alrededor de 40 años.",
-        "link": "https://actualidad.rt.com/actualidad/592564-hombre-cae-escaleras-mecanicas-explotar-celular?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:20:08 +0000"
+        "titulo": "Cuba anuncia la próxima liberación de decenas de personas encarceladas",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592584-cuba-anunciar-proxima-liberacion-decenas-presos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:26:00 +0000"
       },
       {
-        "titulo": "VIDEO: Madre iraní y sus hijos despiden al padre muerto en los ataques de EE.UU. e Israel",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34ea959bf5b221950cf36.png\" style=\"float: left;\" />\n        \tRodeada de sus seis hijos, una mujer despide a su marido fallecido durante los ataques de Estados Unidos e Israel contra Irán. Un video compartido por los medios iraníes muestra a la madre y a varios niños reunidos alrededor del ataúd durante su funeral.",
-        "link": "https://actualidad.rt.com/actualidad/592570-madre-hijos-despiden-fallecido-ataques-eeuu-israel-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:15:08 +0000"
+        "titulo": "\"¡Basta ya de este circo!\": Opositor de Macron exige no dar \"ni un euro más para Zelenski\"",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b35c4ae9ff7107e82660e1.jpg\" style=\"float: left;\" />\n        \tFlorian Philippot criticó el inminente encuentro entre el presidente francés y el líder del régimen de Kiev.",
+        "link": "https://actualidad.rt.com/actualidad/592580-opositor-macron-pide-no-dar-euro-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:11:52 +0000"
       },
       {
-        "titulo": "Trump revela si sigue interesado en que le otorguen el Nobel de la Paz",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34e15e9ff712060439e74.jpg\" style=\"float: left;\" />\n        \tEl mandatario aseguró que no ha hablado del tema con los líderes extranjeros con los que ha mantenido contacto en los últimos días.",
-        "link": "https://actualidad.rt.com/actualidad/592558-trump-revelar-interesado-nobel-paz?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:02:57 +0000"
-      },
-      {
-        "titulo": "Venezuela confirma que se suspende el encuentro entre Delcy Rodríguez y Gustavo Petro",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34df1e9ff71304d553016.jpg\" style=\"float: left;\" />\n        \tLa reunión será reprogramada para \"una fecha próxima\" que aún no ha sido fijada.",
-        "link": "https://actualidad.rt.com/actualidad/592567-venezuela-confirmar-suspension-encuentro-delcy-petro?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:56:51 +0000"
-      },
-      {
-        "titulo": "\"Somos humanos y cometemos errores\": Jefe de Gabinete argentino se pronuncia por el polémico viaje a EE.UU. con su esposa",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b346e559bf5b14dc6d7637.jpg\" style=\"float: left;\" />\n        \tAdorni se expresó luego de que abrieran una investigación en su contra.",
-        "link": "https://actualidad.rt.com/actualidad/592562-jefe-gabinete-argentino-pronunciar-polemico-viaje?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:51:00 +0000"
-      },
-      {
-        "titulo": "EE.UU. autoriza la venta de ciertas categorías de petróleo ruso en medio de la volatilidad energética",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3546959bf5b498269149b.jpg\" style=\"float: left;\" />\n        \tLa licencia precisa que no autoriza otras transacciones, incluidas aquellas relacionadas con Irán.",
-        "link": "https://actualidad.rt.com/actualidad/592571-eeuu-autoriza-venta-petroleo-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:47:47 +0000"
-      },
-      {
-        "titulo": "Politico: La UE avanza para prohibir IA que permite desnudar personas",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33fe9e9ff712060439e5b.jpg\" style=\"float: left;\" />\n        \tLa iniciativa llega después que Grok permitió generar millones de imágenes de personas reales en bikini o completamente desnudas.",
-        "link": "https://actualidad.rt.com/actualidad/592561-politico-ue-avanza-prohibir-ia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:38:48 +0000"
+        "titulo": "País africano endurece las penas contra homosexuales",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b354dd59bf5b397700be42.jpg\" style=\"float: left;\" />\n        \tUna nueva legislación clasifica la homosexualidad junto con la necrofilia y la zoofilia.",
+        "link": "https://actualidad.rt.com/actualidad/592577-pais-africano-aprueba-ley-endurecer?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:10:23 +0000"
       }
     ],
     "total_entradas": 10
@@ -466,6 +466,24 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Iranian missile strikes residential area in northern Israel",
+        "resumen": "Video from northern Israel captured the moment an Iranian missile impacted in a residential area early Friday morning.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:55:30 +0000"
+      },
+      {
+        "titulo": "Thousands rally in Athens protesting US-Israeli attacks on Iran",
+        "resumen": "Protesters in Athens have marched to the US Embassy to condemn the US-Israeli attacks on Iran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/thousands-rally-in-athens-protesting-us-israeli-attacks-on-iran?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:51:24 +0000"
+      },
+      {
+        "titulo": "Netanyahu says Israeli strikes killed Iranian nuclear scientists",
+        "resumen": "Israeli Prime Minister Benjamin Netanyahu said several Iranian nuclear scientists were killed in Israeli strikes.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:25:46 +0000"
+      },
       {
         "titulo": "Michigan synagogue ramming an ‘act of targeted violence’: FBI",
         "resumen": "The FBI says it is treating a vehicle ramming at a Michigan synagogue as an attack on the Jewish community.",
@@ -567,24 +585,6 @@
         "resumen": "The prosecutor&#039;s office said the crimes being investigated include deportation and persecution through deportation.",
         "link": "https://www.aljazeera.com/news/2026/3/12/icc-prosecutor-opens-probe-into-belarus-over-deportations-to-lithuania?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 18:56:36 +0000"
-      },
-      {
-        "titulo": "Somalia warns against any Israeli base plans on Somaliland",
-        "resumen": "Somali minister tells Al Jazeera Israeli base plans in Somaliland risk dragging Somalia into &#039;external confrontations&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/3/12/somalia-warns-against-any-israeli-base-plans-on-somaliland?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:51:10 +0000"
-      },
-      {
-        "titulo": "How oil is at the center of the US-Israel war with Iran",
-        "resumen": "As oil prices rise, the US, Israel and Iran seem ready to keep fighting no matter the costs.",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/12/aje-onl-irn_tuesdayupdates_av_v2-100326?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:36:20 +0000"
-      },
-      {
-        "titulo": "Assailant dead after vehicle ramming, gunfire at Michigan synagogue in US",
-        "resumen": "Authorities report car ramming at Temple Israel Synagogue in West Bloomfield Township, Michigan; Attacker found dead.",
-        "link": "https://www.aljazeera.com/news/2026/3/12/fbi-reports-active-shooter-situation-at-detroit-area-synagogue-in-the-us?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:02:19 +0000"
       }
     ],
     "total_entradas": 20
@@ -596,6 +596,12 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
+        "resumen": "The United States has imposed sanctions on two companies and six individuals for their roles in operations that used information technology workers in foreign countries to raise money for North Korea.\nThe Treasury Department said the schemes, orchestrated by the North Korean government, had systematically defrauded US businesses and generated revenue to fund North Korea’s weapons programmes, including nearly US$800 million in 2024.\nThe department also accused workers associated with North Korea...",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 01:35:07 +0000"
+      },
       {
         "titulo": "California’s Governor Newsom says no imminent threat despite warning of Iran drone attack",
         "resumen": "California Governor Gavin Newsom said there was no imminent threat to the state, despite a warning from the FBI that Iran could send drones to the west coast in retaliation for war.\nNewsom said drone issues “have always been top of mind”.\n“We’ve been aware of that information. … It’s all about a posture of preparedness for worst-case scenarios,” the governor said on Wednesday.\nThe Federal Bureau of Investigation (FBI) recently warned police departments about Iran and a possible California...",
@@ -709,12 +715,6 @@
         "resumen": "Since the war in the Middle East began nearly two weeks ago, the phone at Ron Hubbard’s bomb shelter company in Texas has not stopped ringing.\nForeign and US clients are rushing to buy his bunkers, seeking refuge in case of air raids, nuclear fallout or apocalypse.\nWith the United States and Israel pounding Iran, and Tehran retaliating with strikes across the region, Hubbard has seen demand for his product soar, mostly from Gulf nation clients in Bahrain, Qatar, Kuwait and the United Arab...",
         "link": "https://www.scmp.com/news/world/middle-east/article/3346295/preparing-worst-us-bunker-maker-claims-big-demand-middle-east?utm_source=rss_feed",
         "fecha_publicacion": "Thu, 12 Mar 2026 03:09:54 +0000"
-      },
-      {
-        "titulo": "US launches trade probe into China and EU in bid to revive Trump tariffs",
-        "resumen": "The Trump administration on Wednesday opened a new trade investigation into manufacturing in foreign countries – an effort that comes after the Supreme Court struck down US President Donald Trump’s previous use of tariffs by declaring an economic emergency.\nTrump and his team have made clear that they’re seeking to replace the hundreds of billions of dollars in lost revenues after the Supreme Court’s February ruling by using different laws to establish new tariffs.\nIn this case, the...",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346279/us-launches-trade-probe-china-and-eu-bid-revive-trump-tariffs?utm_source=rss_feed",
-        "fecha_publicacion": "Wed, 11 Mar 2026 23:46:48 +0000"
       }
     ],
     "total_entradas": 20

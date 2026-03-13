@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-12"
 date: "2026-03-12"
 nicho: "geopolitica"
-total_entradas: 23
+total_entradas: 24
 schema: "NewsDigest"
 ---
 
@@ -11,33 +11,19 @@ schema: "NewsDigest"
 
 ## Entradas del día
 
-### Asian Stocks Track US Declines as Oil in Focus: Markets Wrap
-- **Fecha**: Thu, 12 Mar 2026 22:27:20 GMT
+### Gold Set for Weekly Drop as Mideast War Keeps Oil Prices High
+- **Fecha**: Thu, 12 Mar 2026 22:20:17 GMT
 - **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap
-- **Resumen**: Asian stocks followed US peers lower in early trading Friday, with oil prices in focus on growing fears that the war in Iran will further crimp energy supplies and boost inflation.
-- **Relevancia**: 0.464
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further
+- **Resumen**: Gold rose on Friday, but remained on track for a second weekly decline as the war in the Middle East kept oil near $100 a barrel.
+- **Relevancia**: 0.5215
 
-### Peru Holds Key Rate at 4.25% as Inflation Pressures Mount
-- **Fecha**: Thu, 12 Mar 2026 23:07:13 GMT
+### Asia Markets at Risk Due to Oil Dependency: BCA Research
+- **Fecha**: Fri, 13 Mar 2026 02:35:58 GMT
 - **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-12/peru-holds-interest-rate-at-4-25-as-inflation-pressures-mount
-- **Resumen**: Peru left interest rates unchanged after inflation accelerated above the midpoint of its target range for the first time in more than a year.
-- **Relevancia**: 0.5428
-
-### Investors Hunt for Hedges as War Shatters Decades-Old Strategies
-- **Fecha**: Thu, 12 Mar 2026 23:00:00 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-12/investors-hunt-for-hedges-as-war-shatters-decades-old-strategies
-- **Resumen**: The basic assumptions that have underpinned hedging strategies for decades are coming undone by the escalating war in Iran.
-- **Relevancia**: 0.4739
-
-### Stocks Fall on War, Credit Woes as Brent Tops $100: Markets Wrap
-- **Fecha**: Wed, 11 Mar 2026 22:45:40 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-11/stock-market-today-dow-s-p-live-updates-
-- **Resumen**: A renewed oil spike stoked fears the war in Iran will further crimp energy supplies and fuel inflation, spurring a slide in stocks, which were also hit by signs of distress in the $1.8 trillion private-credit market.
-- **Relevancia**: 0.5127
+- **URL**: https://www.bloomberg.com/news/videos/2026-03-13/asia-markets-at-risk-due-to-oil-dependency-rca-research-video
+- **Resumen**: BCA Research's Garry Evans says the extent of the pressure on Asian markets "comes down to the dependence on oil." He tells Bloomberg Television that investors should look at places "that have quite a lot of energy companies in their indexes," such as Australia, Canada and Mexico. (Source: Bloomberg)
+- **Relevancia**: 0.5055
 
 ### Trump’s Efforts to Defuse the Oil Spike Aren’t Working
 - **Fecha**: Thu, 12 Mar 2026 17:53:32 +0000
@@ -53,44 +39,73 @@ schema: "NewsDigest"
 - **Resumen**: An emergency military spending request to continue the Iran strikes may soon be sent to U.S lawmakers.
 - **Relevancia**: 0.463
 
-### El Supremo de Brasil bloquea visita de asesor de Trump a Bolsonaro en prisión
-- **Fecha**: Fri, 13 Mar 2026 00:32:14 +0000
+### Reportan supuestos avistamientos de Pie Grande
+- **Fecha**: Fri, 13 Mar 2026 02:25:02 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592574-supremo-brasil-bloquea-visita-asesor-trump?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **URL**: https://actualidad.rt.com/viral/592587-reportan-supuestos-avistamientos-pie-grande?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36a20e9ff71304d55303b.jpg" style="float: left;" />
+        	Ninguno de los siete episodios, reportados todos en Ohio (EE.UU.), fue captado por cámaras.
+- **Relevancia**: 0.4634
+
+### FOTO deja en evidencia la paralización del paso por el estrecho de Ormuz
+- **Fecha**: Fri, 13 Mar 2026 02:17:20 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592589-foto-decenas-barcos-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b36f8359bf5b221950cf55.jpg" style="float: left;" />
+        	Medios iraníes difundieron una foto de vista aérea del estrecho de Ormuz, donde decenas de barcos esperan para pasar, en medio de las tensiones por la agresión de EE.UU. e Israel contra Irán. La nación persa bloqueó casi por completo la ruta marítima por donde circula alrededor de 20 % de todo el petróleo que se comercia en el mundo, lo que causó el alza de precios en el mercado energético.
+- **Relevancia**: 0.4601
+
+### "Estaremos todos en el culo profundo": Fico advierte a la OTAN sobre el envío de tropas a Ucrania
+- **Fecha**: Fri, 13 Mar 2026 02:13:51 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592538-estaremos-culo-profundo-fico-otan?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331a359bf5b34873f83a5.jpg" style="float: left;" />
+        	"Alguien podría activar el Artículo 5", alertó el jefe del Gobierno eslovaco.
+- **Relevancia**: 0.5015
+
+### Venezuela firma un acuerdo con dos gigantes energéticos europeos
+- **Fecha**: Fri, 13 Mar 2026 01:44:11 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592586-venezuela-firma-acuerdo-gigantes-energeticos-europeos?utm_source=rss&utm_medium=rss&utm_campaign=all
 - **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
-- **Relevancia**: 0.4664
+- **Relevancia**: 0.5654
 
-### Venezuela confirma que se suspende el encuentro entre Delcy Rodríguez y Gustavo Petro
-- **Fecha**: Thu, 12 Mar 2026 23:56:51 +0000
+### ¿Cómo impacta la agresión a Irán en los 5 bancos centrales más sólidos de América Latina?
+- **Fecha**: Fri, 13 Mar 2026 01:40:19 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592567-venezuela-confirmar-suspension-encuentro-delcy-petro?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34df1e9ff71304d553016.jpg" style="float: left;" />
-        	La reunión será reprogramada para "una fecha próxima" que aún no ha sido fijada.
-- **Relevancia**: 0.4866
+- **URL**: https://actualidad.rt.com/actualidad/592499-agresion-iran-impacta-bancos-centrales-latina?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b349e8e9ff712060439e66.jpg" style="float: left;" />
+        	El panorama energético afecta de distintas formas y plantea escenarios diversos que responden a la posición de los países como exportadores o importadores de crudo.
+- **Relevancia**: 0.5712
 
-### "Somos humanos y cometemos errores": Jefe de Gabinete argentino se pronuncia por el polémico viaje a EE.UU. con su esposa
-- **Fecha**: Thu, 12 Mar 2026 23:51:00 +0000
+### Cuba anuncia la próxima liberación de decenas de personas encarceladas
+- **Fecha**: Fri, 13 Mar 2026 01:26:00 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592562-jefe-gabinete-argentino-pronunciar-polemico-viaje?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b346e559bf5b14dc6d7637.jpg" style="float: left;" />
-        	Adorni se expresó luego de que abrieran una investigación en su contra.
-- **Relevancia**: 0.4705
+- **URL**: https://actualidad.rt.com/actualidad/592584-cuba-anunciar-proxima-liberacion-decenas-presos?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
+- **Relevancia**: 0.4609
 
-### EE.UU. autoriza la venta de ciertas categorías de petróleo ruso en medio de la volatilidad energética
-- **Fecha**: Thu, 12 Mar 2026 23:47:47 +0000
+### "¡Basta ya de este circo!": Opositor de Macron exige no dar "ni un euro más para Zelenski"
+- **Fecha**: Fri, 13 Mar 2026 01:11:52 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592571-eeuu-autoriza-venta-petroleo-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3546959bf5b498269149b.jpg" style="float: left;" />
-        	La licencia precisa que no autoriza otras transacciones, incluidas aquellas relacionadas con Irán.
-- **Relevancia**: 0.5216
+- **URL**: https://actualidad.rt.com/actualidad/592580-opositor-macron-pide-no-dar-euro-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b35c4ae9ff7107e82660e1.jpg" style="float: left;" />
+        	Florian Philippot criticó el inminente encuentro entre el presidente francés y el líder del régimen de Kiev.
+- **Relevancia**: 0.4816
 
-### Politico: La UE avanza para prohibir IA que permite desnudar personas
-- **Fecha**: Thu, 12 Mar 2026 23:38:48 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592561-politico-ue-avanza-prohibir-ia?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33fe9e9ff712060439e5b.jpg" style="float: left;" />
-        	La iniciativa llega después que Grok permitió generar millones de imágenes de personas reales en bikini o completamente desnudas.
-- **Relevancia**: 0.4639
+### Iranian missile strikes residential area in northern Israel
+- **Fecha**: Fri, 13 Mar 2026 01:55:30 +0000
+- **Fuente**: aljazeera
+- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss
+- **Resumen**: Video from northern Israel captured the moment an Iranian missile impacted in a residential area early Friday morning.
+- **Relevancia**: 0.6108
+
+### Netanyahu says Israeli strikes killed Iranian nuclear scientists
+- **Fecha**: Fri, 13 Mar 2026 00:25:46 +0000
+- **Fuente**: aljazeera
+- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss
+- **Resumen**: Israeli Prime Minister Benjamin Netanyahu said several Iranian nuclear scientists were killed in Israeli strikes.
+- **Relevancia**: 0.5594
 
 ### Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks
 - **Fecha**: Fri, 13 Mar 2026 00:00:00 +0000
@@ -120,12 +135,14 @@ schema: "NewsDigest"
 - **Resumen**: Prime minister says US-Israeli war prevented Iran from moving its nuclear and ballistic projects underground.
 - **Relevancia**: 0.4997
 
-### How oil is at the center of the US-Israel war with Iran
-- **Fecha**: Thu, 12 Mar 2026 18:36:20 +0000
-- **Fuente**: aljazeera
-- **URL**: https://www.aljazeera.com/video/the-take-2/2026/3/12/aje-onl-irn_tuesdayupdates_av_v2-100326?traffic_source=rss
-- **Resumen**: As oil prices rise, the US, Israel and Iran seem ready to keep fighting no matter the costs.
-- **Relevancia**: 0.5903
+### US sanctions 2 firms, 6 individuals for funding North Korean weapons
+- **Fecha**: Fri, 13 Mar 2026 01:35:07 +0000
+- **Fuente**: scmp
+- **URL**: https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed
+- **Resumen**: The United States has imposed sanctions on two companies and six individuals for their roles in operations that used information technology workers in foreign countries to raise money for North Korea.
+The Treasury Department said the schemes, orchestrated by the North Korean government, had systematically defrauded US businesses and generated revenue to fund North Korea’s weapons programmes, including nearly US$800 million in 2024.
+The department also accused workers associated with North Korea...
+- **Relevancia**: 0.5313
 
 ### Netanyahu threatens Iran’s new supreme leader, defends joint assault with US
 - **Fecha**: Thu, 12 Mar 2026 21:31:01 +0000
@@ -152,15 +169,6 @@ Khamenei urged Iran’s Gulf neighbours to close US military bases in the region
 His research focuses on strategic security issues, including nuclear weapons policy, deterrence, arms control, non-proliferation, missile defence, hypersonic weapons, regional security in the Asia-Pacific and China’s security and foreign policy.
 SCMP Plus readers get early access...
 - **Relevancia**: 0.4831
-
-### US launches trade probe into China and EU in bid to revive Trump tariffs
-- **Fecha**: Wed, 11 Mar 2026 23:46:48 +0000
-- **Fuente**: scmp
-- **URL**: https://www.scmp.com/news/world/united-states-canada/article/3346279/us-launches-trade-probe-china-and-eu-bid-revive-trump-tariffs?utm_source=rss_feed
-- **Resumen**: The Trump administration on Wednesday opened a new trade investigation into manufacturing in foreign countries – an effort that comes after the Supreme Court struck down US President Donald Trump’s previous use of tariffs by declaring an economic emergency.
-Trump and his team have made clear that they’re seeking to replace the hundreds of billions of dollars in lost revenues after the Supreme Court’s February ruling by using different laws to establish new tariffs.
-In this case, the...
-- **Relevancia**: 0.5095
 
 ### Bowman, Capital Rules for the Real Economy
 - **Fecha**: Thu, 12 Mar 2026 15:00:00 GMT
