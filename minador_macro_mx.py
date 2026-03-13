@@ -211,7 +211,6 @@ try:
         # EMBI aprox: referencia histórica México ~170pb (moderado)
         # Estimado por diferencial de tasas implícitas
         embi_aprox = round((tasa_objetivo - t10) * 100 * 0.85, 0)
-    precio_hoy = eww_hoy
 
         guardar(
             nicho   = "finanzas_globales",
@@ -275,12 +274,12 @@ except Exception as e:
 print("\n[ 7/7 ] Indice de confianza compuesto — calculo propio")
 try:
     # Componentes normalizados 0-1
-    score_reservas = min(reservas / 250.0, 1.0)           # max referencia 250 mmd
-    _mxn = precio_hoy if 'precio_hoy' in dir() else 20.5
-    score_mxn      = max(0, 1 - (_mxn - 15) / 10)  # 15=fuerte, 25=debil
-    score_embi     = max(0, 1 - embi_aprox / 500)         # 0pb=máx confianza
-    score_inflacion= max(0, 1 - abs(inflacion_anual - 3) / 5)  # meta=3%
-    score_deficit  = max(0, 1 - abs(deficit_pib) / 5)    # 0=superavit
+    score_reservas = min(max(reservas / 250.0, 0), 1.0)           # max referencia 250 mmd
+    _mxn = precio_hoy if isinstance(precio_hoy, float) and precio_hoy > 5 else 20.5
+    score_mxn      = max(0, min(1, 1 - (_mxn - 15) / 10))  # 15=fuerte, 25=debil
+    score_embi     = max(0, min(1, 1 - embi_aprox / 500))         # 0pb=máx confianza
+    score_inflacion= max(0, min(1, 1 - abs(inflacion_anual - 3) / 5))  # meta=3%
+    score_deficit  = max(0, min(1, 1 - abs(deficit_pib) / 5))    # 0=superavit
 
     pesos = [0.25, 0.25, 0.20, 0.15, 0.15]
     scores = [score_reservas, score_mxn, score_embi, score_inflacion, score_deficit]
@@ -321,3 +320,30 @@ with open(OUTPUT, "w", encoding="utf-8") as f:
 print(f"\n✓ {len(registros)} indicadores guardados → {OUTPUT}")
 print(f"  Fecha: {FECHA} {HORA}")
 # PARCHE — reemplazar en minador_macro_mx.py los bloques 5 y 7
+
+# ── EXTRA: WTI, Brent, Gas via yfinance ─────────────────────────
+print("\n[ EXTRA ] Commodities energia — Yahoo Finance")
+try:
+    import yfinance as yf
+    tickers_energia = {"WTI": "CL=F", "Brent": "BZ=F", "Gas natural": "NG=F"}
+    for nombre, ticker in tickers_energia.items():
+        try:
+            t = yf.Ticker(ticker)
+            h = t.history(period="2d")
+            if not h.empty:
+                p_hoy  = round(h["Close"].iloc[-1], 2)
+                p_ayer = round(h["Close"].iloc[-2], 2)
+                cambio = round((p_hoy - p_ayer) / p_ayer * 100, 2)
+                guardar(
+                    nicho   = "energia_petroleo",
+                    titulo  = nombre,
+                    valor   = p_hoy,
+                    unidad  = "USD",
+                    fuente  = "Yahoo Finance",
+                    url     = f"https://finance.yahoo.com/quote/{ticker}/",
+                    extra   = {"precio": p_hoy, "cambio_pct": cambio, "ticker": ticker}
+                )
+        except Exception as ex:
+            print(f"  ✗ {nombre}: {ex}")
+except Exception as e:
+    print(f"  ✗ Energia extra: {e}")
