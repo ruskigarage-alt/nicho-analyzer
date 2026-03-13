@@ -344,11 +344,9 @@ body{{background:#0d1117;color:#c9d1d9;font-family:'Courier New',monospace;font-
 <div class="section">
 <span class="b">[ PRESION MACRO ]</span>
 <div style="margin-top:8px;">
-{barras_html}"""
-+ macro_html
-+ """
+{barras_html}
 </div>
-</div>
+""" + macro_html + """
 
 <div class="section">
 <span class="b">[ NOTICIAS DEL DIA ]</span>
