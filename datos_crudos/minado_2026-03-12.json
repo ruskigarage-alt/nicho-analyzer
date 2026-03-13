@@ -137,10 +137,28 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Brazil Judge Bars US Official From Visiting Bolsonaro in Prison",
+        "resumen": "Brazil Supreme Court Justice Alexandre de Moraes barred a US State Department official from visiting Jair Bolsonaro, the right-wing former president who is serving a 27-year prison sentence in the country’s capital.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/brazil-judge-bars-us-official-from-visiting-bolsonaro-in-prison",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:57:05 GMT"
+      },
+      {
         "titulo": "Oil Trades Near 42-Month High as Iran Vows to Keep Hormuz Closed",
         "resumen": "Oil rose from its highest close since August 2022 in one of the most volatile trading weeks ever, with investors bracing for more upheaval as Iran pledged to keep the Strait of Hormuz effectively shut.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
+      },
+      {
+        "titulo": "New Zealand’s Economic Recovery Likely Lost Momentum in Late ‘25",
+        "resumen": "New Zealand’s economic recovery probably lost momentum in the final months of 2025, highlighting its fragile nature even before any impact from the spiraling Middle East conflict and surging oil prices.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/new-zealand-s-economic-recovery-likely-lost-momentum-in-late-25",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:34:42 GMT"
+      },
+      {
+        "titulo": "Australia Pension Eyes Private US Assets Ahead of NYC Meetings",
+        "resumen": "One of Australia’s biggest pension funds, Rest Super, is on the hunt for more private markets investments in the US, underscoring the strong appetite from the country’s fast-growing A$4.5 trillion ($3.2 trillion) sector that’s on a roadshow across three American cities.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-12/australia-pension-eyes-private-us-assets-ahead-of-nyc-meetings",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:33:10 GMT"
       },
       {
         "titulo": "Peru Holds Key Rate at 4.25% as Inflation Pressures Mount",
@@ -237,24 +255,6 @@
         "resumen": "The United States has made two dramatic moves that could shape the future of AI-powered warfare.\n\nKatrina Manson explains how the US enlisted Silicon Valley in its vision for AI warfare, now playing out in Iran. (Source: Bloomberg)",
         "link": "https://www.bloomberg.com/news/videos/2026-03-12/how-the-pentagon-got-hooked-on-ai-war-machines",
         "fecha_publicacion": "Thu, 12 Mar 2026 21:00:04 GMT"
-      },
-      {
-        "titulo": "US Bonds Poised to Erase Year’s Gains as Oil Surge Deepens Slump",
-        "resumen": "Treasuries slumped, sending short-term yields to their highest levels since August, as the prospect of a prolonged and costly Iran war drove a surge in oil prices and revived fears of an inflation shock.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/traders-are-no-longer-fully-pricing-in-a-fed-rate-cut-this-year",
-        "fecha_publicacion": "Thu, 12 Mar 2026 15:08:03 GMT"
-      },
-      {
-        "titulo": "CFTC Offers First Guidance on Manipulation in Prediction Markets",
-        "resumen": "The Commodity Futures Trading Commission issued new guidance for prediction markets, asking exchanges to engage with regulators before opening certain markets that might be vulnerable to manipulation and insider trading.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/cftc-offers-first-big-guidance-on-prediction-market-manipulation",
-        "fecha_publicacion": "Thu, 12 Mar 2026 17:32:29 GMT"
-      },
-      {
-        "titulo": "Jennifer Garner’s Snack Company Falls in First Results Since IPO",
-        "resumen": "Once Upon a Farm PBC shares fell 9.8% after the organic kids snacks maker forecast slowing sales growth in 2026 in its first earnings report as a public company.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/jennifer-garner-s-snack-company-falls-in-first-results-since-ipo",
-        "fecha_publicacion": "Thu, 12 Mar 2026 20:42:17 GMT"
       }
     ],
     "total_entradas": 20
@@ -397,6 +397,30 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Trump revela si sigue interesado en que le otorguen el Nobel de la Paz",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34e15e9ff712060439e74.jpg\" style=\"float: left;\" />\n        \tEl mandatario aseguró que no ha hablado del tema con los líderes extranjeros con los que ha mantenido contacto en los últimos días.",
+        "link": "https://actualidad.rt.com/actualidad/592558-trump-revelar-interesado-nobel-paz?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 00:02:57 +0000"
+      },
+      {
+        "titulo": "Venezuela confirma que se suspende el encuentro entre Delcy Rodríguez y Gustavo Petro",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34df1e9ff71304d553016.jpg\" style=\"float: left;\" />\n        \tLa reunión será reprogramada para \"una fecha próxima\" que aún no ha sido fijada.",
+        "link": "https://actualidad.rt.com/actualidad/592567-venezuela-confirmar-suspension-encuentro-delcy-petro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:56:51 +0000"
+      },
+      {
+        "titulo": "\"Somos humanos y cometemos errores\": Jefe de Gabinete argentino se pronuncia por el polémico viaje a EE.UU. con su esposa",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b346e559bf5b14dc6d7637.jpg\" style=\"float: left;\" />\n        \tAdorni se expresó luego de que abrieran una investigación en su contra.",
+        "link": "https://actualidad.rt.com/actualidad/592562-jefe-gabinete-argentino-pronunciar-polemico-viaje?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:51:00 +0000"
+      },
+      {
+        "titulo": "EE.UU. autoriza la venta de ciertas categorías de petróleo ruso en medio de la volatilidad energética",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3546959bf5b498269149b.jpg\" style=\"float: left;\" />\n        \tLa licencia precisa que no autoriza otras transacciones, incluidas aquellas relacionadas con Irán.",
+        "link": "https://actualidad.rt.com/actualidad/592571-eeuu-autoriza-venta-petroleo-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:47:47 +0000"
+      },
+      {
         "titulo": "Politico: La UE avanza para prohibir IA que permite desnudar personas",
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33fe9e9ff712060439e5b.jpg\" style=\"float: left;\" />\n        \tLa iniciativa llega después que Grok permitió generar millones de imágenes de personas reales en bikini o completamente desnudas.",
         "link": "https://actualidad.rt.com/actualidad/592561-politico-ue-avanza-prohibir-ia?utm_source=rss&utm_medium=rss&utm_campaign=all",
@@ -431,30 +455,6 @@
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3475759bf5b7bd55fbf9f.jpg\" style=\"float: left;\" />\n        \tToda la tripulación perdió la vida en el ataque, según militares iraníes.",
         "link": "https://actualidad.rt.com/actualidad/592565-iran-confirma-grupos-resistencia-irak?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:49:43 +0000"
-      },
-      {
-        "titulo": "Milei se pronuncia sobre el caso del ministro que llevó a su esposa a gira en EE.UU.",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331dee9ff71384d379d29.jpg\" style=\"float: left;\" />\n        \tEl alto funcionario fue demandado por presunta malversación de fondos e incumplimiento de deberes.",
-        "link": "https://actualidad.rt.com/actualidad/592530-milei-pronunciarse-escandalo-manuel-adorni-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:39:17 +0000"
-      },
-      {
-        "titulo": "La Casa Blanca presenta la guerra contra Irán como si fuera un videojuego (VIDEO)",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33075e9ff7168d863548e.jpg\" style=\"float: left;\" />\n        \tLa Casa Blanca publicó un video en su cuenta de X en el que presenta su mortífera Operación Furia Épica contra Irán como si se tratara del videojuego Wii Sports. En la pieza audiovisual, aparecen imágenes de ataques contra infraestructuras y equipos del país persa cada vez que el jugador acierta en el blanco en distintas disciplinas deportivas.",
-        "link": "https://actualidad.rt.com/actualidad/592547-casa-blanca-presenta-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:31:28 +0000"
-      },
-      {
-        "titulo": "El CGRI golpea a Israel y bases de EE.UU. con misiles con una ojiva de dos toneladas",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592556-cgri-disparo-israel-eeuu-dos-toneladas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:25:37 +0000"
-      },
-      {
-        "titulo": "NYT: Irán está colocando minas en el estrecho de Ormuz",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33a1d59bf5b4c9c75a335.jpg\" style=\"float: left;\" />\n        \tFuncionarios estadounidenses aseguraron que el CGRI  tiene capacidad para desplegar miles de pequeñas embarcaciones con ese propósito.",
-        "link": "https://actualidad.rt.com/actualidad/592557-nyt-iran-esta-colocando-minas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:19:04 +0000"
       }
     ],
     "total_entradas": 10
@@ -466,6 +466,12 @@
     "fecha_minado": "2026-03-12",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "UN fact-finding mission warns of continued human rights abuses in Venezuela",
+        "resumen": "In an address to the UN Human Rights Council, experts warned that the &#039;machinery&#039; of repression was &#039;mutating&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/3/12/un-fact-finding-mission-warns-of-continued-human-rights-abuses-in-venezuela?traffic_source=rss",
+        "fecha_publicacion": "Thu, 12 Mar 2026 23:51:28 +0000"
+      },
       {
         "titulo": "Iran envoy says Tehran will keep Strait of Hormuz open",
         "resumen": "Iran’s UN envoy Amir Saeid Iravani said Tehran will not close the Strait of Hormuz and remains committed to freedom.",
@@ -579,12 +585,6 @@
         "resumen": "Israel targets centre of Lebanese capital in escalation of military campaign that has killed nearly 700 people.",
         "link": "https://www.aljazeera.com/news/2026/3/12/israel-attacks-central-beirut-in-escalation-of-deadly-assault-on-lebanon?traffic_source=rss",
         "fecha_publicacion": "Thu, 12 Mar 2026 17:50:35 +0000"
-      },
-      {
-        "titulo": "Gunman, one victim dead in shooting at Old Dominion University in US",
-        "resumen": "Authorities say suspect opened fire in a university building, FBI investigating as &#039;act of terror&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/3/12/two-in-critical-condition-after-shooting-at-old-dominion-university-in-us?traffic_source=rss",
-        "fecha_publicacion": "Thu, 12 Mar 2026 17:36:39 +0000"
       }
     ],
     "total_entradas": 20

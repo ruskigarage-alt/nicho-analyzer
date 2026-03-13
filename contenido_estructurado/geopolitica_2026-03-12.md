@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-12"
 date: "2026-03-12"
 nicho: "geopolitica"
-total_entradas: 27
+total_entradas: 28
 schema: "NewsDigest"
 ---
 
@@ -60,6 +60,30 @@ schema: "NewsDigest"
 - **Resumen**: An emergency military spending request to continue the Iran strikes may soon be sent to U.S lawmakers.
 - **Relevancia**: 0.463
 
+### Venezuela confirma que se suspende el encuentro entre Delcy Rodríguez y Gustavo Petro
+- **Fecha**: Thu, 12 Mar 2026 23:56:51 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592567-venezuela-confirmar-suspension-encuentro-delcy-petro?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b34df1e9ff71304d553016.jpg" style="float: left;" />
+        	La reunión será reprogramada para "una fecha próxima" que aún no ha sido fijada.
+- **Relevancia**: 0.4866
+
+### "Somos humanos y cometemos errores": Jefe de Gabinete argentino se pronuncia por el polémico viaje a EE.UU. con su esposa
+- **Fecha**: Thu, 12 Mar 2026 23:51:00 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592562-jefe-gabinete-argentino-pronunciar-polemico-viaje?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b346e559bf5b14dc6d7637.jpg" style="float: left;" />
+        	Adorni se expresó luego de que abrieran una investigación en su contra.
+- **Relevancia**: 0.4705
+
+### EE.UU. autoriza la venta de ciertas categorías de petróleo ruso en medio de la volatilidad energética
+- **Fecha**: Thu, 12 Mar 2026 23:47:47 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592571-eeuu-autoriza-venta-petroleo-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3546959bf5b498269149b.jpg" style="float: left;" />
+        	La licencia precisa que no autoriza otras transacciones, incluidas aquellas relacionadas con Irán.
+- **Relevancia**: 0.5216
+
 ### Politico: La UE avanza para prohibir IA que permite desnudar personas
 - **Fecha**: Thu, 12 Mar 2026 23:38:48 +0000
 - **Fuente**: rt_espanol
@@ -99,22 +123,6 @@ schema: "NewsDigest"
 - **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3475759bf5b7bd55fbf9f.jpg" style="float: left;" />
         	Toda la tripulación perdió la vida en el ataque, según militares iraníes.
 - **Relevancia**: 0.4978
-
-### Milei se pronuncia sobre el caso del ministro que llevó a su esposa a gira en EE.UU.
-- **Fecha**: Thu, 12 Mar 2026 22:39:17 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592530-milei-pronunciarse-escandalo-manuel-adorni-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b331dee9ff71384d379d29.jpg" style="float: left;" />
-        	El alto funcionario fue demandado por presunta malversación de fondos e incumplimiento de deberes.
-- **Relevancia**: 0.5231
-
-### NYT: Irán está colocando minas en el estrecho de Ormuz
-- **Fecha**: Thu, 12 Mar 2026 22:19:04 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592557-nyt-iran-esta-colocando-minas?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b33a1d59bf5b4c9c75a335.jpg" style="float: left;" />
-        	Funcionarios estadounidenses aseguraron que el CGRI  tiene capacidad para desplegar miles de pequeñas embarcaciones con ese propósito.
-- **Relevancia**: 0.4911
 
 ### Iran envoy says Tehran will keep Strait of Hormuz open
 - **Fecha**: Thu, 12 Mar 2026 23:18:48 +0000
