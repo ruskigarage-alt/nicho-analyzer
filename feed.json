@@ -1,0 +1,446 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Nicho Analyzer — Knowledge Base México y LATAM",
+  "description": "Datos estructurados sobre economía, regulaciones, política y comercio. Actualización diaria.",
+  "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
+  "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed.json",
+  "language": "es-MX",
+  "authors": [
+    {
+      "name": "Nicho Analyzer",
+      "url": "https://ruskigarage-alt.github.io/nicho-analyzer"
+    }
+  ],
+  "date_modified": "2026-03-13T02:02:52.140278+00:00",
+  "items": [
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#0",
+      "title": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#1",
+      "title": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#2",
+      "title": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/mexico-gana-frente-canada-exportaciones-se-disparan"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#3",
+      "title": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#4",
+      "title": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/12/bbva-los-proyectos-del-plan-mexico-seran-exitosos-y-rentables-si-se-ejecutan-bien"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#5",
+      "title": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/11/eu-investiga-mexico-economias-sobrecapacidad-manufactura"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#6",
+      "title": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/11/plan-mexico-credito-pymes-pero-reto-negocios-fuera"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#7",
+      "title": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#8",
+      "title": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#9",
+      "title": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/10/banco-base-acusaciones-de-lavado-de-dinero-fueron-una-sacudida-para-los-bancos"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#10",
+      "title": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#11",
+      "title": "Bankaool: Nuestros sistemas antilavado nacieron fuertes",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/bankaool-nuestros-sistemas-antilavado-nacieron-fuertes"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#12",
+      "title": "México perfila revisión del T-MEC con foco en reglas de origen, cadenas y seguridad",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/ebrard-revela-plan-accion-revision-tmec"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#13",
+      "title": "Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#14",
+      "title": "Nu: Tenemos más de 2 millones de clientes en el sur; el crédito es transformador",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-12.jsonl#15",
+      "title": "Revolut: \"En México hay millones de personas que no están cómodas con su banco\"",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/09/revolut-en-mexico-hay-millones-de-personas-que-no-estan-comodas-con-su-banco"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#16",
+      "title": "Asian Stocks Track US Declines as Oil in Focus: Markets Wrap",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#17",
+      "title": "Peru Holds Key Rate at 4.25% as Inflation Pressures Mount",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/peru-holds-interest-rate-at-4-25-as-inflation-pressures-mount"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#18",
+      "title": "Investors Hunt for Hedges as War Shatters Decades-Old Strategies",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/investors-hunt-for-hedges-as-war-shatters-decades-old-strategies"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#19",
+      "title": "Stocks Fall on War, Credit Woes as Brent Tops $100: Markets Wrap",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-11/stock-market-today-dow-s-p-live-updates-"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#20",
+      "title": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "foreign_policy"
+      ],
+      "url": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#21",
+      "title": "Trump Likely to Confront Democratic Wall on Iran War Funding",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "foreign_policy"
+      ],
+      "url": "https://foreignpolicy.com/2026/03/10/trump-iran-war-funding-congress-democrats-military-spending/"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#22",
+      "title": "El Supremo de Brasil bloquea visita de asesor de Trump a Bolsonaro en prisión",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ],
+      "url": "https://actualidad.rt.com/actualidad/592574-supremo-brasil-bloquea-visita-asesor-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#23",
+      "title": "Venezuela confirma que se suspende el encuentro entre Delcy Rodríguez y Gustavo Petro",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ],
+      "url": "https://actualidad.rt.com/actualidad/592567-venezuela-confirmar-suspension-encuentro-delcy-petro?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#24",
+      "title": "\"Somos humanos y cometemos errores\": Jefe de Gabinete argentino se pronuncia por el polémico viaje a EE.UU. con su esposa",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ],
+      "url": "https://actualidad.rt.com/actualidad/592562-jefe-gabinete-argentino-pronunciar-polemico-viaje?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#25",
+      "title": "EE.UU. autoriza la venta de ciertas categorías de petróleo ruso en medio de la volatilidad energética",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ],
+      "url": "https://actualidad.rt.com/actualidad/592571-eeuu-autoriza-venta-petroleo-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#26",
+      "title": "Politico: La UE avanza para prohibir IA que permite desnudar personas",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "rt_espanol"
+      ],
+      "url": "https://actualidad.rt.com/actualidad/592561-politico-ue-avanza-prohibir-ia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#27",
+      "title": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "aljazeera"
+      ],
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#28",
+      "title": "Iran envoy says Tehran will keep Strait of Hormuz open",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "aljazeera"
+      ],
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#29",
+      "title": "Air attacks target bases of Iran-backed forces in Iraq",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "aljazeera"
+      ],
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#30",
+      "title": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "aljazeera"
+      ],
+      "url": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#31",
+      "title": "How oil is at the center of the US-Israel war with Iran",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "aljazeera"
+      ],
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/3/12/aje-onl-irn_tuesdayupdates_av_v2-100326?traffic_source=rss"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#32",
+      "title": "Netanyahu threatens Iran’s new supreme leader, defends joint assault with US",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "scmp"
+      ],
+      "url": "https://www.scmp.com/news/world/middle-east/article/3346419/netanyahu-threatens-irans-new-supreme-leader-defends-joint-assault-us?utm_source=rss_feed"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#33",
+      "title": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "scmp"
+      ],
+      "url": "https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#34",
+      "title": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "scmp"
+      ],
+      "url": "https://www.scmp.com/plus/news/china/military/article/3346333/us-israeli-war-iran-may-spark-nuclear-arms-race-carnegie-scholar-says?utm_source=rss_feed"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#35",
+      "title": "US launches trade probe into China and EU in bid to revive Trump tariffs",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "scmp"
+      ],
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3346279/us-launches-trade-probe-china-and-eu-bid-revive-trump-tariffs?utm_source=rss_feed"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#36",
+      "title": "Bowman, Capital Rules for the Real Economy",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "fed_speeches"
+      ],
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#37",
+      "title": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "fed_speeches"
+      ],
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#38",
+      "title": "Bowman, Outlook for the Economy and Monetary Policy",
+      "content_text": "",
+      "date_published": "2026-03-12",
+      "tags": [
+        "geopolitica",
+        "fed_speeches"
+      ],
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm"
+    }
+  ]
+}

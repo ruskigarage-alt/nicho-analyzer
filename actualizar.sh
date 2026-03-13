@@ -22,6 +22,7 @@ python3 estructurador.py
 python3 sitemap.py
 python3 generar_indices.py
 python3 generar_dataset.py
+python3 generar_feed_json.py
 # ─────────────────────────────────────────
 # PASO 2 — TU RESUMEN
 # ─────────────────────────────────────────
