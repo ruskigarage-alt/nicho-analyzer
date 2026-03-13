@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "=================================="
+export EIA_API_KEY=bDdlddv1xeu7My93Tl3zfdKJ5vSVu7MxG239YgMT
 echo " NICHO ANALYZER — Actualización"
 echo " $(date '+%Y-%m-%d %H:%M')"
 echo "=================================="
@@ -12,7 +13,9 @@ echo ""
 echo "[ 1/5 ] Minando fuentes..."
 TMPDIR=~/tmp python3 minador.py
 TMPDIR=~/tmp python3 minador_economico.py
+TMPDIR=~/tmp python3 minador_global.py
 TMPDIR=~/tmp python3 minador_economico.py
+TMPDIR=~/tmp python3 minador_global.py
 echo ""
 echo "[ 2/5 ] Filtrando por relevancia temática..."
 python3 filtrador.py 2>/dev/null
