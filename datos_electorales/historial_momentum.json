@@ -1,0 +1,63 @@
+{
+  "2026-03-13": {
+    "mejia_haro": {
+      "menciones": 1,
+      "positivo": 1,
+      "negativo": 0,
+      "momentum": 3,
+      "temas": [
+        "encuesta"
+      ]
+    },
+    "saul_monreal": {
+      "menciones": 4,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 4,
+      "temas": [
+        "gasto_publico",
+        "seguridad",
+        "general"
+      ]
+    },
+    "diaz_robles": {
+      "menciones": 1,
+      "positivo": 1,
+      "negativo": 0,
+      "momentum": 3,
+      "temas": [
+        "candidatura"
+      ]
+    },
+    "narro_cespedes": {
+      "menciones": 0,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
+    },
+    "varela_pinedo": {
+      "menciones": 1,
+      "positivo": 1,
+      "negativo": 0,
+      "momentum": 3,
+      "temas": [
+        "encuesta"
+      ]
+    },
+    "bonilla_gomez": {
+      "menciones": 0,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
+    },
+    "anaya_mota": {
+      "menciones": 0,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
+    }
+  }
+}

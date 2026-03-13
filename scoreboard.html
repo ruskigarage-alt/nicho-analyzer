@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scoreboard Electoral Zacatecas 2027 — 2026-03-13</title>
+<meta name="description" content="Seguimiento diario de candidatos a gobernador Zacatecas 2027. Menciones, momentum mediático y análisis de cobertura. Actualizado 2026-03-13.">
+<meta name="robots" content="index, follow">
+<meta name="keywords" content="Zacatecas elecciones 2027, candidatos gobernador Zacatecas, Morena Zacatecas, PAN Zacatecas">
+<meta name="dateModified" content="2026-03-13T06:49:47.961222+00:00">
+<link rel="alternate" type="application/rss+xml" href="https://ruskigarage-alt.github.io/nicho-analyzer/mi_feed/feed.xml">
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Scoreboard Electoral Zacatecas 2027 — 2026-03-13",
+  "description": "Seguimiento diario de aspirantes a gobernador y alcaldes en Zacatecas. Menciones, momentum y análisis de cobertura mediática.",
+  "dateModified": "2026-03-13T06:49:47.961172+00:00",
+  "url": "https://ruskigarage-alt.github.io/nicho-analyzer/scoreboard.html",
+  "about": {
+    "@type": "Event",
+    "name": "Elecciones Zacatecas 2027"
+  },
+  "keywords": "Zacatecas, elecciones, gobernador, 2027, Morena, PAN, PRI, candidatos"
+}</script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0d1117;color:#c9d1d9;font-family:'Courier New',monospace;font-size:13px;padding:16px;line-height:1.7;max-width:960px;margin:0 auto}
+a{color:#58a6ff;text-decoration:none}
+a:hover{text-decoration:underline}
+.g{color:#3fb950}.b{color:#58a6ff}.y{color:#d29922}.r{color:#f85149}.dim{color:#484f58}.w{color:#e6edf3;font-weight:bold}
+.section{margin-top:1.4rem}
+.section-title{color:#58a6ff;font-size:11px;text-transform:uppercase;letter-spacing:.1em;margin-bottom:10px;border-bottom:1px solid #21262d;padding-bottom:6px}
+/* CARDS */
+.cards-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:10px}
+.asp-card{background:#161b22;border:1px solid #21262d;border-radius:8px;padding:12px;transition:border-color .2s}
+.asp-card:hover{border-color:#30363d}
+.asp-header{display:flex;align-items:flex-start;gap:10px;margin-bottom:8px}
+.asp-pos{font-size:20px;line-height:1;flex-shrink:0;width:28px}
+.asp-info{flex:1}
+.asp-nombre{color:#e6edf3;font-weight:bold;font-size:13px}
+.asp-meta{margin-top:3px;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.asp-score-block{text-align:right;flex-shrink:0}
+.asp-score{color:#e6edf3;font-size:22px;font-weight:bold;line-height:1}
+.asp-momentum{font-size:11px;margin-top:2px}
+.asp-barra-wrap{display:flex;align-items:center;gap:8px;margin:6px 0}
+.barra-ascii{font-size:11px;letter-spacing:1px}
+.barra-val{font-size:11px;color:#8b949e}
+.asp-temas{margin:6px 0;display:flex;gap:4px;flex-wrap:wrap}
+.asp-noticias{margin-top:8px;border-top:1px solid #21262d;padding-top:8px}
+.asp-stats{margin-top:8px;font-size:11px;border-top:1px solid #21262d;padding-top:6px}
+/* BADGES */
+.badge{display:inline-block;padding:1px 7px;border-radius:3px;font-size:10px;font-weight:bold;letter-spacing:.03em}
+.tema-badge{display:inline-block;padding:1px 6px;border-radius:3px;font-size:10px}
+.tend-up{color:#3fb950;font-size:11px}.tend-down{color:#f85149;font-size:11px}.tend-flat{color:#484f58;font-size:11px}
+/* NOTICIAS */
+.noticia-item{padding:6px 0;border-bottom:1px solid #21262d}
+.noticia-item:last-child{border-bottom:none}
+.noticia-meta{font-size:10px;color:#484f58;text-transform:uppercase;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.noticia-titulo{font-size:12px;color:#c9d1d9;line-height:1.4;display:block;margin-top:2px}
+.noticia-titulo:hover{color:#58a6ff}
+.noticia-vacia{font-size:11px;color:#484f58;font-style:italic;padding:6px 0}
+/* PARTIDOS */
+.partido-row{display:flex;align-items:center;gap:12px;padding:6px 0;border-bottom:1px solid #21262d;flex-wrap:wrap}
+.partido-nombre{font-weight:bold;font-size:13px;width:90px;flex-shrink:0}
+.partido-stats{margin-left:auto;font-size:11px}
+/* BLOQUES */
+.bloque{background:#161b22;border:1px solid #21262d;border-radius:6px;padding:12px;margin-top:8px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:8px}
+/* HEADER */
+.header-bar{background:#161b22;border:1px solid #21262d;border-radius:6px;padding:12px 16px;margin-bottom:16px}
+.cursor{display:inline-block;width:8px;height:13px;background:#3fb950;animation:blink 1s step-end infinite;vertical-align:middle}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+.stat-chips{display:flex;gap:16px;margin-top:8px;flex-wrap:wrap}
+.chip{font-size:11px}.chip .val{color:#e6edf3;font-weight:bold}
+@media(max-width:640px){.cards-grid{grid-template-columns:1fr}.grid2{grid-template-columns:1fr}.partido-row{flex-direction:column;align-items:flex-start}}
+</style>
+</head>
+<body>
+
+<div class="header-bar">
+  <div>
+    <span class="dim">┌──(</span><span class="g">nicho-analyzer</span><span class="dim">)─[</span><span class="w">~/electoral/zacatecas</span><span class="dim">]</span><br>
+    <span class="dim">└─</span><span class="g">$</span> <span class="w">./scoreboard.py --estado zacatecas --año 2027</span><span class="cursor"></span>
+  </div>
+  <div style="margin-top:10px;">
+    <span style="color:#e6edf3;font-size:16px;font-weight:bold;">SCOREBOARD ELECTORAL — ZACATECAS 2027</span><br>
+    <span class="dim">2026-03-13 06:49 UTC | elecciones: junio 2027 | gobernador + 58 alcaldías</span>
+  </div>
+  <div class="stat-chips">
+    <div class="chip">entradas minadas: <span class="val">57</span></div>
+    <div class="chip">fuentes: <span class="val">13</span></div>
+    <div class="chip">aspirantes rastreados: <span class="val">7</span></div>
+    <div class="chip">partidos: <span class="val">4</span></div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">[ ranking de aspirantes — gobernador ]</div>
+  <div style="font-size:11px;color:#484f58;margin-bottom:8px;">score = preferencia base + ajuste por momentum mediático del día</div>
+  <div class="cards-grid">
+    
+    <div class="asp-card">
+      <div class="asp-header">
+        <div class="asp-pos">🥇</div>
+        <div class="asp-info">
+          <div class="asp-nombre">Miguel Varela Pinedo</div>
+          <div class="asp-meta"><span class="badge" style="background:#005DAA22;color:#005DAA;border:1px solid #005DAA44;">PAN</span> <span class="tend-flat">→ estable</span></div>
+        </div>
+        <div class="asp-score-block">
+          <div class="asp-score">39.5%</div>
+          <div class="asp-momentum g">momentum +3</div>
+        </div>
+      </div>
+      <div class="asp-barra-wrap">
+        <span class="barra-ascii" style="color:#005DAA;">██████████████░░░░</span>
+        <span class="barra-val">39.5%</span>
+      </div>
+      <div class="asp-temas"><span class="tema-badge" style="background:#0d1f2b;color:#58a6ff;">encuesta</span></div>
+      <div class="asp-noticias">
+        
+        <div class="noticia-item">
+          <div class="noticia-meta">cripeso <span class="tema-badge" style="background:#0d1f2b;color:#58a6ff;">encuesta</span></div>
+          <a href="https://cripeso.com/encuesta-a-la-gubernatura-de-zacatecas-2027-marzo-2026/" class="noticia-titulo">Encuesta a la gubernatura de Zacatecas 2027: marzo 2026</a>
+        </div>
+      </div>
+      <div class="asp-stats">
+        <span class="dim">menciones hoy: </span><span class="w">1</span>
+        <span class="dim"> | positivas: </span><span class="g">1</span>
+        <span class="dim"> | negativas: </span><span class="r">0</span>
+      </div>
+    </div>
+    <div class="asp-card">
+      <div class="asp-header">
+        <div class="asp-pos">🥈</div>
+        <div class="asp-info">
+          <div class="asp-nombre">Adolfo Bonilla Gómez</div>
+          <div class="asp-meta"><span class="badge" style="background:#009E4422;color:#009E44;border:1px solid #009E4444;">PRI</span> <span class="tend-flat">→ estable</span></div>
+        </div>
+        <div class="asp-score-block">
+          <div class="asp-score">35.3%</div>
+          <div class="asp-momentum g">momentum +0</div>
+        </div>
+      </div>
+      <div class="asp-barra-wrap">
+        <span class="barra-ascii" style="color:#009E44;">████████████░░░░░░</span>
+        <span class="barra-val">35.3%</span>
+      </div>
+      <div class="asp-temas"><span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+      <div class="asp-noticias">
+        <div class="noticia-vacia">sin menciones hoy</div>
+      </div>
+      <div class="asp-stats">
+        <span class="dim">menciones hoy: </span><span class="w">0</span>
+        <span class="dim"> | positivas: </span><span class="g">0</span>
+        <span class="dim"> | negativas: </span><span class="r">0</span>
+      </div>
+    </div>
+    <div class="asp-card">
+      <div class="asp-header">
+        <div class="asp-pos">🥉</div>
+        <div class="asp-info">
+          <div class="asp-nombre">Ulises Mejía Haro</div>
+          <div class="asp-meta"><span class="badge" style="background:#C91A1A22;color:#C91A1A;border:1px solid #C91A1A44;">Morena</span> <span class="tend-flat">→ estable</span></div>
+        </div>
+        <div class="asp-score-block">
+          <div class="asp-score">23.6%</div>
+          <div class="asp-momentum g">momentum +3</div>
+        </div>
+      </div>
+      <div class="asp-barra-wrap">
+        <span class="barra-ascii" style="color:#C91A1A;">████████░░░░░░░░░░</span>
+        <span class="barra-val">23.6%</span>
+      </div>
+      <div class="asp-temas"><span class="tema-badge" style="background:#0d1f2b;color:#58a6ff;">encuesta</span></div>
+      <div class="asp-noticias">
+        
+        <div class="noticia-item">
+          <div class="noticia-meta">cripeso <span class="tema-badge" style="background:#0d1f2b;color:#58a6ff;">encuesta</span></div>
+          <a href="https://cripeso.com/encuesta-a-la-gubernatura-de-zacatecas-2027-marzo-2026/" class="noticia-titulo">Encuesta a la gubernatura de Zacatecas 2027: marzo 2026</a>
+        </div>
+      </div>
+      <div class="asp-stats">
+        <span class="dim">menciones hoy: </span><span class="w">1</span>
+        <span class="dim"> | positivas: </span><span class="g">1</span>
+        <span class="dim"> | negativas: </span><span class="r">0</span>
+      </div>
+    </div>
+    <div class="asp-card">
+      <div class="asp-header">
+        <div class="asp-pos">#4</div>
+        <div class="asp-info">
+          <div class="asp-nombre">Claudia Anaya Mota</div>
+          <div class="asp-meta"><span class="badge" style="background:#009E4422;color:#009E44;border:1px solid #009E4444;">PRI</span> <span class="tend-flat">→ estable</span></div>
+        </div>
+        <div class="asp-score-block">
+          <div class="asp-score">23.5%</div>
+          <div class="asp-momentum g">momentum +0</div>
+        </div>
+      </div>
+      <div class="asp-barra-wrap">
+        <span class="barra-ascii" style="color:#007A33;">████████░░░░░░░░░░</span>
+        <span class="barra-val">23.5%</span>
+      </div>
+      <div class="asp-temas"><span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+      <div class="asp-noticias">
+        <div class="noticia-vacia">sin menciones hoy</div>
+      </div>
+      <div class="asp-stats">
+        <span class="dim">menciones hoy: </span><span class="w">0</span>
+        <span class="dim"> | positivas: </span><span class="g">0</span>
+        <span class="dim"> | negativas: </span><span class="r">0</span>
+      </div>
+    </div>
+    <div class="asp-card">
+      <div class="asp-header">
+        <div class="asp-pos">#5</div>
+        <div class="asp-info">
+          <div class="asp-nombre">Saúl Monreal Ávila</div>
+          <div class="asp-meta"><span class="badge" style="background:#E05C0022;color:#E05C00;border:1px solid #E05C0044;">PT/Morena</span> <span class="tend-flat">→ estable</span></div>
+        </div>
+        <div class="asp-score-block">
+          <div class="asp-score">21.7%</div>
+          <div class="asp-momentum g">momentum +4</div>
+        </div>
+      </div>
+      <div class="asp-barra-wrap">
+        <span class="barra-ascii" style="color:#E05C00;">███████░░░░░░░░░░░</span>
+        <span class="barra-val">21.7%</span>
+      </div>
+      <div class="asp-temas"><span class="tema-badge" style="background:#1a0d2b;color:#a371f7;">gasto_publico</span> <span class="tema-badge" style="background:#2b0d0d;color:#f85149;">seguridad</span> <span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+      <div class="asp-noticias">
+        
+        <div class="noticia-item">
+          <div class="noticia-meta">lapolitica <span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+          <a href="https://lapoliticamedarisa.mx/2026/03/12/comenzaremos-a-construir-el-plan-b-de-la-reforma-electoral-no-vamos-a-rendirnos-ni-a-claudicar-ricardo-monreal/" class="noticia-titulo">“COMENZAREMOS A CONSTRUIR EL PLAN ‘B’ DE LA REFORMA ELECTORAL; NO VAMOS A RENDIRNOS NI A C</a>
+        </div>
+        <div class="noticia-item">
+          <div class="noticia-meta">eltrochilero <span class="tema-badge" style="background:#1a0d2b;color:#a371f7;">gasto_publico</span></div>
+          <a href="https://eltrochilero.com/arranca-david-monreal-programa-diesel-agropecuario-2026-para-el-campo/" class="noticia-titulo">Arranca David Monreal Programa Diésel Agropecuario 2026 para el campo</a>
+        </div>
+      </div>
+      <div class="asp-stats">
+        <span class="dim">menciones hoy: </span><span class="w">4</span>
+        <span class="dim"> | positivas: </span><span class="g">0</span>
+        <span class="dim"> | negativas: </span><span class="r">0</span>
+      </div>
+    </div>
+    <div class="asp-card">
+      <div class="asp-header">
+        <div class="asp-pos">#6</div>
+        <div class="asp-info">
+          <div class="asp-nombre">Verónica Díaz Robles</div>
+          <div class="asp-meta"><span class="badge" style="background:#C91A1A22;color:#C91A1A;border:1px solid #C91A1A44;">Morena</span> <span class="tend-flat">→ estable</span></div>
+        </div>
+        <div class="asp-score-block">
+          <div class="asp-score">17.2%</div>
+          <div class="asp-momentum g">momentum +3</div>
+        </div>
+      </div>
+      <div class="asp-barra-wrap">
+        <span class="barra-ascii" style="color:#C91A7A;">██████░░░░░░░░░░░░</span>
+        <span class="barra-val">17.2%</span>
+      </div>
+      <div class="asp-temas"><span class="tema-badge" style="background:#0d2b1a;color:#3fb950;">candidatura</span></div>
+      <div class="asp-noticias">
+        
+        <div class="noticia-item">
+          <div class="noticia-meta">zhn zacatecas <span class="tema-badge" style="background:#0d2b1a;color:#3fb950;">candidatura</span></div>
+          <a href="https://zhn.com.mx/veronica-diaz-robles-levanta-la-mano-rumbo-a-2027-afirma-que-en-morena-habra-piso-parejo-para-la-gubernatura-de-zacatecas-video/?utm_source=rss&utm_medium=rss&utm_campaign=veronica-diaz-robles-levanta-la-mano-rumbo-a-2027-afirma-que-en-morena-habra-piso-parejo-para-la-gubernatura-de-zacatecas-video" class="noticia-titulo">Verónica Díaz Robles levanta la mano rumbo a 2027; afirma que en Morena habrá “piso parejo</a>
+        </div>
+      </div>
+      <div class="asp-stats">
+        <span class="dim">menciones hoy: </span><span class="w">1</span>
+        <span class="dim"> | positivas: </span><span class="g">1</span>
+        <span class="dim"> | negativas: </span><span class="r">0</span>
+      </div>
+    </div>
+    <div class="asp-card">
+      <div class="asp-header">
+        <div class="asp-pos">#7</div>
+        <div class="asp-info">
+          <div class="asp-nombre">José Narro Céspedes</div>
+          <div class="asp-meta"><span class="badge" style="background:#CC330022;color:#CC3300;border:1px solid #CC330044;">PT</span> <span class="tend-flat">→ estable</span></div>
+        </div>
+        <div class="asp-score-block">
+          <div class="asp-score">12.0%</div>
+          <div class="asp-momentum g">momentum +0</div>
+        </div>
+      </div>
+      <div class="asp-barra-wrap">
+        <span class="barra-ascii" style="color:#CC3300;">████░░░░░░░░░░░░░░</span>
+        <span class="barra-val">12.0%</span>
+      </div>
+      <div class="asp-temas"><span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+      <div class="asp-noticias">
+        <div class="noticia-vacia">sin menciones hoy</div>
+      </div>
+      <div class="asp-stats">
+        <span class="dim">menciones hoy: </span><span class="w">0</span>
+        <span class="dim"> | positivas: </span><span class="g">0</span>
+        <span class="dim"> | negativas: </span><span class="r">0</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">[ movimiento de partidos — local → nacional ]</div>
+  <div class="bloque">
+    
+    <div class="partido-row">
+      <span class="partido-nombre" style="color:#C91A1A;">Morena</span>
+      <span class="dim">Ulises, Verónica</span>
+      <span class="partido-stats">
+        <span class="dim">menciones: </span><span class="w">2</span>
+        <span class="dim"> momentum: </span><span class="g">+6</span>
+      </span>
+    </div>
+    <div class="partido-row">
+      <span class="partido-nombre" style="color:#CC3300;">PT</span>
+      <span class="dim">Saúl, José</span>
+      <span class="partido-stats">
+        <span class="dim">menciones: </span><span class="w">4</span>
+        <span class="dim"> momentum: </span><span class="g">+4</span>
+      </span>
+    </div>
+    <div class="partido-row">
+      <span class="partido-nombre" style="color:#005DAA;">PAN</span>
+      <span class="dim">Miguel</span>
+      <span class="partido-stats">
+        <span class="dim">menciones: </span><span class="w">1</span>
+        <span class="dim"> momentum: </span><span class="g">+3</span>
+      </span>
+    </div>
+    <div class="partido-row">
+      <span class="partido-nombre" style="color:#009E44;">PRI</span>
+      <span class="dim">Adolfo, Claudia</span>
+      <span class="partido-stats">
+        <span class="dim">menciones: </span><span class="w">0</span>
+        <span class="dim"> momentum: </span><span class="g">+0</span>
+      </span>
+    </div>
+  </div>
+</div>
+
+<div class="section grid2">
+  <div>
+    <div class="section-title">[ noticias electorales del día ]</div>
+    <div class="bloque">
+      
+    <div class="noticia-item">
+      <div class="noticia-meta">ljz zacatecas <span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+      <a href="https://ljz.mx/12/03/2026/habra-costo-politico-para-verde-y-pt-por-no-apoyar-la-reforma-electoral-morena/" class="noticia-titulo">Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena</a>
+    </div>
+    <div class="noticia-item">
+      <div class="noticia-meta">zhn zacatecas <span class="tema-badge" style="background:#0d2b1a;color:#3fb950;">candidatura</span></div>
+      <a href="https://zhn.com.mx/veronica-diaz-robles-levanta-la-mano-rumbo-a-2027-afirma-que-en-morena-habra-piso-parejo-para-la-gubernatura-de-zacatecas-video/?utm_source=rss&utm_medium=rss&utm_campaign=veronica-diaz-robles-levanta-la-mano-rumbo-a-2027-afirma-que-en-morena-habra-piso-parejo-para-la-gubernatura-de-zacatecas-video" class="noticia-titulo">Verónica Díaz Robles levanta la mano rumbo a 2027; afirma que en Morena habrá “piso parejo” para la </a>
+    </div>
+    <div class="noticia-item">
+      <div class="noticia-meta">zhn zacatecas <span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+      <a href="https://zhn.com.mx/refuerza-gobernador-david-monreal-abastecimiento-de-agua-a-mas-de-120-colonias-de-guadalupe-y-zacatecas-con-pozo-pancheros-2/?utm_source=rss&utm_medium=rss&utm_campaign=refuerza-gobernador-david-monreal-abastecimiento-de-agua-a-mas-de-120-colonias-de-guadalupe-y-zacatecas-con-pozo-pancheros-2" class="noticia-titulo">Refuerza Gobernador David Monreal abastecimiento de agua a más de 120 colonias de Guadalupe y Zacate</a>
+    </div>
+    <div class="noticia-item">
+      <div class="noticia-meta">zhn zacatecas <span class="tema-badge" style="background:#1a0d2b;color:#a371f7;">gasto_publico</span></div>
+      <a href="https://zhn.com.mx/con-inversion-de-40-mdp-arranca-gobernador-david-monreal-programa-de-diesel-agropecuario-2026/?utm_source=rss&utm_medium=rss&utm_campaign=con-inversion-de-40-mdp-arranca-gobernador-david-monreal-programa-de-diesel-agropecuario-2026" class="noticia-titulo">Con inversión de 40 mdp arranca Gobernador David Monreal Programa de Diésel Agropecuario 2026</a>
+    </div>
+    <div class="noticia-item">
+      <div class="noticia-meta">zhn zacatecas <span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+      <a href="https://zhn.com.mx/carlos-puente-promueve-a-zacatecas-ante-empresarios/?utm_source=rss&utm_medium=rss&utm_campaign=carlos-puente-promueve-a-zacatecas-ante-empresarios" class="noticia-titulo">Carlos Puente promueve a Zacatecas ante empresarios</a>
+    </div>
+    <div class="noticia-item">
+      <div class="noticia-meta">zhn zacatecas <span class="tema-badge" style="background:#2b0d0d;color:#f85149;">seguridad</span></div>
+      <a href="https://zhn.com.mx/imparte-gobierno-de-zacatecas-taller-de-prevencion-de-violencia-laboral-a-mujeres-mineras/?utm_source=rss&utm_medium=rss&utm_campaign=imparte-gobierno-de-zacatecas-taller-de-prevencion-de-violencia-laboral-a-mujeres-mineras" class="noticia-titulo">Imparte Gobierno de Zacatecas taller de prevención de violencia laboral a mujeres mineras</a>
+    </div>
+    </div>
+  </div>
+  <div>
+    <div class="section-title">[ conexiones nacional ↔ zacatecas ]</div>
+    <div class="bloque">
+      
+    <div class="noticia-item">
+      <div class="noticia-meta">ljz zacatecas <span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+      <a href="https://ljz.mx/12/03/2026/habra-costo-politico-para-verde-y-pt-por-no-apoyar-la-reforma-electoral-morena/" class="noticia-titulo">Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena</a>
+    </div>
+    <div class="noticia-item">
+      <div class="noticia-meta">lasnoticiasya <span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+      <a href="https://lasnoticiasya.com/sheinbaum-limitaria-con-plan-b-privilegios-de-diputados-y-regidores-en-zacatecas/" class="noticia-titulo">Sheinbaum limitaría con Plan B privilegios de diputados y regidores en Zacatecas</a>
+    </div>
+    <div class="noticia-item">
+      <div class="noticia-meta">lasnoticiasya <span class="tema-badge" style="background:#2b220d;color:#d29922;">alianza</span></div>
+      <a href="https://lasnoticiasya.com/renata-aviles-niega-traicion-del-pt-defiende-contrapesos/" class="noticia-titulo">Renata Avila niega traición del PT; defiende contrapesos</a>
+    </div>
+    <div class="noticia-item">
+      <div class="noticia-meta">elarsenal <span class="tema-badge" style="background:#161b22;color:#8b949e;">general</span></div>
+      <a href="https://www.elarsenal.net/reforma-electoral-mas-bateada-que-la-seleccion-mexicana-de-beisbol-sheinbaum-ya-alista-plan-b/?utm_source=rss&utm_medium=rss&utm_campaign=reforma-electoral-mas-bateada-que-la-seleccion-mexicana-de-beisbol-sheinbaum-ya-alista-plan-b" class="noticia-titulo">Reforma electoral, más bateada que la selección mexicana de béisbol, Sheinbaum ya alista plan B</a>
+    </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <span class="dim">─────────────────────────────────────────────────────────</span><br>
+  <span class="dim">dashboard principal: </span><a href="https://ruskigarage-alt.github.io/nicho-analyzer/dashboard.html">/dashboard.html</a>
+  <span class="dim"> | repo: </span><a href="https://github.com/ruskigarage-alt/nicho-analyzer">github</a><br>
+  <span class="dim">próxima actualización: </span><span class="b">mañana 06:00 UTC</span>
+</div>
+
+</body>
+</html>
