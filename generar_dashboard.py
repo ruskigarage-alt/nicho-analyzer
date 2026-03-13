@@ -187,6 +187,53 @@ def bloque_noticias(nicho, titulo):
     html += "</div>"
     return html
 
+
+# ── Bloque macro generado por patch_dashboard_macro.py ──────────
+def bloque_macro():
+    macro = {}
+    jsonl = os.path.join("datos_crudos", f"macro_mx_{FECHA}.jsonl")
+    if os.path.exists(jsonl):
+        with open(jsonl, encoding="utf-8") as f:
+            for linea in f:
+                try:
+                    d = json.loads(linea)
+                    macro[d["titulo"]] = d
+                except Exception:
+                    pass
+    def fila(label, key, suf="", verde=True):
+        d = macro.get(key, {})
+        val = d.get("valor", "N/D")
+        try:
+            v = float(val)
+            color = ("g" if v>=0 else "r") if verde else ("r" if v>=0 else "g")
+            vs = f"{v:+.2f}{suf}"
+        except Exception:
+            color, vs = "dim", str(val)
+        interp = d.get("extra", {}).get("interpretacion","")
+        tag = f' <span style="font-size:10px;color:#484f58;">({interp})</span>' if interp else ""
+        return f'<div class="row"><span class="dim">{label}</span><span><span class="{color}">{vs}</span>{tag}</span></div>'
+
+    return f"""
+<div class="section">
+<span class="b">[ MACRO MEXICO — INDICADORES OFICIALES ]</span>
+<div style="margin-top:8px;display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+  <div class="cotiz-block">
+    <div style="color:#58a6ff;font-size:10px;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;">balance fiscal</div>
+    {fila("deficit/PIB","Deficit fiscal Mexico porcentaje PIB","%",verde=False)}
+    {fila("confianza","Indice confianza macro Mexico","pts",verde=True)}
+  </div>
+  <div class="cotiz-block">
+    <div style="color:#58a6ff;font-size:10px;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;">dinero y precios</div>
+    {fila("inflacion","Inflacion INPC anual Mexico","%",verde=False)}
+    {fila("tasa Banxico","Tasa objetivo Banxico","%",verde=True)}
+    {fila("reservas","Reservas internacionales Banxico"," mmd",verde=True)}
+    {fila("EMBI aprox","Riesgo pais EMBI Mexico aproximado","pb",verde=False)}
+  </div>
+</div>
+</div>"""
+
+macro_html = bloque_macro()
+
 news_economia  = bloque_noticias("regulaciones_pyme", "noticias economia")
 news_politica  = bloque_noticias("politica_local",    "clima politico local")
 news_geo       = bloque_noticias("geopolitica",       "geopolitica global")
@@ -297,7 +344,9 @@ body{{background:#0d1117;color:#c9d1d9;font-family:'Courier New',monospace;font-
 <div class="section">
 <span class="b">[ PRESION MACRO ]</span>
 <div style="margin-top:8px;">
-{barras_html}
+{barras_html}"""
++ macro_html
++ """
 </div>
 </div>
 
