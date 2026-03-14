@@ -23,7 +23,8 @@
       ],
       "noticias": [],
       "menciones_total": 10,
-      "menciones_hoy": 0
+      "menciones_hoy": 0,
+      "score_compuesto": 40.5
     },
     {
       "id": "bonilla_gomez",
@@ -41,7 +42,8 @@
       ],
       "noticias": [],
       "menciones_total": 9,
-      "menciones_hoy": 0
+      "menciones_hoy": 0,
+      "score_compuesto": 36.2
     },
     {
       "id": "mejia_haro",
@@ -59,7 +61,8 @@
       ],
       "noticias": [],
       "menciones_total": 11,
-      "menciones_hoy": 0
+      "menciones_hoy": 0,
+      "score_compuesto": 24.7
     },
     {
       "id": "anaya_mota",
@@ -77,7 +80,8 @@
       ],
       "noticias": [],
       "menciones_total": 9,
-      "menciones_hoy": 0
+      "menciones_hoy": 0,
+      "score_compuesto": 24.4
     },
     {
       "id": "saul_monreal",
@@ -95,7 +99,8 @@
       ],
       "noticias": [],
       "menciones_total": 12,
-      "menciones_hoy": 0
+      "menciones_hoy": 0,
+      "score_compuesto": 22.9
     },
     {
       "id": "diaz_robles",
@@ -113,7 +118,8 @@
       ],
       "noticias": [],
       "menciones_total": 11,
-      "menciones_hoy": 0
+      "menciones_hoy": 0,
+      "score_compuesto": 17.4
     },
     {
       "id": "narro_cespedes",
@@ -131,7 +137,8 @@
       ],
       "noticias": [],
       "menciones_total": 10,
-      "menciones_hoy": 0
+      "menciones_hoy": 0,
+      "score_compuesto": 13.0
     }
   ]
 }

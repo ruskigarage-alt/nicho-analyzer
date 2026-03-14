@@ -168,14 +168,25 @@ def main():
     for c in candidatos:
         aid = c["id"]
         menciones_hoy = c["menciones"]
-        # Sumar menciones del día al acumulado
+        # Actualizar acumulado sin duplicar el mismo día
         if aid not in historial_acum:
             historial_acum[aid] = {"total": 0, "por_fecha": {}}
-        historial_acum[aid]["total"] += menciones_hoy
+
+        menciones_previas_hoy = historial_acum[aid]["por_fecha"].get(FECHA, 0)
+        # Restar lo que ya habíamos sumado hoy (si corremos 2 veces)
+        historial_acum[aid]["total"] -= menciones_previas_hoy
+        # Registrar las menciones de hoy (reemplaza)
         historial_acum[aid]["por_fecha"][FECHA] = menciones_hoy
-        # Agregar campo al candidato
+        historial_acum[aid]["total"] += menciones_hoy
+
         c["menciones_total"] = historial_acum[aid]["total"]
         c["menciones_hoy"]   = menciones_hoy
+
+        # Fix 3: Score compuesto — encuesta + peso por menciones
+        # Cada 10 menciones acumuladas = +1 punto al score
+        pct_base = c["pct"]
+        bonus = min(round(historial_acum[aid]["total"] / 10, 1), 5.0)
+        c["score_compuesto"] = round(pct_base + bonus, 1)
     guardar_historial_acumulado(historial_acum)
 
     # Ordenar por pct descendente

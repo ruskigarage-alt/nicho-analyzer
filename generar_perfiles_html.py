@@ -34,7 +34,7 @@ def cargar_noticias_candidato(pid, max_noticias=10):
     noticias = []
     urls_vistas = set()
 
-    archivos = sorted(glob.glob("datos_crudos/electoral_*.json"), reverse=True)[:7]
+    archivos = sorted(glob.glob("datos_crudos/electoral_*.json"), reverse=True)[:30]
     for archivo in archivos:
         try:
             with open(archivo, encoding="utf-8") as f:
