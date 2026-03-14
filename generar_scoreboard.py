@@ -218,7 +218,7 @@ for i, asp in enumerate(ranking):
       <div class="asp-header">
         <div class="asp-pos">{pos_label}</div>
         <div class="asp-info">
-          <div class="asp-nombre">{asp['nombre']}</div>
+          <div class="asp-nombre"><a href="perfil_{asp['id']}.html" style="color:#e6edf3;text-decoration:none;border-bottom:1px solid #30363d">{asp['nombre']}</a></div>
           <div class="asp-meta">{badge_partido(asp['partido'])} {badge_tendencia(asp['tendencia'])}</div>
         </div>
         <div class="asp-score-block">
@@ -227,8 +227,14 @@ for i, asp in enumerate(ranking):
         </div>
       </div>
       <div class="asp-barra-wrap">
+        <span class="dim" style="font-size:10px;width:60px;display:inline-block">encuesta</span>
         <span class="barra-ascii" style="color:{asp['color']};">{barra}</span>
         <span class="barra-val">{asp['score']}%</span>
+      </div>
+      <div class="asp-barra-wrap">
+        <span class="dim" style="font-size:10px;width:60px;display:inline-block">presencia</span>
+        <span class="barra-ascii" style="color:#58a6ff;">{mini_barra(asp['menciones'], 12, 18)}</span>
+        <span class="barra-val">{asp['menciones']} menciones</span>
       </div>
       <div class="asp-temas">{temas_html}</div>
       <div class="asp-noticias">
