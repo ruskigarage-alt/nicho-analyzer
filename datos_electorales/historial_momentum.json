@@ -60,13 +60,11 @@
   },
   "2026-03-14": {
     "mejia_haro": {
-      "menciones": 1,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 1,
-      "temas": [
-        "seguridad"
-      ]
+      "momentum": 0,
+      "temas": []
     },
     "saul_monreal": {
       "menciones": 0,
@@ -76,13 +74,11 @@
       "temas": []
     },
     "diaz_robles": {
-      "menciones": 1,
+      "menciones": 0,
       "positivo": 0,
-      "negativo": 1,
-      "momentum": -2,
-      "temas": [
-        "nepotismo"
-      ]
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
     },
     "narro_cespedes": {
       "menciones": 0,

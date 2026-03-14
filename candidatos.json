@@ -2,8 +2,8 @@
   "meta": {
     "fuente": "Cripeso · Marzo 2026",
     "actualizado": "2026-03-14",
-    "total_menciones_hoy": 2,
-    "entradas_analizadas": 2,
+    "total_menciones_hoy": 0,
+    "entradas_analizadas": 0,
     "nota": "Generado automáticamente. Edita ENCUESTAS en generar_candidatos_json.py para actualizar porcentajes."
   },
   "candidatos": [
@@ -49,24 +49,17 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 23.6,
-      "momentum": -2,
-      "menciones": 1,
+      "momentum": -3,
+      "menciones": 0,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
-        "seguridad"
+        "general"
       ],
-      "noticias": [
-        {
-          "fuente": "googlenews",
-          "tag": "seguridad",
-          "texto": "Ulises Mejía impulsa en Zacatecas una ley para castigar la violencia vicaria y proteger a la niñez con un sistema de ale",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeVFnVHZBLTVPdXNtcGtTNHJTSUhHLTVaVnlReEJTNHFHWTdMWXQyekdwSms2YzFXcnJVR0s3cEMxd3hQemtvUU95U1dYRmFHamRZUFhvYjRjVWdqWTRXcFRDYjRoejN3dkZYaGs2anZVM3ktSTBIQUQ3TWJ0RVpQQ2N1ck5wZWxhazR3ZFM3VHkyazZycjhCdGtWNHU0SWJPTkhmTHNZRnBZWDhvS2FQclBHUnlVc1Q0TFRRMTdRN0VjakFoRm9mTzF3VXpiMmE2VG1la0tHNmlYWFU3bXA5TUExQXl0eXNzTnB0OHdQSm5vQS1NajZv?oc=5"
-        }
-      ],
+      "noticias": [],
       "menciones_total": 11,
-      "menciones_hoy": 1
+      "menciones_hoy": 0
     },
     {
       "id": "anaya_mota",
@@ -110,24 +103,17 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 16.3,
-      "momentum": -2,
-      "menciones": 1,
+      "momentum": 0,
+      "menciones": 0,
       "positivas": 0,
-      "negativas": 1,
+      "negativas": 0,
       "fuente": "Referencia general",
       "tags": [
-        "nepotismo"
+        "general"
       ],
-      "noticias": [
-        {
-          "fuente": "googlenews",
-          "tag": "nepotismo",
-          "texto": "Clan Monreal “saca la vuelta” al veto al nepotismo; perfila a 4 candidatas - La Jornada",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnZFbWJsYXBQNnBqalc4OXlTS2FNVWVRdy01bGo4TEhpR01lWXZNa1pSZlFXZ3BHd29UN0hKUUNTcGNWbzF5MV9vV05FVjVvVTU2NTFMb1lXMzFTWjBpQk5wbzlJenpBSHNsMmk2MTRnLWRPTVJxZkR6ZTRyUV9hUXJEaENoUFYyMV9FdkNWdnJfUjdqQzJNUUEwelpETGRzbkp5bEVDWkRHSVRweThXYVpRYTI4V2xVbXpGSw?oc=5"
-        }
-      ],
+      "noticias": [],
       "menciones_total": 11,
-      "menciones_hoy": 1
+      "menciones_hoy": 0
     },
     {
       "id": "narro_cespedes",

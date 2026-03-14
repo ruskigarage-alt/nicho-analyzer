@@ -1,49 +1,14 @@
 {
   "fecha": "2026-03-14",
-  "total": 2,
-  "entradas": [
-    {
-      "titulo": "Ulises Mejía impulsa en Zacatecas una ley para castigar la violencia vicaria y proteger a la niñez con un sistema de alerta temprana - diputadosmorena.org.mx",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeVFnVHZBLTVPdXNtcGtTNHJTSUhHLTVaVnlReEJTNHFHWTdMWXQyekdwSms2YzFXcnJVR0s3cEMxd3hQemtvUU95U1dYRmFHamRZUFhvYjRjVWdqWTRXcFRDYjRoejN3dkZYaGs2anZVM3ktSTBIQUQ3TWJ0RVpQQ2N1ck5wZWxhazR3ZFM3VHkyazZycjhCdGtWNHU0SWJPTkhmTHNZRnBZWDhvS2FQclBHUnlVc1Q0TFRRMTdRN0VjakFoRm9mTzF3VXpiMmE2VG1la0tHNmlYWFU3bXA5TUExQXl0eXNzTnB0OHdQSm5vQS1NajZv?oc=5\" target=\"_bl",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeVFnVHZBLTVPdXNtcGtTNHJTSUhHLTVaVnlReEJTNHFHWTdMWXQyekdwSms2YzFXcnJVR0s3cEMxd3hQemtvUU95U1dYRmFHamRZUFhvYjRjVWdqWTRXcFRDYjRoejN3dkZYaGs2anZVM3ktSTBIQUQ3TWJ0RVpQQ2N1ck5wZWxhazR3ZFM3VHkyazZycjhCdGtWNHU0SWJPTkhmTHNZRnBZWDhvS2FQclBHUnlVc1Q0TFRRMTdRN0VjakFoRm9mTzF3VXpiMmE2VG1la0tHNmlYWFU3bXA5TUExQXl0eXNzTnB0OHdQSm5vQS1NajZv?oc=5",
-      "fecha": "Tue, 28 Oct 2025 07:00:00 GMT",
-      "fuente": "google_news",
-      "tipo_fuente": "agregador",
-      "nicho": "electoral_zacatecas",
-      "es_electoral": true,
-      "es_contextual": false,
-      "aspirantes_mencionados": [
-        "mejia_haro"
-      ],
-      "tema": "seguridad",
-      "fecha_minado": "2026-03-14"
-    },
-    {
-      "titulo": "Clan Monreal “saca la vuelta” al veto al nepotismo; perfila a 4 candidatas - La Jornada",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnZFbWJsYXBQNnBqalc4OXlTS2FNVWVRdy01bGo4TEhpR01lWXZNa1pSZlFXZ3BHd29UN0hKUUNTcGNWbzF5MV9vV05FVjVvVTU2NTFMb1lXMzFTWjBpQk5wbzlJenpBSHNsMmk2MTRnLWRPTVJxZkR6ZTRyUV9hUXJEaENoUFYyMV9FdkNWdnJfUjdqQzJNUUEwelpETGRzbkp5bEVDWkRHSVRweThXYVpRYTI4V2xVbXpGSw?oc=5\" target=\"_blank\">Clan Monreal “saca la vuelta” al veto al nepotismo; perfila a 4 candidata",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnZFbWJsYXBQNnBqalc4OXlTS2FNVWVRdy01bGo4TEhpR01lWXZNa1pSZlFXZ3BHd29UN0hKUUNTcGNWbzF5MV9vV05FVjVvVTU2NTFMb1lXMzFTWjBpQk5wbzlJenpBSHNsMmk2MTRnLWRPTVJxZkR6ZTRyUV9hUXJEaENoUFYyMV9FdkNWdnJfUjdqQzJNUUEwelpETGRzbkp5bEVDWkRHSVRweThXYVpRYTI4V2xVbXpGSw?oc=5",
-      "fecha": "Mon, 10 Nov 2025 08:00:00 GMT",
-      "fuente": "google_news",
-      "tipo_fuente": "agregador",
-      "nicho": "electoral_zacatecas",
-      "es_electoral": true,
-      "es_contextual": false,
-      "aspirantes_mencionados": [
-        "diaz_robles"
-      ],
-      "tema": "nepotismo",
-      "fecha_minado": "2026-03-14"
-    }
-  ],
+  "total": 0,
+  "entradas": [],
   "momentum": {
     "mejia_haro": {
-      "menciones": 1,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 1,
-      "temas": [
-        "seguridad"
-      ]
+      "momentum": 0,
+      "temas": []
     },
     "saul_monreal": {
       "menciones": 0,
@@ -53,13 +18,11 @@
       "temas": []
     },
     "diaz_robles": {
-      "menciones": 1,
+      "menciones": 0,
       "positivo": 0,
-      "negativo": 1,
-      "momentum": -2,
-      "temas": [
-        "nepotismo"
-      ]
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
     },
     "narro_cespedes": {
       "menciones": 0,
