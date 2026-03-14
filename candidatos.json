@@ -2,8 +2,8 @@
   "meta": {
     "fuente": "Cripeso · Marzo 2026",
     "actualizado": "2026-03-14",
-    "total_menciones_hoy": 72,
-    "entradas_analizadas": 72,
+    "total_menciones_hoy": 70,
+    "entradas_analizadas": 70,
     "nota": "Generado automáticamente. Edita ENCUESTAS en generar_candidatos_json.py para actualizar porcentajes."
   },
   "candidatos": [
@@ -40,7 +40,9 @@
           "texto": "Miguel Varela domina interna del PAN rumbo a la gubernatura de Zacatecas - Las Noticias Ya",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXBCTzBqRmFLMzRxQXhCWlhGWG9UVW1YVUN0THFyVTZtMDVzOVdEZHNRYThwREpwWXI5MjBncVBPcnRyTl9sU1JhWGphZy1adkFmN25FekVaU3lFVGljaWtBM0lSTmIxSl9jS3NrbU9fRlZIankxQVk2MFNRNGhsZG03QkM2cnBKQ3NFOXpYOFBJVF9sTnZCQ0xrQUJ4OHZB?oc=5"
         }
-      ]
+      ],
+      "menciones_total": 10,
+      "menciones_hoy": 10
     },
     {
       "id": "bonilla_gomez",
@@ -48,22 +50,16 @@
       "partido": "PRI",
       "partyClass": "pri",
       "pct": 35.3,
-      "momentum": 14,
-      "menciones": 10,
-      "positivas": 2,
+      "momentum": 11,
+      "menciones": 9,
+      "positivas": 1,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
-        "encuesta",
-        "general"
+        "general",
+        "encuesta"
       ],
       "noticias": [
-        {
-          "fuente": "googlenews",
-          "tag": "encuesta",
-          "texto": "Ulises Mejía encabeza sondeo en Zacatecas, ¿qué tan cerca están sus rivales? - Eje Central",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeUtpRlIzblFERWNkQXYxbGozYlBNUEttSVJFTFRMT0NfVXBOR3Ffbm0zeXlsTE9hcnEyaGpIRktFLWJLS1YycFJyd21qVTI5NVF0X01fd05hNXZBcnRnWlNzNDJQRkgwOHNOb3NiWDJGNTJjQ2k3UU5LZGNYcWU4QkY5OUFzWDQ2TnhvZ05VZ1lkX3BFdloxVlNhOVBMdU9wYjVucXhQYXllUDNUellLSFB0dFd1Zw?oc=5"
-        },
         {
           "fuente": "googlenews",
           "tag": "general",
@@ -75,8 +71,16 @@
           "tag": "general",
           "texto": "Rumbo a las Elecciones en Zacatecas 2027: 12 de Noviembre de 2025 - GobernArte",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHBrYlRJN1Y3aUN0WFpZMldINC1YN1dqOFc0UGg0QkIyaXZaOFluRFlaVVBURHFRckpFYy1CTkNranlrTEV2cjB5aDU4QlhZZmtRWFhETUFZWTdxdTZCQ1BhZzR2aU9MMVpvaE9HaWVNVFprN1diZ0I0em9GeGpRS250azBlVEtnRGt0STF3b3k3Q1RkQ3c?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Las tendencias para Zacatecas - 24 HORAS | El Diario sin Límites",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSDdXU0Q0YWZLRl9vYTV6RTVIX0tHVmd4SUVITk1ZUXdmTk5rdzY5ckxLeTlheFpBaVRWR1FYb1gxd1BJSlRKZ2hyYm4zS1RQdWJoTXdSeWhHb3VvM2FLTXpIVEFMZThSYUlWQVpjOF9hcWpWR1RMS1Q1MDQ4X1FGYzI2NWpKY2stR3BGMmpyRWJ5NmFpRG9PNjFB?oc=5"
         }
-      ]
+      ],
+      "menciones_total": 9,
+      "menciones_hoy": 9
     },
     {
       "id": "mejia_haro",
@@ -91,8 +95,8 @@
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "alianza",
-        "encuesta",
-        "general"
+        "general",
+        "encuesta"
       ],
       "noticias": [
         {
@@ -113,7 +117,9 @@
           "texto": "PT y PVEM siguen siendo aliados de Morena: Ulises Mejía Haro - NTR Zacatecas",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajh1dkNvQUg2NjhWeV9VbG9abFNyZkZIYmc0VV9TaGluZmRlRjNpYjNLb2RnNnNXc3VIVTdYY3UwYTNKMS1zWmJ0Y0pINWR3bTUtWGZHM2Z5RWdoaTNuVkYxOFJ1eF9sZ2l5OTU3bWQzd3p3S3Atek0yc1RMcmVuYmlBVmhrNFNUTXNUZVQtRE1abGl0YkR6bVdfdS03Zw?oc=5"
         }
-      ]
+      ],
+      "menciones_total": 10,
+      "menciones_hoy": 10
     },
     {
       "id": "anaya_mota",
@@ -121,8 +127,8 @@
       "partido": "PRI",
       "partyClass": "pri",
       "pct": 23.5,
-      "momentum": 14,
-      "menciones": 10,
+      "momentum": 13,
+      "menciones": 9,
       "positivas": 2,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
@@ -140,16 +146,18 @@
         {
           "fuente": "googlenews",
           "tag": "general",
-          "texto": "GUBERNATURA 2027: ZACATECAS - - Revista 32",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQM0FVYlF3YzZjWVdndUhDV0JoS1BZWi1lMTB1V2tadGtRTTljbWVSZmlGQ1lfSDFrZXVQTWZ2SW53S2NrUDZ5MTN6MFRGb0wzNndweTJzOGp4TlJTcVh3SmhUREZTMWZ2NVBr?oc=5"
+          "texto": "Critican a Claudia Anaya por comentario misógino tras agresión a la presidenta Sheinbaum - La Jornada Zacatecas",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXJLUGM3MEQzZ2xpVXQ1bzdaMEhGWUtJdm9SSFo5OUN2aTVSMnZkcFlKUEl1Q3R5QXZ0aFBycDRlbVVSMWtCSDdzLUlNaXByN0ptMURvd3ZTaV9CVUkyRTB2Yl9UMTdxSVdFR1JuRmVNUlJWSnFKNDlFTUFYdXlOeVA3TGpEQ1hjVWVIRzIwV1FNRXRIV3FxdWI0ckt5NWFxNEFMNEsxQVM5UDJWaHV2SklCVUlSQQ?oc=5"
         },
         {
           "fuente": "googlenews",
           "tag": "general",
-          "texto": "Critican a Claudia Anaya por comentario misógino tras agresión a la presidenta Sheinbaum - La Jornada Zacatecas",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXJLUGM3MEQzZ2xpVXQ1bzdaMEhGWUtJdm9SSFo5OUN2aTVSMnZkcFlKUEl1Q3R5QXZ0aFBycDRlbVVSMWtCSDdzLUlNaXByN0ptMURvd3ZTaV9CVUkyRTB2Yl9UMTdxSVdFR1JuRmVNUlJWSnFKNDlFTUFYdXlOeVA3TGpEQ1hjVWVIRzIwV1FNRXRIV3FxdWI0ckt5NWFxNEFMNEsxQVM5UDJWaHV2SklCVUlSQQ?oc=5"
+          "texto": "Senado expone extorsiones en construcción en Zacatecas - El Sol de México",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFpkMzFIcm56d0hoajBEM0s4QmY0X2ZTQkRaRWFlSHJGZU5Ta1BkaURJZkdpby1HVnY0QWhkQTBSYkl1cDhkSUMtdEU3XzBYNnVaTnNYd2xwRkpaMGRoZEpoSmlvQ2JMUWZzMkIteWNUbzRuRUo3Wko2bWRVYTMxTXdzNGF2LXZhd1dWaXJFTjNhMFlhbzFEU1BIVHRzMDNjaXh2MzRDVk5tN2pY?oc=5"
         }
-      ]
+      ],
+      "menciones_total": 9,
+      "menciones_hoy": 9
     },
     {
       "id": "saul_monreal",
@@ -163,11 +171,11 @@
       "negativas": 3,
       "fuente": "Medios locales",
       "tags": [
-        "nepotismo",
         "encuesta",
         "seguridad",
         "gasto_publico",
-        "general"
+        "general",
+        "nepotismo"
       ],
       "noticias": [
         {
@@ -188,7 +196,9 @@
           "texto": "Acudiré al TEPJF si Morena me elimina para el Gobierno de Zacatecas: Saúl Monreal - López-Dóriga Digital",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXpQWlZZQXdIcnNvalhSTmtWUndjRHloMHlzVW9VOGN2UTZPRXdVYWRhUU9sMEhRTmZfTnkyalhBN3g0T0xMcjlMNkU0Z2ZOTnNEX1BHZG1adThzbDhMRGlYYzNrQ0VJQVJUMkE4U1lzd2ZYVExRTlVjWWIwMGFDSjRyaUhoVnpCNlNIeXZmZmJnTXY3T3NsTzJn?oc=5"
         }
-      ]
+      ],
+      "menciones_total": 12,
+      "menciones_hoy": 12
     },
     {
       "id": "diaz_robles",
@@ -202,8 +212,8 @@
       "negativas": 0,
       "fuente": "Referencia general",
       "tags": [
-        "candidatura",
-        "general"
+        "general",
+        "candidatura"
       ],
       "noticias": [
         {
@@ -224,7 +234,9 @@
           "texto": "Elecciones 2027: Verónica Díaz Robles se destapa para la gubernatura de Zacatecas - PolíticoMX",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFpqam5PNmJQRUg2SklfWHF4OHNqVTRTaDB0dWhVWnJaQUcxYVlZSEpvZUllMGdCb3JJRFpWMXNrRlB4YU5sQ0I5VU80ZGZkU1JpRUt4Ulc2ejMxbjN4aDBzSHMxLWM5TEttM285QWtYY191ODBJTzJFUE9NRkQwYkZiZ3ZlYkl0THQ0UlZUTnRkRUJxY1F5aWdfRHFLdndlQWR1OWthdUhhUFJvQlp6N01B?oc=5"
         }
-      ]
+      ],
+      "menciones_total": 10,
+      "menciones_hoy": 10
     },
     {
       "id": "narro_cespedes",
@@ -238,10 +250,10 @@
       "negativas": 1,
       "fuente": "Referencia general",
       "tags": [
-        "seguridad",
         "nepotismo",
-        "candidatura",
-        "general"
+        "seguridad",
+        "general",
+        "candidatura"
       ],
       "noticias": [
         {
@@ -262,7 +274,9 @@
           "texto": "GUBERNATURA 2027: ZACATECAS - - Revista 32",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQM0FVYlF3YzZjWVdndUhDV0JoS1BZWi1lMTB1V2tadGtRTTljbWVSZmlGQ1lfSDFrZXVQTWZ2SW53S2NrUDZ5MTN6MFRGb0wzNndweTJzOGp4TlJTcVh3SmhUREZTMWZ2NVBr?oc=5"
         }
-      ]
+      ],
+      "menciones_total": 10,
+      "menciones_hoy": 10
     }
   ]
 }

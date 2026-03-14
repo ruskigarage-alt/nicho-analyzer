@@ -1,0 +1,44 @@
+{
+  "mejia_haro": {
+    "total": 10,
+    "por_fecha": {
+      "2026-03-14": 10
+    }
+  },
+  "saul_monreal": {
+    "total": 12,
+    "por_fecha": {
+      "2026-03-14": 12
+    }
+  },
+  "diaz_robles": {
+    "total": 10,
+    "por_fecha": {
+      "2026-03-14": 10
+    }
+  },
+  "narro_cespedes": {
+    "total": 10,
+    "por_fecha": {
+      "2026-03-14": 10
+    }
+  },
+  "varela_pinedo": {
+    "total": 10,
+    "por_fecha": {
+      "2026-03-14": 10
+    }
+  },
+  "bonilla_gomez": {
+    "total": 9,
+    "por_fecha": {
+      "2026-03-14": 9
+    }
+  },
+  "anaya_mota": {
+    "total": 9,
+    "por_fecha": {
+      "2026-03-14": 9
+    }
+  }
+}

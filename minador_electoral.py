@@ -21,6 +21,23 @@ os.makedirs("datos_crudos", exist_ok=True)
 os.makedirs("datos_electorales", exist_ok=True)
 
 # ─────────────────────────────────────────
+# DEDUPLICACIÓN — URLs ya vistas
+# ─────────────────────────────────────────
+URLS_VISTAS_PATH = "datos_electorales/urls_vistas.json"
+
+def cargar_urls_vistas():
+    if os.path.exists(URLS_VISTAS_PATH):
+        with open(URLS_VISTAS_PATH, encoding="utf-8") as f:
+            return set(json.load(f))
+    return set()
+
+def guardar_urls_vistas(urls):
+    with open(URLS_VISTAS_PATH, "w", encoding="utf-8") as f:
+        json.dump(list(urls), f, ensure_ascii=False)
+
+URLS_VISTAS = cargar_urls_vistas()
+
+# ─────────────────────────────────────────
 # ASPIRANTES RASTREADOS
 # ─────────────────────────────────────────
 ASPIRANTES = [
@@ -191,6 +208,13 @@ def minar_fuente_electoral(fuente):
             if not (es_electoral or es_contextual):
                 continue
 
+            # Deduplicar por URL
+            url_entrada = entry.get("link", "")
+            if url_entrada and url_entrada in URLS_VISTAS:
+                continue
+            if url_entrada:
+                URLS_VISTAS.add(url_entrada)
+
             aspirantes_mencionados = detectar_aspirantes(texto)
             tema = clasificar_tema(texto)
 
@@ -270,6 +294,12 @@ def minar_google_news(aspirante):
             titulo  = entry.get("title", "")
             resumen = entry.get("summary", "")
             texto   = f"{titulo} {resumen}"
+            # Deduplicar por URL
+            url_gn = entry.get("link", "")
+            if url_gn and url_gn in URLS_VISTAS:
+                continue
+            if url_gn:
+                URLS_VISTAS.add(url_gn)
             tema    = clasificar_tema(texto)
             entradas.append({
                 "titulo":      titulo,
@@ -335,6 +365,9 @@ historial[FECHA] = momentum
 
 with open(historial_path, "w", encoding="utf-8") as f:
     json.dump(historial, f, ensure_ascii=False, indent=2)
+
+# Guardar URLs vistas para deduplicación futura
+guardar_urls_vistas(URLS_VISTAS)
 
 print(f"\n✓ Electoral: {len(todas_entradas)} entradas relevantes")
 print(f"✓ Datos guardados: {salida_cruda}")

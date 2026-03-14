@@ -20,6 +20,21 @@ from datetime import datetime
 FECHA = datetime.now().strftime("%Y-%m-%d")
 
 # ─────────────────────────────────────────
+# HISTORIAL ACUMULADO DE MENCIONES
+# ─────────────────────────────────────────
+HISTORIAL_PATH = "datos_electorales/menciones_acumuladas.json"
+
+def cargar_historial_acumulado():
+    if os.path.exists(HISTORIAL_PATH):
+        with open(HISTORIAL_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+def guardar_historial_acumulado(historial):
+    with open(HISTORIAL_PATH, "w", encoding="utf-8") as f:
+        json.dump(historial, f, ensure_ascii=False, indent=2)
+
+# ─────────────────────────────────────────
 # ENCUESTAS — actualiza aquí cuando salga nueva encuesta
 # El minador no toca estos valores.
 # ─────────────────────────────────────────
@@ -145,6 +160,23 @@ def main():
         if noticias:
             estado += f" · {len(noticias)} noticias detectadas"
         print(estado)
+
+    # ─────────────────────────────────────────
+    # HISTORIAL ACUMULADO
+    # ─────────────────────────────────────────
+    historial_acum = cargar_historial_acumulado()
+    for c in candidatos:
+        aid = c["id"]
+        menciones_hoy = c["menciones"]
+        # Sumar menciones del día al acumulado
+        if aid not in historial_acum:
+            historial_acum[aid] = {"total": 0, "por_fecha": {}}
+        historial_acum[aid]["total"] += menciones_hoy
+        historial_acum[aid]["por_fecha"][FECHA] = menciones_hoy
+        # Agregar campo al candidato
+        c["menciones_total"] = historial_acum[aid]["total"]
+        c["menciones_hoy"]   = menciones_hoy
+    guardar_historial_acumulado(historial_acum)
 
     # Ordenar por pct descendente
     candidatos.sort(key=lambda c: c["pct"], reverse=True)
