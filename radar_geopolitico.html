@@ -679,7 +679,7 @@
 // ─────────────────────────────────────────
 // CONFIGURACIÓN
 // ─────────────────────────────────────────
-const BASE = 'contenido_estructurado/';
+const BASE = 'feed/';
 const TODAY = new Date().toISOString().split('T')[0];
 
 // Palabras clave por categoría
@@ -749,19 +749,25 @@ function detectMexicoImpact(entry) {
 // CARGA DE DATOS
 // ─────────────────────────────────────────
 async function loadData() {
-  const filename = `${BASE}geopolitica_${TODAY}.jsonl`;
+  const filename = `${BASE}geopolitica.json`;
   let entries = [];
 
   try {
     const res = await fetch(filename);
     if (!res.ok) throw new Error('no data');
-    const text = await res.text();
-    entries = text.trim().split('\n')
-      .filter(l => l.trim())
-      .map(l => JSON.parse(l));
-    document.getElementById('last-update').textContent = `ÚLTIMA MINERÍA: ${TODAY}`;
+    const data = await res.json();
+    // Normalizar campos del feed JSON al formato esperado por el radar
+    entries = (data.items || []).map(item => ({
+      titulo:          item.title || '',
+      resumen:         item.content_text || '',
+      url:             item.url || '#',
+      fuente:          (item.tags || []).find(t => t !== 'geopolitica') || 'feed',
+      relevancia_score: 0.65,
+      fecha:           item.date_published || TODAY,
+    }));
+    const fecha = data.date_modified || TODAY;
+    document.getElementById('last-update').textContent = `ÚLTIMA MINERÍA: ${fecha}`;
   } catch(e) {
-    // Intentar con datos de muestra si no hay archivo del día
     document.getElementById('last-update').textContent = 'MODO DEMO — SIN DATOS DEL DÍA';
     entries = getDemoData();
   }
