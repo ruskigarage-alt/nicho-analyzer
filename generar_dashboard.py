@@ -47,7 +47,13 @@ def precio(nicho, titulo_kw):
             break
     if not r:
         return "N/D", ""
-    p = get_extra(r, "precio", get_extra(r, "tasa", "N/D"))
+    # Buscar precio en múltiples ubicaciones
+    p = (get_extra(r, "precio", None)      # yfinance: extra.precio
+      or get_extra(r, "value", None)       # EIA: extra.value
+      or get_extra(r, "tasa", None)        # tasas: extra.tasa
+      or r.get("valor", None))             # macro_mx: valor directo
+    if p is None:
+        p = "N/D"
     return str(p), r.get("url","")
 
 def cambio_color(val):
