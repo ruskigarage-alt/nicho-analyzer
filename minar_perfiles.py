@@ -121,7 +121,11 @@ CANDIDATOS = [
             "partido_actual": "Morena",
             "militancia_desde": "2016",
             "cargo_actual": "Senador de la República",
-            "cargos": [],
+            "cargos": [
+                {"cargo": "Senador de la República", "periodo": "2024-2030", "partido": "Morena"},
+                {"cargo": "Presidente municipal de Fresnillo", "periodo": "2017-2021", "partido": "Morena"},
+                {"cargo": "Diputado federal", "periodo": "2015-2018", "partido": "Movimiento Ciudadano"},
+            ],
             "bio_corta": "Político mexicano miembro de Morena, senador desde 2024. Hermano del gobernador David Monreal.",
             "vinculos": ["David Monreal Ávila (gobernador de Zacatecas, hermano)", "Ricardo Monreal Ávila (senador, hermano)"]
         }
@@ -213,7 +217,8 @@ def extraer_cargos_de_secciones(soup):
         texto = elem.get_text(strip=True)
         if any(kw in texto.lower() for kw in ["diputad", "senador", "presidente municipal",
                                                "gobernador", "secretari", "regidor", "síndico"]):
-            if len(texto) < 200:
+            # Filtrar notas al pie y referencias bibliográficas
+            if len(texto) < 200 and not texto.startswith("↑") and "«" not in texto[:5]:
                 cargos.append(texto)
 
     return cargos[:8]  # máximo 8 cargos
