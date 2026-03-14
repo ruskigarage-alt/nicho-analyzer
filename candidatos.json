@@ -1,9 +1,10 @@
 {
   "meta": {
-    "fuente": "Encuesta Cripeso · Gubernatura Zacatecas 2027",
+    "fuente": "Cripeso · Marzo 2026",
     "actualizado": "2026-03-14",
-    "proxima_actualizacion": "al publicarse nueva encuesta",
-    "nota": "Edita este archivo para actualizar los datos del radar. No edites el HTML."
+    "total_menciones_hoy": 0,
+    "entradas_analizadas": 0,
+    "nota": "Generado automáticamente. Edita ENCUESTAS en generar_candidatos_json.py para actualizar porcentajes."
   },
   "candidatos": [
     {
@@ -11,19 +12,15 @@
       "partido": "PAN",
       "partyClass": "pan",
       "pct": 39.5,
-      "momentum": 3,
-      "menciones": 1,
-      "positivas": 1,
+      "momentum": -3,
+      "menciones": 0,
+      "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
-      "tags": ["encuesta"],
-      "noticias": [
-        {
-          "fuente": "cripeso",
-          "tag": "encuesta",
-          "texto": "Encuesta a la gubernatura de Zacatecas 2027: marzo 2026"
-        }
-      ]
+      "tags": [
+        "general"
+      ],
+      "noticias": []
     },
     {
       "nombre": "Adolfo Bonilla Gómez",
@@ -35,7 +32,9 @@
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
-      "tags": ["general"],
+      "tags": [
+        "general"
+      ],
       "noticias": []
     },
     {
@@ -43,19 +42,15 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 23.6,
-      "momentum": 3,
-      "menciones": 1,
-      "positivas": 1,
+      "momentum": -3,
+      "menciones": 0,
+      "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
-      "tags": ["encuesta"],
-      "noticias": [
-        {
-          "fuente": "cripeso",
-          "tag": "encuesta",
-          "texto": "Encuesta a la gubernatura de Zacatecas 2027: marzo 2026"
-        }
-      ]
+      "tags": [
+        "general"
+      ],
+      "noticias": []
     },
     {
       "nombre": "Claudia Anaya Mota",
@@ -66,8 +61,10 @@
       "menciones": 0,
       "positivas": 0,
       "negativas": 0,
-      "fuente": "Referencia general",
-      "tags": ["general"],
+      "fuente": "Cripeso · Marzo 2026",
+      "tags": [
+        "general"
+      ],
       "noticias": []
     },
     {
@@ -75,24 +72,15 @@
       "partido": "PT/Morena",
       "partyClass": "ptmorena",
       "pct": 21.7,
-      "momentum": 4,
-      "menciones": 4,
+      "momentum": -5,
+      "menciones": 0,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Medios locales",
-      "tags": ["gasto_publico", "seguridad", "general"],
-      "noticias": [
-        {
-          "fuente": "elarsenal",
-          "tag": "seguridad",
-          "texto": "Cámara de Diputados impulsa reformas que fortalecen la democracia paritaria"
-        },
-        {
-          "fuente": "eltrochilero",
-          "tag": "gasto_publico",
-          "texto": "Arranca David Monreal Programa Diésel Agropecuario 2026 para el campo"
-        }
-      ]
+      "tags": [
+        "general"
+      ],
+      "noticias": []
     },
     {
       "nombre": "Verónica Díaz Robles",
@@ -104,7 +92,9 @@
       "positivas": 0,
       "negativas": 0,
       "fuente": "Referencia general",
-      "tags": ["general"],
+      "tags": [
+        "general"
+      ],
       "noticias": []
     },
     {
@@ -117,7 +107,9 @@
       "positivas": 0,
       "negativas": 0,
       "fuente": "Referencia general",
-      "tags": ["general"],
+      "tags": [
+        "general"
+      ],
       "noticias": []
     }
   ]

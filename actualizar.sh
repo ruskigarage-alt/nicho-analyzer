@@ -14,6 +14,7 @@ TMPDIR=~/tmp python3 minador.py
 TMPDIR=~/tmp python3 minador_economico.py
 TMPDIR=~/tmp python3 minador_global.py
 TMPDIR=~/tmp python3 minador_electoral.py
+TMPDIR=~/tmp python3 generar_candidatos_json.py
 echo ""
 echo "[ 2/5 ] Filtrando por relevancia temática..."
 python3 filtrador.py 2>/dev/null
