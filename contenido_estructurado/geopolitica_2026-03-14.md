@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-14"
 date: "2026-03-14"
 nicho: "geopolitica"
-total_entradas: 40
+total_entradas: 39
 schema: "NewsDigest"
 ---
 
@@ -123,6 +123,13 @@ schema: "NewsDigest"
 - **Resumen**: Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.
 - **Relevancia**: 0.4675
 
+### Thousands in Madrid protest ‘forgotten’ Gaza, warn Iran war may spiral into
+- **Fecha**: Sat, 14 Mar 2026 20:59:54 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/14/thousands-in-madrid-protest-forgotten-gaza-warn-iran-war-may-spiral-into?traffic_source=rss
+- **Resumen**: Thousands rallied in central Madrid calling for an end to the war involving the United States, Israel and Iran.
+- **Relevancia**: 0.4885
+
 ### Six killed in attacks on Ukraine as EU extends sanctions against Russians
 - **Fecha**: Sat, 14 Mar 2026 19:28:58 +0000
 - **Fuente**: al_jazeera
@@ -199,14 +206,13 @@ The strikes are the first in the heart of Baghdad to kill Iran-backed fighters s
 “At 2.15am, a missile struck a house that was being used by Kataeb Hezbollah,” said a...
 - **Relevancia**: 0.5674
 
-### Beyond Pax Silica: Japan, France and Canada seek rare earth autonomy
-- **Fecha**: Sat, 14 Mar 2026 00:00:09 +0000
-- **Fuente**: scmp_world
-- **URL**: https://www.scmp.com/week-asia/economics/article/3346530/beyond-pax-silica-japan-france-and-canada-seek-rare-earth-autonomy?utm_source=rss_feed
-- **Resumen**: For years, the West’s answer to Chinese dominance of critical minerals was to rally around Washington. Now, some of its most important allies are reaching a different conclusion: that depending too heavily on the United States carries its own risks.
-Japan, France and Canada have all been exploring how to build supply chains for rare earths and other critical minerals that answer to neither Beijing nor Washington.
-Senior officials from the three Group of Seven economies are working on...
-- **Relevancia**: 0.6477
+### Masacre en un balneario de Ecuador: sicarios asesinan a seis jóvenes en una fiesta
+- **Fecha**: Sat, 14 Mar 2026 21:29:34 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592791-masacre-balneario-ecuador-sicarios-asesinan?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5b2da59bf5b0376721bf1.jpg" style="float: left;" />
+        	El ataque armado ocurrió en una vivienda alquilada para celebrar una graduación en el balneario de Playas, en la provincia de Guayas. Entre las víctimas hay dos menores de edad.
+- **Relevancia**: 0.4622
 
 ### General iraní: "El fin de la guerra está en nuestras manos"
 - **Fecha**: Sat, 14 Mar 2026 20:42:24 +0000
@@ -230,22 +236,6 @@ Senior officials from the three Group of Seven economies are working on...
 - **URL**: https://actualidad.rt.com/actualidad/592953-cgri-insta-evacuar-industrias-estadounidenses?utm_source=rss&utm_medium=rss&utm_campaign=all
 - **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
 - **Relevancia**: 0.4784
-
-### Orbán: "Hungría no será una colonia ucraniana, aquí Zelenski no manda"
-- **Fecha**: Sat, 14 Mar 2026 19:24:06 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592906-orban-hungria-colonia-ucraniana-zelenski-mandar?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5641d59bf5b04ad179c42.jpg" style="float: left;" />
-        	"Nuestros expertos llevan días en Kiev, pero todavía no les permiten acceder al oleoducto", señaló el primer ministro húngaro.
-- **Relevancia**: 0.4789
-
-### "Mucho más perjudiciales y tóxicos": Otro lado oscuro de la agresión contra Irán
-- **Fecha**: Sat, 14 Mar 2026 19:12:05 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592904-contaminacion-toxica-guerra-iran-perdurar-decadas?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b55f9fe9ff71695b5bed1e.jpg" style="float: left;" />
-        	Expertos hacen saltar las alarmas por más consecuencias devastadoras de la actual escalada en Oriente Medio, que perdurarán a lo largo de décadas.
-- **Relevancia**: 0.4724
 
 ### US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters
 - **Fecha**: Sat, 14 Mar 2026 20:54:48 +0300

@@ -4,7 +4,7 @@
   "name": "geopolitica — 2026-03-14",
   "description": "Digest semántico de geopolitica generado el 2026-03-14",
   "datePublished": "2026-03-14",
-  "numberOfItems": 40,
+  "numberOfItems": 39,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -283,6 +283,23 @@
       "position": 17,
       "item": {
         "@type": "NewsArticle",
+        "headline": "Thousands in Madrid protest ‘forgotten’ Gaza, warn Iran war may spiral into",
+        "description": "Thousands rallied in central Madrid calling for an end to the war involving the United States, Israel and Iran.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/thousands-in-madrid-protest-forgotten-gaza-warn-iran-war-may-spiral-into?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 20:59:54 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4885
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "NewsArticle",
         "headline": "Six killed in attacks on Ukraine as EU extends sanctions against Russians",
         "description": "EU maintains pressure after slamming US for lifting sanctions on Russian oil exports as Middle East war bites.",
         "url": "https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine?traffic_source=rss",
@@ -297,7 +314,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 18,
+      "position": 19,
       "item": {
         "@type": "NewsArticle",
         "headline": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
@@ -314,7 +331,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 19,
+      "position": 20,
       "item": {
         "@type": "NewsArticle",
         "headline": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
@@ -331,7 +348,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 20,
+      "position": 21,
       "item": {
         "@type": "NewsArticle",
         "headline": "Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns",
@@ -348,7 +365,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 21,
+      "position": 22,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war: Trump urges China, other nations, to send warships to secure Hormuz",
@@ -365,7 +382,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 22,
+      "position": 23,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war entering ‘decisive phase’, Israel says, as attacks continue",
@@ -382,7 +399,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 23,
+      "position": 24,
       "item": {
         "@type": "NewsArticle",
         "headline": "Hamas calls on Iran to ‘avoid targeting neighbouring countries’",
@@ -399,7 +416,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 24,
+      "position": 25,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war fallout puts 9 million Indian workers in the line of fire",
@@ -416,7 +433,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 25,
+      "position": 26,
       "item": {
         "@type": "NewsArticle",
         "headline": "Strikes on Iraqi capital kill 2 Iran-linked Kataeb Hezbollah members",
@@ -433,24 +450,24 @@
     },
     {
       "@type": "ListItem",
-      "position": 26,
+      "position": 27,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Beyond Pax Silica: Japan, France and Canada seek rare earth autonomy",
-        "description": "For years, the West’s answer to Chinese dominance of critical minerals was to rally around Washington. Now, some of its most important allies are reaching a different conclusion: that depending too heavily on the United States carries its own risks.\nJapan, France and Canada have all been exploring how to build supply chains for rare earths and other critical minerals that answer to neither Beijing nor Washington.\nSenior officials from the three Group of Seven economies are working on...",
-        "url": "https://www.scmp.com/week-asia/economics/article/3346530/beyond-pax-silica-japan-france-and-canada-seek-rare-earth-autonomy?utm_source=rss_feed",
-        "datePublished": "Sat, 14 Mar 2026 00:00:09 +0000",
+        "headline": "Masacre en un balneario de Ecuador: sicarios asesinan a seis jóvenes en una fiesta",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5b2da59bf5b0376721bf1.jpg\" style=\"float: left;\" />\n        \tEl ataque armado ocurrió en una vivienda alquilada para celebrar una graduación en el balneario de Playas, en la provincia de Guayas. Entre las víctimas hay dos menores de edad.",
+        "url": "https://actualidad.rt.com/actualidad/592791-masacre-balneario-ecuador-sicarios-asesinan?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 21:29:34 +0000",
         "publisher": {
           "@type": "Organization",
-          "name": "scmp_world"
+          "name": "rt_espanol"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.6477
+        "relevanceScore": 0.4622
       }
     },
     {
       "@type": "ListItem",
-      "position": 27,
+      "position": 28,
       "item": {
         "@type": "NewsArticle",
         "headline": "General iraní: \"El fin de la guerra está en nuestras manos\"",
@@ -467,7 +484,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 28,
+      "position": 29,
       "item": {
         "@type": "NewsArticle",
         "headline": "Irán golpea una base que alberga cazas F-35 de EE.UU.",
@@ -484,7 +501,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 29,
+      "position": 30,
       "item": {
         "@type": "NewsArticle",
         "headline": "El CGRI insta a \"evacuar todas las industrias estadounidenses en la región\"",
@@ -501,41 +518,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 30,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Orbán: \"Hungría no será una colonia ucraniana, aquí Zelenski no manda\"",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5641d59bf5b04ad179c42.jpg\" style=\"float: left;\" />\n        \t\"Nuestros expertos llevan días en Kiev, pero todavía no les permiten acceder al oleoducto\", señaló el primer ministro húngaro.",
-        "url": "https://actualidad.rt.com/actualidad/592906-orban-hungria-colonia-ucraniana-zelenski-mandar?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Sat, 14 Mar 2026 19:24:06 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4789
-      }
-    },
-    {
-      "@type": "ListItem",
       "position": 31,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "\"Mucho más perjudiciales y tóxicos\": Otro lado oscuro de la agresión contra Irán",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b55f9fe9ff71695b5bed1e.jpg\" style=\"float: left;\" />\n        \tExpertos hacen saltar las alarmas por más consecuencias devastadoras de la actual escalada en Oriente Medio, que perdurarán a lo largo de décadas.",
-        "url": "https://actualidad.rt.com/actualidad/592904-contaminacion-toxica-guerra-iran-perdurar-decadas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Sat, 14 Mar 2026 19:12:05 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4724
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 32,
       "item": {
         "@type": "NewsArticle",
         "headline": "US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters",
@@ -552,7 +535,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 33,
+      "position": 32,
       "item": {
         "@type": "NewsArticle",
         "headline": "Israel carries out 400 waves of attacks on Iran since February 28 — IDF",
@@ -569,7 +552,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 34,
+      "position": 33,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran announces new wave of missile strikes on Israel — public broadcaster",
@@ -586,7 +569,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 35,
+      "position": 34,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC",
@@ -603,7 +586,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 36,
+      "position": 35,
       "item": {
         "@type": "NewsArticle",
         "headline": "Pentagon reports strikes on 90 military targets on Iran's Kharg Island",
@@ -620,7 +603,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 37,
+      "position": 36,
       "item": {
         "@type": "NewsArticle",
         "headline": "Israeli army reports destruction of Iranian Space Agency research center",
@@ -637,7 +620,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 38,
+      "position": 37,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Capital Rules for the Real Economy",
@@ -654,7 +637,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 39,
+      "position": 38,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
@@ -671,7 +654,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 40,
+      "position": 39,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Outlook for the Economy and Monetary Policy",

@@ -90,8 +90,8 @@
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
-        "encuesta",
         "alianza",
+        "encuesta",
         "general"
       ],
       "noticias": [
@@ -134,6 +134,12 @@
         {
           "fuente": "googlenews",
           "tag": "general",
+          "texto": "Este es el sueldo y grado de estudios de Claudia Anaya, senadora que pide juicio contra López Gatell - Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVG1OSnl5LUEtYlhtdklRZG4xWlY1QjZleGVSUEtTSHNyMjl0ejIyajA0WmVUR1JRZWNZSXF1dkxnZW0wRTROaEJSS0ItN2JRR0g5RDhVYjZpQks3M1VZVDc2cEdtYnBrS1N6WHBlRXFXLVpiZWZxQ0tWWnptYnBqTm1xSkhCc19taE9mQ21odkU4ZUVjWVRxVnZWdzdBRFQ0cms4Ukhtakd3clIwNjJIcXA5OEp6WUc2bzZIa3M4WC03Q3pCOVhiVHpUV2VpMV9DWUI4OEl2YkxSd9IB9AFBVV95cUxPTHZkOEVnUE94VU50X1F1U3lmSjl6R01KSER6eE0tSFZtWkRjdWZDSXk4OFlBX1dnWm9LNHUtOG9xdjlMRzl0YU5yN0FFM0ZaLVRSSTAxVzlIZlBQLThUcHR5OXR1SHJwUm9iN3dzZHZISHdPRXZJXzl5M2o0b0E3Y3czeUl2QmtqdndLcFhnUTBuelB2bWRBLTdtWkdZQm11SUJpUkNKVVJSVUFtU2xvMHVmbVhlTmpLQ05IZU5rdVFob1liekZ0UmdGdWpvREx6TTQxSkVVbW9aa0JOaWxKZ0l4THZIWWhydTMwV09wN2Zkdmpn?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
           "texto": "GUBERNATURA 2027: ZACATECAS - - Revista 32",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQM0FVYlF3YzZjWVdndUhDV0JoS1BZWi1lMTB1V2tadGtRTTljbWVSZmlGQ1lfSDFrZXVQTWZ2SW53S2NrUDZ5MTN6MFRGb0wzNndweTJzOGp4TlJTcVh3SmhUREZTMWZ2NVBr?oc=5"
         },
@@ -142,12 +148,6 @@
           "tag": "general",
           "texto": "Critican a Claudia Anaya por comentario misógino tras agresión a la presidenta Sheinbaum - La Jornada Zacatecas",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXJLUGM3MEQzZ2xpVXQ1bzdaMEhGWUtJdm9SSFo5OUN2aTVSMnZkcFlKUEl1Q3R5QXZ0aFBycDRlbVVSMWtCSDdzLUlNaXByN0ptMURvd3ZTaV9CVUkyRTB2Yl9UMTdxSVdFR1JuRmVNUlJWSnFKNDlFTUFYdXlOeVA3TGpEQ1hjVWVIRzIwV1FNRXRIV3FxdWI0ckt5NWFxNEFMNEsxQVM5UDJWaHV2SklCVUlSQQ?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Este es el sueldo y grado de estudios de Claudia Anaya, senadora que pide juicio contra López Gatell - Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVG1OSnl5LUEtYlhtdklRZG4xWlY1QjZleGVSUEtTSHNyMjl0ejIyajA0WmVUR1JRZWNZSXF1dkxnZW0wRTROaEJSS0ItN2JRR0g5RDhVYjZpQks3M1VZVDc2cEdtYnBrS1N6WHBlRXFXLVpiZWZxQ0tWWnptYnBqTm1xSkhCc19taE9mQ21odkU4ZUVjWVRxVnZWdzdBRFQ0cms4Ukhtakd3clIwNjJIcXA5OEp6WUc2bzZIa3M4WC03Q3pCOVhiVHpUV2VpMV9DWUI4OEl2YkxSd9IB9AFBVV95cUxPTHZkOEVnUE94VU50X1F1U3lmSjl6R01KSER6eE0tSFZtWkRjdWZDSXk4OFlBX1dnWm9LNHUtOG9xdjlMRzl0YU5yN0FFM0ZaLVRSSTAxVzlIZlBQLThUcHR5OXR1SHJwUm9iN3dzZHZISHdPRXZJXzl5M2o0b0E3Y3czeUl2QmtqdndLcFhnUTBuelB2bWRBLTdtWkdZQm11SUJpUkNKVVJSVUFtU2xvMHVmbVhlTmpLQ05IZU5rdVFob1liekZ0UmdGdWpvREx6TTQxSkVVbW9aa0JOaWxKZ0l4THZIWWhydTMwV09wN2Zkdmpn?oc=5"
         }
       ]
     },
@@ -163,11 +163,11 @@
       "negativas": 3,
       "fuente": "Medios locales",
       "tags": [
-        "gasto_publico",
+        "nepotismo",
         "encuesta",
         "seguridad",
-        "general",
-        "nepotismo"
+        "gasto_publico",
+        "general"
       ],
       "noticias": [
         {
@@ -239,9 +239,9 @@
       "fuente": "Referencia general",
       "tags": [
         "seguridad",
+        "nepotismo",
         "candidatura",
-        "general",
-        "nepotismo"
+        "general"
       ],
       "noticias": [
         {

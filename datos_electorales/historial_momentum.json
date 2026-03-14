@@ -65,8 +65,8 @@
       "negativo": 0,
       "momentum": 16,
       "temas": [
-        "encuesta",
         "alianza",
+        "encuesta",
         "general"
       ]
     },
@@ -76,11 +76,11 @@
       "negativo": 3,
       "momentum": 5,
       "temas": [
-        "gasto_publico",
+        "nepotismo",
         "encuesta",
         "seguridad",
-        "general",
-        "nepotismo"
+        "gasto_publico",
+        "general"
       ]
     },
     "diaz_robles": {
@@ -100,9 +100,9 @@
       "momentum": 9,
       "temas": [
         "seguridad",
+        "nepotismo",
         "candidatura",
-        "general",
-        "nepotismo"
+        "general"
       ]
     },
     "varela_pinedo": {
