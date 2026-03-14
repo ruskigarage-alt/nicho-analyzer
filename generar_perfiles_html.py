@@ -28,6 +28,37 @@ PARTY_COLORS = {
     "default":  {"color": "#818cf8", "bg": "rgba(99,102,241,0.2)","border": "rgba(129,140,248,0.3)"},
 }
 
+def cargar_noticias_candidato(pid, max_noticias=10):
+    """Lee todos los archivos electorales y extrae noticias del candidato."""
+    import glob
+    noticias = []
+    urls_vistas = set()
+
+    archivos = sorted(glob.glob("datos_crudos/electoral_*.json"), reverse=True)[:7]
+    for archivo in archivos:
+        try:
+            with open(archivo, encoding="utf-8") as f:
+                data = json.load(f)
+            fecha_archivo = archivo.split("electoral_")[1].replace(".json","")
+            for entrada in data.get("entradas", []):
+                if pid in entrada.get("aspirantes_mencionados", []):
+                    url = entrada.get("link", "")
+                    if url and url in urls_vistas:
+                        continue
+                    if url:
+                        urls_vistas.add(url)
+                    noticias.append({
+                        "titulo": entrada.get("titulo", "")[:120],
+                        "fuente": entrada.get("fuente", "").replace("_", " "),
+                        "tema":   entrada.get("tema", "general"),
+                        "url":    url,
+                        "fecha":  entrada.get("fecha", fecha_archivo)[:10],
+                    })
+        except Exception:
+            pass
+
+    return noticias[:max_noticias]
+
 CSS_BASE = """
 :root {
   --bg: #08090c; --bg2: #0e1017; --bg3: #141620;
@@ -165,6 +196,48 @@ def generar_html_perfil(perfil):
     else:
         vinculos_html = '<div class="dato-valor" style="color:var(--text)">Sin vínculos registrados</div>'
 
+    # Noticias del historial minado
+    noticias_candidato = cargar_noticias_candidato(pid)
+    if noticias_candidato:
+        TEMA_COLORS = {
+            "encuesta":    ("#818cf8", "rgba(99,102,241,0.15)"),
+            "seguridad":   ("#f87171", "rgba(248,113,113,0.15)"),
+            "gasto_publico": ("#a78bfa", "rgba(167,139,250,0.15)"),
+            "corrupcion":  ("#f87171", "rgba(248,113,113,0.15)"),
+            "candidatura": ("#4ade80", "rgba(74,222,128,0.15)"),
+            "alianza":     ("#fbbf24", "rgba(251,191,36,0.15)"),
+            "nepotismo":   ("#f87171", "rgba(248,113,113,0.15)"),
+            "general":     ("#9ca3af", "rgba(156,163,175,0.1)"),
+        }
+        items_html = ""
+        for n in noticias_candidato:
+            tc, tb = TEMA_COLORS.get(n["tema"], TEMA_COLORS["general"])
+            titulo_esc = n["titulo"].replace("<","&lt;").replace(">","&gt;")
+            link = n["url"] or "#"
+            items_html += f"""
+            <div style="padding:10px 0;border-bottom:1px solid var(--border);">
+              <div style="display:flex;gap:8px;align-items:center;margin-bottom:4px;">
+                <span style="font-family:var(--font-mono);font-size:0.55em;padding:1px 6px;background:{tb};color:{tc};border:1px solid {tc};">{n["tema"]}</span>
+                <span style="font-family:var(--font-mono);font-size:0.55em;color:var(--text);">{n["fuente"]}</span>
+                <span style="font-family:var(--font-mono);font-size:0.55em;color:var(--text);margin-left:auto;">{n["fecha"]}</span>
+              </div>
+              <a href="{link}" target="_blank" style="font-size:0.82em;color:var(--text2);text-decoration:none;line-height:1.4;display:block;"
+                 onmouseover="this.style.color='var(--accent2)'" onmouseout="this.style.color='var(--text2)'">{titulo_esc}</a>
+            </div>"""
+        noticias_html = f"""
+  <div class="seccion">
+    <div class="seccion-titulo">◈ Cobertura mediática reciente</div>
+    {items_html}
+  </div>"""
+    else:
+        noticias_html = """
+  <div class="seccion">
+    <div class="seccion-titulo">◈ Cobertura mediática reciente</div>
+    <div style="font-family:var(--font-mono);font-size:0.7em;color:var(--text);padding:8px 0;">
+      Sin menciones detectadas en el periodo reciente.
+    </div>
+  </div>"""
+
     # Wiki link
     wiki_url = perfil.get("fuente_wiki", "")
     wiki_html = f'<a href="{wiki_url}" target="_blank" class="wiki-link">↗ Ver en Wikipedia</a>' if wiki_url else ""
@@ -242,6 +315,9 @@ def generar_html_perfil(perfil):
     <div class="seccion-titulo">◈ Vínculos políticos</div>
     {vinculos_html}
   </div>
+
+  <!-- COBERTURA MEDIÁTICA -->
+  {noticias_html}
 
   <div class="aviso">
     Datos obtenidos de fuentes públicas ({fuente_nota}). Última actualización: {FECHA}.
