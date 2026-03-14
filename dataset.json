@@ -5,7 +5,7 @@
   "url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Nicho Analyzer Pipeline",
-  "dateModified": "2026-03-14T14:51:10.024837+00:00",
+  "dateModified": "2026-03-14T19:17:11.363523+00:00",
   "dateCreated": "2026-03-14",
   "inLanguage": "es",
   "keywords": [
@@ -41,13 +41,13 @@
     "jsonld",
     "markdown"
   ],
-  "total_records": 521,
+  "total_records": 539,
   "nichos": {
-    "geopolitica": 148,
+    "geopolitica": 156,
     "politica_local": 48,
     "regulaciones_pyme": 72,
     "mercados_latam": 45,
-    "licitaciones_gobierno": 26,
+    "licitaciones_gobierno": 36,
     "movimiento_buques": 39,
     "aranceles_aduanas": 27,
     "finanzas_globales": 36,
@@ -930,42 +930,82 @@
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
+      "titulo": "Gas Prices & Airfare Spike as Iran War Drags On",
+      "resumen": "Patrick De Haan, GasBuddy's Head of Petroleum Analysis, on \"Bloomberg This Weekend\" predicts gas prices will continue rising as demand increases this spring. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-14/gas-prices-airfare-spike-as-iran-war-drags-on-video",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.508,
+      "texto_completo": "Gas Prices & Airfare Spike as Iran War Drags On. Patrick De Haan, GasBuddy's Head of Petroleum Analysis, on \"Bloomberg This Weekend\" predicts gas prices will continue rising as demand increases this spring. (Source: Bloomberg)"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "US Faces Tough Choices in Iran War's Next Steps",
+      "resumen": "\"You set things in motion but you can't control how they end up,\" Sir Lawrence Freedman, emeritus professor of war studies at King's College London, warns of the consequences of the US military strikes and the perilous paths ahead - on \"Bloomberg This Weekend.\" (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-14/us-faces-tough-choices-in-iran-war-s-next-steps-video",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.495,
+      "texto_completo": "US Faces Tough Choices in Iran War's Next Steps. \"You set things in motion but you can't control how they end up,\" Sir Lawrence Freedman, emeritus professor of war studies at King's College London, warns of the consequences of the US military strikes and the perilous paths ahead - on \"Bloomberg This Weekend.\" (Source: Bloomberg)"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "Iran Oil Hub Strike Raises Fears of Further Supply Upheaval",
+      "resumen": "A major US attack on the island that exports the bulk of Iran’s crude is raising fears of more widespread supply disruptions in the region, further straining oil and gas markets already in upheaval after two weeks of war in the Middle East.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-14/iran-oil-hub-strike-raises-risk-of-further-disruptions-to-supply",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.4766,
+      "texto_completo": "Iran Oil Hub Strike Raises Fears of Further Supply Upheaval. A major US attack on the island that exports the bulk of Iran’s crude is raising fears of more widespread supply disruptions in the region, further straining oil and gas markets already in upheaval after two weeks of war in the Middle East."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "Volatile & Dangerous Game': Trump Balancing Iran Military Campaign Without Disrupting Oil Supply",
+      "resumen": "On \"Bloomberg This Weekend,\" Axios Energy Reporter Ben Geman predicts more uncertainty in the energy market after the US strike on Iran's Kharg Island. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-14/trump-balancing-iran-military-campaign-oil-supply-video",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.4733,
+      "texto_completo": "Volatile & Dangerous Game': Trump Balancing Iran Military Campaign Without Disrupting Oil Supply. On \"Bloomberg This Weekend,\" Axios Energy Reporter Ben Geman predicts more uncertainty in the energy market after the US strike on Iran's Kharg Island. (Source: Bloomberg)"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "Top UN Official on Risk to Oil Tankers and Ships in Strait of Hormuz",
+      "resumen": "Secretary-General Arsenio Dominguez, of the UN's International Maritime Organization, tells \"Bloomberg This Weekend\" that more than a dozen ships have been damaged during the US-Iran War, with many more trapped without fresh food and water.  (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-14/risk-to-oil-tankers-and-ships-in-strait-of-hormuz-video",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.6228,
+      "texto_completo": "Top UN Official on Risk to Oil Tankers and Ships in Strait of Hormuz. Secretary-General Arsenio Dominguez, of the UN's International Maritime Organization, tells \"Bloomberg This Weekend\" that more than a dozen ships have been damaged during the US-Iran War, with many more trapped without fresh food and water.  (Source: Bloomberg)"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "Tensions Rising on Strait of Hormuz After US Attacks on Strategic Island",
+      "resumen": "Live reports from \"Bloomberg This Weekend\" from the United Arab Emirates and Israel as ship traffic stalls at the Strait of Hormuz. Overnight the Trump Administration bombed the strategic Kharg Island, which handles roughly 90% of Iran's oil production. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-14/hormuz-strait-tensions-after-us-attack-video",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.5205,
+      "texto_completo": "Tensions Rising on Strait of Hormuz After US Attacks on Strategic Island. Live reports from \"Bloomberg This Weekend\" from the United Arab Emirates and Israel as ship traffic stalls at the Strait of Hormuz. Overnight the Trump Administration bombed the strategic Kharg Island, which handles roughly 90% of Iran's oil production. (Source: Bloomberg)"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "Trump Hopes China and Other Nations Will Send Ships to Hormuz",
+      "resumen": "“Hopefully China, France, Japan, South Korea, the UK, and others, that are affected by this artificial constraint, will send Ships,” President Donald Trump says in a Truth Social post.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-14/trump-hopes-china-and-other-nations-will-send-ships-to-hormuz",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.5367,
+      "texto_completo": "Trump Hopes China and Other Nations Will Send Ships to Hormuz. “Hopefully China, France, Japan, South Korea, the UK, and others, that are affected by this artificial constraint, will send Ships,” President Donald Trump says in a Truth Social post."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
       "titulo": "Second Dynacom Oil Tanker Passes Hormuz as Other Owners Hold Back",
       "resumen": "A Greek shipowner sent a second oil tanker through the Strait of Hormuz, bucking caution among the shipping industry as Iran lashes out across the region in response to attacks by Israel and the US.",
       "url": "https://www.bloomberg.com/news/articles/2026-03-14/second-dynacom-oil-tanker-passes-hormuz-as-other-owners-hold-back",
       "fuente": "bloomberg_markets",
       "relevancia_score": 0.7481,
       "texto_completo": "Second Dynacom Oil Tanker Passes Hormuz as Other Owners Hold Back. A Greek shipowner sent a second oil tanker through the Strait of Hormuz, bucking caution among the shipping industry as Iran lashes out across the region in response to attacks by Israel and the US."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-14",
-      "titulo": "Two LPG Ships Sail Through Hormuz to Shortage-Hit India",
-      "resumen": "Two tankers carrying liquefied petroleum gas are heading to India after crossing the Strait of Hormuz, providing some relief to acute shortages as the war in the Persian Gulf disrupts supply of the cooking fuel.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-14/two-lpg-ships-sail-through-hormuz-on-way-to-shortage-hit-india",
-      "fuente": "bloomberg_markets",
-      "relevancia_score": 0.6947,
-      "texto_completo": "Two LPG Ships Sail Through Hormuz to Shortage-Hit India. Two tankers carrying liquefied petroleum gas are heading to India after crossing the Strait of Hormuz, providing some relief to acute shortages as the war in the Persian Gulf disrupts supply of the cooking fuel."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-14",
-      "titulo": "HORMUZ TRACKER: Saudi Suezmax Reappears Off Mumbai; LPG to India",
-      "resumen": "Commercial vessel traffic through the Strait of Hormuz continues at very low levels, with just a handful of oil and liquefied petroleum gas tankers transiting in the last 24 hours amid heightened regional tensions.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-14/hormuz-tracker-saudi-suezmax-reappears-off-mumbai-lpg-to-india",
-      "fuente": "bloomberg_markets",
-      "relevancia_score": 0.6862,
-      "texto_completo": "HORMUZ TRACKER: Saudi Suezmax Reappears Off Mumbai; LPG to India. Commercial vessel traffic through the Strait of Hormuz continues at very low levels, with just a handful of oil and liquefied petroleum gas tankers transiting in the last 24 hours amid heightened regional tensions."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-14",
-      "titulo": "Russian Refinery, Port Hit by Drones; Kyiv Comes Under Fire",
-      "resumen": "Drone attacks on Russia sparked a fire at an oil refinery and caused damage at a key port in the southern Krasnodar region, while Ukraine faced one of the largest missile and drone barrages so far this year, with at least four people killed.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-14/russia-says-major-oil-refinery-key-port-hit-by-ukraine-drones",
-      "fuente": "bloomberg_markets",
-      "relevancia_score": 0.475,
-      "texto_completo": "Russian Refinery, Port Hit by Drones; Kyiv Comes Under Fire. Drone attacks on Russia sparked a fire at an oil refinery and caused damage at a key port in the southern Krasnodar region, while Ukraine faced one of the largest missile and drone barrages so far this year, with at least four people killed."
     },
     {
       "nicho": "geopolitica",
@@ -980,6 +1020,56 @@
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
+      "titulo": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
+      "resumen": "US president urges naval coalition as Iran says Strait of Hormuz closed to &#039;tankers and ships of enemies&#039; during war.",
+      "url": "https://www.aljazeera.com/news/2026/3/14/trump-says-many-countries-will-send-warships-to-hormuz-amid-iran-blockade?traffic_source=rss",
+      "fuente": "al_jazeera",
+      "relevancia_score": 0.5989,
+      "texto_completo": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade. US president urges naval coalition as Iran says Strait of Hormuz closed to &#039;tankers and ships of enemies&#039; during war."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
+      "resumen": "‘Israel targeting Iran’s security forces may aim to encourage uprising’ says director of the Iran Program at the MEI.",
+      "url": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-targeting-irans-security-forces-may-aim-to-encourage?traffic_source=rss",
+      "fuente": "al_jazeera",
+      "relevancia_score": 0.6203,
+      "texto_completo": "‘Israel targeting Iran’s security forces may aim to encourage uprising’. ‘Israel targeting Iran’s security forces may aim to encourage uprising’ says director of the Iran Program at the MEI."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "Iran allows limited Indian shipping through Strait of Hormuz",
+      "resumen": "Iran has allowed some Indian vessels through the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-allows-limited-indian-shipping-through-strait-of-hormuz?traffic_source=rss",
+      "fuente": "al_jazeera",
+      "relevancia_score": 0.5831,
+      "texto_completo": "Iran allows limited Indian shipping through Strait of Hormuz. Iran has allowed some Indian vessels through the Strait of Hormuz."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs",
+      "resumen": "Drone strikes have hit the paramilitary&#039;s heavily armed checkpoints this week, Islamic Revolutionary Guard Corps said.",
+      "url": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss",
+      "fuente": "al_jazeera",
+      "relevancia_score": 0.6044,
+      "texto_completo": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs. Drone strikes have hit the paramilitary&#039;s heavily armed checkpoints this week, Islamic Revolutionary Guard Corps said."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "Iran says Strait of Hormuz will not be reopened to US ships",
+      "resumen": "A member of Iran’s Expediency Council says the Strait of Hormuz will remain closed to US ships.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss",
+      "fuente": "al_jazeera",
+      "relevancia_score": 0.6081,
+      "texto_completo": "Iran says Strait of Hormuz will not be reopened to US ships. A member of Iran’s Expediency Council says the Strait of Hormuz will remain closed to US ships."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
       "titulo": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
       "resumen": "Iran&#039;s envoy to New Delhi says Tehran allowed some Indian vessels to pass the Strait in rare exception to the blockade.",
       "url": "https://www.aljazeera.com/news/2026/3/14/two-indian-ships-cross-strait-of-hormuz-as-iran-says-it-allowed-passage?traffic_source=rss",
@@ -990,42 +1080,32 @@
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war",
-      "resumen": "Israeli forces carry out daily attacks on besieged Gaza, as humanitarian conditions amid Iran war worsen.",
-      "url": "https://www.aljazeera.com/news/2026/3/14/israels-genocide-in-gaza-claims-another-5-palestinian-lives-amid-wider-war?traffic_source=rss",
-      "fuente": "al_jazeera",
-      "relevancia_score": 0.4743,
-      "texto_completo": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war. Israeli forces carry out daily attacks on besieged Gaza, as humanitarian conditions amid Iran war worsen."
+      "titulo": "Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns",
+      "resumen": "Turkey expressed deep concern on Saturday over Israel’s ongoing strikes on Lebanon, voicing fears it could commit “a new genocide” under the guise of fighting Iran-backed Hezbollah.\n“We are frankly concerned [Israeli Prime Minister Benjamin] Netanyahu is moving toward a new genocide under the pretext of fighting Hezbollah,” Turkish Foreign Minister Hakan Fidan told a news conference.\n“The international community must act as soon as possible in the face of the crimes that Israel continues to...",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3346629/israel-may-commit-new-genocide-lebanon-using-iran-war-pretext-turkey-warns?utm_source=rss_feed",
+      "fuente": "scmp_world",
+      "relevancia_score": 0.4963,
+      "texto_completo": "Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns. Turkey expressed deep concern on Saturday over Israel’s ongoing strikes on Lebanon, voicing fears it could commit “a new genocide” under the guise of fighting Iran-backed Hezbollah.\n“We are frankly concerned [Israeli Prime Minister Benjamin] Netanyahu is moving toward a new genocide under the pretext of fighting Hezbollah,” Turkish Foreign Minister Hakan Fidan told a news conference.\n“The international community must act as soon as possible in the face of the crimes that Israel continues to..."
     },
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "The battle on the propaganda front intensifies",
-      "resumen": "As the US and Israel battle to control the story of their war against Iran, their messaging gets harder to defend.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/3/14/the-battle-on-the-propaganda-front-intensifies?traffic_source=rss",
-      "fuente": "al_jazeera",
-      "relevancia_score": 0.5081,
-      "texto_completo": "The battle on the propaganda front intensifies. As the US and Israel battle to control the story of their war against Iran, their messaging gets harder to defend."
+      "titulo": "Iran war: Trump urges China, other nations, to send warships to secure Hormuz",
+      "resumen": "US President Donald Trump on Saturday urged other nations, including China, to deploy ships to help secure the Strait of Hormuz, a key route for global oil supplies disrupted by the war in the Middle East.\n“Many countries, especially those affected by Iran’s attempted closure of the Hormuz Strait, will be sending warships, in conjunction with the United States, to keep the strait open and safe,” Trump wrote in a Truth Social post.\n“Hopefully China, France, Japan, South Korea, the UK, and others...",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3346628/iran-war-trump-urges-china-other-nations-send-warships-secure-hormuz?utm_source=rss_feed",
+      "fuente": "scmp_world",
+      "relevancia_score": 0.5432,
+      "texto_completo": "Iran war: Trump urges China, other nations, to send warships to secure Hormuz. US President Donald Trump on Saturday urged other nations, including China, to deploy ships to help secure the Strait of Hormuz, a key route for global oil supplies disrupted by the war in the Middle East.\n“Many countries, especially those affected by Iran’s attempted closure of the Hormuz Strait, will be sending warships, in conjunction with the United States, to keep the strait open and safe,” Trump wrote in a Truth Social post.\n“Hopefully China, France, Japan, South Korea, the UK, and others..."
     },
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
-      "resumen": "The Palestinian group calls for end to Gulf attacks while supporting Tehran’s right to defend against Israel and US.",
-      "url": "https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss",
-      "fuente": "al_jazeera",
-      "relevancia_score": 0.5276,
-      "texto_completo": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran. The Palestinian group calls for end to Gulf attacks while supporting Tehran’s right to defend against Israel and US."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-14",
-      "titulo": "Iran continues intensified attacks across Gulf in US-Israel war fallout",
-      "resumen": "Strikes target multiple countries, including UAE, Saudi Arabia and Qatar, with interceptions reported.",
-      "url": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss",
-      "fuente": "al_jazeera",
-      "relevancia_score": 0.6598,
-      "texto_completo": "Iran continues intensified attacks across Gulf in US-Israel war fallout. Strikes target multiple countries, including UAE, Saudi Arabia and Qatar, with interceptions reported."
+      "titulo": "Iran war entering ‘decisive phase’, Israel says, as attacks continue",
+      "resumen": "Israel said the war against Iran was entering its “decisive phase” on Saturday, as explosions rocked cities across the Middle East, with strikes on the US embassy in Baghdad and a major Emirati energy facility.\nWashington’s embassy in Iraq was hit by a drone, security sources said, the second time it had been targeted since February 28, when the United States and Israel attacked Iran and plunged the Gulf into a conflict that has sent shock waves through the global economy.\nMillions have been...",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3346626/iran-war-entering-decisive-phase-israel-says-attacks-continue?utm_source=rss_feed",
+      "fuente": "scmp_world",
+      "relevancia_score": 0.6736,
+      "texto_completo": "Iran war entering ‘decisive phase’, Israel says, as attacks continue. Israel said the war against Iran was entering its “decisive phase” on Saturday, as explosions rocked cities across the Middle East, with strikes on the US embassy in Baghdad and a major Emirati energy facility.\nWashington’s embassy in Iraq was hit by a drone, security sources said, the second time it had been targeted since February 28, when the United States and Israel attacked Iran and plunged the Gulf into a conflict that has sent shock waves through the global economy.\nMillions have been..."
     },
     {
       "nicho": "geopolitica",
@@ -1070,102 +1150,102 @@
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "Iran lets 2 India-flagged gas tankers sail through Strait of Hormuz, insiders say",
-      "resumen": "Iran ⁠has allowed two Indian-flagged liquefied ⁠petroleum gas carriers to sail through the Strait of Hormuz, ⁠four sources with direct knowledge of the matter said, a rare exception to the Iranian blockade that has disrupted global energy supplies.\nThe Indian-flagged LPG tanker Shivalik crossed the Strait under escort from the Indian Navy, said two of the sources, and the second vessel, Nanda Devi, was expected to clear in the ‌next few hours.\nSince the United States and Israel launched a...",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3346565/iran-lets-2-india-flagged-gas-tankers-sail-through-strait-hormuz-insiders-say?utm_source=rss_feed",
-      "fuente": "scmp_world",
-      "relevancia_score": 0.6587,
-      "texto_completo": "Iran lets 2 India-flagged gas tankers sail through Strait of Hormuz, insiders say. Iran ⁠has allowed two Indian-flagged liquefied ⁠petroleum gas carriers to sail through the Strait of Hormuz, ⁠four sources with direct knowledge of the matter said, a rare exception to the Iranian blockade that has disrupted global energy supplies.\nThe Indian-flagged LPG tanker Shivalik crossed the Strait under escort from the Indian Navy, said two of the sources, and the second vessel, Nanda Devi, was expected to clear in the ‌next few hours.\nSince the United States and Israel launched a..."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-14",
-      "titulo": "Trump: \"Los medios de comunicación despreciables realmente quieren que perdamos la guerra\"",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b568c659bf5b79b60a9d4e.jpg\" style=\"float: left;\" />\n        \tEl presidente estadounidense se refirió a los informes sobre aviones cisterna que supuestamente habían sido afectados por ataques de represalia iraníes.",
-      "url": "https://actualidad.rt.com/actualidad/592909-trump-medios-comunicacion-despreciables-realmente?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "titulo": "\"Mucho más perjudiciales y tóxicos\": Otro lado oscuro de la agresión contra Irán",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b55f9fe9ff71695b5bed1e.jpg\" style=\"float: left;\" />\n        \tExpertos hacen saltar las alarmas por más consecuencias devastadoras de la actual escalada en Oriente Medio, que perdurarán a lo largo de décadas.",
+      "url": "https://actualidad.rt.com/actualidad/592904-contaminacion-toxica-guerra-iran-perdurar-decadas?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "fuente": "rt_espanol",
-      "relevancia_score": 0.5001,
-      "texto_completo": "Trump: \"Los medios de comunicación despreciables realmente quieren que perdamos la guerra\". <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b568c659bf5b79b60a9d4e.jpg\" style=\"float: left;\" />\n        \tEl presidente estadounidense se refirió a los informes sobre aviones cisterna que supuestamente habían sido afectados por ataques de represalia iraníes."
+      "relevancia_score": 0.4724,
+      "texto_completo": "\"Mucho más perjudiciales y tóxicos\": Otro lado oscuro de la agresión contra Irán. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b55f9fe9ff71695b5bed1e.jpg\" style=\"float: left;\" />\n        \tExpertos hacen saltar las alarmas por más consecuencias devastadoras de la actual escalada en Oriente Medio, que perdurarán a lo largo de décadas."
     },
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "Petrolero griego atacado por \"un objeto desconocido\" en el mar Negro",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b54da6e9ff7102ad04c186.jpg\" style=\"float: left;\" />\n        \tComo consecuencia del ataque, solo se produjeron daños materiales en el costado de estribor del buque.",
-      "url": "https://actualidad.rt.com/actualidad/592893-petrolero-griego-atacar-objeto-desconocido-mar-negro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "titulo": "Trump pide a los países que reciben petróleo por el estrecho de Ormuz que velen \"por la seguridad\" del paso",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg\" style=\"float: left;\" />",
+      "url": "https://actualidad.rt.com/actualidad/592948-trump-pide-paises-reciben-petroleo-estrecho-ormuz-velar-seguridad?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "fuente": "rt_espanol",
-      "relevancia_score": 0.5811,
-      "texto_completo": "Petrolero griego atacado por \"un objeto desconocido\" en el mar Negro. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b54da6e9ff7102ad04c186.jpg\" style=\"float: left;\" />\n        \tComo consecuencia del ataque, solo se produjeron daños materiales en el costado de estribor del buque."
+      "relevancia_score": 0.5669,
+      "texto_completo": "Trump pide a los países que reciben petróleo por el estrecho de Ormuz que velen \"por la seguridad\" del paso. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg\" style=\"float: left;\" />"
     },
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "X hará cambios en Europa para resolver una disputa de 138 millones de dólares",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b559abe9ff7115cc5c6b9a.jpg\" style=\"float: left;\" />\n        \t\"La Comisión [Europea] evaluará ahora detenidamente las medidas correctivas propuestas\", dijo este viernes un portavoz del ente.",
-      "url": "https://actualidad.rt.com/actualidad/592871-musk-resolver-disputa-millones-dolares-medida?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "titulo": "Primer ministro belga: Como Europa no es capaz de \"asfixiar\" a Rusia, \"solo queda llegar a un acuerdo\"",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b59624e9ff7113de11f552.jpg\" style=\"float: left;\" />\n        \tBart de Wever afirmó que hay que poner fin al conflicto entre Kiev y Moscú en interés de Europa.",
+      "url": "https://actualidad.rt.com/actualidad/592937-primer-ministro-belga-acuerdo-rusia-solucion?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "fuente": "rt_espanol",
-      "relevancia_score": 0.5246,
-      "texto_completo": "X hará cambios en Europa para resolver una disputa de 138 millones de dólares. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b559abe9ff7115cc5c6b9a.jpg\" style=\"float: left;\" />\n        \t\"La Comisión [Europea] evaluará ahora detenidamente las medidas correctivas propuestas\", dijo este viernes un portavoz del ente."
+      "relevancia_score": 0.5684,
+      "texto_completo": "Primer ministro belga: Como Europa no es capaz de \"asfixiar\" a Rusia, \"solo queda llegar a un acuerdo\". <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b59624e9ff7113de11f552.jpg\" style=\"float: left;\" />\n        \tBart de Wever afirmó que hay que poner fin al conflicto entre Kiev y Moscú en interés de Europa."
     },
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "Cuán importante es \"la joya\" petrolera de Irán y qué pasará si EE.UU. decide destruirla",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b53b10e9ff7113de11f4f6.jpg\" style=\"float: left;\" />\n        \tLa última vez que la isla sufrió un ataque importante fue durante la guerra entre Irán e Irak en la década de 1980.",
-      "url": "https://actualidad.rt.com/actualidad/592877-importante-isla-petrolera-irani-kharg-iran-destruir?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fuente": "rt_espanol",
-      "relevancia_score": 0.4692,
-      "texto_completo": "Cuán importante es \"la joya\" petrolera de Irán y qué pasará si EE.UU. decide destruirla. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b53b10e9ff7113de11f4f6.jpg\" style=\"float: left;\" />\n        \tLa última vez que la isla sufrió un ataque importante fue durante la guerra entre Irán e Irak en la década de 1980."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-14",
-      "titulo": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
-      "resumen": "\"As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire,\" Maria Zakharova said",
-      "url": "https://tass.com/politics/1968329",
+      "titulo": "US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters",
+      "resumen": "In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation",
+      "url": "https://tass.com/world/2101651",
       "fuente": "tass_english",
-      "relevancia_score": 0.4822,
-      "texto_completo": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry. \"As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire,\" Maria Zakharova said"
+      "relevancia_score": 0.5037,
+      "texto_completo": "US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters. In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation"
     },
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
-      "resumen": "According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine",
-      "url": "https://tass.com/world/1968271",
+      "titulo": "Israel carries out 400 waves of attacks on Iran since February 28 — IDF",
+      "resumen": "The Israeli Air Force focused \"on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran,\" the Israeli military said",
+      "url": "https://tass.com/world/2101639",
       "fuente": "tass_english",
-      "relevancia_score": 0.4853,
-      "texto_completo": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper. According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine"
+      "relevancia_score": 0.7033,
+      "texto_completo": "Israel carries out 400 waves of attacks on Iran since February 28 — IDF. The Israeli Air Force focused \"on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran,\" the Israeli military said"
     },
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "Russia not interested in arms race with Europe, European Parliament member says",
-      "resumen": "Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as \"strategic patience\"",
-      "url": "https://tass.com/world/1968241",
+      "titulo": "Iran announces new wave of missile strikes on Israel — public broadcaster",
+      "resumen": "Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel",
+      "url": "https://tass.com/world/2101609",
       "fuente": "tass_english",
-      "relevancia_score": 0.5195,
-      "texto_completo": "Russia not interested in arms race with Europe, European Parliament member says. Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as \"strategic patience\""
+      "relevancia_score": 0.6088,
+      "texto_completo": "Iran announces new wave of missile strikes on Israel — public broadcaster. Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel"
     },
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
-      "resumen": "Top stories from the Russian press on Wednesday, June 4th",
-      "url": "https://tass.com/pressreview/1968153",
+      "titulo": "Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC",
+      "resumen": "Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported",
+      "url": "https://tass.com/world/2101607",
       "fuente": "tass_english",
-      "relevancia_score": 0.4758,
-      "texto_completo": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint. Top stories from the Russian press on Wednesday, June 4th"
+      "relevancia_score": 0.4791,
+      "texto_completo": "Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC. Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported"
     },
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-14",
-      "titulo": "Iran warns of retaliation after US bombing of Kharg Island",
-      "resumen": "Tehran threatens to hit U.S.-linked oil and energy infrastructures if its own oil facilities are attacked.",
-      "url": "https://www.politico.eu/article/iran-warns-of-retaliatory-strikes-on-us-oil-facilities-kharg-island/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "fuente": "politico_europe",
-      "relevancia_score": 0.5101,
-      "texto_completo": "Iran warns of retaliation after US bombing of Kharg Island. Tehran threatens to hit U.S.-linked oil and energy infrastructures if its own oil facilities are attacked."
+      "titulo": "Pentagon reports strikes on 90 military targets on Iran's Kharg Island",
+      "resumen": "But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said",
+      "url": "https://tass.com/world/2101603",
+      "fuente": "tass_english",
+      "relevancia_score": 0.5125,
+      "texto_completo": "Pentagon reports strikes on 90 military targets on Iran's Kharg Island. But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "Israeli army reports destruction of Iranian Space Agency research center",
+      "resumen": "In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated",
+      "url": "https://tass.com/world/2101597",
+      "fuente": "tass_english",
+      "relevancia_score": 0.6352,
+      "texto_completo": "Israeli army reports destruction of Iranian Space Agency research center. In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-14",
+      "titulo": "Global markets now in dire need of Russian oil — Kremlin",
+      "resumen": "Earlier, the US lifted sanctions on the sale of oil and petroleum products from Russia loaded onto ships before March 12",
+      "url": "https://tass.com/economy/2101547",
+      "fuente": "tass_english",
+      "relevancia_score": 0.5135,
+      "texto_completo": "Global markets now in dire need of Russian oil — Kremlin. Earlier, the US lifted sanctions on the sale of oil and petroleum products from Russia loaded onto ships before March 12"
     },
     {
       "nicho": "geopolitica",
@@ -2230,6 +2310,16 @@
     {
       "nicho": "regulaciones_pyme",
       "fecha": "2026-03-14",
+      "titulo": "¿Quién contribuye más?, las actividades que impulsan la recaudación del SAT",
+      "resumen": "El pago de impuestos en aduanas, de entidades federativas, y el de entidades financieras concentran el pago de impuestos en México.",
+      "url": "https://expansion.mx/economia/2026/03/14/quien-contribuye-mas-sectores-recaudacion-sat",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.6268,
+      "texto_completo": "¿Quién contribuye más?, las actividades que impulsan la recaudación del SAT. El pago de impuestos en aduanas, de entidades federativas, y el de entidades financieras concentran el pago de impuestos en México."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-14",
       "titulo": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
       "resumen": "La cuota por el impuesto IEPS que se cobra al combustible utilizado para el transporte de mercancías y personas, tendrá un descuento que absorberá Hacienda como un pérdida recaudatoria.",
       "url": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico",
@@ -2366,16 +2456,6 @@
       "fuente": "expansion_economia",
       "relevancia_score": 0.5195,
       "texto_completo": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”. Julio Escandón, director general del banco, afirma que tras los señalamientos de EU contra instituciones financieras, se optó por frenar la captación de nuevos clientes y reforzar sus controles de cumplimiento."
-    },
-    {
-      "nicho": "regulaciones_pyme",
-      "fecha": "2026-03-14",
-      "titulo": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
-      "resumen": "Por mayores precios del petróleo, los ingresos de México pueden acelerarse, pero el alza en los precios de gasolinas borrará los ingresos extras.",
-      "url": "https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas",
-      "fuente": "expansion_economia",
-      "relevancia_score": 0.5761,
-      "texto_completo": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas. Por mayores precios del petróleo, los ingresos de México pueden acelerarse, pero el alza en los precios de gasolinas borrará los ingresos extras."
     },
     {
       "fecha": "2026-03-12T23:40:08.854687+00:00",
@@ -3568,7 +3648,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/MXN — 2026-03-14",
@@ -3580,7 +3660,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/BRL — 2026-03-14",
@@ -3592,7 +3672,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/ARS — 2026-03-14",
@@ -3604,7 +3684,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/CLP — 2026-03-14",
@@ -3616,7 +3696,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/COP — 2026-03-14",
@@ -3628,7 +3708,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/PEN — 2026-03-14",
@@ -3640,7 +3720,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Petróleo WTI — 2026-03-14",
@@ -3652,7 +3732,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Petróleo Brent — 2026-03-14",
@@ -3664,7 +3744,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Cobre — 2026-03-14",
@@ -3676,7 +3756,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Plata — 2026-03-14",
@@ -3688,7 +3768,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Oro — 2026-03-14",
@@ -3700,7 +3780,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Maíz — 2026-03-14",
@@ -3712,7 +3792,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Soya — 2026-03-14",
@@ -3724,7 +3804,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Café — 2026-03-14",
@@ -3736,7 +3816,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Gas natural — 2026-03-14",
@@ -3748,7 +3828,147 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Rwanda']]: Boosting Green Finance, Investment and Trade in Rwanda",
+      "contenido": "País: ['Republic of Rwanda']. Sector: . Monto: USD 200,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505244",
+      "extra": {
+        "pais": [
+          "Republic of Rwanda"
+        ],
+        "monto_usd": "200,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of India']]: Amaravati Integrated Urban Development Program",
+      "contenido": "País: ['Republic of India']. Sector: . Monto: USD 0. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507508",
+      "extra": {
+        "pais": [
+          "Republic of India"
+        ],
+        "monto_usd": "0"
+      }
+    },
+    {
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Kingdom of Morocco']]: Transforming Agri-food Systems in Morocco",
+      "contenido": "País: ['Kingdom of Morocco']. Sector: . Monto: USD 250,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181587",
+      "extra": {
+        "pais": [
+          "Kingdom of Morocco"
+        ],
+        "monto_usd": "250,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Burundi']]: Burundi Colline Climate Resilience Project",
+      "contenido": "País: ['Republic of Burundi']. Sector: . Monto: USD 70,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180864",
+      "extra": {
+        "pais": [
+          "Republic of Burundi"
+        ],
+        "monto_usd": "70,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Second Bangladesh Green and Climate Resilient Development Credit",
+      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 500,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180439",
+      "extra": {
+        "pais": [
+          "People's Republic of Bangladesh"
+        ],
+        "monto_usd": "500,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Health, Nutrition and Population Sector Development Program",
+      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 379,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180283",
+      "extra": {
+        "pais": [
+          "People's Republic of Bangladesh"
+        ],
+        "monto_usd": "379,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Chattogram Water Supply Improvement Project",
+      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 280,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176429",
+      "extra": {
+        "pais": [
+          "People's Republic of Bangladesh"
+        ],
+        "monto_usd": "280,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Togo']]: Togo Digital Acceleration Project",
+      "contenido": "País: ['Republic of Togo']. Sector: . Monto: USD 100,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179138",
+      "extra": {
+        "pais": [
+          "Republic of Togo"
+        ],
+        "monto_usd": "100,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Zambia']]: First Zambia Climate and Economic Resilience Programmatic DPF wit",
+      "contenido": "País: ['Republic of Zambia']. Sector: . Monto: USD 0. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507116",
+      "extra": {
+        "pais": [
+          "Republic of Zambia"
+        ],
+        "monto_usd": "0"
+      }
+    },
+    {
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Honduras']]: Honduras Sustainable Connectivity Project",
+      "contenido": "País: ['Republic of Honduras']. Sector: . Monto: USD 187,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181166",
+      "extra": {
+        "pais": [
+          "Republic of Honduras"
+        ],
+        "monto_usd": "187,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Referencia portal",
       "titulo": "CompraNet México — portal licitaciones",
@@ -3757,7 +3977,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Referencia portal",
       "titulo": "UNGM — licitaciones ONU en LATAM",
@@ -3766,7 +3986,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Veracruz, México (MXVER)",
@@ -3778,7 +3998,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Lázaro Cárdenas, México (MXLZC)",
@@ -3790,7 +4010,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Altamira, México (MXATM)",
@@ -3802,7 +4022,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Santos, Brasil (BRSSZ)",
@@ -3814,7 +4034,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Valparaíso, Chile (CLVAP)",
@@ -3826,7 +4046,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Buenaventura, Colombia (COBUN)",
@@ -3838,7 +4058,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Callao, Perú (PECLL)",
@@ -3850,7 +4070,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Buenos Aires, Argentina (ARBUE)",
@@ -3862,7 +4082,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Balboa, Panamá (PAMIT)",
@@ -3874,7 +4094,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Canal de Panamá",
@@ -3886,7 +4106,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Golfo de México",
@@ -3898,7 +4118,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Puerto Santos Brasil",
@@ -3910,7 +4130,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Estrecho de Magallanes",
@@ -3922,7 +4142,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario México — 2026-03-14",
@@ -3934,7 +4154,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Brasil — 2026-03-14",
@@ -3946,7 +4166,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Argentina — 2026-03-14",
@@ -3958,7 +4178,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Chile — 2026-03-14",
@@ -3970,7 +4190,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Colombia — 2026-03-14",
@@ -3982,7 +4202,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Perú — 2026-03-14",
@@ -3994,7 +4214,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "DOF México",
       "titulo": "Cambios arancelarios DOF — 2026-03-14",
@@ -4003,7 +4223,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "USTR / Federal Register",
       "titulo": "Aranceles USA impacto LATAM — 2026-03-14",
@@ -4014,7 +4234,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:38.290396+00:00",
+      "fecha": "2026-03-14T19:14:53.182530+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "CEPAL",
       "titulo": "Monitor comercio exterior LATAM — 2026-03-14",
@@ -4958,7 +5178,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "US Treasury FiscalData",
       "titulo": "Deuda publica USA — 2026-03-14",
@@ -4979,7 +5199,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "US Treasury — Tasas",
       "titulo": "Tasa interes bonos USA: Treasury Bills — 2026-02-28",
@@ -5000,7 +5220,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "US Treasury — Tasas",
       "titulo": "Tasa interes bonos USA: Treasury Notes — 2026-02-28",
@@ -5021,7 +5241,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "US Treasury — Tasas",
       "titulo": "Tasa interes bonos USA: Treasury Bonds — 2026-02-28",
@@ -5042,7 +5262,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "Federal Reserve RSS",
       "titulo": "Fed — Comunicados politica monetaria — 2026-03-14",
@@ -5051,7 +5271,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "Federal Reserve RSS",
       "titulo": "Fed — Todos los comunicados — 2026-03-14",
@@ -5060,7 +5280,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "ECB — Banco Central Europeo",
       "titulo": "Tipo de cambio EUR/USD BCE — 2026-03-09",
@@ -5072,7 +5292,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "ECB — Banco Central Europeo",
       "titulo": "Tipo de cambio EUR/USD BCE — 2026-03-10",
@@ -5084,7 +5304,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "ECB — Banco Central Europeo",
       "titulo": "Tipo de cambio EUR/USD BCE — 2026-03-11",
@@ -5096,7 +5316,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Argentina 2030",
@@ -5109,7 +5329,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Brasil 2030",
@@ -5122,7 +5342,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Chile 2030",
@@ -5135,7 +5355,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Colombia 2030",
@@ -5148,7 +5368,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Mexico 2030",
@@ -5161,7 +5381,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Peru 2030",
@@ -5174,7 +5394,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "energia_petroleo",
       "fuente": "EIA — US Energy Information",
       "titulo": "Petroleo WTI — 2026-03-09",
@@ -5195,7 +5415,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "energia_petroleo",
       "fuente": "EIA — US Energy Information",
       "titulo": "Petroleo Brent — 2026-03-09",
@@ -5216,7 +5436,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "energia_petroleo",
       "fuente": "EIA — US Energy Information",
       "titulo": "Gas Natural Henry Hub — 2026-03-09",
@@ -5237,7 +5457,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "energia_petroleo",
       "fuente": "Yahoo Finance",
       "titulo": "Petroleo WTI — 2026-03-14",
@@ -5249,7 +5469,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "energia_petroleo",
       "fuente": "Yahoo Finance",
       "titulo": "Petroleo Brent — 2026-03-14",
@@ -5261,7 +5481,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "energia_petroleo",
       "fuente": "Yahoo Finance",
       "titulo": "Gas Natural — 2026-03-14",
@@ -5273,7 +5493,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "energia_petroleo",
       "fuente": "Yahoo Finance",
       "titulo": "Gasoil calefaccion — 2026-03-14",
@@ -5285,7 +5505,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "energia_petroleo",
       "fuente": "Yahoo Finance",
       "titulo": "Gasolina RBOB — 2026-03-14",
@@ -5297,7 +5517,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "energia_petroleo",
       "fuente": "OPEC",
       "titulo": "Portal OPEC — noticias produccion petroleo 2026-03-14",
@@ -5306,7 +5526,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "energia_petroleo",
       "fuente": "IEA — Agencia Internacional de Energia",
       "titulo": "Oil Market Report IEA — 2026-03-14",
@@ -5315,7 +5535,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Cobre — 2026-03-14",
@@ -5328,7 +5548,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Plata — 2026-03-14",
@@ -5341,7 +5561,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Oro — 2026-03-14",
@@ -5354,7 +5574,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Aluminio — 2026-03-14",
@@ -5367,7 +5587,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Paladio — 2026-03-14",
@@ -5380,7 +5600,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Platino — 2026-03-14",
@@ -5393,7 +5613,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Zinc — 2026-03-14",
@@ -5406,7 +5626,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Plomo — 2026-03-14",
@@ -5419,7 +5639,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — Litio/Tierras raras",
       "titulo": "Accion Albemarle (ALB) — 2026-03-14",
@@ -5432,7 +5652,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — Litio/Tierras raras",
       "titulo": "Accion SQM (SQM) — 2026-03-14",
@@ -5445,7 +5665,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — Litio/Tierras raras",
       "titulo": "Accion Lithium Americas (LAC) — 2026-03-14",
@@ -5458,7 +5678,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "mineria_metales",
       "fuente": "London Metal Exchange",
       "titulo": "LME — precios metales industriales 2026-03-14",
@@ -5467,7 +5687,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "comercio_aranceles",
       "fuente": "OMC — World Trade Organization",
       "titulo": "Noticias OMC — 2026-03-14",
@@ -5476,7 +5696,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "comercio_aranceles",
       "fuente": "UN Comtrade",
       "titulo": "Exportaciones Mexico al mundo — 2023",
@@ -5489,7 +5709,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "comercio_aranceles",
       "fuente": "USTR — US Trade Representative",
       "titulo": "Comunicados USTR aranceles — 2026-03-14",
@@ -5498,7 +5718,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "comercio_aranceles",
       "fuente": "Secretaria de Economia — Mexico",
       "titulo": "T-MEC y comercio exterior Mexico — 2026-03-14",
@@ -5507,7 +5727,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "Baltic Exchange",
       "titulo": "Baltic Dry Index (BDI) — 2026-03-14",
@@ -5519,7 +5739,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "Baltic Exchange",
       "titulo": "Baltic Capesize Index (BCI) — 2026-03-14",
@@ -5531,7 +5751,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "Baltic Exchange",
       "titulo": "Baltic Panamax Index (BPI) — 2026-03-14",
@@ -5543,7 +5763,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "Baltic Exchange",
       "titulo": "Baltic Supramax Index (BSI) — 2026-03-14",
@@ -5555,7 +5775,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "IMO — Organizacion Maritima Internacional",
       "titulo": "Regulaciones maritimas IMO — 2026-03-14",
@@ -5564,7 +5784,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Veracruz (MXVER) Mexico — 2026-03-14",
@@ -5576,7 +5796,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Lazaro Cardenas (MXLZC) Mexico — 2026-03-14",
@@ -5588,7 +5808,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Altamira (MXATM) Mexico — 2026-03-14",
@@ -5600,7 +5820,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Santos (BRSSZ) Brasil — 2026-03-14",
@@ -5612,7 +5832,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Valparaiso (CLVAP) Chile — 2026-03-14",
@@ -5624,7 +5844,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Buenaventura (COBUN) Colombia — 2026-03-14",
@@ -5636,7 +5856,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Callao (PECLL) Peru — 2026-03-14",
@@ -5648,7 +5868,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Buenos Aires (ARBUE) Argentina — 2026-03-14",
@@ -5660,7 +5880,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Balboa (PAMIT) Panama — 2026-03-14",
@@ -5672,7 +5892,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — EEUU",
       "titulo": "Council on Foreign Relations — feed geopolitico 2026-03-14",
@@ -5685,7 +5905,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — EEUU",
       "titulo": "CSIS — feed geopolitico 2026-03-14",
@@ -5698,7 +5918,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — EEUU",
       "titulo": "Brookings Institution — feed geopolitico 2026-03-14",
@@ -5711,7 +5931,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — EEUU",
       "titulo": "Carnegie Endowment — feed geopolitico 2026-03-14",
@@ -5724,7 +5944,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — Europa",
       "titulo": "Chatham House — feed geopolitico 2026-03-14",
@@ -5737,7 +5957,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — Europa",
       "titulo": "Bruegel — feed geopolitico 2026-03-14",
@@ -5750,7 +5970,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — Rusia",
       "titulo": "RIAC — feed geopolitico 2026-03-14",
@@ -5763,7 +5983,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Global",
       "titulo": "Reuters — Business — 2026-03-14",
@@ -5776,7 +5996,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Global",
       "titulo": "Reuters — World — 2026-03-14",
@@ -5789,7 +6009,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Global",
       "titulo": "Financial Times — 2026-03-14",
@@ -5802,7 +6022,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Global",
       "titulo": "Bloomberg Markets — 2026-03-14",
@@ -5815,7 +6035,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — EEUU",
       "titulo": "WSJ Markets — 2026-03-14",
@@ -5828,7 +6048,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Asia",
       "titulo": "Nikkei Asia — 2026-03-14",
@@ -5841,7 +6061,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Asia",
       "titulo": "South China Morning Post — 2026-03-14",
@@ -5854,7 +6074,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Rusia",
       "titulo": "TASS — 2026-03-14",
@@ -5867,7 +6087,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Europa",
       "titulo": "Politico Europe — 2026-03-14",
@@ -5880,7 +6100,7 @@
       }
     },
     {
-      "fecha": "2026-03-14T14:48:45.544116+00:00",
+      "fecha": "2026-03-14T19:15:02.011171+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — EEUU",
       "titulo": "Defense News — 2026-03-14",

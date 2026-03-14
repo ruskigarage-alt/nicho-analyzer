@@ -25,6 +25,13 @@ schema: "NewsDigest"
 - **Resumen**: ¿Qué fue de la sucia campaña,   rebosante de clichés de la guerra fría y financiada por la mano que mece a la oposición, la cual histéricamente pregona: “¡cuidado!”, porque los médicos cubanos que arriban a México sólo lo hacen “para inocular el comunismo” y “financiar al régimen totalitario de la isla”, al tiempo que “cuestiona” si en realidad se trata de galenos o “agentes de la seguridad de Cuba”. Y como éstas, muchísimas más sandeces inundan los medios de “comunicación” al servicio de Washington y la ultraderecha. Entonces, ¿dónde acabó esta tentativa? Pues en el mismo sitio de donde salió: la basura, como tantas otras “cruzadas” emprendidas por los neofascistas.
 - **Relevancia**: 0.5601
 
+### ¿Quién contribuye más?, las actividades que impulsan la recaudación del SAT
+- **Fecha**: Sat, 14 Mar 2026 14:08:29 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/14/quien-contribuye-mas-sectores-recaudacion-sat
+- **Resumen**: El pago de impuestos en aduanas, de entidades federativas, y el de entidades financieras concentran el pago de impuestos en México.
+- **Relevancia**: 0.6268
+
 ### La guerra en Irán activa subsidio de 2.6 pesos al diésel en México
 - **Fecha**: Fri, 13 Mar 2026 23:58:20 GMT
 - **Fuente**: expansion_economia
@@ -122,11 +129,4 @@ schema: "NewsDigest"
 - **URL**: https://expansion.mx/economia/2026/03/10/banco-base-acusaciones-de-lavado-de-dinero-fueron-una-sacudida-para-los-bancos
 - **Resumen**: Julio Escandón, director general del banco, afirma que tras los señalamientos de EU contra instituciones financieras, se optó por frenar la captación de nuevos clientes y reforzar sus controles de cumplimiento.
 - **Relevancia**: 0.5195
-
-### Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas
-- **Fecha**: Tue, 10 Mar 2026 00:36:31 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas
-- **Resumen**: Por mayores precios del petróleo, los ingresos de México pueden acelerarse, pero el alza en los precios de gasolinas borrará los ingresos extras.
-- **Relevancia**: 0.5761
 

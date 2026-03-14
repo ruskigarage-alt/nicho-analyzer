@@ -45,6 +45,23 @@
       "position": 3,
       "item": {
         "@type": "NewsArticle",
+        "headline": "¿Quién contribuye más?, las actividades que impulsan la recaudación del SAT",
+        "description": "El pago de impuestos en aduanas, de entidades federativas, y el de entidades financieras concentran el pago de impuestos en México.",
+        "url": "https://expansion.mx/economia/2026/03/14/quien-contribuye-mas-sectores-recaudacion-sat",
+        "datePublished": "Sat, 14 Mar 2026 14:08:29 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.6268
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "NewsArticle",
         "headline": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
         "description": "La cuota por el impuesto IEPS que se cobra al combustible utilizado para el transporte de mercancías y personas, tendrá un descuento que absorberá Hacienda como un pérdida recaudatoria.",
         "url": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico",
@@ -59,7 +76,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 4,
+      "position": 5,
       "item": {
         "@type": "NewsArticle",
         "headline": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
@@ -76,7 +93,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5,
+      "position": 6,
       "item": {
         "@type": "NewsArticle",
         "headline": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
@@ -93,7 +110,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 6,
+      "position": 7,
       "item": {
         "@type": "NewsArticle",
         "headline": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
@@ -110,7 +127,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 7,
+      "position": 8,
       "item": {
         "@type": "NewsArticle",
         "headline": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
@@ -127,7 +144,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 8,
+      "position": 9,
       "item": {
         "@type": "NewsArticle",
         "headline": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
@@ -144,7 +161,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 9,
+      "position": 10,
       "item": {
         "@type": "NewsArticle",
         "headline": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
@@ -161,7 +178,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 10,
+      "position": 11,
       "item": {
         "@type": "NewsArticle",
         "headline": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
@@ -178,7 +195,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 11,
+      "position": 12,
       "item": {
         "@type": "NewsArticle",
         "headline": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
@@ -195,7 +212,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 12,
+      "position": 13,
       "item": {
         "@type": "NewsArticle",
         "headline": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
@@ -212,7 +229,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 13,
+      "position": 14,
       "item": {
         "@type": "NewsArticle",
         "headline": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
@@ -229,7 +246,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 14,
+      "position": 15,
       "item": {
         "@type": "NewsArticle",
         "headline": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
@@ -246,7 +263,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 15,
+      "position": 16,
       "item": {
         "@type": "NewsArticle",
         "headline": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
@@ -263,7 +280,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 16,
+      "position": 17,
       "item": {
         "@type": "NewsArticle",
         "headline": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
@@ -276,23 +293,6 @@
         },
         "keywords": "regulaciones, pyme",
         "relevanceScore": 0.5195
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 17,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
-        "description": "Por mayores precios del petróleo, los ingresos de México pueden acelerarse, pero el alza en los precios de gasolinas borrará los ingresos extras.",
-        "url": "https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas",
-        "datePublished": "Tue, 10 Mar 2026 00:36:31 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "expansion_economia"
-        },
-        "keywords": "regulaciones, pyme",
-        "relevanceScore": 0.5761
       }
     }
   ]

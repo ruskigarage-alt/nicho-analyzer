@@ -328,8 +328,12 @@ def construir_perfil(candidato, wiki_data):
             perfil["partido_actual"] = parsear_partido(infobox["partido_raw"])
 
         if infobox.get("familiares_raw"):
-            familiares = infobox["familiares_raw"].split("\n")
-            perfil["vinculos"] = [f.strip() for f in familiares if f.strip()][:5]
+            import re
+            # Wikipedia pega los nombres juntos: "RicardoMonrealDavidMonreal..."
+            # Separar por mayúscula que sigue a minúscula
+            texto = infobox["familiares_raw"]
+            nombres = re.findall(r"[A-ZÁÉÍÓÚÑÜ][a-záéíóúñü]+(?:\s[A-ZÁÉÍÓÚÑÜ][a-záéíóúñü]+)+", texto)
+            perfil["vinculos"] = [n for n in nombres if len(n) > 5][:6]
 
         if wiki_data.get("cargos_texto"):
             perfil["cargos_detectados"] = wiki_data["cargos_texto"]

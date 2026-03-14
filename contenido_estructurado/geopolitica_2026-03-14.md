@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-14"
 date: "2026-03-14"
 nicho: "geopolitica"
-total_entradas: 34
+total_entradas: 42
 schema: "NewsDigest"
 ---
 
@@ -60,33 +60,61 @@ schema: "NewsDigest"
 - **Resumen**: El presunto narcotraficante uruguayo Sebastián Marset, buscado en diversos países y acusado de ser el cerebro del crimen de un fiscal paraguayo en 2022, fue capturado junto a cuatro de sus colaboradores, incluida una mujer, en un barrio residencial de Santa Cruz, y entregado a la Administración para el Control de Drogas (DEA), que lo trasladó a Estados Unidos, informó ayer Marco Antonio Oviedo, ministro de gobierno de Bolivia.
 - **Relevancia**: 0.4753
 
+### Gas Prices & Airfare Spike as Iran War Drags On
+- **Fecha**: Sat, 14 Mar 2026 16:17:25 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/videos/2026-03-14/gas-prices-airfare-spike-as-iran-war-drags-on-video
+- **Resumen**: Patrick De Haan, GasBuddy's Head of Petroleum Analysis, on "Bloomberg This Weekend" predicts gas prices will continue rising as demand increases this spring. (Source: Bloomberg)
+- **Relevancia**: 0.508
+
+### US Faces Tough Choices in Iran War's Next Steps
+- **Fecha**: Sat, 14 Mar 2026 17:09:11 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/videos/2026-03-14/us-faces-tough-choices-in-iran-war-s-next-steps-video
+- **Resumen**: "You set things in motion but you can't control how they end up," Sir Lawrence Freedman, emeritus professor of war studies at King's College London, warns of the consequences of the US military strikes and the perilous paths ahead - on "Bloomberg This Weekend." (Source: Bloomberg)
+- **Relevancia**: 0.495
+
+### Iran Oil Hub Strike Raises Fears of Further Supply Upheaval
+- **Fecha**: Sat, 14 Mar 2026 02:55:52 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-14/iran-oil-hub-strike-raises-risk-of-further-disruptions-to-supply
+- **Resumen**: A major US attack on the island that exports the bulk of Iran’s crude is raising fears of more widespread supply disruptions in the region, further straining oil and gas markets already in upheaval after two weeks of war in the Middle East.
+- **Relevancia**: 0.4766
+
+### Volatile & Dangerous Game': Trump Balancing Iran Military Campaign Without Disrupting Oil Supply
+- **Fecha**: Sat, 14 Mar 2026 16:04:05 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/videos/2026-03-14/trump-balancing-iran-military-campaign-oil-supply-video
+- **Resumen**: On "Bloomberg This Weekend," Axios Energy Reporter Ben Geman predicts more uncertainty in the energy market after the US strike on Iran's Kharg Island. (Source: Bloomberg)
+- **Relevancia**: 0.4733
+
+### Top UN Official on Risk to Oil Tankers and Ships in Strait of Hormuz
+- **Fecha**: Sat, 14 Mar 2026 16:02:23 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/videos/2026-03-14/risk-to-oil-tankers-and-ships-in-strait-of-hormuz-video
+- **Resumen**: Secretary-General Arsenio Dominguez, of the UN's International Maritime Organization, tells "Bloomberg This Weekend" that more than a dozen ships have been damaged during the US-Iran War, with many more trapped without fresh food and water.  (Source: Bloomberg)
+- **Relevancia**: 0.6228
+
+### Tensions Rising on Strait of Hormuz After US Attacks on Strategic Island
+- **Fecha**: Sat, 14 Mar 2026 15:28:09 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/videos/2026-03-14/hormuz-strait-tensions-after-us-attack-video
+- **Resumen**: Live reports from "Bloomberg This Weekend" from the United Arab Emirates and Israel as ship traffic stalls at the Strait of Hormuz. Overnight the Trump Administration bombed the strategic Kharg Island, which handles roughly 90% of Iran's oil production. (Source: Bloomberg)
+- **Relevancia**: 0.5205
+
+### Trump Hopes China and Other Nations Will Send Ships to Hormuz
+- **Fecha**: Sat, 14 Mar 2026 14:20:11 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-14/trump-hopes-china-and-other-nations-will-send-ships-to-hormuz
+- **Resumen**: “Hopefully China, France, Japan, South Korea, the UK, and others, that are affected by this artificial constraint, will send Ships,” President Donald Trump says in a Truth Social post.
+- **Relevancia**: 0.5367
+
 ### Second Dynacom Oil Tanker Passes Hormuz as Other Owners Hold Back
 - **Fecha**: Sat, 14 Mar 2026 13:09:27 GMT
 - **Fuente**: bloomberg_markets
 - **URL**: https://www.bloomberg.com/news/articles/2026-03-14/second-dynacom-oil-tanker-passes-hormuz-as-other-owners-hold-back
 - **Resumen**: A Greek shipowner sent a second oil tanker through the Strait of Hormuz, bucking caution among the shipping industry as Iran lashes out across the region in response to attacks by Israel and the US.
 - **Relevancia**: 0.7481
-
-### Two LPG Ships Sail Through Hormuz to Shortage-Hit India
-- **Fecha**: Sat, 14 Mar 2026 06:37:31 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-14/two-lpg-ships-sail-through-hormuz-on-way-to-shortage-hit-india
-- **Resumen**: Two tankers carrying liquefied petroleum gas are heading to India after crossing the Strait of Hormuz, providing some relief to acute shortages as the war in the Persian Gulf disrupts supply of the cooking fuel.
-- **Relevancia**: 0.6947
-
-### HORMUZ TRACKER: Saudi Suezmax Reappears Off Mumbai; LPG to India
-- **Fecha**: Sat, 14 Mar 2026 13:15:38 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-14/hormuz-tracker-saudi-suezmax-reappears-off-mumbai-lpg-to-india
-- **Resumen**: Commercial vessel traffic through the Strait of Hormuz continues at very low levels, with just a handful of oil and liquefied petroleum gas tankers transiting in the last 24 hours amid heightened regional tensions.
-- **Relevancia**: 0.6862
-
-### Russian Refinery, Port Hit by Drones; Kyiv Comes Under Fire
-- **Fecha**: Sat, 14 Mar 2026 05:11:25 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-14/russia-says-major-oil-refinery-key-port-hit-by-ukraine-drones
-- **Resumen**: Drone attacks on Russia sparked a fire at an oil refinery and caused damage at a key port in the southern Krasnodar region, while Ukraine faced one of the largest missile and drone barrages so far this year, with at least four people killed.
-- **Relevancia**: 0.475
 
 ### Trump’s Efforts to Defuse the Oil Spike Aren’t Working
 - **Fecha**: Thu, 12 Mar 2026 17:53:32 +0000
@@ -95,6 +123,41 @@ schema: "NewsDigest"
 - **Resumen**: Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.
 - **Relevancia**: 0.4675
 
+### Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade
+- **Fecha**: Sat, 14 Mar 2026 17:38:12 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/news/2026/3/14/trump-says-many-countries-will-send-warships-to-hormuz-amid-iran-blockade?traffic_source=rss
+- **Resumen**: US president urges naval coalition as Iran says Strait of Hormuz closed to &#039;tankers and ships of enemies&#039; during war.
+- **Relevancia**: 0.5989
+
+### ‘Israel targeting Iran’s security forces may aim to encourage uprising’
+- **Fecha**: Sat, 14 Mar 2026 17:02:25 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/video/quotable/2026/3/14/israel-targeting-irans-security-forces-may-aim-to-encourage?traffic_source=rss
+- **Resumen**: ‘Israel targeting Iran’s security forces may aim to encourage uprising’ says director of the Iran Program at the MEI.
+- **Relevancia**: 0.6203
+
+### Iran allows limited Indian shipping through Strait of Hormuz
+- **Fecha**: Sat, 14 Mar 2026 16:23:24 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-allows-limited-indian-shipping-through-strait-of-hormuz?traffic_source=rss
+- **Resumen**: Iran has allowed some Indian vessels through the Strait of Hormuz.
+- **Relevancia**: 0.5831
+
+### Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs
+- **Fecha**: Sat, 14 Mar 2026 16:03:00 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss
+- **Resumen**: Drone strikes have hit the paramilitary&#039;s heavily armed checkpoints this week, Islamic Revolutionary Guard Corps said.
+- **Relevancia**: 0.6044
+
+### Iran says Strait of Hormuz will not be reopened to US ships
+- **Fecha**: Sat, 14 Mar 2026 15:18:04 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss
+- **Resumen**: A member of Iran’s Expediency Council says the Strait of Hormuz will remain closed to US ships.
+- **Relevancia**: 0.6081
+
 ### Two Indian ships cross Strait of Hormuz as Iran says it allowed passage
 - **Fecha**: Sat, 14 Mar 2026 12:58:22 +0000
 - **Fuente**: al_jazeera
@@ -102,33 +165,32 @@ schema: "NewsDigest"
 - **Resumen**: Iran&#039;s envoy to New Delhi says Tehran allowed some Indian vessels to pass the Strait in rare exception to the blockade.
 - **Relevancia**: 0.5114
 
-### Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war
-- **Fecha**: Sat, 14 Mar 2026 12:12:07 +0000
-- **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/news/2026/3/14/israels-genocide-in-gaza-claims-another-5-palestinian-lives-amid-wider-war?traffic_source=rss
-- **Resumen**: Israeli forces carry out daily attacks on besieged Gaza, as humanitarian conditions amid Iran war worsen.
-- **Relevancia**: 0.4743
+### Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns
+- **Fecha**: Sat, 14 Mar 2026 17:40:47 +0000
+- **Fuente**: scmp_world
+- **URL**: https://www.scmp.com/news/world/middle-east/article/3346629/israel-may-commit-new-genocide-lebanon-using-iran-war-pretext-turkey-warns?utm_source=rss_feed
+- **Resumen**: Turkey expressed deep concern on Saturday over Israel’s ongoing strikes on Lebanon, voicing fears it could commit “a new genocide” under the guise of fighting Iran-backed Hezbollah.
+“We are frankly concerned [Israeli Prime Minister Benjamin] Netanyahu is moving toward a new genocide under the pretext of fighting Hezbollah,” Turkish Foreign Minister Hakan Fidan told a news conference.
+“The international community must act as soon as possible in the face of the crimes that Israel continues to...
+- **Relevancia**: 0.4963
 
-### The battle on the propaganda front intensifies
-- **Fecha**: Sat, 14 Mar 2026 11:17:10 +0000
-- **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/video/the-listening-post/2026/3/14/the-battle-on-the-propaganda-front-intensifies?traffic_source=rss
-- **Resumen**: As the US and Israel battle to control the story of their war against Iran, their messaging gets harder to defend.
-- **Relevancia**: 0.5081
+### Iran war: Trump urges China, other nations, to send warships to secure Hormuz
+- **Fecha**: Sat, 14 Mar 2026 16:37:02 +0000
+- **Fuente**: scmp_world
+- **URL**: https://www.scmp.com/news/world/middle-east/article/3346628/iran-war-trump-urges-china-other-nations-send-warships-secure-hormuz?utm_source=rss_feed
+- **Resumen**: US President Donald Trump on Saturday urged other nations, including China, to deploy ships to help secure the Strait of Hormuz, a key route for global oil supplies disrupted by the war in the Middle East.
+“Many countries, especially those affected by Iran’s attempted closure of the Hormuz Strait, will be sending warships, in conjunction with the United States, to keep the strait open and safe,” Trump wrote in a Truth Social post.
+“Hopefully China, France, Japan, South Korea, the UK, and others...
+- **Relevancia**: 0.5432
 
-### Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran
-- **Fecha**: Sat, 14 Mar 2026 09:53:03 +0000
-- **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss
-- **Resumen**: The Palestinian group calls for end to Gulf attacks while supporting Tehran’s right to defend against Israel and US.
-- **Relevancia**: 0.5276
-
-### Iran continues intensified attacks across Gulf in US-Israel war fallout
-- **Fecha**: Sat, 14 Mar 2026 09:12:38 +0000
-- **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss
-- **Resumen**: Strikes target multiple countries, including UAE, Saudi Arabia and Qatar, with interceptions reported.
-- **Relevancia**: 0.6598
+### Iran war entering ‘decisive phase’, Israel says, as attacks continue
+- **Fecha**: Sat, 14 Mar 2026 15:51:05 +0000
+- **Fuente**: scmp_world
+- **URL**: https://www.scmp.com/news/world/middle-east/article/3346626/iran-war-entering-decisive-phase-israel-says-attacks-continue?utm_source=rss_feed
+- **Resumen**: Israel said the war against Iran was entering its “decisive phase” on Saturday, as explosions rocked cities across the Middle East, with strikes on the US embassy in Baghdad and a major Emirati energy facility.
+Washington’s embassy in Iraq was hit by a drone, security sources said, the second time it had been targeted since February 28, when the United States and Israel attacked Iran and plunged the Gulf into a conflict that has sent shock waves through the global economy.
+Millions have been...
+- **Relevancia**: 0.6736
 
 ### Hamas calls on Iran to ‘avoid targeting neighbouring countries’
 - **Fecha**: Sat, 14 Mar 2026 11:30:07 +0000
@@ -167,81 +229,77 @@ Japan, France and Canada have all been exploring how to build supply chains for 
 Senior officials from the three Group of Seven economies are working on...
 - **Relevancia**: 0.6477
 
-### Iran lets 2 India-flagged gas tankers sail through Strait of Hormuz, insiders say
-- **Fecha**: Fri, 13 Mar 2026 18:35:10 +0000
-- **Fuente**: scmp_world
-- **URL**: https://www.scmp.com/news/world/middle-east/article/3346565/iran-lets-2-india-flagged-gas-tankers-sail-through-strait-hormuz-insiders-say?utm_source=rss_feed
-- **Resumen**: Iran ⁠has allowed two Indian-flagged liquefied ⁠petroleum gas carriers to sail through the Strait of Hormuz, ⁠four sources with direct knowledge of the matter said, a rare exception to the Iranian blockade that has disrupted global energy supplies.
-The Indian-flagged LPG tanker Shivalik crossed the Strait under escort from the Indian Navy, said two of the sources, and the second vessel, Nanda Devi, was expected to clear in the ‌next few hours.
-Since the United States and Israel launched a...
-- **Relevancia**: 0.6587
-
-### Trump: "Los medios de comunicación despreciables realmente quieren que perdamos la guerra"
-- **Fecha**: Sat, 14 Mar 2026 14:09:51 +0000
+### "Mucho más perjudiciales y tóxicos": Otro lado oscuro de la agresión contra Irán
+- **Fecha**: Sat, 14 Mar 2026 19:12:05 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592909-trump-medios-comunicacion-despreciables-realmente?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b568c659bf5b79b60a9d4e.jpg" style="float: left;" />
-        	El presidente estadounidense se refirió a los informes sobre aviones cisterna que supuestamente habían sido afectados por ataques de represalia iraníes.
-- **Relevancia**: 0.5001
+- **URL**: https://actualidad.rt.com/actualidad/592904-contaminacion-toxica-guerra-iran-perdurar-decadas?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b55f9fe9ff71695b5bed1e.jpg" style="float: left;" />
+        	Expertos hacen saltar las alarmas por más consecuencias devastadoras de la actual escalada en Oriente Medio, que perdurarán a lo largo de décadas.
+- **Relevancia**: 0.4724
 
-### Petrolero griego atacado por "un objeto desconocido" en el mar Negro
-- **Fecha**: Sat, 14 Mar 2026 13:00:48 +0000
+### Trump pide a los países que reciben petróleo por el estrecho de Ormuz que velen "por la seguridad" del paso
+- **Fecha**: Sat, 14 Mar 2026 19:08:36 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592893-petrolero-griego-atacar-objeto-desconocido-mar-negro?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b54da6e9ff7102ad04c186.jpg" style="float: left;" />
-        	Como consecuencia del ataque, solo se produjeron daños materiales en el costado de estribor del buque.
-- **Relevancia**: 0.5811
+- **URL**: https://actualidad.rt.com/actualidad/592948-trump-pide-paises-reciben-petroleo-estrecho-ormuz-velar-seguridad?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg" style="float: left;" />
+- **Relevancia**: 0.5669
 
-### X hará cambios en Europa para resolver una disputa de 138 millones de dólares
-- **Fecha**: Sat, 14 Mar 2026 12:10:51 +0000
+### Primer ministro belga: Como Europa no es capaz de "asfixiar" a Rusia, "solo queda llegar a un acuerdo"
+- **Fecha**: Sat, 14 Mar 2026 17:39:11 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592871-musk-resolver-disputa-millones-dolares-medida?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b559abe9ff7115cc5c6b9a.jpg" style="float: left;" />
-        	"La Comisión [Europea] evaluará ahora detenidamente las medidas correctivas propuestas", dijo este viernes un portavoz del ente.
-- **Relevancia**: 0.5246
+- **URL**: https://actualidad.rt.com/actualidad/592937-primer-ministro-belga-acuerdo-rusia-solucion?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b59624e9ff7113de11f552.jpg" style="float: left;" />
+        	Bart de Wever afirmó que hay que poner fin al conflicto entre Kiev y Moscú en interés de Europa.
+- **Relevancia**: 0.5684
 
-### Cuán importante es "la joya" petrolera de Irán y qué pasará si EE.UU. decide destruirla
-- **Fecha**: Sat, 14 Mar 2026 12:03:07 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592877-importante-isla-petrolera-irani-kharg-iran-destruir?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b53b10e9ff7113de11f4f6.jpg" style="float: left;" />
-        	La última vez que la isla sufrió un ataque importante fue durante la guerra entre Irán e Irak en la década de 1980.
-- **Relevancia**: 0.4692
-
-### Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry
-- **Fecha**: Wed, 04 Jun 2025 14:21:03 +0300
+### US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters
+- **Fecha**: Sat, 14 Mar 2026 20:54:48 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/politics/1968329
-- **Resumen**: "As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire," Maria Zakharova said
-- **Relevancia**: 0.4822
+- **URL**: https://tass.com/world/2101651
+- **Resumen**: In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation
+- **Relevancia**: 0.5037
 
-### Poland's capacity to deliver arms to Ukraine heavily constrained — paper
-- **Fecha**: Wed, 04 Jun 2025 13:22:26 +0300
+### Israel carries out 400 waves of attacks on Iran since February 28 — IDF
+- **Fecha**: Sat, 14 Mar 2026 19:31:48 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/1968271
-- **Resumen**: According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine
-- **Relevancia**: 0.4853
+- **URL**: https://tass.com/world/2101639
+- **Resumen**: The Israeli Air Force focused "on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran," the Israeli military said
+- **Relevancia**: 0.7033
 
-### Russia not interested in arms race with Europe, European Parliament member says
-- **Fecha**: Wed, 04 Jun 2025 13:02:43 +0300
+### Iran announces new wave of missile strikes on Israel — public broadcaster
+- **Fecha**: Sat, 14 Mar 2026 16:19:52 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/1968241
-- **Resumen**: Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as "strategic patience"
-- **Relevancia**: 0.5195
+- **URL**: https://tass.com/world/2101609
+- **Resumen**: Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel
+- **Relevancia**: 0.6088
 
-### Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint
-- **Fecha**: Wed, 04 Jun 2025 13:00:01 +0300
+### Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC
+- **Fecha**: Sat, 14 Mar 2026 16:17:11 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/pressreview/1968153
-- **Resumen**: Top stories from the Russian press on Wednesday, June 4th
-- **Relevancia**: 0.4758
+- **URL**: https://tass.com/world/2101607
+- **Resumen**: Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported
+- **Relevancia**: 0.4791
 
-### Iran warns of retaliation after US bombing of Kharg Island
-- **Fecha**: Sat, 14 Mar 2026 09:37:22 +0000
-- **Fuente**: politico_europe
-- **URL**: https://www.politico.eu/article/iran-warns-of-retaliatory-strikes-on-us-oil-facilities-kharg-island/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-- **Resumen**: Tehran threatens to hit U.S.-linked oil and energy infrastructures if its own oil facilities are attacked.
-- **Relevancia**: 0.5101
+### Pentagon reports strikes on 90 military targets on Iran's Kharg Island
+- **Fecha**: Sat, 14 Mar 2026 15:16:23 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101603
+- **Resumen**: But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said
+- **Relevancia**: 0.5125
+
+### Israeli army reports destruction of Iranian Space Agency research center
+- **Fecha**: Sat, 14 Mar 2026 14:31:56 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101597
+- **Resumen**: In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated
+- **Relevancia**: 0.6352
+
+### Global markets now in dire need of Russian oil — Kremlin
+- **Fecha**: Sat, 14 Mar 2026 09:55:39 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/economy/2101547
+- **Resumen**: Earlier, the US lifted sanctions on the sale of oil and petroleum products from Russia loaded onto ships before March 12
+- **Relevancia**: 0.5135
 
 ### Bowman, Capital Rules for the Real Economy
 - **Fecha**: Thu, 12 Mar 2026 15:00:00 GMT

@@ -5,7 +5,7 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json",
   "language": "es-MX",
-  "date_modified": "2026-03-14T14:51:10.164705+00:00",
+  "date_modified": "2026-03-14T19:17:11.494050+00:00",
   "total_records": 72,
   "items": [
     {
@@ -615,6 +615,17 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#55",
+      "title": "¿Quién contribuye más?, las actividades que impulsan la recaudación del SAT",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/14/quien-contribuye-mas-sectores-recaudacion-sat",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#56",
       "title": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -625,7 +636,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#56",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#57",
       "title": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -636,7 +647,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#57",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#58",
       "title": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -647,7 +658,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#58",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#59",
       "title": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -658,7 +669,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#59",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#60",
       "title": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -669,7 +680,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#60",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#61",
       "title": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -680,7 +691,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#61",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#62",
       "title": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -691,7 +702,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#62",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#63",
       "title": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -702,7 +713,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#63",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#64",
       "title": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -713,7 +724,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#64",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#65",
       "title": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -724,7 +735,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#65",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#66",
       "title": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -735,7 +746,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#66",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#67",
       "title": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -746,7 +757,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#67",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#68",
       "title": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -757,22 +768,11 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#68",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#69",
       "title": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
       "content_text": "",
       "date_published": "2026-03-14",
       "url": "https://expansion.mx/economia/2026/03/10/banco-base-acusaciones-de-lavado-de-dinero-fueron-una-sacudida-para-los-bancos",
-      "tags": [
-        "regulaciones_pyme",
-        "expansion_economia"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#69",
-      "title": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "url": "https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas",
       "tags": [
         "regulaciones_pyme",
         "expansion_economia"

@@ -4,7 +4,7 @@
   "name": "geopolitica — 2026-03-14",
   "description": "Digest semántico de geopolitica generado el 2026-03-14",
   "datePublished": "2026-03-14",
-  "numberOfItems": 34,
+  "numberOfItems": 42,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -130,6 +130,125 @@
       "position": 8,
       "item": {
         "@type": "NewsArticle",
+        "headline": "Gas Prices & Airfare Spike as Iran War Drags On",
+        "description": "Patrick De Haan, GasBuddy's Head of Petroleum Analysis, on \"Bloomberg This Weekend\" predicts gas prices will continue rising as demand increases this spring. (Source: Bloomberg)",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-14/gas-prices-airfare-spike-as-iran-war-drags-on-video",
+        "datePublished": "Sat, 14 Mar 2026 16:17:25 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.508
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "US Faces Tough Choices in Iran War's Next Steps",
+        "description": "\"You set things in motion but you can't control how they end up,\" Sir Lawrence Freedman, emeritus professor of war studies at King's College London, warns of the consequences of the US military strikes and the perilous paths ahead - on \"Bloomberg This Weekend.\" (Source: Bloomberg)",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-14/us-faces-tough-choices-in-iran-war-s-next-steps-video",
+        "datePublished": "Sat, 14 Mar 2026 17:09:11 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.495
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran Oil Hub Strike Raises Fears of Further Supply Upheaval",
+        "description": "A major US attack on the island that exports the bulk of Iran’s crude is raising fears of more widespread supply disruptions in the region, further straining oil and gas markets already in upheaval after two weeks of war in the Middle East.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-14/iran-oil-hub-strike-raises-risk-of-further-disruptions-to-supply",
+        "datePublished": "Sat, 14 Mar 2026 02:55:52 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4766
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Volatile & Dangerous Game': Trump Balancing Iran Military Campaign Without Disrupting Oil Supply",
+        "description": "On \"Bloomberg This Weekend,\" Axios Energy Reporter Ben Geman predicts more uncertainty in the energy market after the US strike on Iran's Kharg Island. (Source: Bloomberg)",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-14/trump-balancing-iran-military-campaign-oil-supply-video",
+        "datePublished": "Sat, 14 Mar 2026 16:04:05 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4733
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Top UN Official on Risk to Oil Tankers and Ships in Strait of Hormuz",
+        "description": "Secretary-General Arsenio Dominguez, of the UN's International Maritime Organization, tells \"Bloomberg This Weekend\" that more than a dozen ships have been damaged during the US-Iran War, with many more trapped without fresh food and water.  (Source: Bloomberg)",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-14/risk-to-oil-tankers-and-ships-in-strait-of-hormuz-video",
+        "datePublished": "Sat, 14 Mar 2026 16:02:23 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6228
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Tensions Rising on Strait of Hormuz After US Attacks on Strategic Island",
+        "description": "Live reports from \"Bloomberg This Weekend\" from the United Arab Emirates and Israel as ship traffic stalls at the Strait of Hormuz. Overnight the Trump Administration bombed the strategic Kharg Island, which handles roughly 90% of Iran's oil production. (Source: Bloomberg)",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-14/hormuz-strait-tensions-after-us-attack-video",
+        "datePublished": "Sat, 14 Mar 2026 15:28:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5205
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Trump Hopes China and Other Nations Will Send Ships to Hormuz",
+        "description": "“Hopefully China, France, Japan, South Korea, the UK, and others, that are affected by this artificial constraint, will send Ships,” President Donald Trump says in a Truth Social post.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-14/trump-hopes-china-and-other-nations-will-send-ships-to-hormuz",
+        "datePublished": "Sat, 14 Mar 2026 14:20:11 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5367
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "NewsArticle",
         "headline": "Second Dynacom Oil Tanker Passes Hormuz as Other Owners Hold Back",
         "description": "A Greek shipowner sent a second oil tanker through the Strait of Hormuz, bucking caution among the shipping industry as Iran lashes out across the region in response to attacks by Israel and the US.",
         "url": "https://www.bloomberg.com/news/articles/2026-03-14/second-dynacom-oil-tanker-passes-hormuz-as-other-owners-hold-back",
@@ -144,58 +263,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 9,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Two LPG Ships Sail Through Hormuz to Shortage-Hit India",
-        "description": "Two tankers carrying liquefied petroleum gas are heading to India after crossing the Strait of Hormuz, providing some relief to acute shortages as the war in the Persian Gulf disrupts supply of the cooking fuel.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-14/two-lpg-ships-sail-through-hormuz-on-way-to-shortage-hit-india",
-        "datePublished": "Sat, 14 Mar 2026 06:37:31 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "bloomberg_markets"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6947
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 10,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "HORMUZ TRACKER: Saudi Suezmax Reappears Off Mumbai; LPG to India",
-        "description": "Commercial vessel traffic through the Strait of Hormuz continues at very low levels, with just a handful of oil and liquefied petroleum gas tankers transiting in the last 24 hours amid heightened regional tensions.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-14/hormuz-tracker-saudi-suezmax-reappears-off-mumbai-lpg-to-india",
-        "datePublished": "Sat, 14 Mar 2026 13:15:38 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "bloomberg_markets"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6862
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 11,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Russian Refinery, Port Hit by Drones; Kyiv Comes Under Fire",
-        "description": "Drone attacks on Russia sparked a fire at an oil refinery and caused damage at a key port in the southern Krasnodar region, while Ukraine faced one of the largest missile and drone barrages so far this year, with at least four people killed.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-14/russia-says-major-oil-refinery-key-port-hit-by-ukraine-drones",
-        "datePublished": "Sat, 14 Mar 2026 05:11:25 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "bloomberg_markets"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.475
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 12,
+      "position": 16,
       "item": {
         "@type": "NewsArticle",
         "headline": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
@@ -212,7 +280,92 @@
     },
     {
       "@type": "ListItem",
-      "position": 13,
+      "position": 17,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
+        "description": "US president urges naval coalition as Iran says Strait of Hormuz closed to &#039;tankers and ships of enemies&#039; during war.",
+        "url": "https://www.aljazeera.com/news/2026/3/14/trump-says-many-countries-will-send-warships-to-hormuz-amid-iran-blockade?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 17:38:12 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5989
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
+        "description": "‘Israel targeting Iran’s security forces may aim to encourage uprising’ says director of the Iran Program at the MEI.",
+        "url": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-targeting-irans-security-forces-may-aim-to-encourage?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 17:02:25 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6203
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran allows limited Indian shipping through Strait of Hormuz",
+        "description": "Iran has allowed some Indian vessels through the Strait of Hormuz.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-allows-limited-indian-shipping-through-strait-of-hormuz?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 16:23:24 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5831
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs",
+        "description": "Drone strikes have hit the paramilitary&#039;s heavily armed checkpoints this week, Islamic Revolutionary Guard Corps said.",
+        "url": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 16:03:00 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6044
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran says Strait of Hormuz will not be reopened to US ships",
+        "description": "A member of Iran’s Expediency Council says the Strait of Hormuz will remain closed to US ships.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 15:18:04 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6081
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
       "item": {
         "@type": "NewsArticle",
         "headline": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
@@ -229,75 +382,58 @@
     },
     {
       "@type": "ListItem",
-      "position": 14,
+      "position": 23,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war",
-        "description": "Israeli forces carry out daily attacks on besieged Gaza, as humanitarian conditions amid Iran war worsen.",
-        "url": "https://www.aljazeera.com/news/2026/3/14/israels-genocide-in-gaza-claims-another-5-palestinian-lives-amid-wider-war?traffic_source=rss",
-        "datePublished": "Sat, 14 Mar 2026 12:12:07 +0000",
+        "headline": "Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns",
+        "description": "Turkey expressed deep concern on Saturday over Israel’s ongoing strikes on Lebanon, voicing fears it could commit “a new genocide” under the guise of fighting Iran-backed Hezbollah.\n“We are frankly concerned [Israeli Prime Minister Benjamin] Netanyahu is moving toward a new genocide under the pretext of fighting Hezbollah,” Turkish Foreign Minister Hakan Fidan told a news conference.\n“The international community must act as soon as possible in the face of the crimes that Israel continues to...",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3346629/israel-may-commit-new-genocide-lebanon-using-iran-war-pretext-turkey-warns?utm_source=rss_feed",
+        "datePublished": "Sat, 14 Mar 2026 17:40:47 +0000",
         "publisher": {
           "@type": "Organization",
-          "name": "al_jazeera"
+          "name": "scmp_world"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.4743
+        "relevanceScore": 0.4963
       }
     },
     {
       "@type": "ListItem",
-      "position": 15,
+      "position": 24,
       "item": {
         "@type": "NewsArticle",
-        "headline": "The battle on the propaganda front intensifies",
-        "description": "As the US and Israel battle to control the story of their war against Iran, their messaging gets harder to defend.",
-        "url": "https://www.aljazeera.com/video/the-listening-post/2026/3/14/the-battle-on-the-propaganda-front-intensifies?traffic_source=rss",
-        "datePublished": "Sat, 14 Mar 2026 11:17:10 +0000",
+        "headline": "Iran war: Trump urges China, other nations, to send warships to secure Hormuz",
+        "description": "US President Donald Trump on Saturday urged other nations, including China, to deploy ships to help secure the Strait of Hormuz, a key route for global oil supplies disrupted by the war in the Middle East.\n“Many countries, especially those affected by Iran’s attempted closure of the Hormuz Strait, will be sending warships, in conjunction with the United States, to keep the strait open and safe,” Trump wrote in a Truth Social post.\n“Hopefully China, France, Japan, South Korea, the UK, and others...",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3346628/iran-war-trump-urges-china-other-nations-send-warships-secure-hormuz?utm_source=rss_feed",
+        "datePublished": "Sat, 14 Mar 2026 16:37:02 +0000",
         "publisher": {
           "@type": "Organization",
-          "name": "al_jazeera"
+          "name": "scmp_world"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.5081
+        "relevanceScore": 0.5432
       }
     },
     {
       "@type": "ListItem",
-      "position": 16,
+      "position": 25,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
-        "description": "The Palestinian group calls for end to Gulf attacks while supporting Tehran’s right to defend against Israel and US.",
-        "url": "https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss",
-        "datePublished": "Sat, 14 Mar 2026 09:53:03 +0000",
+        "headline": "Iran war entering ‘decisive phase’, Israel says, as attacks continue",
+        "description": "Israel said the war against Iran was entering its “decisive phase” on Saturday, as explosions rocked cities across the Middle East, with strikes on the US embassy in Baghdad and a major Emirati energy facility.\nWashington’s embassy in Iraq was hit by a drone, security sources said, the second time it had been targeted since February 28, when the United States and Israel attacked Iran and plunged the Gulf into a conflict that has sent shock waves through the global economy.\nMillions have been...",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3346626/iran-war-entering-decisive-phase-israel-says-attacks-continue?utm_source=rss_feed",
+        "datePublished": "Sat, 14 Mar 2026 15:51:05 +0000",
         "publisher": {
           "@type": "Organization",
-          "name": "al_jazeera"
+          "name": "scmp_world"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.5276
+        "relevanceScore": 0.6736
       }
     },
     {
       "@type": "ListItem",
-      "position": 17,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iran continues intensified attacks across Gulf in US-Israel war fallout",
-        "description": "Strikes target multiple countries, including UAE, Saudi Arabia and Qatar, with interceptions reported.",
-        "url": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss",
-        "datePublished": "Sat, 14 Mar 2026 09:12:38 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "al_jazeera"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6598
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 18,
+      "position": 26,
       "item": {
         "@type": "NewsArticle",
         "headline": "Hamas calls on Iran to ‘avoid targeting neighbouring countries’",
@@ -314,7 +450,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 19,
+      "position": 27,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war fallout puts 9 million Indian workers in the line of fire",
@@ -331,7 +467,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 20,
+      "position": 28,
       "item": {
         "@type": "NewsArticle",
         "headline": "Strikes on Iraqi capital kill 2 Iran-linked Kataeb Hezbollah members",
@@ -348,7 +484,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 21,
+      "position": 29,
       "item": {
         "@type": "NewsArticle",
         "headline": "Beyond Pax Silica: Japan, France and Canada seek rare earth autonomy",
@@ -365,155 +501,19 @@
     },
     {
       "@type": "ListItem",
-      "position": 22,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iran lets 2 India-flagged gas tankers sail through Strait of Hormuz, insiders say",
-        "description": "Iran ⁠has allowed two Indian-flagged liquefied ⁠petroleum gas carriers to sail through the Strait of Hormuz, ⁠four sources with direct knowledge of the matter said, a rare exception to the Iranian blockade that has disrupted global energy supplies.\nThe Indian-flagged LPG tanker Shivalik crossed the Strait under escort from the Indian Navy, said two of the sources, and the second vessel, Nanda Devi, was expected to clear in the ‌next few hours.\nSince the United States and Israel launched a...",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3346565/iran-lets-2-india-flagged-gas-tankers-sail-through-strait-hormuz-insiders-say?utm_source=rss_feed",
-        "datePublished": "Fri, 13 Mar 2026 18:35:10 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "scmp_world"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6587
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 23,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Trump: \"Los medios de comunicación despreciables realmente quieren que perdamos la guerra\"",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b568c659bf5b79b60a9d4e.jpg\" style=\"float: left;\" />\n        \tEl presidente estadounidense se refirió a los informes sobre aviones cisterna que supuestamente habían sido afectados por ataques de represalia iraníes.",
-        "url": "https://actualidad.rt.com/actualidad/592909-trump-medios-comunicacion-despreciables-realmente?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Sat, 14 Mar 2026 14:09:51 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5001
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 24,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Petrolero griego atacado por \"un objeto desconocido\" en el mar Negro",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b54da6e9ff7102ad04c186.jpg\" style=\"float: left;\" />\n        \tComo consecuencia del ataque, solo se produjeron daños materiales en el costado de estribor del buque.",
-        "url": "https://actualidad.rt.com/actualidad/592893-petrolero-griego-atacar-objeto-desconocido-mar-negro?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Sat, 14 Mar 2026 13:00:48 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5811
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 25,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "X hará cambios en Europa para resolver una disputa de 138 millones de dólares",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b559abe9ff7115cc5c6b9a.jpg\" style=\"float: left;\" />\n        \t\"La Comisión [Europea] evaluará ahora detenidamente las medidas correctivas propuestas\", dijo este viernes un portavoz del ente.",
-        "url": "https://actualidad.rt.com/actualidad/592871-musk-resolver-disputa-millones-dolares-medida?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Sat, 14 Mar 2026 12:10:51 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5246
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 26,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Cuán importante es \"la joya\" petrolera de Irán y qué pasará si EE.UU. decide destruirla",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b53b10e9ff7113de11f4f6.jpg\" style=\"float: left;\" />\n        \tLa última vez que la isla sufrió un ataque importante fue durante la guerra entre Irán e Irak en la década de 1980.",
-        "url": "https://actualidad.rt.com/actualidad/592877-importante-isla-petrolera-irani-kharg-iran-destruir?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Sat, 14 Mar 2026 12:03:07 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4692
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 27,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
-        "description": "\"As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire,\" Maria Zakharova said",
-        "url": "https://tass.com/politics/1968329",
-        "datePublished": "Wed, 04 Jun 2025 14:21:03 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4822
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 28,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
-        "description": "According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine",
-        "url": "https://tass.com/world/1968271",
-        "datePublished": "Wed, 04 Jun 2025 13:22:26 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4853
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 29,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Russia not interested in arms race with Europe, European Parliament member says",
-        "description": "Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as \"strategic patience\"",
-        "url": "https://tass.com/world/1968241",
-        "datePublished": "Wed, 04 Jun 2025 13:02:43 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5195
-      }
-    },
-    {
-      "@type": "ListItem",
       "position": 30,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
-        "description": "Top stories from the Russian press on Wednesday, June 4th",
-        "url": "https://tass.com/pressreview/1968153",
-        "datePublished": "Wed, 04 Jun 2025 13:00:01 +0300",
+        "headline": "\"Mucho más perjudiciales y tóxicos\": Otro lado oscuro de la agresión contra Irán",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b55f9fe9ff71695b5bed1e.jpg\" style=\"float: left;\" />\n        \tExpertos hacen saltar las alarmas por más consecuencias devastadoras de la actual escalada en Oriente Medio, que perdurarán a lo largo de décadas.",
+        "url": "https://actualidad.rt.com/actualidad/592904-contaminacion-toxica-guerra-iran-perdurar-decadas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 19:12:05 +0000",
         "publisher": {
           "@type": "Organization",
-          "name": "tass_english"
+          "name": "rt_espanol"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.4758
+        "relevanceScore": 0.4724
       }
     },
     {
@@ -521,21 +521,157 @@
       "position": 31,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Iran warns of retaliation after US bombing of Kharg Island",
-        "description": "Tehran threatens to hit U.S.-linked oil and energy infrastructures if its own oil facilities are attacked.",
-        "url": "https://www.politico.eu/article/iran-warns-of-retaliatory-strikes-on-us-oil-facilities-kharg-island/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "datePublished": "Sat, 14 Mar 2026 09:37:22 +0000",
+        "headline": "Trump pide a los países que reciben petróleo por el estrecho de Ormuz que velen \"por la seguridad\" del paso",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg\" style=\"float: left;\" />",
+        "url": "https://actualidad.rt.com/actualidad/592948-trump-pide-paises-reciben-petroleo-estrecho-ormuz-velar-seguridad?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 19:08:36 +0000",
         "publisher": {
           "@type": "Organization",
-          "name": "politico_europe"
+          "name": "rt_espanol"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.5101
+        "relevanceScore": 0.5669
       }
     },
     {
       "@type": "ListItem",
       "position": 32,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Primer ministro belga: Como Europa no es capaz de \"asfixiar\" a Rusia, \"solo queda llegar a un acuerdo\"",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b59624e9ff7113de11f552.jpg\" style=\"float: left;\" />\n        \tBart de Wever afirmó que hay que poner fin al conflicto entre Kiev y Moscú en interés de Europa.",
+        "url": "https://actualidad.rt.com/actualidad/592937-primer-ministro-belga-acuerdo-rusia-solucion?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 17:39:11 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5684
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters",
+        "description": "In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation",
+        "url": "https://tass.com/world/2101651",
+        "datePublished": "Sat, 14 Mar 2026 20:54:48 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5037
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Israel carries out 400 waves of attacks on Iran since February 28 — IDF",
+        "description": "The Israeli Air Force focused \"on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran,\" the Israeli military said",
+        "url": "https://tass.com/world/2101639",
+        "datePublished": "Sat, 14 Mar 2026 19:31:48 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.7033
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran announces new wave of missile strikes on Israel — public broadcaster",
+        "description": "Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel",
+        "url": "https://tass.com/world/2101609",
+        "datePublished": "Sat, 14 Mar 2026 16:19:52 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6088
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC",
+        "description": "Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported",
+        "url": "https://tass.com/world/2101607",
+        "datePublished": "Sat, 14 Mar 2026 16:17:11 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4791
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Pentagon reports strikes on 90 military targets on Iran's Kharg Island",
+        "description": "But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said",
+        "url": "https://tass.com/world/2101603",
+        "datePublished": "Sat, 14 Mar 2026 15:16:23 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5125
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 38,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Israeli army reports destruction of Iranian Space Agency research center",
+        "description": "In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated",
+        "url": "https://tass.com/world/2101597",
+        "datePublished": "Sat, 14 Mar 2026 14:31:56 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6352
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 39,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Global markets now in dire need of Russian oil — Kremlin",
+        "description": "Earlier, the US lifted sanctions on the sale of oil and petroleum products from Russia loaded onto ships before March 12",
+        "url": "https://tass.com/economy/2101547",
+        "datePublished": "Sat, 14 Mar 2026 09:55:39 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5135
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 40,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Capital Rules for the Real Economy",
@@ -552,7 +688,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 33,
+      "position": 41,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
@@ -569,7 +705,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 34,
+      "position": 42,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Outlook for the Economy and Monetary Policy",
