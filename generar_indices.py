@@ -158,6 +158,6 @@ movimiento de buques y aranceles. Datos en formato JSONL, JSON-LD y Markdown.</p
 # Generar índices
 print("Generando índices HTML navegables...")
 for carpeta in CARPETAS:
-    generar_indices(carpeta)
+    generar_index(carpeta)
 
 print("\n✓ Listo — los crawlers de IA ahora pueden navegar el contenido")

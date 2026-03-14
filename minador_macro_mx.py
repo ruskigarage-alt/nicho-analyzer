@@ -347,3 +347,54 @@ try:
             print(f"  ✗ {nombre}: {ex}")
 except Exception as e:
     print(f"  ✗ Energia extra: {e}")
+
+# ── GOOGLE NEWS MACRO MÉXICO ─────────────────────────────────────
+print("\n[ GOOGLE NEWS ] Noticias macro México")
+try:
+    import feedparser, time as _time
+
+    QUERIES_MACRO = [
+        ("regulaciones_pyme", "tipo+de+cambio+peso+mexicano+economia"),
+        ("regulaciones_pyme", "inflacion+Mexico+Banxico+economia"),
+        ("regulaciones_pyme", "SAT+recaudacion+fiscal+Mexico+2026"),
+        ("regulaciones_pyme", "T-MEC+aranceles+Mexico+exportaciones"),
+        ("geopolitica",       "guerra+Iran+petroleo+impacto+Mexico"),
+        ("geopolitica",       "nearshoring+Mexico+inversion+extranjera"),
+        ("geopolitica",       "plan+Mexico+infraestructura+economia"),
+    ]
+
+    noticias_gn = []
+    for nicho_gn, query in QUERIES_MACRO:
+        url_gn = f"https://news.google.com/rss/search?q={query}&hl=es-419&gl=MX&ceid=MX:es-419"
+        feed_gn = feedparser.parse(url_gn, request_headers={"User-Agent": "Mozilla/5.0"})
+        count = 0
+        for entry in feed_gn.entries[:5]:
+            titulo_gn  = entry.get("title", "")
+            link_gn    = entry.get("link", "")
+            fecha_gn   = entry.get("published", FECHA)
+            if not titulo_gn:
+                continue
+            registros.append({
+                "nicho":       nicho_gn,
+                "fuente":      "google_news_macro",
+                "titulo":      titulo_gn,
+                "url":         link_gn,
+                "fecha":       fecha_gn,
+                "fecha_minado": FECHA,
+                "tipo":        "noticia",
+                "valor":       None,
+                "unidad":      None,
+                "extra":       {"query": query}
+            })
+            count += 1
+        print(f"  ✓ [{nicho_gn}] {query[:40]}: {count} noticias")
+        _time.sleep(0.5)
+
+    # Reescribir JSONL con los nuevos registros incluidos
+    with open(OUTPUT, "w", encoding="utf-8") as f:
+        for r in registros:
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    print(f"✓ JSONL actualizado con Google News — {len(registros)} registros totales")
+
+except Exception as e:
+    print(f"  ✗ Google News macro: {e}")
