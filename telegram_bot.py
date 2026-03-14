@@ -144,7 +144,7 @@ def msg_electoral(candidatos, momentum):
             f"   Encuesta: {pct}% | Menciones: {menciones} | Momentum: {mom_icon} {mom_str}"
         )
 
-    lineas.append(f"\n🔗 <a href=\"https://ruskigarage-alt.github.io/nicho-analyzer/radar_electoral_zacatecas.html\">Ver radar electoral</a>")
+    lineas.append(f"\n🔗 <a href=\"https://ruskigarage-alt.github.io/nicho-analyzer/scoreboard.html\">Ver scoreboard electoral</a>")
     return "\n".join(lineas)
 
 def msg_geopolitica(entradas):

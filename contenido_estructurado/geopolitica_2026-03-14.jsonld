@@ -4,7 +4,7 @@
   "name": "geopolitica — 2026-03-14",
   "description": "Digest semántico de geopolitica generado el 2026-03-14",
   "datePublished": "2026-03-14",
-  "numberOfItems": 39,
+  "numberOfItems": 34,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -130,23 +130,6 @@
       "position": 8,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Iran Denies Attack on Lanaz Oil Refinery in Northern Iraq",
-        "description": "Iran and allied Iraqi militia groups denied attacking the Lanaz oil refinery in northern Iraq, the semi-official Tasnim news agency reported, citing an unnamed military official.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-14/iran-denies-attack-on-lanaz-oil-refinery-in-northern-iraq",
-        "datePublished": "Sat, 14 Mar 2026 21:09:31 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "bloomberg_markets"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4731
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 9,
-      "item": {
-        "@type": "NewsArticle",
         "headline": "Gas Prices & Airfare Spike as Iran War Drags On",
         "description": "Patrick De Haan, GasBuddy's Head of Petroleum Analysis, on \"Bloomberg This Weekend\" predicts gas prices will continue rising as demand increases this spring. (Source: Bloomberg)",
         "url": "https://www.bloomberg.com/news/videos/2026-03-14/gas-prices-airfare-spike-as-iran-war-drags-on-video",
@@ -161,7 +144,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 10,
+      "position": 9,
       "item": {
         "@type": "NewsArticle",
         "headline": "US Faces Tough Choices in Iran War's Next Steps",
@@ -178,7 +161,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 11,
+      "position": 10,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran Oil Hub Strike Raises Fears of Further Supply Upheaval",
@@ -195,7 +178,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 12,
+      "position": 11,
       "item": {
         "@type": "NewsArticle",
         "headline": "Volatile & Dangerous Game': Trump Balancing Iran Military Campaign Without Disrupting Oil Supply",
@@ -212,7 +195,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 13,
+      "position": 12,
       "item": {
         "@type": "NewsArticle",
         "headline": "Top UN Official on Risk to Oil Tankers and Ships in Strait of Hormuz",
@@ -229,7 +212,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 14,
+      "position": 13,
       "item": {
         "@type": "NewsArticle",
         "headline": "Tensions Rising on Strait of Hormuz After US Attacks on Strategic Island",
@@ -246,24 +229,24 @@
     },
     {
       "@type": "ListItem",
-      "position": 15,
+      "position": 14,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Trump Hopes China and Other Nations Will Send Ships to Hormuz",
-        "description": "“Hopefully China, France, Japan, South Korea, the UK, and others, that are affected by this artificial constraint, will send Ships,” President Donald Trump says in a Truth Social post.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-14/trump-hopes-china-and-other-nations-will-send-ships-to-hormuz",
-        "datePublished": "Sat, 14 Mar 2026 14:20:11 GMT",
+        "headline": "Second Dynacom Oil Tanker Passes Hormuz as Other Owners Hold Back",
+        "description": "A Greek shipowner sent a second oil tanker through the Strait of Hormuz, bucking caution among the shipping industry as Iran lashes out across the region in response to attacks by Israel and the US.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-14/second-dynacom-oil-tanker-passes-hormuz-as-other-owners-hold-back",
+        "datePublished": "Sat, 14 Mar 2026 13:09:27 GMT",
         "publisher": {
           "@type": "Organization",
           "name": "bloomberg_markets"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.5367
+        "relevanceScore": 0.7481
       }
     },
     {
       "@type": "ListItem",
-      "position": 16,
+      "position": 15,
       "item": {
         "@type": "NewsArticle",
         "headline": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
@@ -276,6 +259,23 @@
         },
         "keywords": "geopolitica",
         "relevanceScore": 0.4675
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "US-Israeli strike kills 15 at Isfahan factory, Iranian media says",
+        "description": "Iranian media report the deaths in central Iran as Tehran launches new missile salvoes at Israeli targets.",
+        "url": "https://www.aljazeera.com/news/2026/3/14/us-israeli-strike-kills-15-at-isfahan-factory-iranian-media-says?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 21:25:17 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6614
       }
     },
     {
@@ -334,23 +334,6 @@
       "position": 20,
       "item": {
         "@type": "NewsArticle",
-        "headline": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
-        "description": "‘Israel targeting Iran’s security forces may aim to encourage uprising’ says director of the Iran Program at the MEI.",
-        "url": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-targeting-irans-security-forces-may-aim-to-encourage?traffic_source=rss",
-        "datePublished": "Sat, 14 Mar 2026 17:02:25 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "al_jazeera"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6203
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 21,
-      "item": {
-        "@type": "NewsArticle",
         "headline": "Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns",
         "description": "Turkey expressed deep concern on Saturday over Israel’s ongoing strikes on Lebanon, voicing fears it could commit “a new genocide” under the guise of fighting Iran-backed Hezbollah.\n“We are frankly concerned [Israeli Prime Minister Benjamin] Netanyahu is moving toward a new genocide under the pretext of fighting Hezbollah,” Turkish Foreign Minister Hakan Fidan told a news conference.\n“The international community must act as soon as possible in the face of the crimes that Israel continues to...",
         "url": "https://www.scmp.com/news/world/middle-east/article/3346629/israel-may-commit-new-genocide-lebanon-using-iran-war-pretext-turkey-warns?utm_source=rss_feed",
@@ -365,11 +348,11 @@
     },
     {
       "@type": "ListItem",
-      "position": 22,
+      "position": 21,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war: Trump urges China, other nations, to send warships to secure Hormuz",
-        "description": "US President Donald Trump on Saturday urged other nations, including China, to deploy ships to help secure the Strait of Hormuz, a key route for global oil supplies disrupted by the war in the Middle East.\n“Many countries, especially those affected by Iran’s attempted closure of the Hormuz Strait, will be sending warships, in conjunction with the United States, to keep the strait open and safe,” Trump wrote in a Truth Social post.\n“Hopefully China, France, Japan, South Korea, the UK, and others...",
+        "description": "US President Donald Trump on Saturday urged other nations, including China, to deploy ships to help secure the Strait of Hormuz, a key route for global oil supplies disrupted by the war in the Middle East.\n“Many Countries, especially those who are affected by Iran’s attempted closure of the Hormuz Strait, will be sending War Ships, in conjunction with the United States of America, to keep the Strait open and safe,” Trump wrote in a Truth Social post.\n“Hopefully China, France, Japan, South Korea,...",
         "url": "https://www.scmp.com/news/world/middle-east/article/3346628/iran-war-trump-urges-china-other-nations-send-warships-secure-hormuz?utm_source=rss_feed",
         "datePublished": "Sat, 14 Mar 2026 16:37:02 +0000",
         "publisher": {
@@ -377,12 +360,12 @@
           "name": "scmp_world"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.5432
+        "relevanceScore": 0.5417
       }
     },
     {
       "@type": "ListItem",
-      "position": 23,
+      "position": 22,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war entering ‘decisive phase’, Israel says, as attacks continue",
@@ -399,7 +382,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 24,
+      "position": 23,
       "item": {
         "@type": "NewsArticle",
         "headline": "Hamas calls on Iran to ‘avoid targeting neighbouring countries’",
@@ -416,7 +399,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 25,
+      "position": 24,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war fallout puts 9 million Indian workers in the line of fire",
@@ -433,7 +416,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 26,
+      "position": 25,
       "item": {
         "@type": "NewsArticle",
         "headline": "Strikes on Iraqi capital kill 2 Iran-linked Kataeb Hezbollah members",
@@ -446,6 +429,23 @@
         },
         "keywords": "geopolitica",
         "relevanceScore": 0.5674
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "\"Para la violencia no habrá impunidad\": Díaz-Canel comenta los hechos vandálicos en la ciudad de Morón",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5d91ee9ff711874488ae1.jpg\" style=\"float: left;\" />\n        \tUn grupo de manifestantes lanzó piedras contra la sede del comité municipal del Partido Comunista cubano.",
+        "url": "https://actualidad.rt.com/actualidad/592959-vandalismo-violencia-impunidad-diaz-canel-hechos-moron?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 21:43:38 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4655
       }
     },
     {
@@ -521,106 +521,21 @@
       "position": 31,
       "item": {
         "@type": "NewsArticle",
-        "headline": "US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters",
-        "description": "In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation",
-        "url": "https://tass.com/world/2101651",
-        "datePublished": "Sat, 14 Mar 2026 20:54:48 +0300",
+        "headline": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+        "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+        "url": "https://tass.com/world/1969663",
+        "datePublished": "Fri, 06 Jun 2025 12:45:53 +0300",
         "publisher": {
           "@type": "Organization",
           "name": "tass_english"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.5037
+        "relevanceScore": 0.5835
       }
     },
     {
       "@type": "ListItem",
       "position": 32,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Israel carries out 400 waves of attacks on Iran since February 28 — IDF",
-        "description": "The Israeli Air Force focused \"on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran,\" the Israeli military said",
-        "url": "https://tass.com/world/2101639",
-        "datePublished": "Sat, 14 Mar 2026 19:31:48 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.7033
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 33,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iran announces new wave of missile strikes on Israel — public broadcaster",
-        "description": "Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel",
-        "url": "https://tass.com/world/2101609",
-        "datePublished": "Sat, 14 Mar 2026 16:19:52 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6088
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 34,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC",
-        "description": "Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported",
-        "url": "https://tass.com/world/2101607",
-        "datePublished": "Sat, 14 Mar 2026 16:17:11 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4791
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 35,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Pentagon reports strikes on 90 military targets on Iran's Kharg Island",
-        "description": "But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said",
-        "url": "https://tass.com/world/2101603",
-        "datePublished": "Sat, 14 Mar 2026 15:16:23 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5125
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 36,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Israeli army reports destruction of Iranian Space Agency research center",
-        "description": "In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated",
-        "url": "https://tass.com/world/2101597",
-        "datePublished": "Sat, 14 Mar 2026 14:31:56 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6352
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 37,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Capital Rules for the Real Economy",
@@ -637,7 +552,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 38,
+      "position": 33,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
@@ -654,7 +569,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 39,
+      "position": 34,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Outlook for the Economy and Monetary Policy",

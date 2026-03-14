@@ -2,8 +2,8 @@
   "meta": {
     "fuente": "Cripeso · Marzo 2026",
     "actualizado": "2026-03-14",
-    "total_menciones_hoy": 70,
-    "entradas_analizadas": 70,
+    "total_menciones_hoy": 2,
+    "entradas_analizadas": 2,
     "nota": "Generado automáticamente. Edita ENCUESTAS en generar_candidatos_json.py para actualizar porcentajes."
   },
   "candidatos": [
@@ -13,36 +13,17 @@
       "partido": "PAN",
       "partyClass": "pan",
       "pct": 39.5,
-      "momentum": 7,
-      "menciones": 10,
+      "momentum": -3,
+      "menciones": 0,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "general"
       ],
-      "noticias": [
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Anuncia la capital basificación de empleados - NTR Zacatecas",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkFzZGtIbUVaZS1zREpxVmhGS0hqSTFZbEpZWmRlNFNiOHRqcm5IZ3ZUZmptNVRxdjMtTXlfZVVTdTV0dGlnRFphWmxuSWVJd01HSlFCM1ZYdktidE9ZeXBlUkVVUkJnZ3JMb0plY3ZCZGVzZXF0dWJHbElYQk92RVVabm4?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Fortalece Miguel Varela Infraestructura Educativa en el Jardín de Niños “María Enriqueta Camarillo” - Página 24 Zacateca",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaTNRdHZ1NWhuXzZ1UXpYUTRJQUtVemV5aVdTa3VmNkkwWnZvQjdmRmVIM1h5c25vVFVNczg5T1F0eE1sV0pvQ1EyR2lxT2pFQWc3NkxicTZWLXpLVzV2QVN1T1RBS3lxbmlCbHZ2OGdiYzZmWE1UV3NvQ0hpN0Y2NHNlamkzZi1pS2M3ck42TWRnRUFFWnU2YzFJUExtSnRHdWtZOW54dU4wZV83Uk1MdU9TQlR6UTNTVDQxM0pPRXR4QlR5cnNMc25XZlZqR2pXSW50THRiQUEyOUdzMEdZOE5n?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Miguel Varela domina interna del PAN rumbo a la gubernatura de Zacatecas - Las Noticias Ya",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXBCTzBqRmFLMzRxQXhCWlhGWG9UVW1YVUN0THFyVTZtMDVzOVdEZHNRYThwREpwWXI5MjBncVBPcnRyTl9sU1JhWGphZy1adkFmN25FekVaU3lFVGljaWtBM0lSTmIxSl9jS3NrbU9fRlZIankxQVk2MFNRNGhsZG03QkM2cnBKQ3NFOXpYOFBJVF9sTnZCQ0xrQUJ4OHZB?oc=5"
-        }
-      ],
+      "noticias": [],
       "menciones_total": 10,
-      "menciones_hoy": 10
+      "menciones_hoy": 0
     },
     {
       "id": "bonilla_gomez",
@@ -50,37 +31,17 @@
       "partido": "PRI",
       "partyClass": "pri",
       "pct": 35.3,
-      "momentum": 11,
-      "menciones": 9,
-      "positivas": 1,
+      "momentum": 0,
+      "menciones": 0,
+      "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
-        "general",
-        "encuesta"
+        "general"
       ],
-      "noticias": [
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Cortesía política vs. polarización: Zacatecas elige su rumbo - Las Noticias Ya",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVJZa0hFeXJCcUU5Qll1dkROY1ROOEdLb3ZuTGo4Z0tENnJFU1hTRC11WG50RjlBbzBoS21rOVJvZ0lrUF9ONlJtUi16TG9lRk5FbENRZUNHTkJMNHpmNURKTFhUanY1Z3dQUGJYSEJpS1hXZTg2MGlGNEp4NXdGLXlQMHJFU211S0gwaW5n?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Rumbo a las Elecciones en Zacatecas 2027: 12 de Noviembre de 2025 - GobernArte",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHBrYlRJN1Y3aUN0WFpZMldINC1YN1dqOFc0UGg0QkIyaXZaOFluRFlaVVBURHFRckpFYy1CTkNranlrTEV2cjB5aDU4QlhZZmtRWFhETUFZWTdxdTZCQ1BhZzR2aU9MMVpvaE9HaWVNVFprN1diZ0I0em9GeGpRS250azBlVEtnRGt0STF3b3k3Q1RkQ3c?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Las tendencias para Zacatecas - 24 HORAS | El Diario sin Límites",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSDdXU0Q0YWZLRl9vYTV6RTVIX0tHVmd4SUVITk1ZUXdmTk5rdzY5ckxLeTlheFpBaVRWR1FYb1gxd1BJSlRKZ2hyYm4zS1RQdWJoTXdSeWhHb3VvM2FLTXpIVEFMZThSYUlWQVpjOF9hcWpWR1RMS1Q1MDQ4X1FGYzI2NWpKY2stR3BGMmpyRWJ5NmFpRG9PNjFB?oc=5"
-        }
-      ],
+      "noticias": [],
       "menciones_total": 9,
-      "menciones_hoy": 9
+      "menciones_hoy": 0
     },
     {
       "id": "mejia_haro",
@@ -88,38 +49,24 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 23.6,
-      "momentum": 13,
-      "menciones": 10,
-      "positivas": 3,
+      "momentum": -2,
+      "menciones": 1,
+      "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
-        "alianza",
-        "general",
-        "encuesta"
+        "seguridad"
       ],
       "noticias": [
         {
           "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Ulises Mejía se Reúne con Integrantes del Sistema Nacional de Investigadores - Página 24 Zacatecas",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcHhkM3FGVEFNRjg0ZTJuVDh0VkM4d1lBRkt4OHVHRHBkWThYUW9fWWw3NG1sNkFBZkdSX2hGenU2d2V6T0Qxejg2eU1OeWNaYUxTaW5OQmhHejUzSHRxQi1relJGd2Q0UlZMUzE3SDZCTUFzSVZqVm4zZURISVFnbXJZWlZYQlRmdGg1dkxpSDBDNm5JdEVLeXlmN183WHZ5Snp6NlBxOVVjcTlXbkpFaDJlX1pDQzRBdkoyQ3NVWEt4c2tkOFE?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Ulises Mejía se reúne con investigadores de la UAZ para fortalecer ciencia e innovación en Zacatecas - El Soberano",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWWhqZ0c1ZGo5ZTBvNUxPb04tTXJSaGs4WHNmdThwSUdfT2VjMGRtV1ZNdzZIdW5GSWtUTEt6VC12c1N2UkNtVHRhT0lnRGZkdnZVSmwzTHBBeEI3NmJ6Q09qZlVzWThrU1BMcGZYT1hQYVh3NW1jSFVZaVNYX1V2bXdJZVhNbVMyMzdYb0gyclplVmRySld3ODJMZUlvQ3RxUHBXUlBpWHNRYnI3eThRWERsbDJJdW0wblE1S003ZENaeGdScGNtRlozckFqSG8?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "PT y PVEM siguen siendo aliados de Morena: Ulises Mejía Haro - NTR Zacatecas",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajh1dkNvQUg2NjhWeV9VbG9abFNyZkZIYmc0VV9TaGluZmRlRjNpYjNLb2RnNnNXc3VIVTdYY3UwYTNKMS1zWmJ0Y0pINWR3bTUtWGZHM2Z5RWdoaTNuVkYxOFJ1eF9sZ2l5OTU3bWQzd3p3S3Atek0yc1RMcmVuYmlBVmhrNFNUTXNUZVQtRE1abGl0YkR6bVdfdS03Zw?oc=5"
+          "tag": "seguridad",
+          "texto": "Ulises Mejía impulsa en Zacatecas una ley para castigar la violencia vicaria y proteger a la niñez con un sistema de ale",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeVFnVHZBLTVPdXNtcGtTNHJTSUhHLTVaVnlReEJTNHFHWTdMWXQyekdwSms2YzFXcnJVR0s3cEMxd3hQemtvUU95U1dYRmFHamRZUFhvYjRjVWdqWTRXcFRDYjRoejN3dkZYaGs2anZVM3ktSTBIQUQ3TWJ0RVpQQ2N1ck5wZWxhazR3ZFM3VHkyazZycjhCdGtWNHU0SWJPTkhmTHNZRnBZWDhvS2FQclBHUnlVc1Q0TFRRMTdRN0VjakFoRm9mTzF3VXpiMmE2VG1la0tHNmlYWFU3bXA5TUExQXl0eXNzTnB0OHdQSm5vQS1NajZv?oc=5"
         }
       ],
-      "menciones_total": 10,
-      "menciones_hoy": 10
+      "menciones_total": 11,
+      "menciones_hoy": 1
     },
     {
       "id": "anaya_mota",
@@ -127,37 +74,17 @@
       "partido": "PRI",
       "partyClass": "pri",
       "pct": 23.5,
-      "momentum": 13,
-      "menciones": 9,
-      "positivas": 2,
+      "momentum": 0,
+      "menciones": 0,
+      "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
-        "alianza",
         "general"
       ],
-      "noticias": [
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Este es el sueldo y grado de estudios de Claudia Anaya, senadora que pide juicio contra López Gatell - Infobae",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVG1OSnl5LUEtYlhtdklRZG4xWlY1QjZleGVSUEtTSHNyMjl0ejIyajA0WmVUR1JRZWNZSXF1dkxnZW0wRTROaEJSS0ItN2JRR0g5RDhVYjZpQks3M1VZVDc2cEdtYnBrS1N6WHBlRXFXLVpiZWZxQ0tWWnptYnBqTm1xSkhCc19taE9mQ21odkU4ZUVjWVRxVnZWdzdBRFQ0cms4Ukhtakd3clIwNjJIcXA5OEp6WUc2bzZIa3M4WC03Q3pCOVhiVHpUV2VpMV9DWUI4OEl2YkxSd9IB9AFBVV95cUxPTHZkOEVnUE94VU50X1F1U3lmSjl6R01KSER6eE0tSFZtWkRjdWZDSXk4OFlBX1dnWm9LNHUtOG9xdjlMRzl0YU5yN0FFM0ZaLVRSSTAxVzlIZlBQLThUcHR5OXR1SHJwUm9iN3dzZHZISHdPRXZJXzl5M2o0b0E3Y3czeUl2QmtqdndLcFhnUTBuelB2bWRBLTdtWkdZQm11SUJpUkNKVVJSVUFtU2xvMHVmbVhlTmpLQ05IZU5rdVFob1liekZ0UmdGdWpvREx6TTQxSkVVbW9aa0JOaWxKZ0l4THZIWWhydTMwV09wN2Zkdmpn?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Critican a Claudia Anaya por comentario misógino tras agresión a la presidenta Sheinbaum - La Jornada Zacatecas",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXJLUGM3MEQzZ2xpVXQ1bzdaMEhGWUtJdm9SSFo5OUN2aTVSMnZkcFlKUEl1Q3R5QXZ0aFBycDRlbVVSMWtCSDdzLUlNaXByN0ptMURvd3ZTaV9CVUkyRTB2Yl9UMTdxSVdFR1JuRmVNUlJWSnFKNDlFTUFYdXlOeVA3TGpEQ1hjVWVIRzIwV1FNRXRIV3FxdWI0ckt5NWFxNEFMNEsxQVM5UDJWaHV2SklCVUlSQQ?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Senado expone extorsiones en construcción en Zacatecas - El Sol de México",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFpkMzFIcm56d0hoajBEM0s4QmY0X2ZTQkRaRWFlSHJGZU5Ta1BkaURJZkdpby1HVnY0QWhkQTBSYkl1cDhkSUMtdEU3XzBYNnVaTnNYd2xwRkpaMGRoZEpoSmlvQ2JMUWZzMkIteWNUbzRuRUo3Wko2bWRVYTMxTXdzNGF2LXZhd1dWaXJFTjNhMFlhbzFEU1BIVHRzMDNjaXh2MzRDVk5tN2pY?oc=5"
-        }
-      ],
+      "noticias": [],
       "menciones_total": 9,
-      "menciones_hoy": 9
+      "menciones_hoy": 0
     },
     {
       "id": "saul_monreal",
@@ -165,40 +92,17 @@
       "partido": "PT/Morena",
       "partyClass": "ptmorena",
       "pct": 21.7,
-      "momentum": 0,
-      "menciones": 12,
-      "positivas": 1,
-      "negativas": 3,
+      "momentum": -5,
+      "menciones": 0,
+      "positivas": 0,
+      "negativas": 0,
       "fuente": "Medios locales",
       "tags": [
-        "encuesta",
-        "seguridad",
-        "gasto_publico",
-        "general",
-        "nepotismo"
+        "general"
       ],
-      "noticias": [
-        {
-          "fuente": "eltrochilero",
-          "tag": "gasto_publico",
-          "texto": "Arranca David Monreal Programa Diésel Agropecuario 2026 para el campo",
-          "link": "https://eltrochilero.com/arranca-david-monreal-programa-diesel-agropecuario-2026-para-el-campo/"
-        },
-        {
-          "fuente": "eltrochilero",
-          "tag": "seguridad",
-          "texto": "Zacatecas instalará Punto Inteligente Vecinal para prevenir delitos",
-          "link": "https://eltrochilero.com/zacatecas-instalara-punto-inteligente-vecinal-para-prevenir-delitos/"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Acudiré al TEPJF si Morena me elimina para el Gobierno de Zacatecas: Saúl Monreal - López-Dóriga Digital",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXpQWlZZQXdIcnNvalhSTmtWUndjRHloMHlzVW9VOGN2UTZPRXdVYWRhUU9sMEhRTmZfTnkyalhBN3g0T0xMcjlMNkU0Z2ZOTnNEX1BHZG1adThzbDhMRGlYYzNrQ0VJQVJUMkE4U1lzd2ZYVExRTlVjWWIwMGFDSjRyaUhoVnpCNlNIeXZmZmJnTXY3T3NsTzJn?oc=5"
-        }
-      ],
+      "noticias": [],
       "menciones_total": 12,
-      "menciones_hoy": 12
+      "menciones_hoy": 0
     },
     {
       "id": "diaz_robles",
@@ -206,37 +110,24 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 16.3,
-      "momentum": 12,
-      "menciones": 10,
-      "positivas": 1,
-      "negativas": 0,
+      "momentum": -2,
+      "menciones": 1,
+      "positivas": 0,
+      "negativas": 1,
       "fuente": "Referencia general",
       "tags": [
-        "general",
-        "candidatura"
+        "nepotismo"
       ],
       "noticias": [
         {
           "fuente": "googlenews",
-          "tag": "general",
-          "texto": "¿Plan B del clan Monreal? Verónica Díaz Robles se perfila rumbo a la gubernatura de Zacatecas - Infobae",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVUJqcW15NzkwOENuZ3Y4dVFURlZRekV6UkZjNWJucldJMXdaVk5uNTN4bGN0TUpUcEp0bHpHNWxadHN0RGRyMGduc3BYblpleDYtVmpTQ3Bhd1k5eE5MdHhVZ1dCN2otRGR2bkxrUTZqZnRvazVqdmNTbE9uNFdNR2hZd2JoandJcHNQb0o5RDdiazZIYVFRYVhwa3J1RlhyQzhBb2VoYnhxamUyRXJaU1V2X0hxWGttdFN0ZExlTUEwQ1g0Ui1KX1pRMDNoRG_SAeoBQVVfeXFMUDlNazE5V1gyZk1LUmxpRUlKcmtvUE5Ra3NKTkd6WHFhejRpV1dtQkQwd2NFRkJKN1FlZXlhNE1XVEJScXpfUjR6eDJqa285Z0JQUndxdmJZM21DNWg2blBKWldUaE5DRVVIOFNKU1ktLTJKeUhGS0NiMUdTampfblRybW9uSm9LT0xBVXpYSG1qVEk5Q3ZhYzhVN2E0bnNuVzZ1MWF5ZUhLbXVNNk1mMkF4S0ZQMk1lbW45cUVvcnZKaWhydXJkbTVfcW9fRndnZVpoZVdodTBaVjRZMDE3RWRZRWFIZmd4Zlh3?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "candidatura",
-          "texto": "Verónica Díaz busca participar en proceso interno de Morena para la candidatura de Zacatecas - MILENIO",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUh1VFdISHBYVTdoaWVxN0JBOTZfenpidUxPYUZla0dNdEVFOU1fZnNQWktTdU1LU21uQXpiQmRfSmw2YkZfRzUtSXdQWUx0ME1RQnU2SEZiekpoREh4NHk1aGwyOGUxRTZzamhqajlRUUFWTTdtZ180a2JZdDF5aW5rTzdEbHFxNUdDWk5PbFktUzBCV2p1X1dQQTRMSFFoaE1UQtIBpAFBVV95cUxPRnBONlNxQmtNTFRhOG1JQldUeVpKa1lGb2F1WmZVRmtUQk1kSVdtZzNYVkRXdGxTa2NJbjRrbzNEaWpVM3Q1Vk84TnAyWEdQLU03a1JwMlJpbkZnRnB6M2J6T1I3cUFrUkNmQndUTUFqZi1TMFFvVTJGendxT05FczJodkM2V1N2UnJUVTZEcUlyb0VHQ3Z0ODlibjhHLV81V3lwUQ?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Elecciones 2027: Verónica Díaz Robles se destapa para la gubernatura de Zacatecas - PolíticoMX",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFpqam5PNmJQRUg2SklfWHF4OHNqVTRTaDB0dWhVWnJaQUcxYVlZSEpvZUllMGdCb3JJRFpWMXNrRlB4YU5sQ0I5VU80ZGZkU1JpRUt4Ulc2ejMxbjN4aDBzSHMxLWM5TEttM285QWtYY191ODBJTzJFUE9NRkQwYkZiZ3ZlYkl0THQ0UlZUTnRkRUJxY1F5aWdfRHFLdndlQWR1OWthdUhhUFJvQlp6N01B?oc=5"
+          "tag": "nepotismo",
+          "texto": "Clan Monreal “saca la vuelta” al veto al nepotismo; perfila a 4 candidatas - La Jornada",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnZFbWJsYXBQNnBqalc4OXlTS2FNVWVRdy01bGo4TEhpR01lWXZNa1pSZlFXZ3BHd29UN0hKUUNTcGNWbzF5MV9vV05FVjVvVTU2NTFMb1lXMzFTWjBpQk5wbzlJenpBSHNsMmk2MTRnLWRPTVJxZkR6ZTRyUV9hUXJEaENoUFYyMV9FdkNWdnJfUjdqQzJNUUEwelpETGRzbkp5bEVDWkRHSVRweThXYVpRYTI4V2xVbXpGSw?oc=5"
         }
       ],
-      "menciones_total": 10,
-      "menciones_hoy": 10
+      "menciones_total": 11,
+      "menciones_hoy": 1
     },
     {
       "id": "narro_cespedes",
@@ -244,39 +135,17 @@
       "partido": "PT",
       "partyClass": "pt",
       "pct": 12.0,
-      "momentum": 9,
-      "menciones": 10,
-      "positivas": 1,
-      "negativas": 1,
+      "momentum": 0,
+      "menciones": 0,
+      "positivas": 0,
+      "negativas": 0,
       "fuente": "Referencia general",
       "tags": [
-        "nepotismo",
-        "seguridad",
-        "general",
-        "candidatura"
+        "general"
       ],
-      "noticias": [
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "“Falso que Estemos Siendo Investigados por Autoridades Mexicanas o Estadounidenses” - Página 24 Zacatecas",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaENfelVSTUg5SS1CblU5eGhBcjBZSzJCdTlHcjk3VWtYbGhsV1J6NFhFV09NN3pfNkZqU2VQamstc1VXVldCenJwTlhEeGF0aFMtbnlKMXJrOXdFVFpMaXVET2VrRS1kUmlmQjRURXZsMDh6WklseTFsaklwbURnbGFqY21UQWZyLS01X3h1ODBxaFhVaFE4dEN3UTRod3M3WmhSdm5iV0EyTmxPMEt0dndDMnRHMC1pLVY5WUJjdUd5NDRTanRqMFVnNWc?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Saúl Monreal tiene rival: ¿Quién es José Narro, que busca la gubernatura de Zacatecas en 2027? - El Financiero",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVkZieVN0ZEgxc3liRGJHMHFqRWhFZ2VaTDhZR25hV0ZrV1o4MTF1TXNlT1dBTFZHejZmX2theHhxenFvZFJIbmhsMFlsaU1UdS10cGhBZzhrZkhwaHU5TXpzeURXcGhwSjM5MmlWV2ZKQU1IR0dFWTBNTXlaY2EycFc4QmJvQzkzbW9aYVhfVlBLOTFUc2pQQnlMeTlwLVZTUTBPZlZiQ2laYy1iRjBabWJwVktOR1JtRnlGMGh6UVdxYjl0RFg1OWlSeVV2N0Z0R0phZVg2MDFNdw?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "GUBERNATURA 2027: ZACATECAS - - Revista 32",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQM0FVYlF3YzZjWVdndUhDV0JoS1BZWi1lMTB1V2tadGtRTTljbWVSZmlGQ1lfSDFrZXVQTWZ2SW53S2NrUDZ5MTN6MFRGb0wzNndweTJzOGp4TlJTcVh3SmhUREZTMWZ2NVBr?oc=5"
-        }
-      ],
+      "noticias": [],
       "menciones_total": 10,
-      "menciones_hoy": 10
+      "menciones_hoy": 0
     }
   ]
 }

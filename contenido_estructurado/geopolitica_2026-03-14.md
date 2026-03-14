@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-14"
 date: "2026-03-14"
 nicho: "geopolitica"
-total_entradas: 39
+total_entradas: 34
 schema: "NewsDigest"
 ---
 
@@ -60,13 +60,6 @@ schema: "NewsDigest"
 - **Resumen**: El presunto narcotraficante uruguayo Sebastián Marset, buscado en diversos países y acusado de ser el cerebro del crimen de un fiscal paraguayo en 2022, fue capturado junto a cuatro de sus colaboradores, incluida una mujer, en un barrio residencial de Santa Cruz, y entregado a la Administración para el Control de Drogas (DEA), que lo trasladó a Estados Unidos, informó ayer Marco Antonio Oviedo, ministro de gobierno de Bolivia.
 - **Relevancia**: 0.4753
 
-### Iran Denies Attack on Lanaz Oil Refinery in Northern Iraq
-- **Fecha**: Sat, 14 Mar 2026 21:09:31 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-14/iran-denies-attack-on-lanaz-oil-refinery-in-northern-iraq
-- **Resumen**: Iran and allied Iraqi militia groups denied attacking the Lanaz oil refinery in northern Iraq, the semi-official Tasnim news agency reported, citing an unnamed military official.
-- **Relevancia**: 0.4731
-
 ### Gas Prices & Airfare Spike as Iran War Drags On
 - **Fecha**: Sat, 14 Mar 2026 16:17:25 GMT
 - **Fuente**: bloomberg_markets
@@ -109,12 +102,12 @@ schema: "NewsDigest"
 - **Resumen**: Live reports from "Bloomberg This Weekend" from the United Arab Emirates and Israel as ship traffic stalls at the Strait of Hormuz. Overnight the Trump Administration bombed the strategic Kharg Island, which handles roughly 90% of Iran's oil production. (Source: Bloomberg)
 - **Relevancia**: 0.5205
 
-### Trump Hopes China and Other Nations Will Send Ships to Hormuz
-- **Fecha**: Sat, 14 Mar 2026 14:20:11 GMT
+### Second Dynacom Oil Tanker Passes Hormuz as Other Owners Hold Back
+- **Fecha**: Sat, 14 Mar 2026 13:09:27 GMT
 - **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-14/trump-hopes-china-and-other-nations-will-send-ships-to-hormuz
-- **Resumen**: “Hopefully China, France, Japan, South Korea, the UK, and others, that are affected by this artificial constraint, will send Ships,” President Donald Trump says in a Truth Social post.
-- **Relevancia**: 0.5367
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-14/second-dynacom-oil-tanker-passes-hormuz-as-other-owners-hold-back
+- **Resumen**: A Greek shipowner sent a second oil tanker through the Strait of Hormuz, bucking caution among the shipping industry as Iran lashes out across the region in response to attacks by Israel and the US.
+- **Relevancia**: 0.7481
 
 ### Trump’s Efforts to Defuse the Oil Spike Aren’t Working
 - **Fecha**: Thu, 12 Mar 2026 17:53:32 +0000
@@ -122,6 +115,13 @@ schema: "NewsDigest"
 - **URL**: https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/
 - **Resumen**: Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.
 - **Relevancia**: 0.4675
+
+### US-Israeli strike kills 15 at Isfahan factory, Iranian media says
+- **Fecha**: Sat, 14 Mar 2026 21:25:17 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/news/2026/3/14/us-israeli-strike-kills-15-at-isfahan-factory-iranian-media-says?traffic_source=rss
+- **Resumen**: Iranian media report the deaths in central Iran as Tehran launches new missile salvoes at Israeli targets.
+- **Relevancia**: 0.6614
 
 ### Thousands in Madrid protest ‘forgotten’ Gaza, warn Iran war may spiral into
 - **Fecha**: Sat, 14 Mar 2026 20:59:54 +0000
@@ -144,13 +144,6 @@ schema: "NewsDigest"
 - **Resumen**: US president urges naval coalition as Iran says Strait of Hormuz closed to &#039;tankers and ships of enemies&#039; during war.
 - **Relevancia**: 0.5989
 
-### ‘Israel targeting Iran’s security forces may aim to encourage uprising’
-- **Fecha**: Sat, 14 Mar 2026 17:02:25 +0000
-- **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/video/quotable/2026/3/14/israel-targeting-irans-security-forces-may-aim-to-encourage?traffic_source=rss
-- **Resumen**: ‘Israel targeting Iran’s security forces may aim to encourage uprising’ says director of the Iran Program at the MEI.
-- **Relevancia**: 0.6203
-
 ### Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns
 - **Fecha**: Sat, 14 Mar 2026 17:40:47 +0000
 - **Fuente**: scmp_world
@@ -165,9 +158,9 @@ schema: "NewsDigest"
 - **Fuente**: scmp_world
 - **URL**: https://www.scmp.com/news/world/middle-east/article/3346628/iran-war-trump-urges-china-other-nations-send-warships-secure-hormuz?utm_source=rss_feed
 - **Resumen**: US President Donald Trump on Saturday urged other nations, including China, to deploy ships to help secure the Strait of Hormuz, a key route for global oil supplies disrupted by the war in the Middle East.
-“Many countries, especially those affected by Iran’s attempted closure of the Hormuz Strait, will be sending warships, in conjunction with the United States, to keep the strait open and safe,” Trump wrote in a Truth Social post.
-“Hopefully China, France, Japan, South Korea, the UK, and others...
-- **Relevancia**: 0.5432
+“Many Countries, especially those who are affected by Iran’s attempted closure of the Hormuz Strait, will be sending War Ships, in conjunction with the United States of America, to keep the Strait open and safe,” Trump wrote in a Truth Social post.
+“Hopefully China, France, Japan, South Korea,...
+- **Relevancia**: 0.5417
 
 ### Iran war entering ‘decisive phase’, Israel says, as attacks continue
 - **Fecha**: Sat, 14 Mar 2026 15:51:05 +0000
@@ -206,6 +199,14 @@ The strikes are the first in the heart of Baghdad to kill Iran-backed fighters s
 “At 2.15am, a missile struck a house that was being used by Kataeb Hezbollah,” said a...
 - **Relevancia**: 0.5674
 
+### "Para la violencia no habrá impunidad": Díaz-Canel comenta los hechos vandálicos en la ciudad de Morón
+- **Fecha**: Sat, 14 Mar 2026 21:43:38 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592959-vandalismo-violencia-impunidad-diaz-canel-hechos-moron?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5d91ee9ff711874488ae1.jpg" style="float: left;" />
+        	Un grupo de manifestantes lanzó piedras contra la sede del comité municipal del Partido Comunista cubano.
+- **Relevancia**: 0.4655
+
 ### Masacre en un balneario de Ecuador: sicarios asesinan a seis jóvenes en una fiesta
 - **Fecha**: Sat, 14 Mar 2026 21:29:34 +0000
 - **Fuente**: rt_espanol
@@ -237,47 +238,12 @@ The strikes are the first in the heart of Baghdad to kill Iran-backed fighters s
 - **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
 - **Relevancia**: 0.4784
 
-### US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters
-- **Fecha**: Sat, 14 Mar 2026 20:54:48 +0300
+### Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister
+- **Fecha**: Fri, 06 Jun 2025 12:45:53 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101651
-- **Resumen**: In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation
-- **Relevancia**: 0.5037
-
-### Israel carries out 400 waves of attacks on Iran since February 28 — IDF
-- **Fecha**: Sat, 14 Mar 2026 19:31:48 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101639
-- **Resumen**: The Israeli Air Force focused "on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran," the Israeli military said
-- **Relevancia**: 0.7033
-
-### Iran announces new wave of missile strikes on Israel — public broadcaster
-- **Fecha**: Sat, 14 Mar 2026 16:19:52 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101609
-- **Resumen**: Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel
-- **Relevancia**: 0.6088
-
-### Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC
-- **Fecha**: Sat, 14 Mar 2026 16:17:11 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101607
-- **Resumen**: Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported
-- **Relevancia**: 0.4791
-
-### Pentagon reports strikes on 90 military targets on Iran's Kharg Island
-- **Fecha**: Sat, 14 Mar 2026 15:16:23 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101603
-- **Resumen**: But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said
-- **Relevancia**: 0.5125
-
-### Israeli army reports destruction of Iranian Space Agency research center
-- **Fecha**: Sat, 14 Mar 2026 14:31:56 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101597
-- **Resumen**: In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated
-- **Relevancia**: 0.6352
+- **URL**: https://tass.com/world/1969663
+- **Resumen**: "Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force," Israel Katz said
+- **Relevancia**: 0.5835
 
 ### Bowman, Capital Rules for the Real Economy
 - **Fecha**: Thu, 12 Mar 2026 15:00:00 GMT
