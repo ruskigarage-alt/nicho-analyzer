@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json",
   "language": "es-MX",
-  "date_modified": "2026-03-14T19:37:02.455353+00:00",
-  "total_records": 72,
+  "date_modified": "2026-03-14T19:53:43.012887+00:00",
+  "total_records": 91,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#0",
@@ -798,6 +798,215 @@
       "tags": [
         "regulaciones_pyme",
         "INEGI / Banxico"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#72",
+      "title": "La volatilidad marca el rumbo del peso mexicano que rebota por la atención a Irán - EL PAÍS",
+      "content_text": "",
+      "date_published": "Tue, 10 Mar 2026 00:44:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNFg0b2N3Q0FzUjZfdGFpMlRUcEExUGRYbEtGOFFtSjJnOTdxeTR1MlQtbXA4TE1hZEpCTFBoNVZKb3VjYS1xWFAzTDB3MlZHMTZqaU83bVRsWnVZaFhNWVJFOTlLa0F6UGI2UTRIN3dxSU5Kbjg5UWNrZlFrUWZQTlM4QmFscTQ1NFNDVjUwYlVGNzdiQWpWOGRtXzBibVllQjZ3eXlZa1g0bkxMdllqZUJZUkFKRDdlYVl4LWx1U3JxS1hkb3RLNWV3cV_SAeABQVVfeXFMUDZ5UTJ3STJFaG1qcFFhTVhZZDVKSFBMc296RjA3VHFuSkZqeU1zeG5NeEk4eVhFaUNkT09OQnV0cl91R0lZRW5qbWpQQ2tSVmN5THBLLUJzNDlQZVZNRWNOUmJGODZJenZXYlNPN09aV1NvMjItR1hzVmpYZW1QTUo1RXBfY3VFZEhXS1BOSGhSWmJVa2txdE01Y1lNMERHV2dYNk9sQlRzaExyc0NWckVOYnBTcVZ0NnpBcXdadnp2R2NHZ2xvaHhSY3pqZVRzdmNFSjU0Q1V1Zy16Q1V1Uzg?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#73",
+      "title": "A cómo está el dólar en México hoy, martes 10 de marzo de 2026 - Dallas News",
+      "content_text": "",
+      "date_published": "Tue, 10 Mar 2026 11:31:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblZrQXFZbjRYcmxHb2h5Y2FSUjk0S2hWaUJGTXQyQVZoT0tfT24yT3BxLTJ4NHl5TjJ6N0QyM29MY1AxRUViUHlKWm94SEp4aVhKVnh2OEdMUnkwNmJrYnVvQUFNT1NjM3FTcUxXRFE5Z09ZTmRHV3JUYmNkNkdHTUhTVjhfVlREMFZNWmtITlpWWV92OEx2RdIBrAFBVV95cUxOVGhRaE5iMmdRVFlYSVpxcFV0RmZ6VE9qRjdsR0VJbEw3T0IwSE5GUmh0cm15dGlPazktc3lmSGk2SFd4V1AzU3JZdTJ4dHl6WmRRUFF1TnMyZXFmaXRLcUhJZXFXcDhFS0M1ZEJBOFV1ODhLUDRXdVJBQm5ZRThucjFUeDFPajBmQ2dIMFloUEVvSFpqQmUzU2lEaXh3S2Jsc2puSnZkLTlpOHRH?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#74",
+      "title": "Peso mexicano recupera terreno frente al dólar; mercado asimila cifras de la economía estadounidense - El Economista",
+      "content_text": "",
+      "date_published": "Fri, 13 Mar 2026 14:40:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFBwaHBRbjBuTXdDbVlvc3p1Q1c1b0VHOEJBRmJRVW5DYVI3S01mcGlGUmg0LWYxaHREaHp2OGk5ZTdKTkIxVGZLZEZUY0pmRkNlVXl6Ynd0WWczZnVnQVJzbTl6NEl4ak12WnV4NzVYYlhnSk9ibkxMS29DVURVQk5CSFJQZVlJcUozY19USnFnQ1hDMk44SVV0enJLUUstdjV6Vzc5a3dXb0k4SDJESVc4MjTSAboBQVVfeXFMTmlacGQwR0NYUGg2OXBuZ3c0Mk5OdzQxOVVSbWpELWVwYkl0Y2ViVUpwYzFtZDgxaHo5Vjl3b3pEWW9ncEFYWDNkY0NwMmVaUE1zRmxOMlZQOUMzYmtFRmhNYlQyLUg3aGdOUG1VclhITlc3NDdMb0VtTW9kNmctVE1qTWY5VVR1UFZKZ0EyMXMwbnFEczlxWkhPLWViV1AyM0dZQzd4S2JsajE3SVBKeWV1TmZYZUFJd19n?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#75",
+      "title": "Precio del Dólar Hoy VIERNES 13 de Marzo de 2026: ¿Cómo Está el Tipo de Cambio con el Peso? - N+",
+      "content_text": "",
+      "date_published": "Fri, 13 Mar 2026 06:08:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDBZMWtTX0NLcVVrdEd2SFliaVZJcDFKajRmY3pEelJQanpldG41bU1zWDhBLXJmZ0QxamZpQ3FfLWdGTlB6bDZhZmdDYWdnVHM0YXktZnVEY2hSTFpNdUw0YUV4TVJUWndYaEJFcE5pUlh5WjRwRzJIRG1MU1g3X3R3SDdWbE12Q3BFSU1GMmJrQnhyLWg1NFpXbDNwQmFueWJOanZzVjNvcE5KSlQzTExuWDRwZHV0?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#76",
+      "title": "BBVA México revisa al alza su pronóstico de crecimiento económico a 1.8% para 2026 y a 2.0% para 2027 - BBVA",
+      "content_text": "",
+      "date_published": "Tue, 10 Mar 2026 19:06:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTW9IUDRBNXEwU2t1ZVQ5RUVacnVYUjUwTmJmLVpsU1lHSHRrZjAwSVBUeDcwN1dIcVZ1NG5INnp1eE0tRnpLRlg0WXRxbWwtS2c5OTBlSHZwVGs5ZUhueW9Ga1VTQmFhQ3ZBQWhfRzdOVUtGS0lTaTRWeUQ0U2JmeGtnOU1VdHFvOHh1bkZmbkJUSmlWdTVWcXhwblNSeFJPOU5uYzBWamlldTZtYTJNSlczVW1MZmtHYUlXREh4eV9pVGVHeWc?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#77",
+      "title": "Inflación en México volvió a salir del objetivo del Banxico; se aceleró a 4.02% anual en febrero - El Economista",
+      "content_text": "",
+      "date_published": "Mon, 09 Mar 2026 13:10:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOemNxbHc0a05nT0w5TlNnN2lOaC1lbHZyN29URDFUUlZLTUs2ZFVKSTdya0FjTGFWeTdRUW9fOWRLQVhfWFVzbGdQOHltcE9DbFZYRS1IMnNLbUE5cGxPX1p0R0VJV0xIaHNZNkRTbEZwQ1VMcm1ka0lFLUhWd2tNNFZLNXpWMHVwUUhDRWpNYWFLQ0ZwejVPMlJXMXNBc3JOOTFUTjhRLTF3ZlNEOW1ZbWx5TVlVbGc4Mld2XzY4cTVxb1loNWfSAcsBQVVfeXFMTXJub3FvQU9kY290MDkzUDc2UFlzV2lZdnF5UzRCTnNJZUowenFneUlRRDZ3ZzQ2cDVGQVlfT3FhQkQzWnNoNHMyYWpMVUM3eTJYaE5kUUtpMUVOcV9aNGdIUkxMSW1GWVIwODVLRFVISENmR1lhc1hZNGxEYmdKbkpLZ1ZUdlRlSjlOUXZYcHl6cVE5MkRwSmkyd3RUSHAwX01nZ3o0cWVrbVlWd2prbDUzM192LURxTjZjRmVpV3drVnR6OE9acHhfODQ?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#78",
+      "title": "Inflación ‘escala’ y supera el rango objetivo de Banxico: Se acelera a 4.02% en febrero - El Financiero",
+      "content_text": "",
+      "date_published": "Mon, 09 Mar 2026 13:58:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcmpVZDFZNXhLMEpvZ2V6TmV1cEtVeWtycDl2aVVIVlVNSlJkb0hnUEI2UVg0MkZ2OXY2UUhhaDBYaDlYVmV3TEp1VGF3NGxFdlRfWUZRMW1aSXd3MUIya21lT1J6eGtRdFR1VlM0SVZVNHIxZ0NnYlNHOEtRZ2ZxSlhXMDl3MUFBdDdPUnBQSnZMaUh3YlhpZV8xNkNJeDNSV1M5bElBaWJybUZpSXpRT1czTVFYVDI1R0lRMHJ3RGxOelFJ?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#79",
+      "title": "Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico - expansion.mx",
+      "content_text": "",
+      "date_published": "Mon, 09 Mar 2026 13:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVo2M2tiemI0MVhYcnNNR0psREdmaDhyV1FvODQtb2lqQ3VZaTBKdVJ3MmVyZmI1SWdlQUo5NHRCdU9pd3hTSWhtcXJSN2lUb0kzZ21vc2lsZlh0cC04aEhlUU52dU1BMW9RNk9tWXktN0NILWlacjJ0SjRGWWxfN0lmVDJkcWk2S1dPTG9qMDVob2NCc3EzdUVoYjl5Q0VBaTJBNnVRSnhNWTQ4SUtLRVRqd3o4dkhZVTBjbkduZEpxWWpNMEk3NkVR0gHXAUFVX3lxTE9XNl9pLXA4WDJDZmR1RVlhdkNDODl6RmlUclJOSnJkUVYwcTBZRjBSNXRmMkR4VHdqZmEza05rbEdJRUpqREtSODcyZkdpT25Mek56bnpJZkRKaVQyX2k1d1BKYjV5YmlpczBEeVFHWF94aEZHYXZ3NFJhdEE2a0hOZXFsbXhsaDBUanZiaXI2YjFWdGJfZkVObVFab0ZDQmpHVk9aY0h1TWFCczBUMGtXZzV6d2F5dGlKeHBNa1hpSkUxTGctb0NOa3J4X25qYndCaVZLTXAw?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#80",
+      "title": "¿Qué es la inflación? Banxico explica el alza de precios en México - El Informador",
+      "content_text": "",
+      "date_published": "Mon, 09 Mar 2026 15:36:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmJzVGszNWI3WEpybzc4UHJsd2xHTnRiemZqaTdSVzA2VjVjVURhTXFHOXZVZWZ1YzBkejFZMUpSTUhyV29nSDVSbWR5MDhWQlNUYWVWbFd0ZkljS3Z0ZENWbS1LRFQyZGhZel94RVBvb0o0Z0E3Vmw4UmhLbXhPaFhrekNsVEZOUXQxQ1ZmZHpTdGJoVGVtbnowOU04cDFObHZjcE01VUpxZ1hsZ0t6TUp5R1JLWElMaWc?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#81",
+      "title": "Ingresos del Gobierno Federal alcanzan cifra histórica, crecen 4.8% en 2025 - Gob MX",
+      "content_text": "",
+      "date_published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEdHa2dudTFqSXdzcEJuaG1EUWptYUpLWjlnRFZ1SVhHX00wSDJYVHpLVmV1S1BaZ0JWUHJmYkkwU1RTNHJMZHdUMHNWOURUS2gyRTN5UU11dHVtVm44N0ZEWGZiMV9GM3M3eERCWENRbzg3UmFTaUZaR1pNRF9CYVlESl9udUE5M3JJLTZCRFpOc29OSjN5bUpybm94Qm40clIxUGt4QUZTWWxJTzktMVdzaW5SSzlZQnNzMQ?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#82",
+      "title": "SAT lanza programa de regularización fiscal 2026: así puedes pagar adeudos sin recargos ni multas - MILENIO",
+      "content_text": "",
+      "date_published": "Wed, 11 Mar 2026 23:05:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkwtZ1RleVJJQV8xYTNXVGlXaTFRZ2dYNndTN0hIN0lwazdLV1lFOXE3aDlaQmFLSzlrMEFPcGtIZFcwVXJYY29yYTNIbTlTZmhEeWRsWGVDeEFHalBqVjJRUTYtMmZpeThqc2xVZy05Q1RKdXZNZXZJY09KWmh3ejlFU0E5ZG1MOXNhaHVOUmc4bVc2ek5nR9IBmAFBVV95cUxQcFlSZ21HTGpjanRRcXUxUVNOSTRlMjVFQWw0SXFyMDYtbUVja013a1hHX3VVa3Z2OGJjVzNDWkNHaEhCQ2lSczlqN0xIOWtNRy1fcGFPci1FWVhUQVc1bWsxMWFiQlhmcWlWeFBVeS1qUmRMdTlPQURHM1E1WFhrYmR3MC1ubVhYbGdDTi1ZZEZSVUJUakp2YQ?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#83",
+      "title": "Calendario fiscal 2026 para personas morales en México y fechas esenciales del SAT - BBVA",
+      "content_text": "",
+      "date_published": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYXZjRUxLZWZyVEFheDhMS0oybHBGMkNIamd1dXVSRWt1WFdaWUdBUk5fNGpMdWVjUnVvSjg0ZkN2a3hkS0dBMnFpZFkzZVJGYjV1czY5dGEtNWF4aEp6RWVMd21YTDdfRWJ5NmRtLS1EdktLQ1FVQ3U4U0NlVnFBYzZFcjFWTmNsYVhCSFNQYnp1RWt1c1gxVGJ5RzJXQVhQT0lpY2JNMzUwaWdlWnVIdEdPNENINDlZYng4?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#84",
+      "title": "El Gobierno de México celebra un aumento del 4,8% en la recaudación fiscal respecto a 2024 - EL PAÍS",
+      "content_text": "",
+      "date_published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaDZ3VF9LcDE2ekhzZ2U4aU53NElTZlZUSFNLbVAydVZvbjhYcDhISU5zSE1BbGhST1l3Xy1JZG5WNWFNVUxlLV9rYTlkajhYNm9JME80M21nM05NOHlqTXQ2YlE0X3pfQjJyT2cyaklQc2tseXEweWE3aWY1aTVRaTdQS0VjaXpIZDZwNDNHSHRIb0lnSFNpdzhWQ3Y2ekJpWGRLQXVleEhPMHVqVFlaUGFFNlVJN3Ruc1Y5SFQzRG85aExhMGpXcHNB0gHeAUFVX3lxTFBRNWttc0Zlb2s2SmFiZmJOVkVNX2QzVUxzSU1JVDVQVzBQajNLQVRWekRtUDU5Vl94d3ZTbmlFc1JqUDRDbFdValE2czN4aDRTaG9VY1VyTnZiYm95bVZuT21BTFlqY2djRGx0UFF2LVIzTnJWNFNibHZTSnpBM2llam40MkhaYWRVYmduakVnWi02MUVUcUI3d3JjUzdENlZaeVVXdG1ESWlIZUpEOHFZME9lZG9nTGZzZm1oQXp0OFBmaG9tMVVOM25iTm9Zd3VXOS1HN0FCT1p6eGhMZw?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#85",
+      "title": "Llueve ‘money’ en el SAT: Recaudación de impuestos crece 11% en enero y suma 595 mil 758 mdp - El Financiero",
+      "content_text": "",
+      "date_published": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcC1tbFUwaXFHOG1LVWhIek9WRVhiTC1fazd3dTVrUGVHel8zTmxOQ0FiRTN2dHlsenpPelE1cUxqMkxyMzlvNFhLSjZGTTRiVUhVTVE2TU45WDE2WDNZaVRrR0dSc2x0ekN6cUZxRUFwdzNPNHJRZjBBNGk3Tmw5NWg4cm52NzNCZU1IT0gwVjBZaTM0YjZUZTdMSE1aYVI4U0U0NnV2UW5QTnY4S2ZLbzVxY2RCUDV0QVQyZ0puZVdpYi1Mb1laZkNkY2thX0VSU3JoS3RVWEM?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#86",
+      "title": "Aranceles, asimetrías comerciales y reglas de origen: las preocupaciones de México rumbo a la revisión del TMEC - EL PAÍS",
+      "content_text": "",
+      "date_published": "Mon, 09 Mar 2026 17:01:37 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1NzZWlsV1lKX3dBZnFWLUFBeDR6OFB2cUVVdVIyTTMtcmdmbE95OHNuRXFkR3ZjclhEOVhzMHlhbElpc1hwd2lBRkdWSWh0LXlMOUQtMlZ4TkxTZHhWRm1OZGd2aVZzeXNRbGtabENuN1pSN09KOUVVdkktVDNKSjctT1Z0V0Q1TGwzb2VYRmwxZFpUV0M2LVp4cXRCQ1JWcUVBdExFM2E4cXBxNDEyaGtwbUVJcThWdk8wVGl0dUVyQXd6N0VBN2R5RlViZUw3dlNXWHFlZFF3bjNvMUdRU2ZRWlFJNHhlQ0lKaHlNc0pBQdIBhgJBVV95cUxONDdqaDBjel9QVS0xQ2lhNXU1OUhnWmw4dUdzWC1VbllvaGt6NTJYejY2U0xnazUyV3lDOVJfTmlMSmxVNnN1RmNrYnhnVm1pY1RDQnVKYy1wZC1famhUR1dwVkRRdTE5Q2VMaEhTcDNyRERzQXFfMTE0MU5JbURGRTVjNE1aLWo3aDlSc2VZUTdsbThCWkNxVVZzMFI3aEJWTmsyVVEzT2VlT2V6ejh3N2I2UGtEN1dXdmJYRmk1VmtleTlGSElRR0tRN1FZeDNRT28zX1YzYWUxWWM3bUQ2VWZMTHBwLVpWVUtNazZMaU5hN3c0LUxIZlY3RXZncWR2b2g2UklR?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#87",
+      "title": "Economía - México bajo presión: nuevos aranceles de Trump amenazan exportaciones clave y tensan el T-MEC - France 24",
+      "content_text": "",
+      "date_published": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM3ZtZTZJU2Y2Y083U0RqdEIxeG9NOElneHdDdF93aHdudENLTDRPbTV5TFREWWpuaXRadm9vaWpKQjNEUjBZYnZPdF9HOVI5djRoN0V5OC1KRmNwUVE2VDdFNzczR3gwSWUtSG0xRkJTU0E1MkZPY2dHM0dmUDZXRmtUWmItbnJZcnduLUtmUDRQdjdBVG9hSE5WMDFZRWVoX1I4dHpRanVZRmtTaVZTbkE3MGZpTFRFdzNBQ2N6cVlWX2lXdEp4R20wOEdPY3QwUzBBakwzQkpUTExLQldNLVZiTDJReUNJZ0NhclJzaGRjaFRFN0E?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#88",
+      "title": "Exportaciones y ventas de camiones en México meten frenón en febrero; producción se estrella 49% - El Economista",
+      "content_text": "",
+      "date_published": "Tue, 10 Mar 2026 19:22:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkRiX2tPLVJVUjN6NU05UFJqZV9rMDhMRWRobG1GdnZsV1dNV1ZYSjNTZmx6N09icjJNcjM0cGxrTmM2b3FneFJzc2NIREhPNFp5OHdDd1RSV0hLLWFYal9HdEVNWjBqOGlSYnBuUGtHaWtWdXgxejVkMXRPTjFLOVdudzJoNDhqSGVFUTRyY1dFaGJFeWFwTG8tS2VndFdhc2wtS1BzVVhxb0pDRHRHLU91ZW9DdGw4X2xPelJXMlRzYV9SdVdfZjlzSzczb2pYbnBEV3VR0gHbAUFVX3lxTE5NTkRvRmtFY0VPOWxOT3dZNGt0V08xSVBOU3BzUnZVZi1yX25VcWxLTTlUN1lLMjRZWWpzQVhQTmNGNUNSdmU5N2Z2RWNzYXp0UXoxSi1LVTM3NzczMER6Z0ljdzkxU0txTi1ENTVvOFVFU0tQeXpuTWVfOC1vT3YzWTVVZVRSdGdzRHkwM21mUWRoWmlPRUxvUms1MjVNUjE1ZFpIVXQ1NVpjaFpjd2FITFdWR09wb0cwQmthY1U1X3h0ZUFOZS1iQnlfN0lQVzgwdVNzeEtrVW1Lcw?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#89",
+      "title": "Aranceles encarecen camiones en EUA, un mercado que lleva meses enfriándose - Industry & Energy Magazine",
+      "content_text": "",
+      "date_published": "Wed, 11 Mar 2026 15:52:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejZzQ01wSjcxbXJOT1Atd0EyRnVHYXltWGRzc1JVWTUxUXVJYndXRnFKMUx4ejlmYmU4Y04tQjBBSjFld1JRSUpIbHFQM0ZNT1VnNUJoNE56aFBMWUk2MHNUTVNPYUNVcXMwX0FaWmZScEgtX3NlVG5GdElXMVhHMzdIRjlTN252THo4cXp3V3R6UFBwRmQxWnljYmliWlFyTWR2WGM2N0NQTlBP?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#90",
+      "title": "Revisión del T-MEC: Barclays prevé aranceles para México y volatilidad cambiaria - Reporte Indigo",
+      "content_text": "",
+      "date_published": "Wed, 11 Mar 2026 10:10:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaHg4ODhjYjlVaGxaVFA4QVQzWXVEZU5rVkNZcmpQRFByX01BODQzOWZyNWhzcTdEbkNYNGlyYUJyaXQ3Z2xvaTNIeUNTb3FtZzNLd1RyMzRuRHd1SW1IRGo1LTlFa1c1RklHMzJuYTdSUWh1U3NlY3F2TTJXMV9QMi1ELWdlbUhSUHRKRlBpVVUtQ3AxME1XbHBVWDJhZVRSX3B1N1ZUTVJkTHNWNFItMElzclFBY1VYT3pkdl96TzA3VThvSDZOMVZqM3VHQ3RY0gHWAUFVX3lxTE1RUnZoY0R2OGhnOTMzV3l2bV9sRUM4LWZKQnpsRVZIWEd5bVVNZ09WdEItd3pZSHFKNWVEajlxUHVpTzZjQW5MUFpoUnNSRnRubUlqOGMwSDMxUmtoOGFUSnJsX3VObzhTZEh4ZzJqUjZrVkhudG5Ma0wwT3BVaC1GemxocHJRcFl4b2Y1LVhoZzJpSHFxWTVfRVJTV2ViaElSTmdVRE5iZ05NYTV4R3I5V2ZKRkdDRjFsVk40QzRJajd2MWhNeElZUkZXZERjV0pVOWtkeUE?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
       ]
     }
   ]

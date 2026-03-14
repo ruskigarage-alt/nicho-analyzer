@@ -65,8 +65,8 @@
       "negativo": 0,
       "momentum": 16,
       "temas": [
-        "alianza",
         "general",
+        "alianza",
         "encuesta"
       ]
     },
@@ -76,21 +76,22 @@
       "negativo": 3,
       "momentum": 5,
       "temas": [
+        "seguridad",
         "gasto_publico",
         "general",
         "encuesta",
-        "seguridad",
         "nepotismo"
       ]
     },
     "diaz_robles": {
       "menciones": 10,
       "positivo": 1,
-      "negativo": 0,
-      "momentum": 12,
+      "negativo": 1,
+      "momentum": 9,
       "temas": [
         "general",
-        "candidatura"
+        "candidatura",
+        "nepotismo"
       ]
     },
     "narro_cespedes": {
@@ -100,9 +101,9 @@
       "momentum": 9,
       "temas": [
         "seguridad",
-        "nepotismo",
         "general",
-        "candidatura"
+        "candidatura",
+        "nepotismo"
       ]
     },
     "varela_pinedo": {
@@ -130,8 +131,8 @@
       "negativo": 0,
       "momentum": 14,
       "temas": [
-        "alianza",
-        "general"
+        "general",
+        "alianza"
       ]
     }
   }

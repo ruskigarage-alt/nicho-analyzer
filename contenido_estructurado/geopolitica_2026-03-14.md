@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-14"
 date: "2026-03-14"
 nicho: "geopolitica"
-total_entradas: 39
+total_entradas: 43
 schema: "NewsDigest"
 ---
 
@@ -122,6 +122,13 @@ schema: "NewsDigest"
 - **URL**: https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/
 - **Resumen**: Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.
 - **Relevancia**: 0.4675
+
+### Six killed in attacks on Ukraine as EU extends sanctions against Russians
+- **Fecha**: Sat, 14 Mar 2026 19:28:58 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine?traffic_source=rss
+- **Resumen**: EU maintains pressure after slamming US for lifting sanctions on Russian oil exports as Middle East war bites.
+- **Relevancia**: 0.5337
 
 ### Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade
 - **Fecha**: Sat, 14 Mar 2026 17:38:12 +0000
@@ -254,33 +261,54 @@ Senior officials from the three Group of Seven economies are working on...
         	Bart de Wever afirmó que hay que poner fin al conflicto entre Kiev y Moscú en interés de Europa.
 - **Relevancia**: 0.5684
 
-### Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry
-- **Fecha**: Wed, 04 Jun 2025 14:21:03 +0300
+### US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters
+- **Fecha**: Sat, 14 Mar 2026 20:54:48 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/politics/1968329
-- **Resumen**: "As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire," Maria Zakharova said
-- **Relevancia**: 0.4822
+- **URL**: https://tass.com/world/2101651
+- **Resumen**: In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation
+- **Relevancia**: 0.5037
 
-### Poland's capacity to deliver arms to Ukraine heavily constrained — paper
-- **Fecha**: Wed, 04 Jun 2025 13:22:26 +0300
+### Israel carries out 400 waves of attacks on Iran since February 28 — IDF
+- **Fecha**: Sat, 14 Mar 2026 19:31:48 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/1968271
-- **Resumen**: According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine
-- **Relevancia**: 0.4853
+- **URL**: https://tass.com/world/2101639
+- **Resumen**: The Israeli Air Force focused "on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran," the Israeli military said
+- **Relevancia**: 0.7033
 
-### Russia not interested in arms race with Europe, European Parliament member says
-- **Fecha**: Wed, 04 Jun 2025 13:02:43 +0300
+### Iran announces new wave of missile strikes on Israel — public broadcaster
+- **Fecha**: Sat, 14 Mar 2026 16:19:52 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/1968241
-- **Resumen**: Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as "strategic patience"
-- **Relevancia**: 0.5195
+- **URL**: https://tass.com/world/2101609
+- **Resumen**: Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel
+- **Relevancia**: 0.6088
 
-### Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint
-- **Fecha**: Wed, 04 Jun 2025 13:00:01 +0300
+### Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC
+- **Fecha**: Sat, 14 Mar 2026 16:17:11 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/pressreview/1968153
-- **Resumen**: Top stories from the Russian press on Wednesday, June 4th
-- **Relevancia**: 0.4758
+- **URL**: https://tass.com/world/2101607
+- **Resumen**: Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported
+- **Relevancia**: 0.4791
+
+### Pentagon reports strikes on 90 military targets on Iran's Kharg Island
+- **Fecha**: Sat, 14 Mar 2026 15:16:23 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101603
+- **Resumen**: But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said
+- **Relevancia**: 0.5125
+
+### Israeli army reports destruction of Iranian Space Agency research center
+- **Fecha**: Sat, 14 Mar 2026 14:31:56 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101597
+- **Resumen**: In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated
+- **Relevancia**: 0.6352
+
+### Global markets now in dire need of Russian oil — Kremlin
+- **Fecha**: Sat, 14 Mar 2026 09:55:39 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/economy/2101547
+- **Resumen**: Earlier, the US lifted sanctions on the sale of oil and petroleum products from Russia loaded onto ships before March 12
+- **Relevancia**: 0.5135
 
 ### Bowman, Capital Rules for the Real Economy
 - **Fecha**: Thu, 12 Mar 2026 15:00:00 GMT
