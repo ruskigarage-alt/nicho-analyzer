@@ -170,388 +170,6 @@
     "total_entradas": 5
   },
   {
-    "fuente": "jornada_mundo",
-    "url": "https://www.jornada.com.mx/rss/mundo.xml",
-    "nicho": "geopolitica",
-    "fecha_minado": "2026-03-14",
-    "tipo": "rss",
-    "entradas": [
-      {
-        "titulo": "Contagiada por mercados mundiales, la Bolsa Mexicana cierra con pérdidas",
-        "resumen": "Ante el nerviosismo que ha generado el conflicto bélico de Medio Oriente, la Bolsa Mexicana de Valores (BMV), contagiada por el resto de los mercados internacionales, cerró la semana con pérdidas.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/018n2mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Buscan demócratas impedir ataque a Cuba sin aprobación del Congreso",
-        "resumen": "Washington. Los demócratas del Senado presentaron un proyecto de ley que impediría a Estados Unidos atacar a Cuba sin la aprobación del Congreso, mientras buscan forzar una votación sobre el objetivo declarado del presidente Donald Trump de tomar el país caribeño.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/015n1mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Hamas aplaude a Islandia y Países Bajos por unirse a denuncia por genocidio contra Israel",
-        "resumen": "La Haya., Hamas aplaudió ayer la decisión de Países Bajos e Islandia de sumarse a la denuncia presentada por Sudáfrica ante la Corte Penal Internacional (CPI) contra Israel por genocidio en la franja de Gaza, mientras Estados Unidos, Hungría, Namibia y Fiyi presentaron una declaración para intervenir en favor de Tel Aviv.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/020n1mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Escala precio del crudo 11.86 por ciento en una semana",
-        "resumen": "Los precios internacionales del crudo cerraron la semana por arriba de 100 dólares, nivel no observado en cuatro años, lo cual se explica por el persistente temor de que se prolongue el cierre del estrecho de Ormuz por el conflicto bélico en Medio Oriente.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/018n1mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Culpan a ocho por tiroteo en un centro de detención del ICE",
-        "resumen": "Un jurado federal declaró ayer culpables a ocho personas de cargos relacionados con el terrorismo en conexión con una balacera en un centro de detención de inmigrantes, en Texas, del Servicio de Control de Inmigración y Aduanas (ICE), que los fiscales vincularon con Antifa, un movimiento de extrema izquierda frecuentemente atacado por la administración Trump.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/019n4mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Bolsonaro está grave en el hospital por neumonía",
-        "resumen": "Río de Janeiro., Jair Bolsonaro, el encarcelado ex presidente brasileño, fue ingresado en una unidad de cuidados intensivos tras ser diagnosticado con bronconeumonía, de acuerdo con un comunicado médico del hospital DF Star, que fue compartido por su esposa en las redes sociales.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/019n2mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Cese el fuego en Medio Oriente, instan México, Colombia y Brasil",
-        "resumen": "Manzanillo, Col., México, Colombia y Brasil llamaron, en un comunicado conjunto, a que se declare un cese al fuego inmediato en Medio Oriente y se privilegien las vías diplomáticas para resolver las diferencias entre Estados Unidos, Israel e Irán, informó ayer la presidenta Claudia Sheinbaum Pardo.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/018n3mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Sujeto que atacó sinagoga en Michigan perdió a cuatro familiares en ofensiva israelí en Líbano",
-        "resumen": "West Bloomfield., Un hombre con fusil que se estrelló contra una sinagoga de Michigan, en lo que autoridades federales catalogaron como atentado, perdió a cuatro familiares en un ataque aéreo israelí en su natal Líbano la semana pasada, reveló ayer un funcionario. Ayman Mohamad Ghazali, de 41 años, nacido en Líbano y naturalizado ciudadano estadunidense, fue abatido por personal de seguridad después de embestir con un vehículo la sinagoga Temple Israel en West Bloomfield, cerca de Detroit, que luego se incendió, según las autoridades. La Oficina Federal de Investigación, que encabeza las indagaciones, describió el ataque contra una de las sinagogas reformistas más grandes del país como acto de violencia dirigido contra la comunidad judía. Unas 140 personas –106 niños y más de 30 miembros del personal– estaban en la sinagoga en el momento del incidente, dijo Cassi Cohen, directora de desarrollo estratégico de Temple Israel. Ninguna persona resultó herida, de acuerdo con el jefe policial del condado Oakland, Mike Bouchard.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/017n3mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Bombardea Estados Unidos el principal puerto petrolero iraní",
-        "resumen": "Teherán. El presidente de Estados Unidos, Donald Trump, informó ayer que su ejército ejecutó uno de los bombardeos “más poderosos de la historia en Medio Oriente” contra Irán; horas antes, decenas de miles de personas salieron a las calles en la manifestación anual organizada por el gobierno en apoyo a la autodeterminación de Palestina frente a la ocupación israelí.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/016n1mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Guyana usurpa espacio marítimo no delimitado, acusa Venezuela",
-        "resumen": "Caracas. La cancillería venezolana rechazó mediante un comunicado las afirmaciones del gobierno de Guyana sobre su “autoridad” para otorgar permisos relacionados con actividades dentro de las zonas marítimas del territorio de la Guayana Esequiba, zona por la que ambas naciones mantienen una disputa territorial centenaria.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/019n1mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Denuncia la activista  Greta Thunberg política de asfixia contra la isla",
-        "resumen": "La activista ambiental sueca Greta Thunberg denunció ayer en sus redes sociales que la política de “asfixia” contra Cuba por parte del gobierno del presidente estadunidense, Donald Trump, ocasiona graves consecuencias humanitarias para la población de la isla.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/015n2mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "EU ofrece recompensa de 10 mdd por el nuevo líder supremo iraní, Mojtaba Jamenei",
-        "resumen": "Washington. Estados Unidos ofreció ayer una recompensa de 10 millones de dólares por información que conduzca al paradero del nuevo líder supremo de Irán, Mojtaba Jamenei, y otros 10 altos funcionarios de la república islámica.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/017n1mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Juan Pablo Duch: Apuntes postsoviéticos",
-        "resumen": "La guerra de Estados Unidos e Israel contra Irán y su impacto en los precios internacionales de los hidrocarburos por el cierre del estrecho de Ormuz como respuesta de Teherán resultaron una inesperada fuente de ingresos para Rusia, que sin mover un dedo está obteniendo dinero adicional para financiar su “operación militar especial” en Ucrania.",
-        "link": "https://www.jornada.com.mx/2026/03/14/opinion/020o1mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Ucrania y Alemania condenan “venta temporal” de petróleo ruso",
-        "resumen": "París. El presidente de Ucrania, Volodymir Zelensky, y el canciller alemán, Friedrich Merz, condenaron el levantamiento temporal de las sanciones estadunidenses al petróleo ruso con el argumento de que aporta a Moscú hasta 10 mil millones de dólares adicionales para continuar con la guerra. El presidente de Francia, Emmanuel Macron, aseguró que se trata de una medida “excepcional” y “limitada”.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/017n2mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "La Habana niega la venta  de donaciones de México",
-        "resumen": "El presidente de Cuba, Miguel Díaz-Canel, agradeció la ayuda enviada por México en medio de la crisis que enfrenta su país, derivada del bloqueo energético impuesto por el gobierno de Donald Trump, y desmintió la supuesta venta de los productos recibidos.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/014n3mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Revelan primera foto del ex príncipe Andrés y ex embajador británico con Epstein",
-        "resumen": "Madrid. La primera foto en la que aparecen el fallecido delincuente sexual Jeffrey Epstein; el ex príncipe Andrew Mountbatten-Windsor y Peter Mandelson, ex embajador británico en Estados Unidos, fue revelada ayer en el lote de documentos publicados por el Departamento de Justicia.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/020n2mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Capturan en Bolivia buscado narco con cuatro colaboradores",
-        "resumen": "El presunto narcotraficante uruguayo Sebastián Marset, buscado en diversos países y acusado de ser el cerebro del crimen de un fiscal paraguayo en 2022, fue capturado junto a cuatro de sus colaboradores, incluida una mujer, en un barrio residencial de Santa Cruz, y entregado a la Administración para el Control de Drogas (DEA), que lo trasladó a Estados Unidos, informó ayer Marco Antonio Oviedo, ministro de gobierno de Bolivia.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/019n3mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Confirman muerte de otros seis soldados  de EU",
-        "resumen": "Washington. El Comando Central de Estados Unidos (Centcom) confirmó la muerte de los seis tripulantes del avión cisterna que apoyaba las acciones del Pentágono contra la república islámica y se estrelló en el oeste de Irak, en un incidente que aún no ha sido especificado.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/016n2mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Trump confirma compra de zapatos para su gabinete",
-        "resumen": "El presidente de Estados Unidos, Donald Trump, confirmó que compró a varios miembros de su gabinete los mismos zapatos de su marca favorita. “Es un buen zapato”, indicó en una entrevista con Fox Radio “Durante muchos años he andado con zapatos que no servían y que no eran muy cómodos”, manifestó el republicano de 79 años. “Así que me divierto con esto. Cuando me dicen que tienen un problema, les digo: ‘Déjenme conseguirles un par de zapatos’. Parece que funciona bastante bien. Ahora se ven muy elegantes y bonitos.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/019n5mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Beneplácito de ONU por diálogo entre La Habana y  Washington",
-        "resumen": "Nueva York., La Organización de Naciones Unidas (ONU) expresó este viernes su beneplácito con el anuncio de negociaciones entre los gobiernos de Cuba y Estados Unidos, las cuales considera una herramienta para la solución pacífica de sus diferencias.",
-        "link": "https://www.jornada.com.mx/2026/03/14/mundo/015n4mun?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      }
-    ],
-    "total_entradas": 20
-  },
-  {
-    "fuente": "jornada_estados",
-    "url": "https://www.jornada.com.mx/rss/estados.xml",
-    "nicho": "politica_local",
-    "fecha_minado": "2026-03-14",
-    "tipo": "rss",
-    "entradas": [
-      {
-        "titulo": "Tribunal Electoral de SLP reconoce derechos ambientales de indígenas",
-        "resumen": "San Luis Potosí, SLP., El Tribunal Electoral de San Luis Potosí resolvió ayer un juicio a favor de la comunidad indígena de San Marcos Carmona, del municipio de Mexquitic de Carmona, con lo que se reconoce que “tiene derecho a ser consultada para la elaboración de las políticas y decisiones sobre obras en materia ambiental”.",
-        "link": "https://www.jornada.com.mx/2026/03/14/estados/023n2est?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Activista de Oaxaca y su hermano fueron privados de su libertad",
-        "resumen": "Oaxaca, Oax., El Consejo Nacional de Pueblos en Lucha (CNPL) denunció que Jorge Antonio Procopio, integrante del movimiento en defensa de la tierra en la colonia San Juan del Río, en el municipio de Santa María Jacatepec, y su hermano Saúl, fueron sacados de su domicilio de forma violenta el jueves por varios sujetos encapuchados.",
-        "link": "https://www.jornada.com.mx/2026/03/14/estados/021n2est?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "A 11 días del derrame de chapopote, Semarnat atiende la emergencia",
-        "resumen": "A 11 días del derrame de hidrocarburo que ha contaminado kilómetros de costas de Veracruz y Tabasco, la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat) informó ayer que se realizan acciones de “coordinación interinstitucional” para atender esta emergencia ambiental.",
-        "link": "https://www.jornada.com.mx/2026/03/14/estados/022n1est?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Colocan tendedero con nombres de agresores sexuales en la UAEMex",
-        "resumen": "Nezahualcóyotl, Méx., Estudiantes de la Universidad Autónoma del Estado de México (UAEMex), plantel Nezahualcóyotl, sumaron ayer tres días en paro total; exigen la destitución de directivos por omisión y encubrimiento de los profesores y hermanos Alejandro y Alfredo Bravo Olivares, titular de Control Escolar y coordinador de la carrera de Comercio Internacional, respectivamente, señalados de agresión sexual, violación y represalias en agravio de alumnas y profesoras.",
-        "link": "https://www.jornada.com.mx/2026/03/14/estados/023n1est?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Colima recibirá más de 10 mil mdp para obras de infraestructura, agua y caminos: Sheinbaum",
-        "resumen": "Manzanillo, Col., Además de los recursos federales que Colima recibe, por seis mil 52 millones de pesos en Programas de Bienestar, entre 2025 y 2026 “estará recibiendo más de 10 mil millones de pesos para obras de infraestructura, agua y caminos”, indicó la presidenta Claudia Sheinbuam Pardo.",
-        "link": "https://www.jornada.com.mx/2026/03/14/estados/022n2est?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Empleados del INAH en Veracruz exigen apoyos para realizar su trabajo",
-        "resumen": "Veracruz, Ver., Trabajadores del Instituto Nacional de Antropología e Historia (INAH) se manifestaron ayer en las oficinas del estado para exigir la entrega de apoyos, herramientas e insumos necesarios para realizar la labor de cuidado y mantenimiento de las zonas arqueológicas.",
-        "link": "https://www.jornada.com.mx/2026/03/14/estados/023n3est?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Exigen pronta localización de una menor en Veracruz",
-        "resumen": "Veracruz, Ver., Familiares y amigos de Camila Reyna Reyes, de 12 años, reportada como desaparecida el 9 de marzo, marcharon ayer por las calles de la ciudad de Veracruz para exigir su pronta localización.",
-        "link": "https://www.jornada.com.mx/2026/03/14/estados/021n3est?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Desaparece otra estudiante en Morelos; van 5 en tres semanas",
-        "resumen": "Cuernavaca, Mor., Ayelen Iglesias Vidal, de 17 años, alumna del Colegio de Bachilleres del Estado de Morelos (Cobaem), lleva tres días desaparecida, de acuerdo con datos de la Fiscalía General del Estado (FGE).",
-        "link": "https://www.jornada.com.mx/2026/03/14/estados/021n1est?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      }
-    ],
-    "total_entradas": 8
-  },
-  {
-    "fuente": "jornada_capital",
-    "url": "https://www.jornada.com.mx/rss/capital.xml",
-    "nicho": "politica_local",
-    "fecha_minado": "2026-03-14",
-    "tipo": "rss",
-    "entradas": [
-      {
-        "titulo": "En 4 días, encuentran 8 restos en la alcaldía Álvaro Obregón",
-        "resumen": "Durante cuatro días autoridades capitalinas realizaron jornadas de búsqueda en la zona de barrancas de la alcaldía Álvaro Obregón, donde se localizaron ocho fragmentos óseos a tres metros de la barda del panteón de Tarango.",
-        "link": "https://www.jornada.com.mx/2026/03/14/capital/026n3cap?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Diputados locales tendrán megapuente; sesionarán hasta el 18",
-        "resumen": "Desde ayer, diputados del Congreso de la Ciudad de México empezaron a disfrutar de su megapuente, debido a la conmemoración del natalicio de Benito Juárez, luego de que la diputada del Partido Acción Nacional Olivia Garza de los Santos, en ausencia del presidente de la mesa directiva, Jesús Sesma, citara a sesión hasta el miércoles 18 de marzo.",
-        "link": "https://www.jornada.com.mx/2026/03/14/capital/025n1cap?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Este año, $600 millones para unidades habitacionales",
-        "resumen": "El Gobierno de la Ciudad de México entregó las obras de mantenimiento en tres unidades habitacionales –una en la colonia Portales y dos en Narvarte–, que fueron intervenidas por medio del programa Otoch, con el que realizó el mejoramiento de 41 edificios y áreas comunes.",
-        "link": "https://www.jornada.com.mx/2026/03/14/capital/025n3cap?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Bloquean 24 horas Eje 5 Sur; piden liberar a acusado de robo",
-        "resumen": "Por más de 24 horas, un grupo de 30 personas –entre familiares y amigos de Oswaldo T– bloquearon el Eje 5 Sur y Periférico Oriente, en el tramo de la colonia Chinampac de Juárez, alcaldía Iztapalapa, en demanda de su liberación tras ser detenido y acusado de robo con violencia a un transeúnte.",
-        "link": "https://www.jornada.com.mx/2026/03/14/capital/026n1cap?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "El romance moderno",
-        "resumen": "",
-        "link": "https://www.jornada.com.mx/2026/03/14/capital/024n3cap?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Todos los servidores públicos se ajustarán a reglas de austeridad durante el Mundial",
-        "resumen": "La Secretaría de Administración y Finanzas llamó a todos los servidores públicos a manejarse bajo los estándares de austeridad republicana durante el Mundial de Futbol 2026, por lo que toda erogación relacionada con el evento deportivo deberá estar justificada y disponible para fiscalizar.",
-        "link": "https://www.jornada.com.mx/2026/03/14/capital/025n2cap?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Reintegran al erario 115 millones de pesos por sanciones a funcionarios",
-        "resumen": "En seis años, el Tribunal de Justicia Administrativa (TJA) de la Ciudad de México ha logrado restituir a las arcas de la ciudad 115 millones de pesos producto de sanciones contra servidores públicos, que también han sido inhabilitados.",
-        "link": "https://www.jornada.com.mx/2026/03/14/capital/024n1cap?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Alcaldía Cuauhtémoc sabía que edificio estaba en demolición: Muñoz",
-        "resumen": "Desde noviembre de 2025, la alcaldía Cuauhtémoc, que dirige Alessandra Rojo de la Vega, sabía de la demolición del edificio colapsado en la calzada San Antonio Abad, donde fallecieron tres personas, informó el secretario de Vivienda, Inti Muñoz, quien señaló que la demarcación debe aclarar si verificó la obra conforme a sus facultades.",
-        "link": "https://www.jornada.com.mx/2026/03/14/capital/024n2cap?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      },
-      {
-        "titulo": "Maestros protestan en el Zócalo por descuentos en su salario",
-        "resumen": "Profesores de educación básica protestaron en el Zócalo capitalino para exigir a la Autoridad Educativa Federal en la Ciudad de México que “cesen los descuentos injustificados” contra quienes han participado en los paros convocados por la Coordinadora Nacional de Trabajadores de la Educación (CNTE), ya que “se busca intimidar a los maestros recortando sus ingresos para que no se manifiesten por la inestabilidad laboral en la que subsisten”.",
-        "link": "https://www.jornada.com.mx/2026/03/14/capital/026n2cap?partner=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 07:58:09 GMT"
-      }
-    ],
-    "total_entradas": 9
-  },
-  {
-    "fuente": "expansion_economia",
-    "url": "https://expansion.mx/rss/economia",
-    "nicho": "regulaciones_pyme",
-    "fecha_minado": "2026-03-14",
-    "tipo": "rss",
-    "entradas": [
-      {
-        "titulo": "¿Quién contribuye más?, las actividades que impulsan la recaudación del SAT",
-        "resumen": "El pago de impuestos en aduanas, de entidades federativas, y el de entidades financieras concentran el pago de impuestos en México.",
-        "link": "https://expansion.mx/economia/2026/03/14/quien-contribuye-mas-sectores-recaudacion-sat",
-        "fecha_publicacion": "Sat, 14 Mar 2026 14:08:29 GMT"
-      },
-      {
-        "titulo": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
-        "resumen": "La cuota por el impuesto IEPS que se cobra al combustible utilizado para el transporte de mercancías y personas, tendrá un descuento que absorberá Hacienda como un pérdida recaudatoria.",
-        "link": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico",
-        "fecha_publicacion": "Fri, 13 Mar 2026 23:58:20 GMT"
-      },
-      {
-        "titulo": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
-        "resumen": "Felipe García, director general del banco, dice que detectan problemas de morosidad en el segmento en medio de la creciente competencia de nuevos jugadores.",
-        "link": "https://expansion.mx/economia/2026/03/13/santander-hemos-frenado-un-poco-el-negocio-de-tarjetas",
-        "fecha_publicacion": "Fri, 13 Mar 2026 22:00:08 GMT"
-      },
-      {
-        "titulo": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
-        "resumen": "Pablo Elek, director general de Scotiabank México, afirma que el país ha demostrado resiliencia económica y cuenta con una plataforma manufacturera integrada al corredor norte.",
-        "link": "https://expansion.mx/economia/2026/03/13/scotiabank-mexico-es-prioridad-para-el-banco-representa-30-del-negocio",
-        "fecha_publicacion": "Fri, 13 Mar 2026 18:01:35 GMT"
-      },
-      {
-        "titulo": "HSBC: El cuello de botella del crecimiento en México era la falta de proyectos",
-        "resumen": "Jorge Arce, director general de HSBC México, dice que los planes de infraestructura del gobierno pueden detonar nuevas inversiones, especialmente en energía.",
-        "link": "https://expansion.mx/economia/2026/03/13/hsbc-falta-de-proyectos-principal-cuello-botella",
-        "fecha_publicacion": "Fri, 13 Mar 2026 11:55:52 GMT"
-      },
-      {
-        "titulo": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
-        "resumen": "Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.",
-        "link": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:30:33 GMT"
-      },
-      {
-        "titulo": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
-        "resumen": "El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.",
-        "link": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas",
-        "fecha_publicacion": "Fri, 13 Mar 2026 00:25:17 GMT"
-      },
-      {
-        "titulo": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
-        "resumen": "Durante el último año, el comercio de acero entre ambos países se convirtió en uno de los puntos más sensibles de la relación bilateral.",
-        "link": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:12:23 GMT"
-      },
-      {
-        "titulo": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
-        "resumen": "Gobiernos y sector privado impulsan misiones comerciales y acuerdos empresariales para ampliar el intercambio entre México y Canadá.",
-        "link": "https://expansion.mx/economia/2026/03/12/mexico-gana-frente-canada-exportaciones-se-disparan",
-        "fecha_publicacion": "Thu, 12 Mar 2026 21:35:37 GMT"
-      },
-      {
-        "titulo": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
-        "resumen": "Luis Brossier afirma que empresas ya dialogan con CFE sobre generación eléctrica y que el banco apoyará con financiamiento cuando se asignen los proyectos.",
-        "link": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura",
-        "fecha_publicacion": "Thu, 12 Mar 2026 19:20:27 GMT"
-      },
-      {
-        "titulo": "¿Por qué suben los precios del petróleo a pesar de la liberación récord de reservas?",
-        "resumen": "Los precios también están subiendo debido a una nueva ola de ataques iraníes dirigidos a objetivos energéticos del Golfo.",
-        "link": "https://expansion.mx/economia/2026/03/12/por-que-suben-los-precios-del-petroleo-a-pesar-de-la-liberacion-record-de-reservas",
-        "fecha_publicacion": "Thu, 12 Mar 2026 14:32:51 GMT"
-      },
-      {
-        "titulo": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
-        "resumen": "Eduardo Osuna, director general de BBVA México, dijo que la banca está lista para financiar los proyectos del Plan México, siempre que cuenten con permisos, fuentes de pago claras y una adecuada asignación de riesgos.",
-        "link": "https://expansion.mx/economia/2026/03/12/bbva-los-proyectos-del-plan-mexico-seran-exitosos-y-rentables-si-se-ejecutan-bien",
-        "fecha_publicacion": "Thu, 12 Mar 2026 11:55:40 GMT"
-      },
-      {
-        "titulo": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
-        "resumen": "La USTR indicó que el proceso en el marco de la Sección 301 analizará si las políticas industriales de estos países son irrazonables o discriminatorias y si restringen el comercio de Estados Unidos.",
-        "link": "https://expansion.mx/economia/2026/03/11/eu-investiga-mexico-economias-sobrecapacidad-manufactura",
-        "fecha_publicacion": "Thu, 12 Mar 2026 00:33:02 GMT"
-      },
-      {
-        "titulo": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
-        "resumen": "El plan busca ampliar el financiamiento a pequeñas empresas con garantías de Nafin y mayor colocación bancaria, pero la falta de historial crediticio es la principal barrera para el primer préstamo.",
-        "link": "https://expansion.mx/economia/2026/03/11/plan-mexico-credito-pymes-pero-reto-negocios-fuera",
-        "fecha_publicacion": "Wed, 11 Mar 2026 19:59:02 GMT"
-      },
-      {
-        "titulo": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
-        "resumen": "Carlos López-Moctezuma dice que el banco tomó el control de la cartera en febrero, contrató cobranza especializada y prevé un alza temporal en la morosidad mientras los clientes migran al nuevo sistema de pago.",
-        "link": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos",
-        "fecha_publicacion": "Wed, 11 Mar 2026 18:01:01 GMT"
-      },
-      {
-        "titulo": "La AIE libera 400 millones de barriles de crudo de reservas, el mayor desbloqueo de su historia",
-        "resumen": "La Agencia Internacional de Energía busca compensar la pérdida de suministro por el cierre efectivo del Estrecho de Ormuz y mitigar los efectos inmediatos de la perturbación de los mercados.",
-        "link": "https://expansion.mx/economia/2026/03/11/la-aie-libera-400-millones-de-barriles-de-crudo-de-reservas-el-mayor-desbloqueo-de-su-historia",
-        "fecha_publicacion": "Wed, 11 Mar 2026 15:34:04 GMT"
-      },
-      {
-        "titulo": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
-        "resumen": "El fisco publicó 80 tasas efectivas pagadas en 2022 y 2023; los contribuyentes que pagaron menos ISR que el promedio de su actividad, ya tienen un mensaje en su Buzón Tributario para ponerse al tanto.",
-        "link": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes",
-        "fecha_publicacion": "Wed, 11 Mar 2026 15:31:29 GMT"
-      },
-      {
-        "titulo": "CEO de Nubank : Trump ha sido \"positivo\" para el sector financiero en EU",
-        "resumen": "Nubank obtuvo en enero una aprobación condicional para operar como banco en Estados Unidos, el mayor mercado financiero del mundo, y ahora está a la espera de la licencia definitiva.",
-        "link": "https://expansion.mx/economia/2026/03/11/ceo-de-nubank-trump-ha-sido-positivo-para-el-sector-financiero-en-eu",
-        "fecha_publicacion": "Wed, 11 Mar 2026 14:09:33 GMT"
-      },
-      {
-        "titulo": "Multiva: “104 fideicomisos quedaron fuera; no cumplían nuestro apetito de riesgo”",
-        "resumen": "Tamara Caballero, directora de Multiva, dijo que tras adquirir casi 3,000 fideicomisos de CI Banco, depuraron contratos con apoyo de IA y listas de riesgo, lo que permitió sumar clientes y elevar su captación.",
-        "link": "https://expansion.mx/economia/2026/03/11/multiva-104-fideicomisos-quedaron-fuera-no-cumplian-nuestro-apetito-de-riesgo",
-        "fecha_publicacion": "Wed, 11 Mar 2026 11:55:00 GMT"
-      },
-      {
-        "titulo": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
-        "resumen": "Julio Escandón, director general del banco, afirma que tras los señalamientos de EU contra instituciones financieras, se optó por frenar la captación de nuevos clientes y reforzar sus controles de cumplimiento.",
-        "link": "https://expansion.mx/economia/2026/03/10/banco-base-acusaciones-de-lavado-de-dinero-fueron-una-sacudida-para-los-bancos",
-        "fecha_publicacion": "Tue, 10 Mar 2026 11:55:42 GMT"
-      }
-    ],
-    "total_entradas": 20
-  },
-  {
     "fuente": "jornada_zacatecas",
     "url": "https://ljz.mx/feed/",
     "nicho": "politica_local",
@@ -1107,6 +725,18 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Trump asegura que muchos migrantes en EE.UU. son \"malos\" por culpa de sus genes",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5ce3fe9ff7150ff0ddb64.jpg\" style=\"float: left;\" />\n        \t\"Hay algo que no está bien ahí. Su genética no es exactamente la misma que la tuya\", declaró el mandatario estadounidense.",
+        "link": "https://actualidad.rt.com/actualidad/592955-trump-genetica-migrantes-malos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 22:44:44 +0000"
+      },
+      {
+        "titulo": "VIDEO: Ministra mexicana dobla su ropa en plena sesión de la Suprema Corte",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5d8f5e9ff71478e0c1a3c.jpg\" style=\"float: left;\" />\n        \tEn una sesión de la Suprema Corte de Justicia de la Nación de México, la ministra Lenia Batres fue blanco de críticas, después de que fuera grabada cuando doblaba una prenda de vestir mientras otros ministros intervenían en la discusión pública del órgano judicial. Los usuarios de las redes sociales cuestionaron el nivel de seriedad de Batres, al tratarse de un debate en el máximo tribunal del país.",
+        "link": "https://actualidad.rt.com/viral/592971-ministra-mexicana-dobla-ropa-sesion-suprema-corte?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 22:36:42 +0000"
+      },
+      {
         "titulo": "Reportan que Irán suma 336 horas sin internet",
         "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
         "link": "https://actualidad.rt.com/actualidad/592972-reportan-iran-supera-336-horas?utm_source=rss&utm_medium=rss&utm_campaign=all",
@@ -1153,18 +783,6 @@
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5cc5ae9ff711874488ace.jpg\" style=\"float: left;\" />\n        \tEl CGRI detalló que la operación se realizó mediante un ataque combinado de misiles de combustible líquido y solido.",
         "link": "https://actualidad.rt.com/actualidad/592957-iran-golpea-base-alberga-cazas-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Sat, 14 Mar 2026 20:25:07 +0000"
-      },
-      {
-        "titulo": "Irán afirma que el ataque de EE.UU. contra su isla clave fue lanzado desde EAU con HIMARS",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592951-iran-promete-responder-ataque-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Sat, 14 Mar 2026 20:12:47 +0000"
-      },
-      {
-        "titulo": "VIDEO: Irán responde a la arrogancia militar de EE.UU. con un enjambre de drones kamikaze",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5bab3e9ff7115cc5c6bf5.jpg\" style=\"float: left;\" />\n        \tEl Cuerpo de la Guardia Revolucionaria Islámica (CGRI) hizo público este sábado un video en el que muestra el lanzamiento masivo de drones kamikaze, en medio de los reiterados mensajes de EE.UU. sobre la destrucción de la capacidad militar iraní. El CGRI afirma que los blancos de esta nueva ola de drones son los emplazamientos de soldados estadounidenses en la región de Oriente Medio.",
-        "link": "https://actualidad.rt.com/actualidad/592954-iran-hace-lanzamientos-masivos-drones?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Sat, 14 Mar 2026 20:02:14 +0000"
       }
     ],
     "total_entradas": 10
@@ -1177,124 +795,124 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "German exports to Russia down 5.3% in April month-on-month",
-        "resumen": "In annual terms, exports from Germany to Russia lost 9.3%",
-        "link": "https://tass.com/economy/1969687",
-        "fecha_publicacion": "Fri, 06 Jun 2025 13:04:25 +0300"
+        "titulo": "Israel running critically low on interceptor missiles — portal",
+        "resumen": "According to the news portal, Israel has entered the current military operation already low on interceptors, because they were actively used during last summer’s conflict with Iran",
+        "link": "https://tass.com/world/2101683",
+        "fecha_publicacion": "Sun, 15 Mar 2026 01:22:29 +0300"
       },
       {
-        "titulo": "Khrunichev Center begins production of three Angara-A5M rockets for launching ROS modules",
-        "resumen": "The next phase in the Angara-A5 modernization program involves adapting the rocket for launching manned spacecraft",
-        "link": "https://tass.com/science/1969671",
-        "fecha_publicacion": "Fri, 06 Jun 2025 13:03:51 +0300"
+        "titulo": "One more drone downed en route to Moscow",
+        "resumen": "Saturday’s drone attack on the Moscow Region surrounding the Russian capital has become the largest since the start of the year",
+        "link": "https://tass.com/politics/2101681",
+        "fecha_publicacion": "Sun, 15 Mar 2026 01:05:00 +0300"
       },
       {
-        "titulo": "Gagauzia head faces court: recent developments",
-        "resumen": "\"No matter what the pro-government media outlets say, I am tried today because I am Gagauzia's head,\" Evghenia Gutsul stated",
-        "link": "https://tass.com/world/1969667",
-        "fecha_publicacion": "Fri, 06 Jun 2025 13:03:02 +0300"
+        "titulo": "Two houses damaged by Ukrainian shelling attack on DPR in past day",
+        "resumen": "No casualties were reported",
+        "link": "https://tass.com/politics/2101679",
+        "fecha_publicacion": "Sun, 15 Mar 2026 00:46:01 +0300"
       },
       {
-        "titulo": "Trump-Musk clash costs both hefty sums in one day — media",
-        "resumen": "According to the news outlet, Elon Musk remains the world’s richest businessman, but his fortune declined by $33.9 billion",
-        "link": "https://tass.com/economy/1969669",
-        "fecha_publicacion": "Fri, 06 Jun 2025 13:01:16 +0300"
+        "titulo": "Drone attack on Moscow becomes largest this year — TASS calculations",
+        "resumen": "On-duty air defenses destroyed 65 drones in less than 12 hours",
+        "link": "https://tass.com/politics/2101677",
+        "fecha_publicacion": "Sun, 15 Mar 2026 00:26:33 +0300"
       },
       {
-        "titulo": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
-        "resumen": "Top stories from the Russian press on Friday, June 6th",
-        "link": "https://tass.com/pressreview/1969589",
-        "fecha_publicacion": "Fri, 06 Jun 2025 13:00:01 +0300"
+        "titulo": "Iran’s IRGC tells residents living near US industrial sites in Middle East to leave",
+        "resumen": "Iran’s elite army unit also warned all US businesses across the region to evacuate",
+        "link": "https://tass.com/world/2101675",
+        "fecha_publicacion": "Sun, 15 Mar 2026 00:01:01 +0300"
       },
       {
-        "titulo": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
-        "resumen": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
-        "link": "https://tass.com/world/1969663",
-        "fecha_publicacion": "Fri, 06 Jun 2025 12:45:53 +0300"
+        "titulo": "Russian skier Voronchikhina picks up her second gold medal at Italy’s Paralympics",
+        "resumen": "The Russian Paralympic athlete won the women's slalom standing ahead of China’s Wenjing Zhu who took silver",
+        "link": "https://tass.com/sports/2101673",
+        "fecha_publicacion": "Sat, 14 Mar 2026 23:50:00 +0300"
       },
       {
-        "titulo": "WHO reports over 8,500 global attacks on health facilities since 2018 — director general",
-        "resumen": "\"Attacks on health care have become the 'new normal' of conflict,\" WHO Director General Tedros Adhanom Ghebreyesus said",
-        "link": "https://tass.com/society/1969643",
-        "fecha_publicacion": "Fri, 06 Jun 2025 12:34:36 +0300"
+        "titulo": "Iran dismisses Ukraine’s drone support to US as 'a joke' — diplomat",
+        "resumen": "Earlier, Vladimir Zelensky announced sending drone teams to the Middle East, namely Qatar, the UAE, and Saudi Arabia",
+        "link": "https://tass.com/world/2101671",
+        "fecha_publicacion": "Sat, 14 Mar 2026 23:30:01 +0300"
       },
       {
-        "titulo": "Shadow of 'potential brutal divorce' between Trump-Musk looms over Republicans — TV",
-        "resumen": "According to the report, Republican lawmakers worry that Musk may try to oust them from power in midterm elections next year",
-        "link": "https://tass.com/world/1969641",
-        "fecha_publicacion": "Fri, 06 Jun 2025 12:31:08 +0300"
+        "titulo": "Air defenses down another 15 drones targeting Moscow — mayor",
+        "resumen": "First responders are working at the scene where the debris fell",
+        "link": "https://tass.com/politics/2101669",
+        "fecha_publicacion": "Sat, 14 Mar 2026 23:10:01 +0300"
       },
       {
-        "titulo": "EU must conclude arms limitation agreement with Russia, says Orban",
-        "resumen": "The Hungarian prime minister noted that Hungary agrees with the need to strengthen Europe’s defense capabilities, but this should not lead to an unrestrained arms race",
-        "link": "https://tass.com/world/1969637",
-        "fecha_publicacion": "Fri, 06 Jun 2025 12:18:57 +0300"
+        "titulo": "Russia downs 280 Ukrainian drones during 10 hours on Saturday",
+        "resumen": "Over the Bryansk Region alone, air defenses, Russia’s National Guard and the BARS-Bryansk brigade destroyed as many as 128 enemy fixed-wing UAVs, according to Governor Alexander Bogomaz",
+        "link": "https://tass.com/emergencies/2101665",
+        "fecha_publicacion": "Sat, 14 Mar 2026 22:17:50 +0300"
       },
       {
-        "titulo": "Bank of Russia sells yuan worth $83 mln with settlements on June 5",
-        "resumen": "The Central Bank sold yuan on the domestic market with settlements on June 4, 2025 in the amount of 6.5 bln rubles",
-        "link": "https://tass.com/economy/1969635",
-        "fecha_publicacion": "Fri, 06 Jun 2025 12:15:52 +0300"
+        "titulo": "Tehran, Washington were able to make good progress prior to attacks — Iran’s top diplomat",
+        "resumen": "Washington seems to have misinterpreted the stance of the Islamic Republic, Iranian Foreign Minister Abbas Araghchi said",
+        "link": "https://tass.com/world/2101653",
+        "fecha_publicacion": "Sat, 14 Mar 2026 21:12:58 +0300"
       },
       {
-        "titulo": "Attacks ahead of meeting between IAEA, Rosatom chiefs 'pressure tool,' ZNPP believes",
-        "resumen": "On June 5, Ukrainian troops launched several drone attacks on the training center of the Zaporozhye nuclear power plant",
-        "link": "https://tass.com/world/1969633",
-        "fecha_publicacion": "Fri, 06 Jun 2025 12:01:09 +0300"
+        "titulo": "US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters",
+        "resumen": "In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation",
+        "link": "https://tass.com/world/2101651",
+        "fecha_publicacion": "Sat, 14 Mar 2026 20:54:48 +0300"
       },
       {
-        "titulo": "Dodon calls on Sandu, Recean not to succumb to Western attempts to drag Moldova into war",
-        "resumen": "The former Moldovan president criticized Dorin Recean's statement in Brussels that Russia allegedly wants to deploy 10,000 of its soldiers in Transnistria",
-        "link": "https://tass.com/world/1969631",
-        "fecha_publicacion": "Fri, 06 Jun 2025 11:53:27 +0300"
+        "titulo": "Israel carries out 400 waves of attacks on Iran since February 28 — IDF",
+        "resumen": "The Israeli Air Force focused \"on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran,\" the Israeli military said",
+        "link": "https://tass.com/world/2101639",
+        "fecha_publicacion": "Sat, 14 Mar 2026 19:31:48 +0300"
       },
       {
-        "titulo": "Zelensky’s regime bears all hallmarks of terrorist organization — Russian senator",
-        "resumen": "The official designation of Kiev regime as a terrorist organization is merely a matter of time, Andrey Klischas stated",
-        "link": "https://tass.com/politics/1969627",
-        "fecha_publicacion": "Fri, 06 Jun 2025 11:42:09 +0300"
+        "titulo": "EU moves to prolong its Russia blacklist until mid-September",
+        "resumen": "According to the document, \"In the context of the sanctions' review, the Council also decided not to renew the listings of two individuals and to remove five deceased persons from the list\"",
+        "link": "https://tass.com/economy/2101637",
+        "fecha_publicacion": "Sat, 14 Mar 2026 19:22:10 +0300"
       },
       {
-        "titulo": "Russian stocks down as main trading session opens",
-        "resumen": "The yuan exchange rate was up by 3.1 kopecks at 10.999 rubles.",
-        "link": "https://tass.com/economy/1969629",
-        "fecha_publicacion": "Fri, 06 Jun 2025 11:40:44 +0300"
+        "titulo": "Lebanese death toll from Israeli attacks rises to more than 800 — ministry",
+        "resumen": "The number of those injured is 2,000, the Arab republic’s Ministry of Public Health said",
+        "link": "https://tass.com/world/2101635",
+        "fecha_publicacion": "Sat, 14 Mar 2026 18:54:38 +0300"
       },
       {
-        "titulo": "Rosatom CEO, IAEA chief meet in Kaliningrad",
-        "resumen": "The meeting is taking place at Khrabrovo Airport",
-        "link": "https://tass.com/economy/1969625",
-        "fecha_publicacion": "Fri, 06 Jun 2025 11:39:50 +0300"
+        "titulo": "Iran announces new wave of missile strikes on Israel — public broadcaster",
+        "resumen": "Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel",
+        "link": "https://tass.com/world/2101609",
+        "fecha_publicacion": "Sat, 14 Mar 2026 16:19:52 +0300"
       },
       {
-        "titulo": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone",
-        "resumen": "Maxim Pukhov stressed that the hotel was non-operational, so no one was injured",
-        "link": "https://tass.com/emergencies/1969621",
-        "fecha_publicacion": "Fri, 06 Jun 2025 11:22:03 +0300"
+        "titulo": "Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC",
+        "resumen": "Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported",
+        "link": "https://tass.com/world/2101607",
+        "fecha_publicacion": "Sat, 14 Mar 2026 16:17:11 +0300"
       },
       {
-        "titulo": "Ukrainian army retreating from Komar community in western Donetsk region",
-        "resumen": "The Ukrainian military tried to deploy reserves to that community but most of them were destroyed by Russia’s air strikes, the source added",
-        "link": "https://tass.com/politics/1969619",
-        "fecha_publicacion": "Fri, 06 Jun 2025 11:20:31 +0300"
+        "titulo": "Middle East conflict may lead to 70% drop in oil production, expert says",
+        "resumen": "Even if Russia provides additional supplies, importers will be able to offset only part of the potential losses, Aditya Saraswat noted",
+        "link": "https://tass.com/economy/2101605",
+        "fecha_publicacion": "Sat, 14 Mar 2026 15:43:04 +0300"
       },
       {
-        "titulo": "Putin enjoys strong support among Russian people, latest poll shows",
-        "resumen": "\"When asked directly if they trusted Putin, 80% of participants responded affirmatively,\" the service said",
-        "link": "https://tass.com/politics/1969617",
-        "fecha_publicacion": "Fri, 06 Jun 2025 11:16:22 +0300"
+        "titulo": "Pentagon reports strikes on 90 military targets on Iran's Kharg Island",
+        "resumen": "But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said",
+        "link": "https://tass.com/world/2101603",
+        "fecha_publicacion": "Sat, 14 Mar 2026 15:16:23 +0300"
       },
       {
-        "titulo": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
-        "resumen": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
-        "link": "https://tass.com/world/1969613",
-        "fecha_publicacion": "Fri, 06 Jun 2025 10:52:46 +0300"
+        "titulo": "Israeli army reports destruction of Iranian Space Agency research center",
+        "resumen": "In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated",
+        "link": "https://tass.com/world/2101597",
+        "fecha_publicacion": "Sat, 14 Mar 2026 14:31:56 +0300"
       },
       {
-        "titulo": "Death toll in Ukrainian attack on Kursk Region's Rylsk climbs to two",
-        "resumen": "Governor Alexander Khinshtein said that an 83-year-old woman died in hospital",
-        "link": "https://tass.com/emergencies/1969611",
-        "fecha_publicacion": "Fri, 06 Jun 2025 10:48:20 +0300"
+        "titulo": "Ukraine loses around 1,135 troops in special op zone in one day",
+        "resumen": "Russian air defenses shot down 10 guided bombs and 285 fixed-wing drones of the Ukrainian army over the past day",
+        "link": "https://tass.com/defense/2101587",
+        "fecha_publicacion": "Sat, 14 Mar 2026 13:55:21 +0300"
       }
     ],
     "total_entradas": 20

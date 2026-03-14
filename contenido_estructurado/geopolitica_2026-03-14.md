@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-14"
 date: "2026-03-14"
 nicho: "geopolitica"
-total_entradas: 34
+total_entradas: 33
 schema: "NewsDigest"
 ---
 
@@ -10,55 +10,6 @@ schema: "NewsDigest"
 > Digest estructurado para sistemas de IA — 2026-03-14
 
 ## Entradas del día
-
-### Escala precio del crudo 11.86 por ciento en una semana
-- **Fecha**: Sat, 14 Mar 2026 07:58:09 GMT
-- **Fuente**: jornada_mundo
-- **URL**: https://www.jornada.com.mx/2026/03/14/mundo/018n1mun?partner=rss
-- **Resumen**: Los precios internacionales del crudo cerraron la semana por arriba de 100 dólares, nivel no observado en cuatro años, lo cual se explica por el persistente temor de que se prolongue el cierre del estrecho de Ormuz por el conflicto bélico en Medio Oriente.
-- **Relevancia**: 0.5522
-
-### Culpan a ocho por tiroteo en un centro de detención del ICE
-- **Fecha**: Sat, 14 Mar 2026 07:58:09 GMT
-- **Fuente**: jornada_mundo
-- **URL**: https://www.jornada.com.mx/2026/03/14/mundo/019n4mun?partner=rss
-- **Resumen**: Un jurado federal declaró ayer culpables a ocho personas de cargos relacionados con el terrorismo en conexión con una balacera en un centro de detención de inmigrantes, en Texas, del Servicio de Control de Inmigración y Aduanas (ICE), que los fiscales vincularon con Antifa, un movimiento de extrema izquierda frecuentemente atacado por la administración Trump.
-- **Relevancia**: 0.4736
-
-### Cese el fuego en Medio Oriente, instan México, Colombia y Brasil
-- **Fecha**: Sat, 14 Mar 2026 07:58:09 GMT
-- **Fuente**: jornada_mundo
-- **URL**: https://www.jornada.com.mx/2026/03/14/mundo/018n3mun?partner=rss
-- **Resumen**: Manzanillo, Col., México, Colombia y Brasil llamaron, en un comunicado conjunto, a que se declare un cese al fuego inmediato en Medio Oriente y se privilegien las vías diplomáticas para resolver las diferencias entre Estados Unidos, Israel e Irán, informó ayer la presidenta Claudia Sheinbaum Pardo.
-- **Relevancia**: 0.4779
-
-### Juan Pablo Duch: Apuntes postsoviéticos
-- **Fecha**: Sat, 14 Mar 2026 07:58:09 GMT
-- **Fuente**: jornada_mundo
-- **URL**: https://www.jornada.com.mx/2026/03/14/opinion/020o1mun?partner=rss
-- **Resumen**: La guerra de Estados Unidos e Israel contra Irán y su impacto en los precios internacionales de los hidrocarburos por el cierre del estrecho de Ormuz como respuesta de Teherán resultaron una inesperada fuente de ingresos para Rusia, que sin mover un dedo está obteniendo dinero adicional para financiar su “operación militar especial” en Ucrania.
-- **Relevancia**: 0.573
-
-### Ucrania y Alemania condenan “venta temporal” de petróleo ruso
-- **Fecha**: Sat, 14 Mar 2026 07:58:09 GMT
-- **Fuente**: jornada_mundo
-- **URL**: https://www.jornada.com.mx/2026/03/14/mundo/017n2mun?partner=rss
-- **Resumen**: París. El presidente de Ucrania, Volodymir Zelensky, y el canciller alemán, Friedrich Merz, condenaron el levantamiento temporal de las sanciones estadunidenses al petróleo ruso con el argumento de que aporta a Moscú hasta 10 mil millones de dólares adicionales para continuar con la guerra. El presidente de Francia, Emmanuel Macron, aseguró que se trata de una medida “excepcional” y “limitada”.
-- **Relevancia**: 0.529
-
-### La Habana niega la venta  de donaciones de México
-- **Fecha**: Sat, 14 Mar 2026 07:58:09 GMT
-- **Fuente**: jornada_mundo
-- **URL**: https://www.jornada.com.mx/2026/03/14/mundo/014n3mun?partner=rss
-- **Resumen**: El presidente de Cuba, Miguel Díaz-Canel, agradeció la ayuda enviada por México en medio de la crisis que enfrenta su país, derivada del bloqueo energético impuesto por el gobierno de Donald Trump, y desmintió la supuesta venta de los productos recibidos.
-- **Relevancia**: 0.5334
-
-### Capturan en Bolivia buscado narco con cuatro colaboradores
-- **Fecha**: Sat, 14 Mar 2026 07:58:09 GMT
-- **Fuente**: jornada_mundo
-- **URL**: https://www.jornada.com.mx/2026/03/14/mundo/019n3mun?partner=rss
-- **Resumen**: El presunto narcotraficante uruguayo Sebastián Marset, buscado en diversos países y acusado de ser el cerebro del crimen de un fiscal paraguayo en 2022, fue capturado junto a cuatro de sus colaboradores, incluida una mujer, en un barrio residencial de Santa Cruz, y entregado a la Administración para el Control de Drogas (DEA), que lo trasladó a Estados Unidos, informó ayer Marco Antonio Oviedo, ministro de gobierno de Bolivia.
-- **Relevancia**: 0.4753
 
 ### Gas Prices & Airfare Spike as Iran War Drags On
 - **Fecha**: Sat, 14 Mar 2026 16:17:25 GMT
@@ -239,12 +190,54 @@ The strikes are the first in the heart of Baghdad to kill Iran-backed fighters s
         	El CGRI detalló que la operación se realizó mediante un ataque combinado de misiles de combustible líquido y solido.
 - **Relevancia**: 0.4627
 
-### Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister
-- **Fecha**: Fri, 06 Jun 2025 12:45:53 +0300
+### Israel running critically low on interceptor missiles — portal
+- **Fecha**: Sun, 15 Mar 2026 01:22:29 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/1969663
-- **Resumen**: "Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force," Israel Katz said
-- **Relevancia**: 0.5835
+- **URL**: https://tass.com/world/2101683
+- **Resumen**: According to the news portal, Israel has entered the current military operation already low on interceptors, because they were actively used during last summer’s conflict with Iran
+- **Relevancia**: 0.5712
+
+### US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters
+- **Fecha**: Sat, 14 Mar 2026 20:54:48 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101651
+- **Resumen**: In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation
+- **Relevancia**: 0.5037
+
+### Israel carries out 400 waves of attacks on Iran since February 28 — IDF
+- **Fecha**: Sat, 14 Mar 2026 19:31:48 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101639
+- **Resumen**: The Israeli Air Force focused "on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran," the Israeli military said
+- **Relevancia**: 0.7033
+
+### Iran announces new wave of missile strikes on Israel — public broadcaster
+- **Fecha**: Sat, 14 Mar 2026 16:19:52 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101609
+- **Resumen**: Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel
+- **Relevancia**: 0.6088
+
+### Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC
+- **Fecha**: Sat, 14 Mar 2026 16:17:11 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101607
+- **Resumen**: Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported
+- **Relevancia**: 0.4791
+
+### Pentagon reports strikes on 90 military targets on Iran's Kharg Island
+- **Fecha**: Sat, 14 Mar 2026 15:16:23 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101603
+- **Resumen**: But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said
+- **Relevancia**: 0.5125
+
+### Israeli army reports destruction of Iranian Space Agency research center
+- **Fecha**: Sat, 14 Mar 2026 14:31:56 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101597
+- **Resumen**: In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated
+- **Relevancia**: 0.6352
 
 ### Bowman, Capital Rules for the Real Economy
 - **Fecha**: Thu, 12 Mar 2026 15:00:00 GMT

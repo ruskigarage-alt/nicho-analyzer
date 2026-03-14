@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json",
   "language": "es-MX",
-  "date_modified": "2026-03-14T22:35:11.067818+00:00",
-  "total_records": 48,
+  "date_modified": "2026-03-14T22:53:08.383545+00:00",
+  "total_records": 40,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#0",
@@ -439,94 +439,6 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#39",
-      "title": "Activista de Oaxaca y su hermano fueron privados de su libertad",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "url": "https://www.jornada.com.mx/2026/03/14/estados/021n2est?partner=rss",
-      "tags": [
-        "politica_local",
-        "jornada_estados"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#40",
-      "title": "Empleados del INAH en Veracruz exigen apoyos para realizar su trabajo",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "url": "https://www.jornada.com.mx/2026/03/14/estados/023n3est?partner=rss",
-      "tags": [
-        "politica_local",
-        "jornada_estados"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#41",
-      "title": "Exigen pronta localización de una menor en Veracruz",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "url": "https://www.jornada.com.mx/2026/03/14/estados/021n3est?partner=rss",
-      "tags": [
-        "politica_local",
-        "jornada_estados"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#42",
-      "title": "En 4 días, encuentran 8 restos en la alcaldía Álvaro Obregón",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "url": "https://www.jornada.com.mx/2026/03/14/capital/026n3cap?partner=rss",
-      "tags": [
-        "politica_local",
-        "jornada_capital"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#43",
-      "title": "Diputados locales tendrán megapuente; sesionarán hasta el 18",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "url": "https://www.jornada.com.mx/2026/03/14/capital/025n1cap?partner=rss",
-      "tags": [
-        "politica_local",
-        "jornada_capital"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#44",
-      "title": "Este año, $600 millones para unidades habitacionales",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "url": "https://www.jornada.com.mx/2026/03/14/capital/025n3cap?partner=rss",
-      "tags": [
-        "politica_local",
-        "jornada_capital"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#45",
-      "title": "Reintegran al erario 115 millones de pesos por sanciones a funcionarios",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "url": "https://www.jornada.com.mx/2026/03/14/capital/024n1cap?partner=rss",
-      "tags": [
-        "politica_local",
-        "jornada_capital"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#46",
-      "title": "Maestros protestan en el Zócalo por descuentos en su salario",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "url": "https://www.jornada.com.mx/2026/03/14/capital/026n2cap?partner=rss",
-      "tags": [
-        "politica_local",
-        "jornada_capital"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#47",
       "title": "Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena",
       "content_text": "",
       "date_published": "2026-03-14",
