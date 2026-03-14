@@ -11,7 +11,7 @@
       "url": "https://ruskigarage-alt.github.io/nicho-analyzer"
     }
   ],
-  "date_modified": "2026-03-14T22:19:35.116607+00:00",
+  "date_modified": "2026-03-14T22:35:11.026122+00:00",
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-14.jsonl#0",
@@ -1643,83 +1643,17 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#148",
-      "title": "El CGRI insta a \"evacuar todas las industrias estadounidenses en la región\"",
+      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
       "content_text": "",
       "date_published": "2026-03-14",
       "tags": [
         "geopolitica",
-        "rt_espanol"
+        "tass_english"
       ],
-      "url": "https://actualidad.rt.com/actualidad/592953-cgri-insta-evacuar-industrias-estadounidenses?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "url": "https://tass.com/world/1969663"
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#149",
-      "title": "US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "tags": [
-        "geopolitica",
-        "tass_english"
-      ],
-      "url": "https://tass.com/world/2101651"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#150",
-      "title": "Israel carries out 400 waves of attacks on Iran since February 28 — IDF",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "tags": [
-        "geopolitica",
-        "tass_english"
-      ],
-      "url": "https://tass.com/world/2101639"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#151",
-      "title": "Iran announces new wave of missile strikes on Israel — public broadcaster",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "tags": [
-        "geopolitica",
-        "tass_english"
-      ],
-      "url": "https://tass.com/world/2101609"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#152",
-      "title": "Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "tags": [
-        "geopolitica",
-        "tass_english"
-      ],
-      "url": "https://tass.com/world/2101607"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#153",
-      "title": "Pentagon reports strikes on 90 military targets on Iran's Kharg Island",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "tags": [
-        "geopolitica",
-        "tass_english"
-      ],
-      "url": "https://tass.com/world/2101603"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#154",
-      "title": "Israeli army reports destruction of Iranian Space Agency research center",
-      "content_text": "",
-      "date_published": "2026-03-14",
-      "tags": [
-        "geopolitica",
-        "tass_english"
-      ],
-      "url": "https://tass.com/world/2101597"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#155",
       "title": "Bowman, Capital Rules for the Real Economy",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -1730,7 +1664,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#156",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#150",
       "title": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -1741,7 +1675,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#157",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-14.jsonl#151",
       "title": "Bowman, Outlook for the Economy and Monetary Policy",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -1752,7 +1686,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#158",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#152",
       "title": "EU escoltará buques por Ormuz “cuando sea militarmente posible”",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1763,7 +1697,7 @@
       "url": "https://www.jornada.com.mx/2026/03/13/mundo/022n1mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#159",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#153",
       "title": "Kast inicia su mandato con cesiones a EU e indultos",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1774,7 +1708,7 @@
       "url": "https://www.jornada.com.mx/2026/03/13/mundo/025n4mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#160",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#154",
       "title": "Tiene el peso cotización más baja ante el dólar en el año",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1785,7 +1719,7 @@
       "url": "https://www.jornada.com.mx/2026/03/13/mundo/023n3mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#161",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#155",
       "title": "China redobla la apuesta por transformar su economía",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1796,7 +1730,7 @@
       "url": "https://www.jornada.com.mx/2026/03/13/mundo/026n3mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#162",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#156",
       "title": "PDVSA se asocia con Repsol y ENI para la explotación de gas",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1807,7 +1741,7 @@
       "url": "https://www.jornada.com.mx/2026/03/13/mundo/025n2mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#163",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#157",
       "title": "EU permitirá la “venta temporal” de petróleo ruso para bajar precios",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1818,7 +1752,7 @@
       "url": "https://www.jornada.com.mx/2026/03/13/mundo/023n1mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#164",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#158",
       "title": "El mundo, en nueva era oscura de abusos: relator de la ONU",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1829,7 +1763,7 @@
       "url": "https://www.jornada.com.mx/2026/03/13/mundo/024n1mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#165",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#159",
       "title": "Trump se disculpa con Petro por excluirlo del Escudo de las Américas",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1840,7 +1774,7 @@
       "url": "https://www.jornada.com.mx/2026/03/13/mundo/026n1mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#166",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#160",
       "title": "Persiste alza en crudo por agravamiento de la guerra en Medio Oriente",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1851,7 +1785,7 @@
       "url": "https://www.jornada.com.mx/2026/03/13/mundo/023n2mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#167",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#161",
       "title": "US Hits Military Targets on Iran’s Kharg Island as War Escalates",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1862,7 +1796,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-03-13/us-intensifies-strikes-rhetoric-in-iran-war-as-oil-rises"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#168",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#162",
       "title": "Stocks Fall and Brent Tops $100 as War Heats Up: Markets Wrap",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1873,7 +1807,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#169",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#163",
       "title": "Hedge Funds Turn Most Bullish on Oil Since 2020 Amid Iran War",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1884,7 +1818,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-03-13/hedge-funds-turn-most-bullish-on-oil-since-2020-amid-iran-war"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#170",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#164",
       "title": "Gold Heads for Weekly Drop as War in Iran Keeps Oil Prices High",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1895,7 +1829,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#171",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#165",
       "title": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1906,7 +1840,7 @@
       "url": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#172",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#166",
       "title": "Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1917,7 +1851,7 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/3/14/iran-war-live-pentagon-vows-to-ramp-up-us-military-campaign-against-iran?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#173",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#167",
       "title": "Israel’s military campaign in Lebanon reaches devastating new phase",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1928,7 +1862,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#174",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#168",
       "title": "Iranian missile strike in central Israel sets building ablaze",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1939,7 +1873,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#175",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#169",
       "title": "Israel destroys bridge in Lebanon and threatens Gaza-scale devastation",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1950,7 +1884,7 @@
       "url": "https://www.aljazeera.com/news/2026/3/13/israel-destroys-bridge-in-lebanon-and-threatens-gaza-scale-devastation?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#176",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#170",
       "title": "Success uncertain, but Israelis continue to back ‘heroic’ war with Iran",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1961,7 +1895,7 @@
       "url": "https://www.aljazeera.com/news/2026/3/13/success-uncertain-but-israelis-continue-to-back-heroic-war-with-iran?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#177",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#171",
       "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1972,7 +1906,7 @@
       "url": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#178",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#172",
       "title": "Ukraine finds new role as protector of US, Gulf allies amid Iran war",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1983,7 +1917,7 @@
       "url": "https://www.aljazeera.com/news/2026/3/13/ukraine-finds-new-role-as-protector-of-the-us-and-its-allies-in-gulf-war?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#179",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#173",
       "title": "Who wins and loses in the global energy crisis?",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -1994,7 +1928,7 @@
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#180",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#174",
       "title": "Beyond Pax Silica: Japan, France and Canada seek rare earth autonomy",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2005,7 +1939,7 @@
       "url": "https://www.scmp.com/week-asia/economics/article/3346530/beyond-pax-silica-japan-france-and-canada-seek-rare-earth-autonomy?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#181",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#175",
       "title": "Iran lets 2 India-flagged gas tankers sail through Strait of Hormuz, insiders say",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2016,7 +1950,7 @@
       "url": "https://www.scmp.com/news/world/middle-east/article/3346565/iran-lets-2-india-flagged-gas-tankers-sail-through-strait-hormuz-insiders-say?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#182",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#176",
       "title": "US downplays Strait of Hormuz concerns as Trump claims ‘there’s nothing to be afraid of’",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2027,7 +1961,7 @@
       "url": "https://www.scmp.com/news/us/diplomacy/article/3346558/us-says-irans-new-supreme-leader-likely-wounded-dismisses-strait-hormuz-concerns?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#183",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#177",
       "title": "How Iran turned Strait of Hormuz into potent weapon against US bombardment",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2038,7 +1972,7 @@
       "url": "https://www.scmp.com/news/world/middle-east/article/3346557/how-iran-turned-strait-hormuz-potent-weapon-against-us-bombardment?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#184",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#178",
       "title": "Strait of Hormuz transiting ships flash ‘China owner’ signals to evade Iran blockade",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2049,7 +1983,7 @@
       "url": "https://www.scmp.com/economy/global-economy/article/3346542/strait-hormuz-transiting-ships-flash-china-owner-signals-evade-iran-blockade?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#185",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#179",
       "title": "US-Israeli war on Iran makes a mockery of global governance rules",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2060,7 +1994,7 @@
       "url": "https://www.scmp.com/opinion/world-opinion/article/3346410/us-israeli-war-iran-makes-mockery-global-governance-rules?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#186",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#180",
       "title": "UK says Russia, Iran trying to ‘hijack global economy’ amid Hormuz blockade",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2071,7 +2005,7 @@
       "url": "https://www.scmp.com/news/world/europe/article/3346523/uk-says-russia-iran-trying-hijack-global-economy-amid-hormuz-blockade?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#187",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#181",
       "title": "China’s arms imports plummet, Hong Kong couple’s HK$50,000 Dubai exit: SCMP’s 7 highlights",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2082,7 +2016,7 @@
       "url": "https://www.scmp.com/news/world/article/3346291/chinas-arms-imports-plummet-hong-kong-couples-hk50000-dubai-exit-scmps-7-highlights?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#188",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#182",
       "title": "¿Quién gana y quién pierde con el alza del petróleo en Latinoamérica?",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2093,7 +2027,7 @@
       "url": "https://actualidad.rt.com/actualidad/592739-ganar-perder-alza-petroleo-latinoamerica?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#189",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#183",
       "title": "Delcy Rodríguez anuncia el inicio de exportaciones de gas venezolano hacia Colombia",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2104,7 +2038,7 @@
       "url": "https://actualidad.rt.com/actualidad/592806-delcy-anunciar-inicio-exportaciones-gas-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#190",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#184",
       "title": "EE.UU. asegura que el portaviones USS Abraham Lincoln opera con normalidad",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2115,7 +2049,7 @@
       "url": "https://actualidad.rt.com/actualidad/592821-eeuu-asegura-portaviones-uss-abraham?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#191",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#185",
       "title": "Noboa decreta toque de queda en cuatro provincias de Ecuador",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2126,7 +2060,7 @@
       "url": "https://actualidad.rt.com/actualidad/592805-noboa-decreta-toque-queda-cuatro?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#192",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#186",
       "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2137,7 +2071,7 @@
       "url": "https://tass.com/world/1969663"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#193",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#187",
       "title": "Republican lawmakers shrug at more funding for Iran war",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2148,7 +2082,7 @@
       "url": "https://www.politico.com/news/2026/03/13/getting-congress-to-pay-for-the-iran-war-wont-be-an-easy-sell-00826757?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#194",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#188",
       "title": "‘Not very logical’: Zelenskyy blasts US for easing Russia sanctions",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2159,7 +2093,7 @@
       "url": "https://www.politico.eu/article/zelenskyy-us-easing-of-sanctions-not-very-logical/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#195",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#189",
       "title": "NATO intercepts third Iranian missile heading toward Turkey",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2170,7 +2104,7 @@
       "url": "https://www.politico.eu/article/nato-intercepts-third-iran-missile-toward-turkey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#196",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#190",
       "title": "Bowman, Capital Rules for the Real Economy",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2181,7 +2115,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#197",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#191",
       "title": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2192,7 +2126,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#198",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-13.jsonl#192",
       "title": "Bowman, Outlook for the Economy and Monetary Policy",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -2203,7 +2137,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#199",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#193",
       "title": "La guerra contra Irán, el “inicio del fin del gobierno” de Trump",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2214,7 +2148,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/mundo/025n1mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#200",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#194",
       "title": "Burócratas se movilizan en Argentina contra los bajos salarios",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2225,7 +2159,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/mundo/028n1mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#201",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#195",
       "title": "La ONU condena a Irán y le exige cese el fuego, pero no a EU ni a Israel",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2236,7 +2170,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n3mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#202",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#196",
       "title": "Mercados continúan en la incertidumbre; suben dólar y bonos",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2247,7 +2181,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n2mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#203",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#197",
       "title": "Pese a acuerdo para liberar reservas, sigue volatilidad en precio de combustibles",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2258,7 +2192,7 @@
       "url": "https://www.jornada.com.mx/2026/03/12/mundo/026n1mun?partner=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#204",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#198",
       "title": "Iran War Impact: Philippines Sees 16% Power Price Jump",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2269,7 +2203,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-03-13/iran-war-impact-philippines-sees-16-power-price-jump-video"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#205",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#199",
       "title": "Asia Markets at Risk Due to Oil Dependency: BCA Research",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2280,7 +2214,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-03-13/asia-markets-at-risk-due-to-oil-dependency-rca-research-video"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#206",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#200",
       "title": "Gold Set for Weekly Drop as Mideast War Keeps Oil Prices High",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2291,7 +2225,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#207",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#201",
       "title": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2302,7 +2236,7 @@
       "url": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#208",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#202",
       "title": "Trump Likely to Confront Democratic Wall on Iran War Funding",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2313,7 +2247,7 @@
       "url": "https://foreignpolicy.com/2026/03/10/trump-iran-war-funding-congress-democrats-military-spending/"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#209",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#203",
       "title": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2324,7 +2258,7 @@
       "url": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#210",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#204",
       "title": "Iranian missile strikes residential area in northern Israel",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2335,7 +2269,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#211",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#205",
       "title": "Netanyahu says Israeli strikes killed Iranian nuclear scientists",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2346,7 +2280,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#212",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#206",
       "title": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2357,7 +2291,7 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#213",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#207",
       "title": "Iran envoy says Tehran will keep Strait of Hormuz open",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2368,7 +2302,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#214",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#208",
       "title": "Air attacks target bases of Iran-backed forces in Iraq",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2379,7 +2313,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#215",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#209",
       "title": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2390,7 +2324,7 @@
       "url": "https://www.aljazeera.com/news/2026/3/12/netanyahu-says-israel-stronger-than-ever-in-first-speech-since-iran-war?traffic_source=rss"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#216",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#210",
       "title": "China’s arms imports plummet, Hong Kong couple’s HK$50,000 Dubai exit: SCMP’s 7 highlights",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2401,7 +2335,7 @@
       "url": "https://www.scmp.com/news/world/article/3346291/chinas-arms-imports-plummet-hong-kong-couples-hk50000-dubai-exit-scmps-7-highlights?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#217",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#211",
       "title": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2412,7 +2346,7 @@
       "url": "https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#218",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#212",
       "title": "Netanyahu threatens Iran’s new supreme leader, defends joint assault with US",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2423,7 +2357,7 @@
       "url": "https://www.scmp.com/news/world/middle-east/article/3346419/netanyahu-threatens-irans-new-supreme-leader-defends-joint-assault-us?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#219",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#213",
       "title": "Strait of Hormuz must stay blocked, Iran’s Mojtaba Khamenei says in defiant statement",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2434,7 +2368,7 @@
       "url": "https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#220",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#214",
       "title": "US-Israeli war on Iran may spark nuclear arms race, Carnegie scholar says",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2445,7 +2379,7 @@
       "url": "https://www.scmp.com/plus/news/china/military/article/3346333/us-israeli-war-iran-may-spark-nuclear-arms-race-carnegie-scholar-says?utm_source=rss_feed"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#221",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#215",
       "title": "Reportan supuestos avistamientos de Pie Grande",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2456,7 +2390,7 @@
       "url": "https://actualidad.rt.com/viral/592587-reportan-supuestos-avistamientos-pie-grande?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#222",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#216",
       "title": "FOTO deja en evidencia la paralización del paso por el estrecho de Ormuz",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2467,7 +2401,7 @@
       "url": "https://actualidad.rt.com/actualidad/592589-foto-decenas-barcos-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#223",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#217",
       "title": "\"Estaremos todos en el culo profundo\": Fico advierte a la OTAN sobre el envío de tropas a Ucrania",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2478,7 +2412,7 @@
       "url": "https://actualidad.rt.com/actualidad/592538-estaremos-culo-profundo-fico-otan?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#224",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#218",
       "title": "Venezuela firma un acuerdo con dos gigantes energéticos europeos",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2489,7 +2423,7 @@
       "url": "https://actualidad.rt.com/actualidad/592586-venezuela-firma-acuerdo-gigantes-energeticos-europeos?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#225",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#219",
       "title": "Russia necessary for mitigating global energy crisis — presidential envoy",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2500,7 +2434,7 @@
       "url": "https://tass.com/economy/2100973"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#226",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#220",
       "title": "Almost 60 wounded in missile attack on northern Israel — newspaper",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2511,7 +2445,7 @@
       "url": "https://tass.com/world/2100967"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#227",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#221",
       "title": "Israel, US strike eastern Tehran — agency",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2522,7 +2456,7 @@
       "url": "https://tass.com/world/2100963"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#228",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#222",
       "title": "At least 33 wounded in strike on residential building in north Israel — Ynet",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2533,7 +2467,7 @@
       "url": "https://tass.com/world/2100955"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#229",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#223",
       "title": "Serbia has no plans to join NATO, will remain neutral — president",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2544,7 +2478,7 @@
       "url": "https://tass.com/world/2100953"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#230",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#224",
       "title": "Iraqi tankers can cross Strait of Hormuz — Iran’s ambassador to Baghdad",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2555,7 +2489,7 @@
       "url": "https://tass.com/world/2100941"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#231",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#225",
       "title": "Central Iranian city of Arak bombed — TV",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2566,7 +2500,7 @@
       "url": "https://tass.com/world/2100927"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#232",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#226",
       "title": "French soldier killed, several wounded in Iraq attack, Macron confirms",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2577,7 +2511,7 @@
       "url": "https://www.politico.eu/article/french-soldier-killed-several-wounded-iraq-attack-emmanuel-macron-confirms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#233",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#227",
       "title": "Europe should back American strikes on Iran, says key Merz ally",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2588,7 +2522,7 @@
       "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/europe-should-back-american-strikes-on-iran-says-key-merz-ally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#234",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#228",
       "title": "Colombian president warns US against building an empire in Latin America",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2599,7 +2533,7 @@
       "url": "https://www.politico.eu/article/gustavo-petro-colombian-president-us-donald-trump-latin-america-empire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#235",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#229",
       "title": "Bowman, Capital Rules for the Real Economy",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2610,7 +2544,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#236",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#230",
       "title": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
       "content_text": "",
       "date_published": "2026-03-12",
@@ -2621,7 +2555,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#237",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-12.jsonl#231",
       "title": "Bowman, Outlook for the Economy and Monetary Policy",
       "content_text": "",
       "date_published": "2026-03-12",

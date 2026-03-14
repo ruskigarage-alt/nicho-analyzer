@@ -4,7 +4,7 @@
   "name": "geopolitica — 2026-03-14",
   "description": "Digest semántico de geopolitica generado el 2026-03-14",
   "datePublished": "2026-03-14",
-  "numberOfItems": 40,
+  "numberOfItems": 34,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -521,123 +521,21 @@
       "position": 31,
       "item": {
         "@type": "NewsArticle",
-        "headline": "El CGRI insta a \"evacuar todas las industrias estadounidenses en la región\"",
-        "description": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "url": "https://actualidad.rt.com/actualidad/592953-cgri-insta-evacuar-industrias-estadounidenses?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Sat, 14 Mar 2026 19:59:57 +0000",
+        "headline": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+        "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+        "url": "https://tass.com/world/1969663",
+        "datePublished": "Fri, 06 Jun 2025 12:45:53 +0300",
         "publisher": {
           "@type": "Organization",
-          "name": "rt_espanol"
+          "name": "tass_english"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.4784
+        "relevanceScore": 0.5835
       }
     },
     {
       "@type": "ListItem",
       "position": 32,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters",
-        "description": "In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation",
-        "url": "https://tass.com/world/2101651",
-        "datePublished": "Sat, 14 Mar 2026 20:54:48 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5037
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 33,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Israel carries out 400 waves of attacks on Iran since February 28 — IDF",
-        "description": "The Israeli Air Force focused \"on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran,\" the Israeli military said",
-        "url": "https://tass.com/world/2101639",
-        "datePublished": "Sat, 14 Mar 2026 19:31:48 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.7033
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 34,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iran announces new wave of missile strikes on Israel — public broadcaster",
-        "description": "Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel",
-        "url": "https://tass.com/world/2101609",
-        "datePublished": "Sat, 14 Mar 2026 16:19:52 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6088
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 35,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC",
-        "description": "Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported",
-        "url": "https://tass.com/world/2101607",
-        "datePublished": "Sat, 14 Mar 2026 16:17:11 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4791
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 36,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Pentagon reports strikes on 90 military targets on Iran's Kharg Island",
-        "description": "But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said",
-        "url": "https://tass.com/world/2101603",
-        "datePublished": "Sat, 14 Mar 2026 15:16:23 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5125
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 37,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Israeli army reports destruction of Iranian Space Agency research center",
-        "description": "In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated",
-        "url": "https://tass.com/world/2101597",
-        "datePublished": "Sat, 14 Mar 2026 14:31:56 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6352
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 38,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Capital Rules for the Real Economy",
@@ -654,7 +552,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 39,
+      "position": 33,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
@@ -671,7 +569,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 40,
+      "position": 34,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Outlook for the Economy and Monetary Policy",
