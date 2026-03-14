@@ -8,6 +8,7 @@
   },
   "candidatos": [
     {
+      "id": "varela_pinedo",
       "nombre": "Miguel Varela Pinedo",
       "partido": "PAN",
       "partyClass": "pan",
@@ -42,6 +43,7 @@
       ]
     },
     {
+      "id": "bonilla_gomez",
       "nombre": "Adolfo Bonilla Gómez",
       "partido": "PRI",
       "partyClass": "pri",
@@ -77,6 +79,7 @@
       ]
     },
     {
+      "id": "mejia_haro",
       "nombre": "Ulises Mejía Haro",
       "partido": "Morena",
       "partyClass": "morena",
@@ -113,6 +116,7 @@
       ]
     },
     {
+      "id": "anaya_mota",
       "nombre": "Claudia Anaya Mota",
       "partido": "PRI",
       "partyClass": "pri",
@@ -148,6 +152,7 @@
       ]
     },
     {
+      "id": "saul_monreal",
       "nombre": "Saúl Monreal Ávila",
       "partido": "PT/Morena",
       "partyClass": "ptmorena",
@@ -186,6 +191,7 @@
       ]
     },
     {
+      "id": "diaz_robles",
       "nombre": "Verónica Díaz Robles",
       "partido": "Morena",
       "partyClass": "morena",
@@ -221,6 +227,7 @@
       ]
     },
     {
+      "id": "narro_cespedes",
       "nombre": "José Narro Céspedes",
       "partido": "PT",
       "partyClass": "pt",

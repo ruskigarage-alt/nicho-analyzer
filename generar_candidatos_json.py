@@ -127,6 +127,7 @@ def main():
         tags = temas_hoy if temas_hoy else asp.get("tags", ["general"])
 
         candidatos.append({
+            "id":        asp["id"],
             "nombre":    asp["nombre"],
             "partido":   asp["partido"],
             "partyClass": PARTY_CLASS.get(asp["partido"], "default"),
