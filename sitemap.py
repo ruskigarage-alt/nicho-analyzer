@@ -9,6 +9,7 @@ urls = []
 # Páginas principales
 urls.append({"loc": f"{BASE_URL}/", "priority": "1.0"})
 urls.append({"loc": f"{BASE_URL}/contenido_estructurado/", "priority": "0.9"})
+urls.append({"loc": f"{BASE_URL}/radar_geopolitico.html", "priority": "0.9"})
 urls.append({"loc": f"{BASE_URL}/mi_feed/feed.xml", "priority": "0.8"})
 
 # Solo archivos .md — indexables por buscadores
