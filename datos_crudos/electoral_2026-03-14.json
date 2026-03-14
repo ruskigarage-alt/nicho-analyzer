@@ -499,10 +499,10 @@
       "fecha_minado": "2026-03-14"
     },
     {
-      "titulo": "Clan Monreal “saca la vuelta” al veto al nepotismo; perfila a 4 candidatas - La Jornada",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnZFbWJsYXBQNnBqalc4OXlTS2FNVWVRdy01bGo4TEhpR01lWXZNa1pSZlFXZ3BHd29UN0hKUUNTcGNWbzF5MV9vV05FVjVvVTU2NTFMb1lXMzFTWjBpQk5wbzlJenpBSHNsMmk2MTRnLWRPTVJxZkR6ZTRyUV9hUXJEaENoUFYyMV9FdkNWdnJfUjdqQzJNUUEwelpETGRzbkp5bEVDWkRHSVRweThXYVpRYTI4V2xVbXpGSw?oc=5\" target=\"_blank\">Clan Monreal “saca la vuelta” al veto al nepotismo; perfila a 4 candidata",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnZFbWJsYXBQNnBqalc4OXlTS2FNVWVRdy01bGo4TEhpR01lWXZNa1pSZlFXZ3BHd29UN0hKUUNTcGNWbzF5MV9vV05FVjVvVTU2NTFMb1lXMzFTWjBpQk5wbzlJenpBSHNsMmk2MTRnLWRPTVJxZkR6ZTRyUV9hUXJEaENoUFYyMV9FdkNWdnJfUjdqQzJNUUEwelpETGRzbkp5bEVDWkRHSVRweThXYVpRYTI4V2xVbXpGSw?oc=5",
-      "fecha": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "titulo": "Verónica Díaz se une a reconocimiento al talento oratorio juvenil de Guadalupe - Las Noticias Ya",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUFETGNiU0E1eXlJQnl6eDZkU0dJQWVxQVVXTnE4Zm40OVRKRTIwTmF2aXBjcWFBcTFORHdELWFyNjQ5X0tzYk9HbmdiUVhHVmpwOFE1YXNhZzJQaFNlZzFwWUpFU2FWUUhKaVlLb0U5LXB2MUVVbk05amh2Rk5rMUVjdWwxSDl3X2RZcGFubnI1bklDeG5wcWN6ZVhDdGwxTE8yWXJLNlo?oc=5\" target=\"_blank\">Verónica Díaz se une a reconocimiento al talento oratorio juvenil de Guadalupe</a>&nbsp;&nbsp;<font ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUFETGNiU0E1eXlJQnl6eDZkU0dJQWVxQVVXTnE4Zm40OVRKRTIwTmF2aXBjcWFBcTFORHdELWFyNjQ5X0tzYk9HbmdiUVhHVmpwOFE1YXNhZzJQaFNlZzFwWUpFU2FWUUhKaVlLb0U5LXB2MUVVbk05amh2Rk5rMUVjdWwxSDl3X2RZcGFubnI1bklDeG5wcWN6ZVhDdGwxTE8yWXJLNlo?oc=5",
+      "fecha": "Thu, 05 Mar 2026 12:08:53 GMT",
       "fuente": "google_news",
       "tipo_fuente": "agregador",
       "nicho": "electoral_zacatecas",
@@ -511,7 +511,7 @@
       "aspirantes_mencionados": [
         "diaz_robles"
       ],
-      "tema": "nepotismo",
+      "tema": "general",
       "fecha_minado": "2026-03-14"
     },
     {
@@ -1162,9 +1162,9 @@
       "negativo": 0,
       "momentum": 16,
       "temas": [
+        "encuesta",
         "general",
-        "alianza",
-        "encuesta"
+        "alianza"
       ]
     },
     "saul_monreal": {
@@ -1173,22 +1173,21 @@
       "negativo": 3,
       "momentum": 5,
       "temas": [
+        "encuesta",
         "seguridad",
         "gasto_publico",
         "general",
-        "encuesta",
         "nepotismo"
       ]
     },
     "diaz_robles": {
       "menciones": 10,
       "positivo": 1,
-      "negativo": 1,
-      "momentum": 9,
+      "negativo": 0,
+      "momentum": 12,
       "temas": [
         "general",
-        "candidatura",
-        "nepotismo"
+        "candidatura"
       ]
     },
     "narro_cespedes": {
@@ -1199,8 +1198,8 @@
       "temas": [
         "seguridad",
         "general",
-        "candidatura",
-        "nepotismo"
+        "nepotismo",
+        "candidatura"
       ]
     },
     "varela_pinedo": {
@@ -1218,8 +1217,8 @@
       "negativo": 0,
       "momentum": 14,
       "temas": [
-        "general",
-        "encuesta"
+        "encuesta",
+        "general"
       ]
     },
     "anaya_mota": {

@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-14"
 date: "2026-03-14"
 nicho: "geopolitica"
-total_entradas: 43
+total_entradas: 40
 schema: "NewsDigest"
 ---
 
@@ -229,6 +229,13 @@ Japan, France and Canada have all been exploring how to build supply chains for 
 Senior officials from the three Group of Seven economies are working on...
 - **Relevancia**: 0.6477
 
+### El CGRI insta a "evacuar todas las industrias estadounidenses en la región"
+- **Fecha**: Sat, 14 Mar 2026 19:59:57 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592953-cgri-insta-evacuar-industrias-estadounidenses?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
+- **Relevancia**: 0.4784
+
 ### Orbán: "Hungría no será una colonia ucraniana, aquí Zelenski no manda"
 - **Fecha**: Sat, 14 Mar 2026 19:24:06 +0000
 - **Fuente**: rt_espanol
@@ -253,62 +260,33 @@ Senior officials from the three Group of Seven economies are working on...
         	El mandatario estadounidense comentó que ese "siempre debería haber sido un esfuerzo de equipo".
 - **Relevancia**: 0.6144
 
-### Primer ministro belga: Como Europa no es capaz de "asfixiar" a Rusia, "solo queda llegar a un acuerdo"
-- **Fecha**: Sat, 14 Mar 2026 17:39:11 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592937-primer-ministro-belga-acuerdo-rusia-solucion?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b59624e9ff7113de11f552.jpg" style="float: left;" />
-        	Bart de Wever afirmó que hay que poner fin al conflicto entre Kiev y Moscú en interés de Europa.
-- **Relevancia**: 0.5684
-
-### US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters
-- **Fecha**: Sat, 14 Mar 2026 20:54:48 +0300
+### Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry
+- **Fecha**: Wed, 04 Jun 2025 14:21:03 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101651
-- **Resumen**: In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation
-- **Relevancia**: 0.5037
+- **URL**: https://tass.com/politics/1968329
+- **Resumen**: "As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire," Maria Zakharova said
+- **Relevancia**: 0.4822
 
-### Israel carries out 400 waves of attacks on Iran since February 28 — IDF
-- **Fecha**: Sat, 14 Mar 2026 19:31:48 +0300
+### Poland's capacity to deliver arms to Ukraine heavily constrained — paper
+- **Fecha**: Wed, 04 Jun 2025 13:22:26 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101639
-- **Resumen**: The Israeli Air Force focused "on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran," the Israeli military said
-- **Relevancia**: 0.7033
+- **URL**: https://tass.com/world/1968271
+- **Resumen**: According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine
+- **Relevancia**: 0.4853
 
-### Iran announces new wave of missile strikes on Israel — public broadcaster
-- **Fecha**: Sat, 14 Mar 2026 16:19:52 +0300
+### Russia not interested in arms race with Europe, European Parliament member says
+- **Fecha**: Wed, 04 Jun 2025 13:02:43 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101609
-- **Resumen**: Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel
-- **Relevancia**: 0.6088
+- **URL**: https://tass.com/world/1968241
+- **Resumen**: Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as "strategic patience"
+- **Relevancia**: 0.5195
 
-### Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC
-- **Fecha**: Sat, 14 Mar 2026 16:17:11 +0300
+### Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint
+- **Fecha**: Wed, 04 Jun 2025 13:00:01 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101607
-- **Resumen**: Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported
-- **Relevancia**: 0.4791
-
-### Pentagon reports strikes on 90 military targets on Iran's Kharg Island
-- **Fecha**: Sat, 14 Mar 2026 15:16:23 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101603
-- **Resumen**: But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said
-- **Relevancia**: 0.5125
-
-### Israeli army reports destruction of Iranian Space Agency research center
-- **Fecha**: Sat, 14 Mar 2026 14:31:56 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101597
-- **Resumen**: In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated
-- **Relevancia**: 0.6352
-
-### Global markets now in dire need of Russian oil — Kremlin
-- **Fecha**: Sat, 14 Mar 2026 09:55:39 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/economy/2101547
-- **Resumen**: Earlier, the US lifted sanctions on the sale of oil and petroleum products from Russia loaded onto ships before March 12
-- **Relevancia**: 0.5135
+- **URL**: https://tass.com/pressreview/1968153
+- **Resumen**: Top stories from the Russian press on Wednesday, June 4th
+- **Relevancia**: 0.4758
 
 ### Bowman, Capital Rules for the Real Economy
 - **Fecha**: Thu, 12 Mar 2026 15:00:00 GMT
