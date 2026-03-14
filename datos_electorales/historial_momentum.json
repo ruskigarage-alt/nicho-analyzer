@@ -66,8 +66,8 @@
       "momentum": 16,
       "temas": [
         "alianza",
-        "encuesta",
-        "general"
+        "general",
+        "encuesta"
       ]
     },
     "saul_monreal": {
@@ -76,20 +76,19 @@
       "negativo": 3,
       "momentum": 5,
       "temas": [
-        "seguridad",
         "gasto_publico",
         "general",
-        "nepotismo",
-        "encuesta"
+        "encuesta",
+        "seguridad",
+        "nepotismo"
       ]
     },
     "diaz_robles": {
       "menciones": 10,
       "positivo": 1,
-      "negativo": 1,
-      "momentum": 9,
+      "negativo": 0,
+      "momentum": 12,
       "temas": [
-        "nepotismo",
         "general",
         "candidatura"
       ]
@@ -101,8 +100,8 @@
       "momentum": 9,
       "temas": [
         "seguridad",
-        "general",
         "nepotismo",
+        "general",
         "candidatura"
       ]
     },
@@ -121,8 +120,8 @@
       "negativo": 0,
       "momentum": 14,
       "temas": [
-        "encuesta",
-        "general"
+        "general",
+        "encuesta"
       ]
     },
     "anaya_mota": {

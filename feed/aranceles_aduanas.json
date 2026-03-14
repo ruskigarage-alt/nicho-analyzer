@@ -5,7 +5,7 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json",
   "language": "es-MX",
-  "date_modified": "2026-03-14T19:17:11.494050+00:00",
+  "date_modified": "2026-03-14T19:37:02.455353+00:00",
   "total_records": 27,
   "items": [
     {
@@ -210,7 +210,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#18",
       "title": "Perfil arancelario México — 2026-03-14",
       "content_text": "México (OMC: MEX): T-MEC, TLCUEM, 12 TLCs vigentes. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-14.",
-      "date_published": "2026-03-14T19:14:53.182530+00:00",
+      "date_published": "2026-03-14T19:34:31.296809+00:00",
       "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=MEX",
       "tags": [
         "aranceles_aduanas",
@@ -221,7 +221,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#19",
       "title": "Perfil arancelario Brasil — 2026-03-14",
       "content_text": "Brasil (OMC: BRA): MERCOSUR, arancel externo común. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-14.",
-      "date_published": "2026-03-14T19:14:53.182530+00:00",
+      "date_published": "2026-03-14T19:34:31.296809+00:00",
       "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=BRA",
       "tags": [
         "aranceles_aduanas",
@@ -232,7 +232,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#20",
       "title": "Perfil arancelario Argentina — 2026-03-14",
       "content_text": "Argentina (OMC: ARG): MERCOSUR, restricciones importación activas. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-14.",
-      "date_published": "2026-03-14T19:14:53.182530+00:00",
+      "date_published": "2026-03-14T19:34:31.296809+00:00",
       "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=ARG",
       "tags": [
         "aranceles_aduanas",
@@ -243,7 +243,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#21",
       "title": "Perfil arancelario Chile — 2026-03-14",
       "content_text": "Chile (OMC: CHL): 65+ TLCs — economía más abierta LATAM. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-14.",
-      "date_published": "2026-03-14T19:14:53.182530+00:00",
+      "date_published": "2026-03-14T19:34:31.296809+00:00",
       "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=CHL",
       "tags": [
         "aranceles_aduanas",
@@ -254,7 +254,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#22",
       "title": "Perfil arancelario Colombia — 2026-03-14",
       "content_text": "Colombia (OMC: COL): TLC con USA, UE, Alianza del Pacífico. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-14.",
-      "date_published": "2026-03-14T19:14:53.182530+00:00",
+      "date_published": "2026-03-14T19:34:31.296809+00:00",
       "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=COL",
       "tags": [
         "aranceles_aduanas",
@@ -265,7 +265,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#23",
       "title": "Perfil arancelario Perú — 2026-03-14",
       "content_text": "Perú (OMC: PER): Alianza del Pacífico, TLC con China. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-14.",
-      "date_published": "2026-03-14T19:14:53.182530+00:00",
+      "date_published": "2026-03-14T19:34:31.296809+00:00",
       "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=PER",
       "tags": [
         "aranceles_aduanas",
@@ -276,7 +276,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#24",
       "title": "Cambios arancelarios DOF — 2026-03-14",
       "content_text": "El DOF publica modificaciones a la LIGIE y acuerdos comerciales. Consulta: https://www.dof.gob.mx. Fecha: 2026-03-14.",
-      "date_published": "2026-03-14T19:14:53.182530+00:00",
+      "date_published": "2026-03-14T19:34:31.296809+00:00",
       "url": "https://www.dof.gob.mx",
       "tags": [
         "aranceles_aduanas",
@@ -287,7 +287,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#25",
       "title": "Aranceles USA impacto LATAM — 2026-03-14",
       "content_text": "Cambios arancelarios EE.UU. con impacto en exportaciones LATAM (2025-2026): acero, aluminio, productos agrícolas. Fuente: https://ustr.gov/tariff-actions. Fecha: 2026-03-14.",
-      "date_published": "2026-03-14T19:14:53.182530+00:00",
+      "date_published": "2026-03-14T19:34:31.296809+00:00",
       "url": "https://ustr.gov/tariff-actions",
       "tags": [
         "aranceles_aduanas",
@@ -298,7 +298,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/aranceles_aduanas.json#26",
       "title": "Monitor comercio exterior LATAM — 2026-03-14",
       "content_text": "CEPAL publica estadísticas trimestrales de comercio exterior para ALC. Base de datos: https://statistics.cepal.org/portal/cepalstat/. Fecha: 2026-03-14.",
-      "date_published": "2026-03-14T19:14:53.182530+00:00",
+      "date_published": "2026-03-14T19:34:31.296809+00:00",
       "url": "https://statistics.cepal.org/portal/cepalstat/",
       "tags": [
         "aranceles_aduanas",

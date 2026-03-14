@@ -594,7 +594,7 @@
       },
       {
         "titulo": "Bloomberg This Weekend 3/14/2026",
-        "resumen": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joining the show today, AP International Correspondent Philip Crowther, Former Member of National Security Council Col. Joel Rayburn (Ret.), Axios Energy Reporter Ben Geman, International Maritime Organization Secretary General Arsenio Dominguez, Head of Petroleum Analysis at GasBuddy Patrick De Hahn, Former Department of Energy Secretary Ernest Moniz, and Trane CEO Dave Regnery.  (Source: Bloomberg)",
+        "resumen": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joining the show today, AP International Correspondent Philip Crowther, Former Member of National Security Council Col. Joel Rayburn (Ret.), Axios Energy Reporter Ben Geman, International Maritime Organization Secretary General Arsenio Dominguez, Head of Petroleum Analysis at GasBuddy Patrick De Haan, Former Department of Energy Secretary Ernest Moniz, and Trane CEO Dave Regnery.  (Source: Bloomberg)",
         "link": "https://www.bloomberg.com/news/videos/2026-03-14/bloomberg-this-weekend-3-14-2026-video",
         "fecha_publicacion": "Sat, 14 Mar 2026 16:12:44 GMT"
       },
@@ -847,6 +847,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "US embassy in Venezuela reopens as Trump pushes for access to resources",
+        "resumen": "Trump administration has pressed the interim Venezuelan government for concessions on issues such as oil access.",
+        "link": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-venezuela-reopens-as-trump-pushes-for-access-to-resources?traffic_source=rss",
+        "fecha_publicacion": "Sat, 14 Mar 2026 19:04:05 +0000"
+      },
+      {
         "titulo": "Iran warns UAE ports and ‘American hideouts’ are targets",
         "resumen": "An Iranian military spokesperson warned that ports, docks and “American hideouts” in the UAE could be targets.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-warns-uae-ports-and-american-hideouts-are-targets?traffic_source=rss",
@@ -959,12 +965,6 @@
         "resumen": "CCTV shows the moment a car hits a Muslim woman in broad daylight in southeast London before the driver speeds away.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/moment-car-slams-into-muslim-woman-in-broad-daylight?traffic_source=rss",
         "fecha_publicacion": "Sat, 14 Mar 2026 13:09:31 +0000"
-      },
-      {
-        "titulo": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
-        "resumen": "Iran&#039;s envoy to New Delhi says Tehran allowed some Indian vessels to pass the Strait in rare exception to the blockade.",
-        "link": "https://www.aljazeera.com/news/2026/3/14/two-indian-ships-cross-strait-of-hormuz-as-iran-says-it-allowed-passage?traffic_source=rss",
-        "fecha_publicacion": "Sat, 14 Mar 2026 12:58:22 +0000"
       }
     ],
     "total_entradas": 20
@@ -1107,14 +1107,20 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Orbán: \"Hungría no será una colonia ucraniana, aquí Zelenski no manda\"",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5641d59bf5b04ad179c42.jpg\" style=\"float: left;\" />\n        \t\"Nuestros expertos llevan días en Kiev, pero todavía no les permiten acceder al oleoducto\", señaló el primer ministro húngaro.",
+        "link": "https://actualidad.rt.com/actualidad/592906-orban-hungria-colonia-ucraniana-zelenski-mandar?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 19:24:06 +0000"
+      },
+      {
         "titulo": "\"Mucho más perjudiciales y tóxicos\": Otro lado oscuro de la agresión contra Irán",
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b55f9fe9ff71695b5bed1e.jpg\" style=\"float: left;\" />\n        \tExpertos hacen saltar las alarmas por más consecuencias devastadoras de la actual escalada en Oriente Medio, que perdurarán a lo largo de décadas.",
         "link": "https://actualidad.rt.com/actualidad/592904-contaminacion-toxica-guerra-iran-perdurar-decadas?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Sat, 14 Mar 2026 19:12:05 +0000"
       },
       {
-        "titulo": "Trump pide a los países que reciben petróleo por el estrecho de Ormuz que velen \"por la seguridad\" del paso",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg\" style=\"float: left;\" />",
+        "titulo": "'Protejan el estrecho': el mensaje de Trump a los países que reciben petróleo por Ormuz",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5b4c9e9ff7114aa02c9d1.jpg\" style=\"float: left;\" />\n        \tEl mandatario estadounidense comentó que ese \"siempre debería haber sido un esfuerzo de equipo\".",
         "link": "https://actualidad.rt.com/actualidad/592948-trump-pide-paises-reciben-petroleo-estrecho-ormuz-velar-seguridad?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Sat, 14 Mar 2026 19:08:36 +0000"
       },
@@ -1149,7 +1155,7 @@
         "fecha_publicacion": "Sat, 14 Mar 2026 17:35:06 +0000"
       },
       {
-        "titulo": "VIDEO: Impacto y explosión en una supuesta oficina de Citibank en Dubái",
+        "titulo": "VIDEO: Impacto y explosión en una supuesta oficina de Citibank en Oriente Medio",
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5980b59bf5b50b34a764a.jpg\" style=\"float: left;\" />\n        \tComenzó a circular un video de una gran explosión en alto edificio en Dubái a causa de un impacto de lo que podría haber sido un dron. Se informa que el edificio alberga una oficina de Citibank, una de las mayores entidades financieras de EE.UU. que operan en Oriente Medio.",
         "link": "https://actualidad.rt.com/actualidad/592939-video-impacto-explosion-oficina-citibank-dubai?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Sat, 14 Mar 2026 17:28:10 +0000"
@@ -1159,12 +1165,6 @@
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5875059bf5b627f7923c1.jpg\" style=\"float: left;\" />\n        \t\"Estados Unidos sacrifica a todos por Israel y no se preocupa por nadie más que por Israel\", declaró Mohammad Bagher Ghalibaf.",
         "link": "https://actualidad.rt.com/actualidad/592927-jefe-parlamento-iran-bases-eeuu-proteger-nadie?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Sat, 14 Mar 2026 17:02:47 +0000"
-      },
-      {
-        "titulo": "\"No es una lucha solo de hombres\": Mujeres iraníes exhiben armas en apoyo a su país (VIDEO)",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b585f859bf5b61a7642a36.jpg\" style=\"float: left;\" />\n        \tUn video que circula en redes sociales muestra una larga fila de mujeres en Irán que sostienen lo que parecen ser fusiles AK-47, que enseñan a la cámara en gesto de respaldo a su Gobierno. Las imágenes se difunden junto con el mensaje de que \"no es una lucha solo de hombres\" y que ellas, \"con fuego en el corazón y acero en las manos\", están preparadas para hacer frente a la amenaza de EE.UU. e Israel.",
-        "link": "https://actualidad.rt.com/actualidad/592926-lucha-hombres-mujeres-exhibir-armas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Sat, 14 Mar 2026 17:01:13 +0000"
       }
     ],
     "total_entradas": 10
@@ -1177,124 +1177,124 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "Tehran, Washington were able to make good progress prior to attacks — Iran’s top diplomat",
-        "resumen": "Washington seems to have misinterpreted the stance of the Islamic Republic, Iranian Foreign Minister Abbas Araghchi told",
-        "link": "https://tass.com/world/2101653",
-        "fecha_publicacion": "Sat, 14 Mar 2026 21:12:58 +0300"
+        "titulo": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
+        "resumen": "\"As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire,\" Maria Zakharova said",
+        "link": "https://tass.com/politics/1968329",
+        "fecha_publicacion": "Wed, 04 Jun 2025 14:21:03 +0300"
       },
       {
-        "titulo": "US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters",
-        "resumen": "In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation",
-        "link": "https://tass.com/world/2101651",
-        "fecha_publicacion": "Sat, 14 Mar 2026 20:54:48 +0300"
+        "titulo": "Russia, Ukraine to agree on date of new round of talks after memorandums are studied",
+        "resumen": "\"It will take some time to examine the draft memorandums that have been exchanged,\" Dmitry Peskov said",
+        "link": "https://tass.com/politics/1968333",
+        "fecha_publicacion": "Wed, 04 Jun 2025 14:20:34 +0300"
       },
       {
-        "titulo": "Israel carries out 400 waves of attacks on Iran since February 28 — IDF",
-        "resumen": "The Israeli Air Force focused \"on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran,\" the Israeli military said",
-        "link": "https://tass.com/world/2101639",
-        "fecha_publicacion": "Sat, 14 Mar 2026 19:31:48 +0300"
+        "titulo": "Belarus’ defense ministry expects to strengthen cooperation with Pakistan significantly",
+        "resumen": "The ministers agreed to meet soon at an SCO event in China to discuss preliminary results of the agreements",
+        "link": "https://tass.com/world/1968325",
+        "fecha_publicacion": "Wed, 04 Jun 2025 14:13:52 +0300"
       },
       {
-        "titulo": "EU moves to prolong its Russia blacklist until mid-September",
-        "resumen": "According to the document, \"In the context of the sanctions' review, the Council also decided not to renew the listings of two individuals and to remove five deceased persons from the list\"",
-        "link": "https://tass.com/economy/2101637",
-        "fecha_publicacion": "Sat, 14 Mar 2026 19:22:10 +0300"
+        "titulo": "Frequency of meetings on Ukraine talks can’t be strictly standardized — Kremlin",
+        "resumen": "\"Contacts are underway and in the course of them suitable timeframes will be discussed,\" Dmitry Peskov added",
+        "link": "https://tass.com/politics/1968321",
+        "fecha_publicacion": "Wed, 04 Jun 2025 14:12:19 +0300"
       },
       {
-        "titulo": "Lebanese death toll from Israeli attacks rises to more than 800 — ministry",
-        "resumen": "The number of those injured is 2,000, the Arab republic’s Ministry of Public Health said",
-        "link": "https://tass.com/world/2101635",
-        "fecha_publicacion": "Sat, 14 Mar 2026 18:54:38 +0300"
+        "titulo": "Pakistani PM asks Putin to help resolve conflict with India — aide",
+        "resumen": "Syed Tariq Fatemi said that Pakistan and India must sit down at the negotiating table",
+        "link": "https://tass.com/world/1968319",
+        "fecha_publicacion": "Wed, 04 Jun 2025 14:11:09 +0300"
       },
       {
-        "titulo": "Iran announces new wave of missile strikes on Israel — public broadcaster",
-        "resumen": "Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel",
-        "link": "https://tass.com/world/2101609",
-        "fecha_publicacion": "Sat, 14 Mar 2026 16:19:52 +0300"
+        "titulo": "Russia to take all measures to solve crime related to attacks on airfields — Kremlin",
+        "resumen": "Dmitry Peskov said that everything that must be done to resolve this crime will be done",
+        "link": "https://tass.com/politics/1968317",
+        "fecha_publicacion": "Wed, 04 Jun 2025 14:03:13 +0300"
       },
       {
-        "titulo": "Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC",
-        "resumen": "Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported",
-        "link": "https://tass.com/world/2101607",
-        "fecha_publicacion": "Sat, 14 Mar 2026 16:17:11 +0300"
+        "titulo": "France, Belgium oppose ban on gas imports from Russia to EU — Politico",
+        "resumen": "Representatives of French and Belgian governments said that they need “more reassurances on the economic and legal consequences of the move before making a decision”",
+        "link": "https://tass.com/economy/1968311",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:57:48 +0300"
       },
       {
-        "titulo": "Middle East conflict may lead to 70% drop in oil production, expert says",
-        "resumen": "Even if Russia provides additional supplies, importers will be able to offset only part of the potential losses, Aditya Saraswat noted",
-        "link": "https://tass.com/economy/2101605",
-        "fecha_publicacion": "Sat, 14 Mar 2026 15:43:04 +0300"
+        "titulo": "Putin’s stance on death penalty moratorium remains firm — Kremlin spokesman",
+        "resumen": "President Vladimir Putin said in late 2024 that the Russian authorities had no plans to introduce capital punishment even amid the country’s special military operation",
+        "link": "https://tass.com/politics/1968307",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:49:31 +0300"
       },
       {
-        "titulo": "Pentagon reports strikes on 90 military targets on Iran's Kharg Island",
-        "resumen": "But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said",
-        "link": "https://tass.com/world/2101603",
-        "fecha_publicacion": "Sat, 14 Mar 2026 15:16:23 +0300"
+        "titulo": "Europe’s gas stocks replenishment slower than usual, situation becomes tense",
+        "resumen": "According to Gazprom, 8.9 bln cubic meters of gas were injected into European UGS facilities in May, which 1.1 bln cubic meters less than the average for that month over the past ten years",
+        "link": "https://tass.com/economy/1968299",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:40:45 +0300"
       },
       {
-        "titulo": "Israeli army reports destruction of Iranian Space Agency research center",
-        "resumen": "In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated",
-        "link": "https://tass.com/world/2101597",
-        "fecha_publicacion": "Sat, 14 Mar 2026 14:31:56 +0300"
+        "titulo": "Japan reports record-low birth rate in 2024, ministry reveals",
+        "resumen": "Birth rates in Japan have been shrinking for a ninth consecutive year",
+        "link": "https://tass.com/society/1968297",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:40:28 +0300"
       },
       {
-        "titulo": "Ukraine loses around 1,135 troops in special op zone in one day",
-        "resumen": "Russian air defenses shot down 10 guided bombs and 285 fixed-wing drones of the Ukrainian army over the past day",
-        "link": "https://tass.com/defense/2101587",
-        "fecha_publicacion": "Sat, 14 Mar 2026 13:55:21 +0300"
+        "titulo": "Russia takes measures proceeding from Kiev’s attacks on peaceful facilities — Kremlin",
+        "resumen": "Having lost the initiative on the battlefield, Ukrainian servicemen resorted to terrorist tactics, attempting to attack deep within Russia with drones",
+        "link": "https://tass.com/politics/1968289",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:34:27 +0300"
       },
       {
-        "titulo": "Washington, Caracas discuss extradition of Maduro ally — Bloomberg",
-        "resumen": "If Caracas extradites Alex Saab to the US, it \"would represent the most significant legal cooperation\", the agency writes",
-        "link": "https://tass.com/world/2101563",
-        "fecha_publicacion": "Sat, 14 Mar 2026 12:39:23 +0300"
+        "titulo": "Diamond prices mixed in May — industry agency",
+        "resumen": "Prices for diamonds weighing from 0.5 to 0.7 carats fell due to tariff policy adjustments, and the desire to complete sales before the beginning of summer holidays, Rapaport said",
+        "link": "https://tass.com/economy/1968279",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:27:01 +0300"
       },
       {
-        "titulo": "Explosion takes place in Amsterdam, Jewish school likely target — Reuters",
-        "resumen": "No further details were provided",
-        "link": "https://tass.com/emergencies/2101559",
-        "fecha_publicacion": "Sat, 14 Mar 2026 11:44:43 +0300"
+        "titulo": "Crimean bridge unaffected by Kiev’s attack, Kremlin spokesman says",
+        "resumen": "According to Dmitry Peskov, the bridge is operational",
+        "link": "https://tass.com/politics/1968275",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:26:52 +0300"
       },
       {
-        "titulo": "Spring's first long-lasting magnetic storm is hitting Earth — scientists",
-        "resumen": "The phenomenon is linked to a sharp increase in the speed of the solar wind near Earth, which, in turn, is caused by a coronal hole on the Sun",
-        "link": "https://tass.com/science/2101557",
-        "fecha_publicacion": "Sat, 14 Mar 2026 11:41:58 +0300"
+        "titulo": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
+        "resumen": "According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine",
+        "link": "https://tass.com/world/1968271",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:22:26 +0300"
       },
       {
-        "titulo": "Iran wants deal but proposes terms unacceptable to Washington, Trump says",
-        "resumen": "\"The fake news media hates to report how well the United States military has done against Iran, which is totally defeated and wants a deal - but not a deal that I would accept,\" the US President wrote on Truth Social",
-        "link": "https://tass.com/world/2101555",
-        "fecha_publicacion": "Sat, 14 Mar 2026 10:57:27 +0300"
+        "titulo": "Russia not interested in arms race with Europe, European Parliament member says",
+        "resumen": "Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as \"strategic patience\"",
+        "link": "https://tass.com/world/1968241",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:02:43 +0300"
       },
       {
-        "titulo": "FSB detains foreign national fleeing military service for inciting terrorism",
-        "resumen": "The FSB clarified that \"the foreign national arrived in Russia with the aim of evading compulsory military service in the armed forces of a foreign state\" and that he had been placed on a wanted list in his home country",
-        "link": "https://tass.com/emergencies/2101553",
-        "fecha_publicacion": "Sat, 14 Mar 2026 10:26:58 +0300"
+        "titulo": "Moscow Exchange launches trade in Bitcoin futures for qualified investors",
+        "resumen": "The quote with IBIT ticker will be traded in US dollars per lot, with settlements processed in Russian rubles",
+        "link": "https://tass.com/economy/1968239",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:01:29 +0300"
       },
       {
-        "titulo": "Russia dismisses London's claim of Moscow's involvement in strike on Iraqi base as fiction",
-        "resumen": "The diplomatic mission is convinced that John Healey’s statement about the Russian threat has domestic political motives",
-        "link": "https://tass.com/politics/2101551",
-        "fecha_publicacion": "Sat, 14 Mar 2026 10:24:49 +0300"
+        "titulo": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
+        "resumen": "Top stories from the Russian press on Wednesday, June 4th",
+        "link": "https://tass.com/pressreview/1968153",
+        "fecha_publicacion": "Wed, 04 Jun 2025 13:00:01 +0300"
       },
       {
-        "titulo": "Global markets now in dire need of Russian oil — Kremlin",
-        "resumen": "Earlier, the US lifted sanctions on the sale of oil and petroleum products from Russia loaded onto ships before March 12",
-        "link": "https://tass.com/economy/2101547",
-        "fecha_publicacion": "Sat, 14 Mar 2026 09:55:39 +0300"
+        "titulo": "More than 20 children return to Lugansk People’s Republic from Ukraine in two years",
+        "resumen": "The LPR children’s rights commissioner Inna Shvenk noted that most commonly, children were separated from their legal representatives during evacuation from combat zones",
+        "link": "https://tass.com/politics/1968233",
+        "fecha_publicacion": "Wed, 04 Jun 2025 12:48:56 +0300"
       },
       {
-        "titulo": "North Korea launches about 10 ballistic missiles — Yonhap",
-        "resumen": "South Korean media note that the launch took place amid statements by the country’s prime minister regarding US President Donald Trump’s interest in contacting North Korean leader Kim Jong Un",
-        "link": "https://tass.com/world/2101545",
-        "fecha_publicacion": "Sat, 14 Mar 2026 09:51:06 +0300"
+        "titulo": "Dialogue with Russia crucial as West shuns it — retired French officer",
+        "resumen": "Jacques Hogarde believes that it is necessary to maintain contacts of any kind",
+        "link": "https://tass.com/world/1968229",
+        "fecha_publicacion": "Wed, 04 Jun 2025 12:46:52 +0300"
       },
       {
-        "titulo": "Russian oil supplies to global markets stabilize them — Kremlin",
-        "resumen": "Dmitry Peskov said \"Russian oil is essential\"",
-        "link": "https://tass.com/economy/2101543",
-        "fecha_publicacion": "Sat, 14 Mar 2026 09:47:45 +0300"
+        "titulo": "Ukrainian army attacks Russia’s borderline Belgorod Region with over 70 UAVs in 24 hours",
+        "resumen": "In the village of Afonyevka, an 18-year-old young man suffered injuries",
+        "link": "https://tass.com/politics/1968231",
+        "fecha_publicacion": "Wed, 04 Jun 2025 12:44:23 +0300"
       }
     ],
     "total_entradas": 20

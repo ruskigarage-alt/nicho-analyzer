@@ -52,8 +52,8 @@
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
-        "encuesta",
-        "general"
+        "general",
+        "encuesta"
       ],
       "noticias": [
         {
@@ -88,8 +88,8 @@
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "alianza",
-        "encuesta",
-        "general"
+        "general",
+        "encuesta"
       ],
       "noticias": [
         {
@@ -158,11 +158,11 @@
       "negativas": 3,
       "fuente": "Medios locales",
       "tags": [
-        "seguridad",
         "gasto_publico",
         "general",
-        "nepotismo",
-        "encuesta"
+        "encuesta",
+        "seguridad",
+        "nepotismo"
       ],
       "noticias": [
         {
@@ -190,13 +190,12 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 16.3,
-      "momentum": 9,
+      "momentum": 12,
       "menciones": 10,
       "positivas": 1,
-      "negativas": 1,
+      "negativas": 0,
       "fuente": "Referencia general",
       "tags": [
-        "nepotismo",
         "general",
         "candidatura"
       ],
@@ -233,8 +232,8 @@
       "fuente": "Referencia general",
       "tags": [
         "seguridad",
-        "general",
         "nepotismo",
+        "general",
         "candidatura"
       ],
       "noticias": [

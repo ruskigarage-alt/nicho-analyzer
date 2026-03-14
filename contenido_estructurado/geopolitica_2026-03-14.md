@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-14"
 date: "2026-03-14"
 nicho: "geopolitica"
-total_entradas: 42
+total_entradas: 39
 schema: "NewsDigest"
 ---
 
@@ -158,13 +158,6 @@ schema: "NewsDigest"
 - **Resumen**: A member of Iran’s Expediency Council says the Strait of Hormuz will remain closed to US ships.
 - **Relevancia**: 0.6081
 
-### Two Indian ships cross Strait of Hormuz as Iran says it allowed passage
-- **Fecha**: Sat, 14 Mar 2026 12:58:22 +0000
-- **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/news/2026/3/14/two-indian-ships-cross-strait-of-hormuz-as-iran-says-it-allowed-passage?traffic_source=rss
-- **Resumen**: Iran&#039;s envoy to New Delhi says Tehran allowed some Indian vessels to pass the Strait in rare exception to the blockade.
-- **Relevancia**: 0.5114
-
 ### Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns
 - **Fecha**: Sat, 14 Mar 2026 17:40:47 +0000
 - **Fuente**: scmp_world
@@ -229,6 +222,14 @@ Japan, France and Canada have all been exploring how to build supply chains for 
 Senior officials from the three Group of Seven economies are working on...
 - **Relevancia**: 0.6477
 
+### Orbán: "Hungría no será una colonia ucraniana, aquí Zelenski no manda"
+- **Fecha**: Sat, 14 Mar 2026 19:24:06 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592906-orban-hungria-colonia-ucraniana-zelenski-mandar?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5641d59bf5b04ad179c42.jpg" style="float: left;" />
+        	"Nuestros expertos llevan días en Kiev, pero todavía no les permiten acceder al oleoducto", señaló el primer ministro húngaro.
+- **Relevancia**: 0.4789
+
 ### "Mucho más perjudiciales y tóxicos": Otro lado oscuro de la agresión contra Irán
 - **Fecha**: Sat, 14 Mar 2026 19:12:05 +0000
 - **Fuente**: rt_espanol
@@ -237,12 +238,13 @@ Senior officials from the three Group of Seven economies are working on...
         	Expertos hacen saltar las alarmas por más consecuencias devastadoras de la actual escalada en Oriente Medio, que perdurarán a lo largo de décadas.
 - **Relevancia**: 0.4724
 
-### Trump pide a los países que reciben petróleo por el estrecho de Ormuz que velen "por la seguridad" del paso
+### 'Protejan el estrecho': el mensaje de Trump a los países que reciben petróleo por Ormuz
 - **Fecha**: Sat, 14 Mar 2026 19:08:36 +0000
 - **Fuente**: rt_espanol
 - **URL**: https://actualidad.rt.com/actualidad/592948-trump-pide-paises-reciben-petroleo-estrecho-ormuz-velar-seguridad?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg" style="float: left;" />
-- **Relevancia**: 0.5669
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5b4c9e9ff7114aa02c9d1.jpg" style="float: left;" />
+        	El mandatario estadounidense comentó que ese "siempre debería haber sido un esfuerzo de equipo".
+- **Relevancia**: 0.6144
 
 ### Primer ministro belga: Como Europa no es capaz de "asfixiar" a Rusia, "solo queda llegar a un acuerdo"
 - **Fecha**: Sat, 14 Mar 2026 17:39:11 +0000
@@ -252,54 +254,33 @@ Senior officials from the three Group of Seven economies are working on...
         	Bart de Wever afirmó que hay que poner fin al conflicto entre Kiev y Moscú en interés de Europa.
 - **Relevancia**: 0.5684
 
-### US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters
-- **Fecha**: Sat, 14 Mar 2026 20:54:48 +0300
+### Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry
+- **Fecha**: Wed, 04 Jun 2025 14:21:03 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101651
-- **Resumen**: In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation
-- **Relevancia**: 0.5037
+- **URL**: https://tass.com/politics/1968329
+- **Resumen**: "As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire," Maria Zakharova said
+- **Relevancia**: 0.4822
 
-### Israel carries out 400 waves of attacks on Iran since February 28 — IDF
-- **Fecha**: Sat, 14 Mar 2026 19:31:48 +0300
+### Poland's capacity to deliver arms to Ukraine heavily constrained — paper
+- **Fecha**: Wed, 04 Jun 2025 13:22:26 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101639
-- **Resumen**: The Israeli Air Force focused "on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran," the Israeli military said
-- **Relevancia**: 0.7033
+- **URL**: https://tass.com/world/1968271
+- **Resumen**: According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine
+- **Relevancia**: 0.4853
 
-### Iran announces new wave of missile strikes on Israel — public broadcaster
-- **Fecha**: Sat, 14 Mar 2026 16:19:52 +0300
+### Russia not interested in arms race with Europe, European Parliament member says
+- **Fecha**: Wed, 04 Jun 2025 13:02:43 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101609
-- **Resumen**: Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel
-- **Relevancia**: 0.6088
+- **URL**: https://tass.com/world/1968241
+- **Resumen**: Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as "strategic patience"
+- **Relevancia**: 0.5195
 
-### Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC
-- **Fecha**: Sat, 14 Mar 2026 16:17:11 +0300
+### Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint
+- **Fecha**: Wed, 04 Jun 2025 13:00:01 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101607
-- **Resumen**: Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported
-- **Relevancia**: 0.4791
-
-### Pentagon reports strikes on 90 military targets on Iran's Kharg Island
-- **Fecha**: Sat, 14 Mar 2026 15:16:23 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101603
-- **Resumen**: But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said
-- **Relevancia**: 0.5125
-
-### Israeli army reports destruction of Iranian Space Agency research center
-- **Fecha**: Sat, 14 Mar 2026 14:31:56 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101597
-- **Resumen**: In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated
-- **Relevancia**: 0.6352
-
-### Global markets now in dire need of Russian oil — Kremlin
-- **Fecha**: Sat, 14 Mar 2026 09:55:39 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/economy/2101547
-- **Resumen**: Earlier, the US lifted sanctions on the sale of oil and petroleum products from Russia loaded onto ships before March 12
-- **Relevancia**: 0.5135
+- **URL**: https://tass.com/pressreview/1968153
+- **Resumen**: Top stories from the Russian press on Wednesday, June 4th
+- **Relevancia**: 0.4758
 
 ### Bowman, Capital Rules for the Real Economy
 - **Fecha**: Thu, 12 Mar 2026 15:00:00 GMT
