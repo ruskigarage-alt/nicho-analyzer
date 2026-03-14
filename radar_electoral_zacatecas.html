@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RADAR ELECTORAL — Gubernatura Zacatecas 2027</title>
+  <meta name="description" content="Monitor electoral en tiempo real para la gubernatura de Zacatecas 2027. Seguimiento de candidatos, encuestas, menciones y tendencias.">
+  <meta name="robots" content="index, follow">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Radar Electoral Zacatecas 2027",
+    "description": "Monitor de candidatos a la gubernatura de Zacatecas 2027. Encuestas, menciones en medios y redes, trayectoria política.",
+    "url": "https://ruskigarage-alt.github.io/nicho-analyzer/radar_electoral_zacatecas.html",
+    "about": {
+      "@type": "Election",
+      "name": "Gubernatura de Zacatecas 2027",
+      "location": {"@type": "State", "name": "Zacatecas", "addressCountry": "MX"}
+    }
+  }
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #08090c;
+      --bg2: #0e1017;
+      --bg3: #141620;
+      --border: #1e2130;
+      --border2: #2a2f45;
+
+      --pan: #003f8a;
+      --pan-light: #4a9eff;
+      --pri: #cc0000;
+      --pri-light: #ff6b6b;
+      --morena: #8b1a1a;
+      --morena-light: #ff4444;
+      --pt: #cc0000;
+      --pt-light: #ff8c00;
+      --ind: #2d6a4f;
+      --ind-light: #52b788;
+
+      --gold: #f5c518;
+      --silver: #a8b2c1;
+      --bronze: #cd7f32;
+
+      --text: #6b7280;
+      --text2: #9ca3af;
+      --text3: #e5e7eb;
+      --accent: #6366f1;
+      --accent2: #818cf8;
+
+      --font-mono: 'DM Mono', monospace;
+      --font-ui: 'Syne', sans-serif;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: var(--bg);
+      color: var(--text2);
+      font-family: var(--font-ui);
+      min-height: 100vh;
+    }
+
+    /* Subtle noise texture */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 24px;
+    }
+
+    /* HEADER */
+    header {
+      margin-bottom: 40px;
+    }
+
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 8px;
+    }
+
+    .breadcrumb {
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      color: var(--text);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    .breadcrumb a { color: var(--accent2); text-decoration: none; }
+
+    .live-badge {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      color: var(--accent2);
+      letter-spacing: 2px;
+    }
+
+    .live-dot {
+      width: 6px;
+      height: 6px;
+      background: var(--accent2);
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(0.8); }
+    }
+
+    h1 {
+      font-size: 2.4em;
+      font-weight: 800;
+      color: var(--text3);
+      letter-spacing: -1px;
+      line-height: 1;
+    }
+
+    h1 em {
+      font-style: normal;
+      color: var(--accent2);
+    }
+
+    .subtitle {
+      font-family: var(--font-mono);
+      font-size: 0.75em;
+      color: var(--text);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin-top: 8px;
+    }
+
+    /* STATS BAR */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-bottom: 32px;
+    }
+
+    .stat {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      padding: 16px;
+      position: relative;
+    }
+
+    .stat-num {
+      font-family: var(--font-mono);
+      font-size: 1.8em;
+      color: var(--text3);
+      display: block;
+      font-weight: 500;
+    }
+
+    .stat-label {
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      letter-spacing: 2px;
+      color: var(--text);
+      text-transform: uppercase;
+      margin-top: 4px;
+    }
+
+    .stat-sub {
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      color: var(--accent2);
+      margin-top: 6px;
+    }
+
+    /* CANDIDATE GRID */
+    .section-title {
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      letter-spacing: 3px;
+      color: var(--text);
+      text-transform: uppercase;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .section-title::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    .candidates-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-bottom: 32px;
+    }
+
+    .candidate-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      padding: 20px 24px;
+      display: grid;
+      grid-template-columns: 48px 200px 1fr auto;
+      gap: 20px;
+      align-items: center;
+      transition: border-color 0.2s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .candidate-card:hover {
+      border-color: var(--border2);
+    }
+
+    .candidate-card.rank-1 { border-left: 3px solid var(--gold); }
+    .candidate-card.rank-2 { border-left: 3px solid var(--silver); }
+    .candidate-card.rank-3 { border-left: 3px solid var(--bronze); }
+    .candidate-card.rank-other { border-left: 3px solid var(--border2); }
+
+    /* Subtle party color glow */
+    .candidate-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; bottom: 0;
+      width: 100%;
+      opacity: 0.03;
+      pointer-events: none;
+    }
+
+    .card-pan::before { background: var(--pan-light); }
+    .card-pri::before { background: var(--pri-light); }
+    .card-morena::before { background: var(--morena-light); }
+    .card-pt::before { background: var(--pt-light); }
+
+    /* RANK */
+    .rank {
+      font-family: var(--font-mono);
+      font-size: 1.4em;
+      font-weight: 500;
+      text-align: center;
+    }
+
+    .rank-1 .rank { color: var(--gold); }
+    .rank-2 .rank { color: var(--silver); }
+    .rank-3 .rank { color: var(--bronze); }
+    .rank-other .rank { color: var(--text); }
+
+    /* CANDIDATE INFO */
+    .candidate-name {
+      font-size: 1em;
+      font-weight: 700;
+      color: var(--text3);
+      margin-bottom: 4px;
+    }
+
+    .candidate-party {
+      display: inline-block;
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      letter-spacing: 1px;
+      padding: 2px 8px;
+      border-radius: 2px;
+      font-weight: 500;
+    }
+
+    .party-pan { background: rgba(0,63,138,0.3); color: var(--pan-light); border: 1px solid rgba(74,158,255,0.3); }
+    .party-pri { background: rgba(204,0,0,0.2); color: var(--pri-light); border: 1px solid rgba(255,107,107,0.3); }
+    .party-morena { background: rgba(139,26,26,0.3); color: #ff6b6b; border: 1px solid rgba(255,68,68,0.3); }
+    .party-pt { background: rgba(204,0,0,0.2); color: var(--pt-light); border: 1px solid rgba(255,140,0,0.3); }
+    .party-ptmorena { background: rgba(139,26,26,0.2); color: #ff8c42; border: 1px solid rgba(255,140,0,0.3); }
+
+    .candidate-trend {
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      margin-top: 6px;
+    }
+
+    .trend-up { color: #4ade80; }
+    .trend-down { color: #f87171; }
+    .trend-stable { color: var(--text); }
+
+    /* BAR SECTION */
+    .bar-section { width: 100%; }
+
+    .bar-header {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 8px;
+    }
+
+    .bar-pct {
+      font-family: var(--font-mono);
+      font-size: 1.1em;
+      font-weight: 500;
+      color: var(--text3);
+    }
+
+    .bar-source {
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      color: var(--text);
+      text-align: right;
+    }
+
+    .bar-track {
+      height: 6px;
+      background: var(--bg3);
+      border-radius: 0;
+      overflow: hidden;
+      margin-bottom: 8px;
+    }
+
+    .bar-fill {
+      height: 100%;
+      border-radius: 0;
+      transition: width 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .fill-pan { background: linear-gradient(90deg, var(--pan), var(--pan-light)); }
+    .fill-pri { background: linear-gradient(90deg, var(--pri), var(--pri-light)); }
+    .fill-morena { background: linear-gradient(90deg, var(--morena), #ff4444); }
+    .fill-pt { background: linear-gradient(90deg, #8b0000, var(--pt-light)); }
+    .fill-ptmorena { background: linear-gradient(90deg, #8b0000, #ff8c42); }
+    .fill-default { background: linear-gradient(90deg, var(--accent), var(--accent2)); }
+
+    .bar-tags {
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+    }
+
+    .bar-tag {
+      font-family: var(--font-mono);
+      font-size: 0.55em;
+      padding: 1px 6px;
+      background: var(--bg3);
+      border: 1px solid var(--border2);
+      color: var(--text);
+      letter-spacing: 1px;
+    }
+
+    /* MENTIONS */
+    .mentions-section {
+      text-align: right;
+      min-width: 120px;
+    }
+
+    .mention-count {
+      font-family: var(--font-mono);
+      font-size: 1.4em;
+      color: var(--text3);
+      display: block;
+    }
+
+    .mention-label {
+      font-family: var(--font-mono);
+      font-size: 0.55em;
+      letter-spacing: 2px;
+      color: var(--text);
+      text-transform: uppercase;
+    }
+
+    .mention-sentiment {
+      display: flex;
+      gap: 8px;
+      justify-content: flex-end;
+      margin-top: 8px;
+    }
+
+    .sent-pos { font-family: var(--font-mono); font-size: 0.65em; color: #4ade80; }
+    .sent-neg { font-family: var(--font-mono); font-size: 0.65em; color: #f87171; }
+    .sent-neu { font-family: var(--font-mono); font-size: 0.65em; color: var(--text); }
+
+    /* RECENT MENTIONS */
+    .mention-news {
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px solid var(--bg3);
+      grid-column: 2 / 5;
+    }
+
+    .mention-item {
+      display: flex;
+      gap: 8px;
+      align-items: flex-start;
+      padding: 4px 0;
+    }
+
+    .mention-source {
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      color: var(--accent2);
+      white-space: nowrap;
+      padding-top: 1px;
+      min-width: 100px;
+    }
+
+    .mention-text {
+      font-size: 0.75em;
+      color: var(--text2);
+      line-height: 1.3;
+    }
+
+    .mention-tag {
+      font-family: var(--font-mono);
+      font-size: 0.55em;
+      padding: 1px 5px;
+      border: 1px solid var(--border2);
+      color: var(--text);
+      white-space: nowrap;
+    }
+
+    /* COMPARISON CHART */
+    .comparison-section {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      padding: 24px;
+      margin-bottom: 32px;
+    }
+
+    .comparison-bars {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-top: 16px;
+    }
+
+    .comp-row {
+      display: grid;
+      grid-template-columns: 160px 1fr 60px;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .comp-name {
+      font-size: 0.8em;
+      font-weight: 600;
+      color: var(--text2);
+      text-align: right;
+    }
+
+    .comp-track {
+      height: 24px;
+      background: var(--bg3);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .comp-fill {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      padding-left: 8px;
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      color: rgba(255,255,255,0.8);
+      transition: width 1.5s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .comp-pct {
+      font-family: var(--font-mono);
+      font-size: 0.8em;
+      color: var(--text3);
+      font-weight: 500;
+    }
+
+    /* TIMELINE */
+    .timeline-section {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      padding: 24px;
+      margin-bottom: 32px;
+    }
+
+    .timeline-note {
+      font-family: var(--font-mono);
+      font-size: 0.7em;
+      color: var(--text);
+      margin-top: 12px;
+      padding: 10px;
+      border: 1px dashed var(--border2);
+    }
+
+    /* FOOTER */
+    footer {
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      color: var(--text);
+    }
+
+    footer a { color: var(--accent2); text-decoration: none; }
+
+    /* Animations */
+    .card-enter {
+      animation: slideIn 0.4s ease forwards;
+      opacity: 0;
+      transform: translateY(8px);
+    }
+
+    @keyframes slideIn {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .card-enter:nth-child(1) { animation-delay: 0.05s; }
+    .card-enter:nth-child(2) { animation-delay: 0.1s; }
+    .card-enter:nth-child(3) { animation-delay: 0.15s; }
+    .card-enter:nth-child(4) { animation-delay: 0.2s; }
+    .card-enter:nth-child(5) { animation-delay: 0.25s; }
+    .card-enter:nth-child(6) { animation-delay: 0.3s; }
+    .card-enter:nth-child(7) { animation-delay: 0.35s; }
+
+    @media (max-width: 768px) {
+      .candidate-card { grid-template-columns: 36px 1fr; grid-template-rows: auto auto; }
+      .bar-section { grid-column: 1 / 3; }
+      .mentions-section { grid-column: 1 / 3; text-align: left; }
+      .mention-news { grid-column: 1 / 3; }
+      .stats-bar { grid-template-columns: repeat(2, 1fr); }
+      .comp-row { grid-template-columns: 120px 1fr 50px; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <div class="header-top">
+      <div class="breadcrumb">
+        <a href="index.html">nicho-analyzer</a> / radar electoral
+      </div>
+      <div class="live-badge">
+        <div class="live-dot"></div>
+        ACTUALIZACIÓN DIARIA
+      </div>
+    </div>
+    <h1>RADAR ELECTORAL<br><em>ZACATECAS 2027</em></h1>
+    <div class="subtitle">GUBERNATURA · SEGUIMIENTO DE CANDIDATOS · ENCUESTAS Y MEDIOS</div>
+  </header>
+
+  <!-- STATS -->
+  <div class="stats-bar">
+    <div class="stat">
+      <span class="stat-num" id="stat-candidates">7</span>
+      <div class="stat-label">Candidatos activos</div>
+      <div class="stat-sub">↑ detección automática</div>
+    </div>
+    <div class="stat">
+      <span class="stat-num" id="stat-mentions">5</span>
+      <div class="stat-label">Menciones hoy</div>
+      <div class="stat-sub" id="stat-date">—</div>
+    </div>
+    <div class="stat">
+      <span class="stat-num" id="stat-leader">—</span>
+      <div class="stat-label">Puntero actual</div>
+      <div class="stat-sub" id="stat-leader-party">—</div>
+    </div>
+    <div class="stat">
+      <span class="stat-num">483</span>
+      <div class="stat-label">Días para elección</div>
+      <div class="stat-sub">~Jun 2027</div>
+    </div>
+  </div>
+
+  <!-- CANDIDATOS -->
+  <div class="section-title">◈ PANEL DE CANDIDATOS</div>
+  <div class="candidates-grid" id="candidates-container"></div>
+
+  <!-- COMPARACIÓN -->
+  <div class="section-title">◈ COMPARACIÓN DIRECTA</div>
+  <div class="comparison-section">
+    <div style="font-family:var(--font-mono); font-size:0.65em; color:var(--text); letter-spacing:2px; text-transform:uppercase; margin-bottom:4px;">Intención de voto — Encuesta Cripeso · Marzo 2026</div>
+    <div class="comparison-bars" id="comparison-bars"></div>
+  </div>
+
+  <!-- FUENTE -->
+  <div class="timeline-section">
+    <div class="section-title" style="margin-bottom:12px;">◈ FUENTES Y METODOLOGÍA</div>
+    <div style="font-size:0.85em; color:var(--text2); line-height:1.6;">
+      Los datos de intención de voto provienen de encuestas publicadas en medios locales de Zacatecas.
+      Las menciones se extraen automáticamente del pipeline de minado diario.
+      El momentum refleja cambio en puntos porcentuales respecto a la medición anterior.
+    </div>
+    <div class="timeline-note">
+      ⚠ AVISO: Los datos de encuestas son referenciales. Las cifras se actualizan conforme se publican nuevas encuestas en los medios minados. Última encuesta: Cripeso · Marzo 2026.
+    </div>
+  </div>
+
+  <footer>
+    <div>
+      <a href="index.html">← INICIO</a> &nbsp;|&nbsp;
+      <a href="radar_geopolitico.html">RADAR GEOPOLÍTICO</a> &nbsp;|&nbsp;
+      <a href="mi_feed/feed.xml">RSS</a>
+    </div>
+    <div>NICHO ANALYZER — ZACATECAS, MÉXICO &nbsp;|&nbsp; CC BY 4.0</div>
+  </footer>
+
+</div>
+
+<script>
+// ─────────────────────────────────────────
+// DATOS DE CANDIDATOS
+// ─────────────────────────────────────────
+const CANDIDATOS = [
+  {
+    nombre: "Miguel Varela Pinedo",
+    partido: "PAN",
+    partyClass: "pan",
+    pct: 39.5,
+    momentum: +3,
+    menciones: 1,
+    positivas: 1,
+    negativas: 0,
+    fuente: "Cripeso · Encuesta gubernatura Zacatecas 2027 · Marzo 2026",
+    tags: ["encuesta"],
+    noticias: [
+      { fuente: "cripeso", tag: "encuesta", texto: "Encuesta a la gubernatura de Zacatecas 2027: marzo 2026" }
+    ]
+  },
+  {
+    nombre: "Adolfo Bonilla Gómez",
+    partido: "PRI",
+    partyClass: "pri",
+    pct: 35.3,
+    momentum: 0,
+    menciones: 0,
+    positivas: 0,
+    negativas: 0,
+    fuente: "Cripeso · Encuesta gubernatura Zacatecas 2027 · Marzo 2026",
+    tags: ["general"],
+    noticias: []
+  },
+  {
+    nombre: "Ulises Mejía Haro",
+    partido: "Morena",
+    partyClass: "morena",
+    pct: 23.6,
+    momentum: +3,
+    menciones: 1,
+    positivas: 1,
+    negativas: 0,
+    fuente: "Cripeso · Encuesta gubernatura Zacatecas 2027 · Marzo 2026",
+    tags: ["encuesta"],
+    noticias: [
+      { fuente: "cripeso", tag: "encuesta", texto: "Encuesta a la gubernatura de Zacatecas 2027: marzo 2026" }
+    ]
+  },
+  {
+    nombre: "Claudia Anaya Mota",
+    partido: "PRI",
+    partyClass: "pri",
+    pct: 23.5,
+    momentum: 0,
+    menciones: 0,
+    positivas: 0,
+    negativas: 0,
+    fuente: "Referencia general",
+    tags: ["general"],
+    noticias: []
+  },
+  {
+    nombre: "Saúl Monreal Ávila",
+    partido: "PT/Morena",
+    partyClass: "ptmorena",
+    pct: 21.7,
+    momentum: +4,
+    menciones: 4,
+    positivas: 0,
+    negativas: 0,
+    fuente: "Medios locales",
+    tags: ["gasto_publico", "seguridad", "general"],
+    noticias: [
+      { fuente: "elarsenal", tag: "seguridad", texto: "Cámara de Diputados impulsa reformas que fortalecen la democracia paritaria" },
+      { fuente: "eltrochilero", tag: "gasto_publico", texto: "Arranca David Monreal Programa Diésel Agropecuario 2026 para el campo" }
+    ]
+  },
+  {
+    nombre: "Verónica Díaz Robles",
+    partido: "Morena",
+    partyClass: "morena",
+    pct: 16.3,
+    momentum: 0,
+    menciones: 0,
+    positivas: 0,
+    negativas: 0,
+    fuente: "Referencia general",
+    tags: ["general"],
+    noticias: []
+  },
+  {
+    nombre: "José Narro Céspedes",
+    partido: "PT",
+    partyClass: "pt",
+    pct: 12.0,
+    momentum: 0,
+    menciones: 0,
+    positivas: 0,
+    negativas: 0,
+    fuente: "Referencia general",
+    tags: ["general"],
+    noticias: []
+  }
+];
+
+const PARTY_FILLS = {
+  pan: 'fill-pan',
+  pri: 'fill-pri',
+  morena: 'fill-morena',
+  pt: 'fill-pt',
+  ptmorena: 'fill-ptmorena'
+};
+
+const PARTY_LABELS = {
+  pan: 'party-pan',
+  pri: 'party-pri',
+  morena: 'party-morena',
+  pt: 'party-pt',
+  ptmorena: 'party-ptmorena'
+};
+
+const RANK_MEDALS = ['🥇', '🥈', '🥉', '#4', '#5', '#6', '#7'];
+
+// ─────────────────────────────────────────
+// RENDER CANDIDATOS
+// ─────────────────────────────────────────
+function renderCandidatos() {
+  const container = document.getElementById('candidates-container');
+  const sorted = [...CANDIDATOS].sort((a,b) => b.pct - a.pct);
+
+  sorted.forEach((c, i) => {
+    const rankClass = i === 0 ? 'rank-1' : i === 1 ? 'rank-2' : i === 2 ? 'rank-3' : 'rank-other';
+    const fillClass = PARTY_FILLS[c.partyClass] || 'fill-default';
+    const partyClass = PARTY_LABELS[c.partyClass] || '';
+
+    const trendText = c.momentum > 0
+      ? `<span class="trend-up">▲ +${c.momentum} pts momentum</span>`
+      : c.momentum < 0
+      ? `<span class="trend-down">▼ ${c.momentum} pts momentum</span>`
+      : `<span class="trend-stable">→ estable</span>`;
+
+    const tagsHtml = c.tags.map(t => `<span class="bar-tag">${t}</span>`).join('');
+
+    const noticiasHtml = c.noticias.length > 0
+      ? `<div class="mention-news">
+          ${c.noticias.map(n => `
+            <div class="mention-item">
+              <span class="mention-source">${n.fuente}</span>
+              <span class="mention-tag">${n.tag}</span>
+              <span class="mention-text">${n.texto}</span>
+            </div>`).join('')}
+        </div>`
+      : '';
+
+    container.innerHTML += `
+      <div class="candidate-card ${rankClass} card-${c.partyClass} card-enter">
+        <div class="rank">${RANK_MEDALS[i]}</div>
+        <div>
+          <div class="candidate-name">${c.nombre}</div>
+          <span class="candidate-party ${partyClass}">${c.partido}</span>
+          <div class="candidate-trend">${trendText}</div>
+        </div>
+        <div class="bar-section">
+          <div class="bar-header">
+            <span class="bar-pct">${c.pct}%</span>
+            <span class="bar-source">${c.fuente}</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill ${fillClass}" style="width:0%" data-width="${c.pct / 50 * 100}%"></div>
+          </div>
+          <div class="bar-tags">${tagsHtml}</div>
+        </div>
+        <div class="mentions-section">
+          <span class="mention-count">${c.menciones}</span>
+          <div class="mention-label">menciones hoy</div>
+          <div class="mention-sentiment">
+            <span class="sent-pos">+${c.positivas}</span>
+            <span class="sent-neg">-${c.negativas}</span>
+            <span class="sent-neu">=${c.menciones - c.positivas - c.negativas}</span>
+          </div>
+        </div>
+        ${noticiasHtml}
+      </div>`;
+  });
+
+  // Animate bars after render
+  setTimeout(() => {
+    document.querySelectorAll('.bar-fill').forEach(bar => {
+      bar.style.width = bar.dataset.width;
+    });
+  }, 300);
+
+  // Update stats
+  const leader = sorted[0];
+  document.getElementById('stat-leader').textContent = leader.nombre.split(' ')[0] + ' ' + leader.nombre.split(' ')[1];
+  document.getElementById('stat-leader-party').textContent = leader.partido + ' · ' + leader.pct + '%';
+  document.getElementById('stat-date').textContent = new Date().toISOString().split('T')[0];
+  document.getElementById('stat-mentions').textContent = CANDIDATOS.reduce((s,c) => s + c.menciones, 0);
+}
+
+// ─────────────────────────────────────────
+// RENDER COMPARACIÓN
+// ─────────────────────────────────────────
+function renderComparison() {
+  const container = document.getElementById('comparison-bars');
+  const sorted = [...CANDIDATOS].sort((a,b) => b.pct - a.pct);
+  const max = sorted[0].pct;
+
+  sorted.forEach(c => {
+    const fillClass = PARTY_FILLS[c.partyClass] || 'fill-default';
+    const width = (c.pct / max * 100).toFixed(1);
+    container.innerHTML += `
+      <div class="comp-row">
+        <div class="comp-name">${c.nombre.split(' ').slice(0,2).join(' ')}</div>
+        <div class="comp-track">
+          <div class="comp-fill ${fillClass}" style="width:0%" data-width="${width}%">
+            ${c.partido}
+          </div>
+        </div>
+        <div class="comp-pct">${c.pct}%</div>
+      </div>`;
+  });
+
+  setTimeout(() => {
+    document.querySelectorAll('.comp-fill').forEach(bar => {
+      bar.style.width = bar.dataset.width;
+    });
+  }, 500);
+}
+
+// ─────────────────────────────────────────
+// INIT
+// ─────────────────────────────────────────
+renderCandidatos();
+renderComparison();
+</script>
+</body>
+</html>
