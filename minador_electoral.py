@@ -258,12 +258,53 @@ def calcular_momentum(todas_entradas):
 # ─────────────────────────────────────────
 # EJECUTAR MINADO
 # ─────────────────────────────────────────
+
+def minar_google_news(aspirante):
+    """Mina Google News RSS por nombre de candidato."""
+    query = aspirante["nombre"].replace(" ", "+") + "+Zacatecas"
+    url = f"https://news.google.com/rss/search?q={query}&hl=es-419&gl=MX&ceid=MX:es-419"
+    try:
+        feed = feedparser.parse(url, request_headers={"User-Agent": "Mozilla/5.0"})
+        entradas = []
+        for entry in feed.entries[:10]:
+            titulo  = entry.get("title", "")
+            resumen = entry.get("summary", "")
+            texto   = f"{titulo} {resumen}"
+            tema    = clasificar_tema(texto)
+            entradas.append({
+                "titulo":      titulo,
+                "resumen":     resumen[:400],
+                "link":        entry.get("link", ""),
+                "fecha":       entry.get("published", FECHA),
+                "fuente":      "google_news",
+                "tipo_fuente": "agregador",
+                "nicho":       "electoral_zacatecas",
+                "es_electoral":  True,
+                "es_contextual": False,
+                "aspirantes_mencionados": [aspirante["id"]],
+                "tema":        tema,
+                "fecha_minado": FECHA,
+            })
+        return entradas
+    except Exception as e:
+        print(f"    ERROR Google News {aspirante['nombre']}: {e}")
+        return []
+
 print("\n=== MINANDO FUENTES ELECTORALES ZACATECAS ===")
 todas_entradas = []
 
 for fuente in FUENTES_ELECTORALES:
     entradas = minar_fuente_electoral(fuente)
     todas_entradas.extend(entradas)
+    time.sleep(1)
+
+# Minar Google News por cada aspirante
+print("\n=== MINANDO GOOGLE NEWS ===")
+for asp in ASPIRANTES:
+    print(f"  → google_news: {asp['nombre']}...")
+    entradas_gn = minar_google_news(asp)
+    todas_entradas.extend(entradas_gn)
+    print(f"    {len(entradas_gn)} noticias")
     time.sleep(1)
 
 momentum = calcular_momentum(todas_entradas)

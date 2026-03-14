@@ -60,56 +60,80 @@
   },
   "2026-03-14": {
     "mejia_haro": {
-      "menciones": 0,
-      "positivo": 0,
+      "menciones": 10,
+      "positivo": 3,
       "negativo": 0,
-      "momentum": 0,
-      "temas": []
+      "momentum": 16,
+      "temas": [
+        "alianza",
+        "encuesta",
+        "general"
+      ]
     },
     "saul_monreal": {
-      "menciones": 2,
-      "positivo": 0,
-      "negativo": 0,
-      "momentum": 2,
+      "menciones": 12,
+      "positivo": 1,
+      "negativo": 3,
+      "momentum": 5,
       "temas": [
         "seguridad",
-        "gasto_publico"
+        "gasto_publico",
+        "general",
+        "nepotismo",
+        "encuesta"
       ]
     },
     "diaz_robles": {
-      "menciones": 0,
-      "positivo": 0,
-      "negativo": 0,
-      "momentum": 0,
-      "temas": []
+      "menciones": 10,
+      "positivo": 1,
+      "negativo": 1,
+      "momentum": 9,
+      "temas": [
+        "nepotismo",
+        "general",
+        "candidatura"
+      ]
     },
     "narro_cespedes": {
-      "menciones": 0,
-      "positivo": 0,
-      "negativo": 0,
-      "momentum": 0,
-      "temas": []
+      "menciones": 10,
+      "positivo": 1,
+      "negativo": 1,
+      "momentum": 9,
+      "temas": [
+        "seguridad",
+        "general",
+        "nepotismo",
+        "candidatura"
+      ]
     },
     "varela_pinedo": {
-      "menciones": 0,
+      "menciones": 10,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 0,
-      "temas": []
+      "momentum": 10,
+      "temas": [
+        "general"
+      ]
     },
     "bonilla_gomez": {
-      "menciones": 0,
-      "positivo": 0,
+      "menciones": 10,
+      "positivo": 2,
       "negativo": 0,
-      "momentum": 0,
-      "temas": []
+      "momentum": 14,
+      "temas": [
+        "encuesta",
+        "general"
+      ]
     },
     "anaya_mota": {
-      "menciones": 0,
-      "positivo": 0,
+      "menciones": 10,
+      "positivo": 2,
       "negativo": 0,
-      "momentum": 0,
-      "temas": []
+      "momentum": 14,
+      "temas": [
+        "alianza",
+        "general"
+      ]
     }
   }
 }
