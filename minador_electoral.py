@@ -93,19 +93,12 @@ ASPIRANTES = [
 # KEYWORDS ELECTORALES GENERALES
 # ─────────────────────────────────────────
 KEYWORDS_ELECTORALES = [
-    # Frases compuestas
     "Zacatecas elecciones", "gobernador Zacatecas", "alcalde Zacatecas",
     "Morena Zacatecas", "PAN Zacatecas", "PRI Zacatecas", "PT Zacatecas",
     "candidato Zacatecas", "campaña Zacatecas", "IEEZ", "INE Zacatecas",
     "David Monreal", "política Zacatecas", "municipios Zacatecas",
     "elecciones 2027", "proceso electoral Zacatecas", "encuesta Zacatecas",
     "nepotismo Morena Zacatecas", "TEPJF Zacatecas",
-    # Keywords simples para fuentes locales
-    "Zacatecas", "Monreal", "IEEZ", "gubernatura", "elección",
-    "Ulises Mejía", "Saúl Monreal", "Varela Pinedo", "Bonilla",
-    "Claudia Anaya", "Verónica Díaz", "Narro Céspedes",
-    "morena", "alianza", "coalición", "precampaña", "candidatura",
-    "presupuesto estatal", "gobierno estatal", "congreso zacatecas",
 ]
 
 # ─────────────────────────────────────────
@@ -122,22 +115,17 @@ KEYWORDS_CONTEXTO = [
 # FUENTES RSS ELECTORALES
 # ─────────────────────────────────────────
 FUENTES_ELECTORALES = [
-    # Locales Zacatecas — verificadas
-    {"nombre": "ljz_zacatecas",    "url": "https://ljz.mx/feed/",                                        "tipo": "local"},
-    {"nombre": "zhn_zacatecas",    "url": "https://zhn.com.mx/feed/",                                    "tipo": "local"},
-    {"nombre": "cripeso",          "url": "https://cripeso.com/feed/",                                   "tipo": "local"},
-    {"nombre": "lasnoticiasya",    "url": "https://lasnoticiasya.com/feed/",                             "tipo": "local"},
-    {"nombre": "elarsenal",        "url": "https://www.elarsenal.net/feed/",                             "tipo": "local"},
-    {"nombre": "lapolitica",       "url": "https://lapoliticamedarisa.mx/feed/",                         "tipo": "local"},
-    {"nombre": "rubrum",           "url": "https://rubrum.info/feed/",                                   "tipo": "local"},
-    {"nombre": "hojaderuta",       "url": "https://hojaderutadigital.mx/feed/",                          "tipo": "local"},
-    {"nombre": "correla",          "url": "https://periodicocorrela.com/feed/",                          "tipo": "local"},
-    {"nombre": "eltrochilero",     "url": "https://eltrochilero.com/feed/",                              "tipo": "local"},
-    {"nombre": "gob_zacatecas",    "url": "https://www.zacatecas.gob.mx/feed/",                         "tipo": "oficial"},
-    # Nacionales
-    {"nombre": "jornada_politica", "url": "https://www.jornada.com.mx/rss/politica.xml",                "tipo": "nacional"},
-    {"nombre": "jornada_estados",  "url": "https://www.jornada.com.mx/rss/estados.xml",                 "tipo": "nacional"},
-    {"nombre": "el_universal",     "url": "https://www.eluniversal.com.mx/arc/outboundfeeds/rss/",      "tipo": "nacional"},
+    # Locales Zacatecas
+    {"nombre": "ljz_zacatecas",     "url": "https://ljz.mx/feed/",                              "tipo": "local"},
+    {"nombre": "ntr_zacatecas",     "url": "https://www.ntrzacatecas.com/feed/",                 "tipo": "local"},
+    {"nombre": "imagen_zac",        "url": "https://www.imagenzac.com.mx/feed/",                 "tipo": "local"},
+    # Nacionales con cobertura política
+    {"nombre": "jornada_politica",  "url": "https://www.jornada.com.mx/rss/politica.xml",        "tipo": "nacional"},
+    {"nombre": "jornada_estados",   "url": "https://www.jornada.com.mx/rss/estados.xml",         "tipo": "nacional"},
+    {"nombre": "expansion_politica","url": "https://expansion.mx/rss/politica",                  "tipo": "nacional"},
+    {"nombre": "proceso",           "url": "https://www.proceso.com.mx/rss/",                    "tipo": "nacional"},
+    {"nombre": "animal_politico",   "url": "https://www.animalpolitico.com/feed/",               "tipo": "nacional"},
+    {"nombre": "infobae_mx",        "url": "https://www.infobae.com/mexico/feed/",               "tipo": "nacional"},
 ]
 
 # ─────────────────────────────────────────
@@ -180,10 +168,7 @@ def clasificar_tema(texto):
 def minar_fuente_electoral(fuente):
     print(f"  → {fuente['nombre']}...")
     try:
-        import requests as _req
-        headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"}
-        resp = _req.get(fuente["url"], headers=headers, timeout=15)
-        feed = feedparser.parse(resp.content)
+        feed = feedparser.parse(fuente["url"])
         if not feed.entries:
             print(f"    sin entradas")
             return []
