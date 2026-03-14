@@ -1,0 +1,1087 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RADAR GEOPOLÍTICO — Nicho Analyzer</title>
+  <meta name="description" content="Radar geopolítico en tiempo real. Análisis de tensiones, conflictos y tendencias globales con impacto en México.">
+  <meta name="robots" content="index, follow">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Radar Geopolítico",
+    "description": "Monitor de tensiones geopolíticas globales con impacto en México. Petróleo, aranceles, conflictos, alianzas estratégicas.",
+    "url": "https://ruskigarage-alt.github.io/nicho-analyzer/radar_geopolitico.html",
+    "isPartOf": {"@type": "WebSite", "url": "https://ruskigarage-alt.github.io/nicho-analyzer/"}
+  }
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #030a0e;
+      --bg2: #071219;
+      --bg3: #0a1a24;
+      --grid: #0d2535;
+      --accent: #00d4ff;
+      --accent2: #00ff88;
+      --warn: #ff6b00;
+      --danger: #ff2244;
+      --dim: #1a3a4a;
+      --text: #7ab8cc;
+      --text2: #b0d8e8;
+      --text3: #e0f4ff;
+      --font-mono: 'Share Tech Mono', monospace;
+      --font-ui: 'Rajdhani', sans-serif;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: var(--bg);
+      color: var(--text2);
+      font-family: var(--font-ui);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Scanline effect */
+    body::before {
+      content: '';
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(0,212,255,0.015) 2px,
+        rgba(0,212,255,0.015) 4px
+      );
+      pointer-events: none;
+      z-index: 1000;
+    }
+
+    /* Grid background */
+    body::after {
+      content: '';
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-image:
+        linear-gradient(var(--grid) 1px, transparent 1px),
+        linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+      background-size: 40px 40px;
+      opacity: 0.3;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    /* HEADER */
+    header {
+      border-bottom: 1px solid var(--dim);
+      padding-bottom: 16px;
+      margin-bottom: 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+
+    .logo {
+      font-family: var(--font-mono);
+      font-size: 0.7em;
+      color: var(--accent);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      opacity: 0.7;
+    }
+
+    h1 {
+      font-family: var(--font-mono);
+      font-size: 1.8em;
+      color: var(--accent);
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      text-shadow: 0 0 20px rgba(0,212,255,0.5);
+    }
+
+    h1 span {
+      color: var(--text);
+      font-size: 0.5em;
+      display: block;
+      letter-spacing: 8px;
+      margin-top: 4px;
+    }
+
+    .timestamp {
+      font-family: var(--font-mono);
+      font-size: 0.75em;
+      color: var(--accent2);
+      text-align: right;
+    }
+
+    .timestamp .blink {
+      animation: blink 1s infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    /* ALERT BAR */
+    .alert-bar {
+      background: rgba(255,34,68,0.1);
+      border: 1px solid var(--danger);
+      border-left: 4px solid var(--danger);
+      padding: 10px 16px;
+      margin-bottom: 24px;
+      font-family: var(--font-mono);
+      font-size: 0.8em;
+      color: var(--danger);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      animation: pulse-danger 2s infinite;
+    }
+
+    @keyframes pulse-danger {
+      0%, 100% { border-left-color: var(--danger); }
+      50% { border-left-color: rgba(255,34,68,0.3); }
+    }
+
+    /* GRID LAYOUT */
+    .dashboard {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: auto;
+      gap: 16px;
+    }
+
+    .panel {
+      background: var(--bg2);
+      border: 1px solid var(--dim);
+      padding: 16px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .panel::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--accent), transparent);
+      opacity: 0.6;
+    }
+
+    .panel-title {
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      letter-spacing: 3px;
+      color: var(--accent);
+      text-transform: uppercase;
+      margin-bottom: 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .panel-title .count {
+      background: var(--dim);
+      padding: 2px 8px;
+      color: var(--text3);
+      font-size: 1.1em;
+    }
+
+    /* THREAT MAP */
+    .panel-map {
+      grid-column: 1 / 3;
+      grid-row: 1 / 2;
+    }
+
+    .region-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+    }
+
+    .region {
+      background: var(--bg3);
+      border: 1px solid var(--dim);
+      padding: 12px 10px;
+      cursor: pointer;
+      transition: all 0.2s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .region:hover {
+      border-color: var(--accent);
+      background: rgba(0,212,255,0.05);
+    }
+
+    .region-name {
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      letter-spacing: 2px;
+      color: var(--text);
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .threat-bar {
+      height: 4px;
+      background: var(--bg);
+      margin-bottom: 8px;
+      overflow: hidden;
+    }
+
+    .threat-fill {
+      height: 100%;
+      transition: width 1s ease;
+    }
+
+    .threat-level {
+      font-family: var(--font-mono);
+      font-size: 0.75em;
+    }
+
+    .level-critical { color: var(--danger); }
+    .level-high { color: var(--warn); }
+    .level-medium { color: #ffd700; }
+    .level-low { color: var(--accent2); }
+    .level-monitor { color: var(--text); }
+
+    .fill-critical { background: var(--danger); width: 95%; }
+    .fill-high { background: var(--warn); width: 75%; }
+    .fill-medium { background: #ffd700; width: 50%; }
+    .fill-low { background: var(--accent2); width: 25%; }
+    .fill-monitor { background: var(--text); width: 10%; }
+
+    .region-count {
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      color: var(--text);
+      margin-top: 4px;
+    }
+
+    /* TRENDING */
+    .panel-trends {
+      grid-column: 3 / 4;
+      grid-row: 1 / 3;
+    }
+
+    .trend-item {
+      border-bottom: 1px solid var(--bg3);
+      padding: 10px 0;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .trend-item:hover {
+      padding-left: 8px;
+      border-left: 2px solid var(--accent);
+    }
+
+    .trend-tag {
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      letter-spacing: 2px;
+      padding: 2px 6px;
+      margin-bottom: 4px;
+      display: inline-block;
+    }
+
+    .tag-energy { background: rgba(255,107,0,0.2); color: var(--warn); border: 1px solid var(--warn); }
+    .tag-conflict { background: rgba(255,34,68,0.2); color: var(--danger); border: 1px solid var(--danger); }
+    .tag-trade { background: rgba(0,212,255,0.2); color: var(--accent); border: 1px solid var(--accent); }
+    .tag-finance { background: rgba(0,255,136,0.2); color: var(--accent2); border: 1px solid var(--accent2); }
+    .tag-diplomacy { background: rgba(255,215,0,0.2); color: #ffd700; border: 1px solid #ffd700; }
+
+    .trend-title {
+      font-size: 0.85em;
+      color: var(--text3);
+      line-height: 1.3;
+      font-weight: 600;
+    }
+
+    .trend-meta {
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      color: var(--text);
+      margin-top: 4px;
+    }
+
+    .trend-score {
+      float: right;
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      color: var(--accent2);
+      background: rgba(0,255,136,0.1);
+      padding: 1px 6px;
+    }
+
+    /* FEED */
+    .panel-feed {
+      grid-column: 1 / 3;
+      grid-row: 2 / 3;
+    }
+
+    .feed-item {
+      display: grid;
+      grid-template-columns: 80px 1fr auto;
+      gap: 12px;
+      padding: 10px 0;
+      border-bottom: 1px solid var(--bg3);
+      align-items: start;
+    }
+
+    .feed-region {
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      letter-spacing: 1px;
+      color: var(--text);
+      text-transform: uppercase;
+      padding-top: 2px;
+    }
+
+    .feed-title {
+      font-size: 0.85em;
+      color: var(--text3);
+      font-weight: 600;
+      line-height: 1.3;
+    }
+
+    .feed-summary {
+      font-size: 0.75em;
+      color: var(--text);
+      margin-top: 4px;
+      line-height: 1.4;
+    }
+
+    .feed-source {
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      color: var(--accent);
+      white-space: nowrap;
+    }
+
+    /* STATS ROW */
+    .stats-row {
+      grid-column: 1 / 4;
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 16px;
+    }
+
+    .stat-box {
+      background: var(--bg2);
+      border: 1px solid var(--dim);
+      padding: 16px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .stat-box::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 2px;
+    }
+
+    .stat-box.s-danger::after { background: var(--danger); }
+    .stat-box.s-warn::after { background: var(--warn); }
+    .stat-box.s-gold::after { background: #ffd700; }
+    .stat-box.s-green::after { background: var(--accent2); }
+    .stat-box.s-blue::after { background: var(--accent); }
+
+    .stat-value {
+      font-family: var(--font-mono);
+      font-size: 2em;
+      color: var(--text3);
+      display: block;
+      text-shadow: 0 0 10px rgba(0,212,255,0.3);
+    }
+
+    .stat-label {
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      letter-spacing: 2px;
+      color: var(--text);
+      text-transform: uppercase;
+      margin-top: 4px;
+    }
+
+    .stat-delta {
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      margin-top: 6px;
+    }
+
+    .delta-up { color: var(--danger); }
+    .delta-down { color: var(--accent2); }
+
+    /* CORRELATION MATRIX */
+    .panel-matrix {
+      grid-column: 1 / 2;
+    }
+
+    .matrix-grid {
+      display: grid;
+      gap: 4px;
+    }
+
+    .matrix-row {
+      display: grid;
+      grid-template-columns: 100px repeat(5, 1fr);
+      gap: 4px;
+      align-items: center;
+    }
+
+    .matrix-label {
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      color: var(--text);
+      text-align: right;
+      padding-right: 8px;
+    }
+
+    .matrix-cell {
+      height: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      font-weight: bold;
+    }
+
+    /* MEXICO IMPACT */
+    .panel-mexico {
+      grid-column: 2 / 3;
+    }
+
+    .impact-item {
+      padding: 8px 0;
+      border-bottom: 1px solid var(--bg3);
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+    }
+
+    .impact-icon {
+      font-size: 1em;
+      width: 20px;
+      flex-shrink: 0;
+    }
+
+    .impact-text {
+      font-size: 0.8em;
+      color: var(--text2);
+      line-height: 1.4;
+    }
+
+    .impact-sector {
+      font-family: var(--font-mono);
+      font-size: 0.6em;
+      color: var(--accent);
+      display: block;
+      margin-bottom: 2px;
+      letter-spacing: 1px;
+    }
+
+    /* FOOTER */
+    footer {
+      margin-top: 24px;
+      padding-top: 16px;
+      border-top: 1px solid var(--dim);
+      display: flex;
+      justify-content: space-between;
+      font-family: var(--font-mono);
+      font-size: 0.65em;
+      color: var(--text);
+    }
+
+    footer a { color: var(--accent); text-decoration: none; }
+
+    /* Loading */
+    .loading {
+      text-align: center;
+      padding: 40px;
+      font-family: var(--font-mono);
+      color: var(--accent);
+      font-size: 0.8em;
+      letter-spacing: 3px;
+    }
+
+    .loading::after {
+      content: '...';
+      animation: dots 1.5s infinite;
+    }
+
+    @keyframes dots {
+      0% { content: '.'; }
+      33% { content: '..'; }
+      66% { content: '...'; }
+    }
+
+    /* Fade in */
+    .fade-in {
+      animation: fadeIn 0.5s ease forwards;
+      opacity: 0;
+    }
+
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+
+    .fade-in:nth-child(1) { animation-delay: 0.1s; }
+    .fade-in:nth-child(2) { animation-delay: 0.2s; }
+    .fade-in:nth-child(3) { animation-delay: 0.3s; }
+    .fade-in:nth-child(4) { animation-delay: 0.4s; }
+    .fade-in:nth-child(5) { animation-delay: 0.5s; }
+
+    @media (max-width: 900px) {
+      .dashboard { grid-template-columns: 1fr; }
+      .panel-map, .panel-trends, .panel-feed, .stats-row,
+      .panel-matrix, .panel-mexico { grid-column: 1; grid-row: auto; }
+      .stats-row { grid-template-columns: repeat(2, 1fr); }
+      .region-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <div>
+      <div class="logo">▸ SISTEMA DE INTELIGENCIA GEOPOLÍTICA</div>
+      <h1>RADAR GEOPOLÍTICO<span>MONITOR GLOBAL — IMPACTO MÉXICO</span></h1>
+    </div>
+    <div class="timestamp">
+      <div id="clock">--:--:-- UTC</div>
+      <div style="margin-top:4px"><span class="blink">●</span> ACTUALIZACIÓN CONTINUA</div>
+      <div style="margin-top:4px" id="last-update">ÚLTIMA MINERÍA: --</div>
+    </div>
+  </header>
+
+  <div id="alert-container"></div>
+
+  <div class="stats-row fade-in" style="margin-bottom:16px;">
+    <div class="stat-box s-danger">
+      <span class="stat-value" id="stat-conflicts">0</span>
+      <div class="stat-label">CONFLICTOS ACTIVOS</div>
+      <div class="stat-delta delta-up" id="delta-conflicts">▲ calculando</div>
+    </div>
+    <div class="stat-box s-warn">
+      <span class="stat-value" id="stat-energy">0</span>
+      <div class="stat-label">ALERTAS ENERGÍA</div>
+      <div class="stat-delta delta-up" id="delta-energy">▲ calculando</div>
+    </div>
+    <div class="stat-box s-gold">
+      <span class="stat-value" id="stat-trade">0</span>
+      <div class="stat-label">TENSIONES COMERCIALES</div>
+      <div class="stat-delta" id="delta-trade">— calculando</div>
+    </div>
+    <div class="stat-box s-blue">
+      <span class="stat-value" id="stat-total">0</span>
+      <div class="stat-label">SEÑALES TOTALES</div>
+      <div class="stat-delta delta-down" id="delta-total">↺ calculando</div>
+    </div>
+    <div class="stat-box s-green">
+      <span class="stat-value" id="stat-mexico">0</span>
+      <div class="stat-label">IMPACTO MÉXICO</div>
+      <div class="stat-delta" id="delta-mexico">— calculando</div>
+    </div>
+  </div>
+
+  <div class="dashboard">
+
+    <!-- MAPA DE AMENAZAS -->
+    <div class="panel panel-map fade-in">
+      <div class="panel-title">
+        ◈ MAPA DE TENSIONES POR REGIÓN
+        <span class="count" id="region-count">0 REGIONES</span>
+      </div>
+      <div class="region-grid" id="region-grid">
+        <div class="loading">CARGANDO DATOS</div>
+      </div>
+    </div>
+
+    <!-- TENDENCIAS -->
+    <div class="panel panel-trends fade-in">
+      <div class="panel-title">
+        ◈ TENDENCIAS ACTIVAS
+        <span class="count" id="trend-count">0</span>
+      </div>
+      <div id="trends-container">
+        <div class="loading">PROCESANDO</div>
+      </div>
+    </div>
+
+    <!-- FEED DE NOTICIAS -->
+    <div class="panel panel-feed fade-in">
+      <div class="panel-title">
+        ◈ SEÑALES RECIENTES
+        <span class="count" id="feed-count">0 ENTRADAS</span>
+      </div>
+      <div id="feed-container">
+        <div class="loading">CARGANDO FEED</div>
+      </div>
+    </div>
+
+    <!-- CORRELACIONES -->
+    <div class="panel panel-matrix fade-in">
+      <div class="panel-title">◈ MATRIZ DE CORRELACIONES</div>
+      <div id="matrix-container">
+        <div class="loading">CALCULANDO</div>
+      </div>
+    </div>
+
+    <!-- IMPACTO MÉXICO -->
+    <div class="panel panel-mexico fade-in">
+      <div class="panel-title">◈ IMPACTO EN MÉXICO</div>
+      <div id="mexico-container">
+        <div class="loading">ANALIZANDO</div>
+      </div>
+    </div>
+
+    <!-- FUENTES ACTIVAS -->
+    <div class="panel fade-in">
+      <div class="panel-title">◈ FUENTES ACTIVAS</div>
+      <div id="sources-container">
+        <div class="loading">VERIFICANDO</div>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    <div>
+      <a href="index.html">← INICIO</a> &nbsp;|&nbsp;
+      <a href="contenido_estructurado/">DATOS CRUDOS</a> &nbsp;|&nbsp;
+      <a href="mi_feed/feed.xml">RSS FEED</a>
+    </div>
+    <div>NICHO ANALYZER — ZACATECAS, MÉXICO &nbsp;|&nbsp; CC BY 4.0</div>
+  </footer>
+
+</div>
+
+<script>
+// ─────────────────────────────────────────
+// CONFIGURACIÓN
+// ─────────────────────────────────────────
+const BASE = 'contenido_estructurado/';
+const TODAY = new Date().toISOString().split('T')[0];
+
+// Palabras clave por categoría
+const KEYWORDS = {
+  conflict: ['war','guerra','militar','attack','ataque','Iran','Israel','Rusia','Russia','Ukraine','Ucrania','NATO','OTAN','missile','misil','strike','bombardeo','troops','tropas','conflict','conflicto','weapons','armas','nuclear'],
+  energy: ['oil','petróleo','petroleum','gas','energy','energía','barrel','barril','Ormuz','Hormuz','pipeline','refinery','refinería','OPEC','crude','crudo','fuel','combustible','AIE','IEA'],
+  trade: ['tariff','arancel','sanction','sanción','trade','comercio','T-MEC','USMCA','export','import','exportación','importación','supply chain','cadena de suministro','WTO','OMC','Section 301','Sección 301'],
+  finance: ['Fed','Federal Reserve','Reserva Federal','interest rate','tasa de interés','inflation','inflación','dollar','dólar','bond','bono','yield','treasury','Treasuries','Powell','Banxico','deuda'],
+  diplomacy: ['alliance','alianza','summit','cumbre','agreement','acuerdo','treaty','tratado','sanctions','sanciones','diplomatic','diplomático','negotiation','negociación','UN','ONU','Security Council']
+};
+
+// Regiones geográficas
+const REGIONS = {
+  'Medio Oriente': ['Iran','Israel','Gaza','Beirut','Iraq','Syria','Lebanon','Jordan','Saudi','Qatar','UAE','Ormuz','Hormuz','Gulf','Golfo','Houthis','Hezbollah','Palestin','Yemen'],
+  'Europa / OTAN': ['Russia','Rusia','Ukraine','Ucrania','NATO','OTAN','Europe','Europa','UK','France','Francia','Germany','Alemania','Poland','Polonia','Starmer','Macron','Zelensky'],
+  'Asia Pacífico': ['China','Japan','Japón','Korea','Taiwan','India','Philippines','Filipinas','SCMP','Pacific','Pacífico','South China','Xi','Modi'],
+  'América del Norte': ['Trump','Biden','Congress','Congreso','Fed','Washington','México','Mexico','Canada','T-MEC','USMCA','Jones Act','tariff','arancel'],
+  'América Latina': ['Brazil','Brasil','Venezuela','Chile','Colombia','Argentina','Boric','Milei','Sheinbaum','Zacatecas','SLP','Aguascalientes'],
+  'África': ['Africa','África','Kenya','Nigeria','South Africa','Somalia','Somaliland','Sudan'],
+  'Global / Multilateral': ['UN','ONU','IEA','AIE','IMF','FMI','World Bank','WTO','OMC','G7','G20','NATO','OPEC']
+};
+
+// ─────────────────────────────────────────
+// RELOJ
+// ─────────────────────────────────────────
+function updateClock() {
+  const now = new Date();
+  document.getElementById('clock').textContent =
+    now.toUTCString().split(' ')[4] + ' UTC';
+}
+setInterval(updateClock, 1000);
+updateClock();
+
+// ─────────────────────────────────────────
+// CLASIFICADORES
+// ─────────────────────────────────────────
+function classifyEntry(entry) {
+  const text = (entry.titulo + ' ' + entry.resumen).toLowerCase();
+  const cats = {};
+  for (const [cat, words] of Object.entries(KEYWORDS)) {
+    cats[cat] = words.filter(w => text.includes(w.toLowerCase())).length;
+  }
+  const primary = Object.entries(cats).sort((a,b) => b[1]-a[1])[0];
+  return { categories: cats, primary: primary[0], score: primary[1] };
+}
+
+function detectRegion(entry) {
+  const text = entry.titulo + ' ' + (entry.resumen || '');
+  const scores = {};
+  for (const [region, keywords] of Object.entries(REGIONS)) {
+    scores[region] = keywords.filter(k => text.includes(k)).length;
+  }
+  const sorted = Object.entries(scores).sort((a,b) => b[1]-a[1]);
+  return sorted[0][1] > 0 ? sorted[0][0] : 'Global / Multilateral';
+}
+
+function detectMexicoImpact(entry) {
+  const text = (entry.titulo + ' ' + entry.resumen).toLowerCase();
+  const triggers = ['mexico','méxico','t-mec','peso','banxico','sheinbaum','pemex','cfe','nafin','zacatecas','san luis','aguascalientes'];
+  const indirect = ['oil price','precio petróleo','tariff','arancel','inflation','inflación','fed rate','trade war','guerra comercial','supply chain'];
+  const direct = triggers.filter(t => text.includes(t)).length;
+  const indirectHits = indirect.filter(t => text.includes(t)).length;
+  return { direct, indirect: indirectHits, total: direct * 2 + indirectHits };
+}
+
+// ─────────────────────────────────────────
+// CARGA DE DATOS
+// ─────────────────────────────────────────
+async function loadData() {
+  const filename = `${BASE}geopolitica_${TODAY}.jsonl`;
+  let entries = [];
+
+  try {
+    const res = await fetch(filename);
+    if (!res.ok) throw new Error('no data');
+    const text = await res.text();
+    entries = text.trim().split('\n')
+      .filter(l => l.trim())
+      .map(l => JSON.parse(l));
+    document.getElementById('last-update').textContent = `ÚLTIMA MINERÍA: ${TODAY}`;
+  } catch(e) {
+    // Intentar con datos de muestra si no hay archivo del día
+    document.getElementById('last-update').textContent = 'MODO DEMO — SIN DATOS DEL DÍA';
+    entries = getDemoData();
+  }
+
+  return entries;
+}
+
+function getDemoData() {
+  return [
+    { titulo: "Estrecho de Ormuz permanece cerrado por orden de nuevo líder iraní", resumen: "Irán mantiene bloqueado el paso de buques petroleros. Trump amenaza con escalar operaciones militares en la región del Golfo.", fuente: "al_jazeera", relevancia_score: 0.85 },
+    { titulo: "Brent supera los $100 por primera vez desde 2022", resumen: "El cierre del Estrecho de Ormuz dispara los precios del crudo mundial. México podría beneficiarse por ingresos petroleros adicionales.", fuente: "bloomberg_markets", relevancia_score: 0.78 },
+    { titulo: "T-MEC bajo presión: EU lanza investigación Sección 301 contra México", resumen: "La USTR analiza si las políticas industriales de México son discriminatorias contra el comercio estadounidense.", fuente: "reuters_business", relevancia_score: 0.82 },
+    { titulo: "Fed mantiene tasas: Powell señala que inflación persiste", resumen: "La Reserva Federal advierte que la guerra en Irán complica el escenario inflacionario. Tasas podrían permanecer altas más tiempo.", fuente: "fed_speeches", relevancia_score: 0.75 },
+    { titulo: "China se posiciona como mediador en conflicto Irán-EU", resumen: "Beijing envía señales diplomáticas a Teherán mientras vigila el impacto en sus importaciones de crudo del Golfo.", fuente: "scmp", relevancia_score: 0.71 },
+    { titulo: "6,000 marineros filipinos varados por cierre de Ormuz", resumen: "El bloqueo del estrecho deja tripulaciones sin poder moverse. Las cadenas de suministro globales sienten el impacto.", fuente: "al_jazeera", relevancia_score: 0.69 },
+    { titulo: "Inflación en México sube a 4.02% en febrero, fuera del rango Banxico", resumen: "El alza de alimentos y servicios mantiene presiones. Banxico enfrenta dilema entre bajar tasas y controlar precios.", fuente: "expansion_economia", relevancia_score: 0.72 },
+    { titulo: "Plan México busca ampliar crédito pyme pero historial crediticio frena", resumen: "El plan federal busca financiar pequeñas empresas vía Nafin pero la falta de historial crediticio es la barrera principal.", fuente: "expansion_economia", relevancia_score: 0.70 },
+    { titulo: "Minerales críticos y tierras raras: Chile hace primer guiño a EU", resumen: "El nuevo gobierno chileno abre diálogo sobre minerales estratégicos con Washington, tensionando relación con China.", fuente: "rt_espanol", relevancia_score: 0.68 },
+    { titulo: "Rusia advierte a Suecia sobre amenazas nucleares", resumen: "Moscú responde con firmeza a declaraciones de parlamentaria sueca sobre armamento nuclear en el conflicto europeo.", fuente: "rt_espanol", relevancia_score: 0.65 },
+    { titulo: "AIE libera 400 millones de barriles para compensar crisis Ormuz", resumen: "La Agencia Internacional de Energía activa su mayor liberación de reservas históricas para estabilizar mercados.", fuente: "bloomberg_markets", relevancia_score: 0.77 },
+    { titulo: "EU investiga sobrecapacidad manufacturera de México y otros países", resumen: "Washington abre proceso bajo Sección 301 que podría derivar en nuevos aranceles a productos manufacturados mexicanos.", fuente: "reuters_business", relevancia_score: 0.80 }
+  ];
+}
+
+// ─────────────────────────────────────────
+// RENDER: REGIÓN
+// ─────────────────────────────────────────
+function renderRegions(entries) {
+  const regionData = {};
+
+  entries.forEach(e => {
+    const region = detectRegion(e);
+    if (!regionData[region]) regionData[region] = { count: 0, maxScore: 0, categories: {} };
+    regionData[region].count++;
+    regionData[region].maxScore = Math.max(regionData[region].maxScore, e.relevancia_score || 0.5);
+    const cls = classifyEntry(e);
+    regionData[region].categories[cls.primary] = (regionData[region].categories[cls.primary] || 0) + 1;
+  });
+
+  const grid = document.getElementById('region-grid');
+  grid.innerHTML = '';
+  document.getElementById('region-count').textContent = Object.keys(regionData).length + ' REGIONES';
+
+  const sortedRegions = Object.entries(regionData).sort((a,b) => b[1].count - a[1].count);
+
+  sortedRegions.forEach(([name, data]) => {
+    const score = data.maxScore;
+    let level, fillClass, levelClass;
+
+    if (score >= 0.8) { level = 'CRÍTICO'; fillClass = 'fill-critical'; levelClass = 'level-critical'; }
+    else if (score >= 0.7) { level = 'ALTO'; fillClass = 'fill-high'; levelClass = 'level-high'; }
+    else if (score >= 0.6) { level = 'MEDIO'; fillClass = 'fill-medium'; levelClass = 'level-medium'; }
+    else if (score >= 0.5) { level = 'BAJO'; fillClass = 'fill-low'; levelClass = 'level-low'; }
+    else { level = 'MONITOR'; fillClass = 'fill-monitor'; levelClass = 'level-monitor'; }
+
+    const topCat = Object.entries(data.categories).sort((a,b) => b[1]-a[1])[0];
+
+    grid.innerHTML += `
+      <div class="region">
+        <div class="region-name">${name}</div>
+        <div class="threat-bar"><div class="threat-fill ${fillClass}"></div></div>
+        <div class="threat-level ${levelClass}">▸ ${level}</div>
+        <div class="region-count">${data.count} señales · ${topCat ? topCat[0] : 'general'}</div>
+      </div>`;
+  });
+}
+
+// ─────────────────────────────────────────
+// RENDER: TENDENCIAS
+// ─────────────────────────────────────────
+function renderTrends(entries) {
+  const topics = {};
+
+  entries.forEach(e => {
+    const cls = classifyEntry(e);
+    const region = detectRegion(e);
+    const key = cls.primary + '_' + region;
+    if (!topics[key]) topics[key] = { cat: cls.primary, region, entries: [], score: 0 };
+    topics[key].entries.push(e);
+    topics[key].score += (e.relevancia_score || 0.5);
+  });
+
+  const sorted = Object.values(topics).sort((a,b) => b.score - a.score).slice(0, 8);
+
+  const tagMap = {
+    conflict: 'tag-conflict',
+    energy: 'tag-energy',
+    trade: 'tag-trade',
+    finance: 'tag-finance',
+    diplomacy: 'tag-diplomacy'
+  };
+
+  const labelMap = {
+    conflict: 'CONFLICTO',
+    energy: 'ENERGÍA',
+    trade: 'COMERCIO',
+    finance: 'FINANZAS',
+    diplomacy: 'DIPLOMACIA'
+  };
+
+  const container = document.getElementById('trends-container');
+  container.innerHTML = '';
+  document.getElementById('trend-count').textContent = sorted.length;
+
+  sorted.forEach(t => {
+    const topEntry = t.entries.sort((a,b) => (b.relevancia_score||0) - (a.relevancia_score||0))[0];
+    container.innerHTML += `
+      <div class="trend-item">
+        <span class="trend-score">${t.score.toFixed(1)}</span>
+        <div class="trend-tag ${tagMap[t.cat] || 'tag-trade'}">${labelMap[t.cat] || t.cat.toUpperCase()}</div>
+        <div class="trend-title">${topEntry.titulo.substring(0, 80)}${topEntry.titulo.length > 80 ? '...' : ''}</div>
+        <div class="trend-meta">${t.region} · ${t.entries.length} señales</div>
+      </div>`;
+  });
+}
+
+// ─────────────────────────────────────────
+// RENDER: FEED
+// ─────────────────────────────────────────
+function renderFeed(entries) {
+  const sorted = [...entries].sort((a,b) => (b.relevancia_score||0) - (a.relevancia_score||0)).slice(0, 10);
+  const container = document.getElementById('feed-container');
+  container.innerHTML = '';
+  document.getElementById('feed-count').textContent = entries.length + ' ENTRADAS';
+
+  sorted.forEach(e => {
+    const region = detectRegion(e);
+    const cls = classifyEntry(e);
+    const tagClass = { conflict:'tag-conflict', energy:'tag-energy', trade:'tag-trade', finance:'tag-finance', diplomacy:'tag-diplomacy' }[cls.primary] || 'tag-trade';
+
+    container.innerHTML += `
+      <div class="feed-item">
+        <div class="feed-region">${region.split('/')[0].trim()}</div>
+        <div>
+          <span class="trend-tag ${tagClass}" style="font-size:0.55em; padding:1px 4px;">${cls.primary.toUpperCase()}</span>
+          <div class="feed-title">${e.titulo}</div>
+          <div class="feed-summary">${(e.resumen || '').substring(0, 120)}${(e.resumen||'').length > 120 ? '...' : ''}</div>
+        </div>
+        <div class="feed-source">${(e.fuente||'').replace('_',' ')}<br><span style="color:var(--accent2)">${((e.relevancia_score||0)*100).toFixed(0)}%</span></div>
+      </div>`;
+  });
+}
+
+// ─────────────────────────────────────────
+// RENDER: ESTADÍSTICAS
+// ─────────────────────────────────────────
+function renderStats(entries) {
+  let conflicts = 0, energy = 0, trade = 0, mexicoImpact = 0;
+
+  entries.forEach(e => {
+    const cls = classifyEntry(e);
+    const mx = detectMexicoImpact(e);
+    if (cls.primary === 'conflict') conflicts++;
+    if (cls.primary === 'energy') energy++;
+    if (cls.primary === 'trade') trade++;
+    if (mx.total > 0) mexicoImpact++;
+  });
+
+  document.getElementById('stat-conflicts').textContent = conflicts;
+  document.getElementById('stat-energy').textContent = energy;
+  document.getElementById('stat-trade').textContent = trade;
+  document.getElementById('stat-total').textContent = entries.length;
+  document.getElementById('stat-mexico').textContent = mexicoImpact;
+  document.getElementById('delta-conflicts').textContent = conflicts > 3 ? '▲ ELEVADO' : '— NORMAL';
+  document.getElementById('delta-energy').textContent = energy > 2 ? '▲ CRÍTICO' : '— ESTABLE';
+  document.getElementById('delta-trade').textContent = trade > 2 ? '▲ ACTIVO' : '— NORMAL';
+  document.getElementById('delta-total').textContent = `↺ ${TODAY}`;
+  document.getElementById('delta-mexico').textContent = mexicoImpact > 3 ? '⚠ ALTO' : '— MODERADO';
+}
+
+// ─────────────────────────────────────────
+// RENDER: ALERTAS
+// ─────────────────────────────────────────
+function renderAlerts(entries) {
+  const critical = entries.filter(e => (e.relevancia_score || 0) >= 0.75);
+  const container = document.getElementById('alert-container');
+
+  if (critical.length > 0) {
+    const top = critical[0];
+    container.innerHTML = `
+      <div class="alert-bar">
+        ⚠ ALERTA ACTIVA [${critical.length}] &nbsp;|&nbsp;
+        ${top.titulo.substring(0, 100)}${top.titulo.length > 100 ? '...' : ''}
+        &nbsp;|&nbsp; RELEVANCIA: ${((top.relevancia_score||0)*100).toFixed(0)}%
+      </div>`;
+  }
+}
+
+// ─────────────────────────────────────────
+// RENDER: CORRELACIONES
+// ─────────────────────────────────────────
+function renderMatrix(entries) {
+  const cats = ['conflict', 'energy', 'trade', 'finance', 'diplomacy'];
+  const labels = ['CONFLICTO', 'ENERGÍA', 'COMERCIO', 'FINANZAS', 'DIPLO'];
+
+  // Calcular co-ocurrencias
+  const matrix = {};
+  cats.forEach(c1 => {
+    matrix[c1] = {};
+    cats.forEach(c2 => matrix[c1][c2] = 0);
+  });
+
+  entries.forEach(e => {
+    const text = (e.titulo + ' ' + e.resumen).toLowerCase();
+    const present = cats.filter(cat =>
+      KEYWORDS[cat].some(w => text.includes(w.toLowerCase()))
+    );
+    present.forEach(c1 => present.forEach(c2 => matrix[c1][c2]++));
+  });
+
+  const container = document.getElementById('matrix-container');
+  let html = '<div class="matrix-grid">';
+
+  // Header
+  html += '<div class="matrix-row"><div class="matrix-label"></div>';
+  labels.forEach(l => html += `<div class="matrix-label" style="text-align:center;font-size:0.5em">${l}</div>`);
+  html += '</div>';
+
+  cats.forEach((c1, i) => {
+    html += `<div class="matrix-row"><div class="matrix-label">${labels[i]}</div>`;
+    cats.forEach(c2 => {
+      const val = matrix[c1][c2];
+      const max = entries.length;
+      const intensity = max > 0 ? val / max : 0;
+      const bg = c1 === c2 ? 'rgba(0,212,255,0.3)' :
+        intensity > 0.3 ? 'rgba(255,34,68,0.4)' :
+        intensity > 0.15 ? 'rgba(255,107,0,0.3)' :
+        intensity > 0.05 ? 'rgba(255,215,0,0.2)' :
+        'rgba(255,255,255,0.03)';
+      html += `<div class="matrix-cell" style="background:${bg}">${val > 0 ? val : '·'}</div>`;
+    });
+    html += '</div>';
+  });
+
+  html += '</div>';
+  container.innerHTML = html;
+}
+
+// ─────────────────────────────────────────
+// RENDER: IMPACTO MÉXICO
+// ─────────────────────────────────────────
+function renderMexico(entries) {
+  const impacts = entries
+    .map(e => ({ ...e, mx: detectMexicoImpact(e) }))
+    .filter(e => e.mx.total > 0)
+    .sort((a,b) => b.mx.total - a.mx.total)
+    .slice(0, 6);
+
+  const container = document.getElementById('mexico-container');
+  container.innerHTML = '';
+
+  if (impacts.length === 0) {
+    container.innerHTML = '<div class="loading">SIN IMPACTO DIRECTO DETECTADO</div>';
+    return;
+  }
+
+  const sectors = {
+    energy: '⛽', trade: '📦', finance: '💰', conflict: '⚠', diplomacy: '🤝'
+  };
+
+  impacts.forEach(e => {
+    const cls = classifyEntry(e);
+    const icon = sectors[cls.primary] || '◈';
+    const impactType = e.mx.direct > 0 ? 'IMPACTO DIRECTO' : 'IMPACTO INDIRECTO';
+    container.innerHTML += `
+      <div class="impact-item">
+        <div class="impact-icon">${icon}</div>
+        <div class="impact-text">
+          <span class="impact-sector">${impactType} · ${cls.primary.toUpperCase()}</span>
+          ${e.titulo.substring(0, 90)}${e.titulo.length > 90 ? '...' : ''}
+        </div>
+      </div>`;
+  });
+}
+
+// ─────────────────────────────────────────
+// RENDER: FUENTES
+// ─────────────────────────────────────────
+function renderSources(entries) {
+  const sources = {};
+  entries.forEach(e => {
+    const src = e.fuente || 'unknown';
+    sources[src] = (sources[src] || 0) + 1;
+  });
+
+  const container = document.getElementById('sources-container');
+  container.innerHTML = '';
+
+  Object.entries(sources).sort((a,b) => b[1]-a[1]).forEach(([src, count]) => {
+    const pct = Math.round(count / entries.length * 100);
+    container.innerHTML += `
+      <div style="padding: 6px 0; border-bottom: 1px solid var(--bg3);">
+        <div style="display:flex; justify-content:space-between; margin-bottom:4px;">
+          <span style="font-family:var(--font-mono); font-size:0.7em; color:var(--accent)">${src.replace(/_/g,' ').toUpperCase()}</span>
+          <span style="font-family:var(--font-mono); font-size:0.65em; color:var(--text)">${count} · ${pct}%</span>
+        </div>
+        <div style="height:3px; background:var(--bg3);">
+          <div style="height:100%; width:${pct}%; background:var(--accent); opacity:0.6;"></div>
+        </div>
+      </div>`;
+  });
+}
+
+// ─────────────────────────────────────────
+// INIT
+// ─────────────────────────────────────────
+async function init() {
+  const entries = await loadData();
+
+  renderAlerts(entries);
+  renderStats(entries);
+  renderRegions(entries);
+  renderTrends(entries);
+  renderFeed(entries);
+  renderMatrix(entries);
+  renderMexico(entries);
+  renderSources(entries);
+}
+
+init();
+</script>
+</body>
+</html>
