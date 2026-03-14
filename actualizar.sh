@@ -30,6 +30,8 @@ python3 minador_macro_mx.py
 python3 minador_macro_mx.py
 python3 generar_dashboard.py
 python3 generar_scoreboard.py
+python3 minar_perfiles.py
+python3 generar_perfiles_html.py
 # ─────────────────────────────────────────
 # PASO 2 — TU RESUMEN
 # ─────────────────────────────────────────
