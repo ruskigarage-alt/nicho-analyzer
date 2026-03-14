@@ -489,6 +489,24 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
+        "resumen": "La cuota por el impuesto IEPS que se cobra al combustible utilizado para el transporte de mercancías y personas, tendrá un descuento que absorberá Hacienda como un pérdida recaudatoria.",
+        "link": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:58:20 GMT"
+      },
+      {
+        "titulo": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
+        "resumen": "Felipe García, director general del banco, dice que detectan problemas de morosidad en el segmento en medio de la creciente competencia de nuevos jugadores.",
+        "link": "https://expansion.mx/economia/2026/03/13/santander-hemos-frenado-un-poco-el-negocio-de-tarjetas",
+        "fecha_publicacion": "Fri, 13 Mar 2026 22:00:08 GMT"
+      },
+      {
+        "titulo": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
+        "resumen": "Pablo Elek, director general de Scotiabank México, afirma que el país ha demostrado resiliencia económica y cuenta con una plataforma manufacturera integrada al corredor norte.",
+        "link": "https://expansion.mx/economia/2026/03/13/scotiabank-mexico-es-prioridad-para-el-banco-representa-30-del-negocio",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:01:35 GMT"
+      },
+      {
         "titulo": "HSBC: El cuello de botella del crecimiento en México era la falta de proyectos",
         "resumen": "Jorge Arce, director general de HSBC México, dice que los planes de infraestructura del gobierno pueden detonar nuevas inversiones, especialmente en energía.",
         "link": "https://expansion.mx/economia/2026/03/13/hsbc-falta-de-proyectos-principal-cuello-botella",
@@ -589,24 +607,6 @@
         "resumen": "Por mayores precios del petróleo, los ingresos de México pueden acelerarse, pero el alza en los precios de gasolinas borrará los ingresos extras.",
         "link": "https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas",
         "fecha_publicacion": "Tue, 10 Mar 2026 00:36:31 GMT"
-      },
-      {
-        "titulo": "Bankaool: Nuestros sistemas antilavado nacieron fuertes",
-        "resumen": "Juan Antonio Pérez Simón, director general del banco, dijo que tienen un área de PLD fuerte que les blinda de señalamientos contra el lavado de dinero y espera mantener crecimiento de las utilidades.",
-        "link": "https://expansion.mx/economia/2026/03/09/bankaool-nuestros-sistemas-antilavado-nacieron-fuertes",
-        "fecha_publicacion": "Mon, 09 Mar 2026 22:09:12 GMT"
-      },
-      {
-        "titulo": "México perfila revisión del T-MEC con foco en reglas de origen, cadenas y seguridad",
-        "resumen": "El proceso de consultas reunió a empresas, cámaras industriales, organizaciones agropecuarias, sindicatos y especialistas académicos para construir una postura antes de iniciar conversaciones formales.",
-        "link": "https://expansion.mx/economia/2026/03/09/ebrard-revela-plan-accion-revision-tmec",
-        "fecha_publicacion": "Mon, 09 Mar 2026 18:18:24 GMT"
-      },
-      {
-        "titulo": "Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico",
-        "resumen": "El alza de alimentos y servicios mantuvo presiones en los precios durante febrero, mientras el componente subyacente —clave para Banxico— se ubicó en 4.50% anual.",
-        "link": "https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico",
-        "fecha_publicacion": "Mon, 09 Mar 2026 13:30:28 GMT"
       }
     ],
     "total_entradas": 20
@@ -777,6 +777,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Trump Orders Strikes on Kharg Island, a Vital Hub for Iran’s Oil",
+        "resumen": "However, Trump said that “for reasons of decency,” he chose “NOT to wipe out the Oil Infrastructure on the Island.”",
+        "link": "https://foreignpolicy.com/2026/03/13/kharg-island-bombing-iran-oil-strike-trump-truth-social/",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:48:51 +0000"
+      },
+      {
         "titulo": "Six U.S. Troops Killed in Aircraft Crash in Iraq",
         "resumen": "Trump maintains that the United States is winning its war against Iran.",
         "link": "https://foreignpolicy.com/2026/03/13/us-troops-killed-refueling-aircraft-crash-iraq-iran-war-oil-strait-hormuz/",
@@ -889,12 +895,6 @@
         "resumen": "Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.",
         "link": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/",
         "fecha_publicacion": "Thu, 12 Mar 2026 17:53:32 +0000"
-      },
-      {
-        "titulo": "A Film of Unimaginable Horror and Unrelenting Humanity",
-        "resumen": "“The Voice of Hind Rajab” is an indictment of the international system that has failed Gaza.",
-        "link": "https://foreignpolicy.com/2026/03/12/hind-rajab-gaza-war-children-israel-tunisia-oscars/",
-        "fecha_publicacion": "Thu, 12 Mar 2026 17:36:29 +0000"
       }
     ],
     "total_entradas": 20
@@ -1037,6 +1037,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Trump tells South Korea he is only leader who can break North Korean deadlock",
+        "resumen": "South Korean Prime Minister Kim Min-seok and US President Donald Trump discussed the possible reopening of talks between Trump and North Korean leader Kim Jong-un in a meeting in Washington, Yonhap news agency reported on Saturday.\nKim told Trump he was the only Western leader to have had dialogue with North Korea’s Kim and was currently the only person who could resolve issues on the Korean peninsula, Yonhap quoted Kim as telling reporters in Washington.\n“President Trump said he was curious if...",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/3346571/trump-tells-south-korea-he-only-leader-who-can-break-north-korean-deadlock?utm_source=rss_feed",
+        "fecha_publicacion": "Sat, 14 Mar 2026 01:15:08 +0000"
+      },
+      {
         "titulo": "Beyond Pax Silica: Japan, France and Canada seek rare earth autonomy",
         "resumen": "For years, the West’s answer to Chinese dominance of critical minerals was to rally around Washington. Now, some of its most important allies are reaching a different conclusion: that depending too heavily on the United States carries its own risks.\nJapan, France and Canada have all been exploring how to build supply chains for rare earths and other critical minerals that answer to neither Beijing nor Washington.\nSenior officials from the three Group of Seven economies are working on...",
         "link": "https://www.scmp.com/week-asia/economics/article/3346530/beyond-pax-silica-japan-france-and-canada-seek-rare-earth-autonomy?utm_source=rss_feed",
@@ -1149,12 +1155,6 @@
         "resumen": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Why have China’s arms imports plummeted 72% over the past 5 years?\nBeijing’s arms imports have nose-dived by nearly three-quarters over the past five years, as it has replaced overseas weapons purchases with domestic technology,...",
         "link": "https://www.scmp.com/news/world/article/3346291/chinas-arms-imports-plummet-hong-kong-couples-hk50000-dubai-exit-scmps-7-highlights?utm_source=rss_feed",
         "fecha_publicacion": "Fri, 13 Mar 2026 04:12:07 +0000"
-      },
-      {
-        "titulo": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
-        "resumen": "The United States has imposed sanctions on two companies and six individuals for their roles in operations that used information technology workers in foreign countries to raise money for North Korea.\nThe Treasury Department said the schemes, orchestrated by the North Korean government, had systematically defrauded US businesses and generated revenue to fund North Korea’s weapons programmes, including nearly US$800 million in 2024.\nThe department also accused workers associated with North Korea...",
-        "link": "https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed",
-        "fecha_publicacion": "Fri, 13 Mar 2026 01:35:07 +0000"
       }
     ],
     "total_entradas": 20
@@ -1166,6 +1166,42 @@
     "fecha_minado": "2026-03-13",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "¿Quién gana y quién pierde con el alza del petróleo en Latinoamérica?",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b449c0e9ff711e27471966.jpg\" style=\"float: left;\" />\n        \tExpertos advierten que en el peor escenario, los precios del crudo podrían promediar 105 dólares por barril en 2026.",
+        "link": "https://actualidad.rt.com/actualidad/592739-ganar-perder-alza-petroleo-latinoamerica?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 01:10:20 +0000"
+      },
+      {
+        "titulo": "Líder de Hezbolá afirma que el grupo está listo para una guerra prolongada",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b48e5fe9ff7140c11fed07.jpg\" style=\"float: left;\" />\n        \t\"En el campo de batalla se sorprenderán\", advirtió Naim Qassem a EE.UU. e Israel.",
+        "link": "https://actualidad.rt.com/actualidad/592778-lider-hezbola-grupo-guerra-prolongada?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:56:50 +0000"
+      },
+      {
+        "titulo": "Delcy Rodríguez anuncia el inicio de exportaciones de gas venezolano hacia Colombia",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592806-delcy-anunciar-inicio-exportaciones-gas-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:53:29 +0000"
+      },
+      {
+        "titulo": "\"Haremos lo mismo que en Gaza\": Israel planea una invasión terrestre masiva del Líbano, según Axios",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4b42ee9ff71489544cc82.jpg\" style=\"float: left;\" />\n        \tEsta semana, Hezbolá anunció formalmente el inicio de la operación Tormenta Decisiva contra el Estado de Israel.",
+        "link": "https://actualidad.rt.com/actualidad/592822-axios-israel-planea-invasion-terrestre-libano?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:48:59 +0000"
+      },
+      {
+        "titulo": "EE.UU. asegura que el portaviones USS Abraham Lincoln opera con normalidad",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4b55559bf5b014d6be6da.jpg\" style=\"float: left;\" />\n        \tEl CENTCOM señaló que Irán ya ha afirmado en múltiples ocasiones que \"habían destruido\" el portaviones.",
+        "link": "https://actualidad.rt.com/actualidad/592821-eeuu-asegura-portaviones-uss-abraham?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:46:34 +0000"
+      },
+      {
+        "titulo": "Trump explica qué significa para él la rendición incondicional",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4a30b59bf5b68ed5e210d.jpg\" style=\"float: left;\" />\n        \tEl mandatario asegura que EE.UU. tiene un poderío militar mucho más fuerte, que en su opinión ha acabado ya con las fuerzas iraníes.",
+        "link": "https://actualidad.rt.com/actualidad/592801-trump-explica-significa-rendicion-incondicional?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:44:08 +0000"
+      },
       {
         "titulo": "Trump afirma que Irán \"tenía planes para apoderarse de todo Oriente Medio\"",
         "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
@@ -1189,42 +1225,6 @@
         "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b482f059bf5b20cc522c9a.jpg\" style=\"float: left;\" />\n        \tTeherán luchará contra los \"malvados mandos\" de los países agresores, aseguró la fuerza de élite.",
         "link": "https://actualidad.rt.com/actualidad/592775-puertas-infierno-cerraran-cgri-promete-luchar-muerte-soldado?utm_source=rss&utm_medium=rss&utm_campaign=all",
         "fecha_publicacion": "Sat, 14 Mar 2026 00:10:56 +0000"
-      },
-      {
-        "titulo": "Misiles iraníes dañan cinco aviones cisterna de EE.UU. en base saudí",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592807-misiles-iranies-danan-cinco-aviones?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Sat, 14 Mar 2026 00:06:00 +0000"
-      },
-      {
-        "titulo": "El pretexto de un policía que mató a tiros a un joven: \"Pensé que me iban a robar\"",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4a03759bf5b014d6be6cd.jpg\" style=\"float: left;\" />\n        \tEl hecho se investiga como un posible caso de \"gatillo fácil\".",
-        "link": "https://actualidad.rt.com/actualidad/592785-pretexto-policia-matar-tiros-joven-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 23:52:32 +0000"
-      },
-      {
-        "titulo": "Los 'narcomonstruos' blindados llegan a la Ciudad de México",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592787-narcomonstruos-blindados-llegan-ciudad-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 23:47:21 +0000"
-      },
-      {
-        "titulo": "Jefe del Parlamento iraní da una pista sobre cuánto puede durar la guerra",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b49353e9ff71489544cc49.jpg\" style=\"float: left;\" />\n        \tMohammad Bagher Ghalibaf aseguró que Trump \"actúa ahora bajo control\" de Netanyahu.",
-        "link": "https://actualidad.rt.com/actualidad/592789-jefe-parlamento-irani-cuanto-durar-guerra?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 23:42:13 +0000"
-      },
-      {
-        "titulo": "Nuevo dato enciende el 'criptogate' que salpica a Milei",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592782-nuevo-dato-enciende-criptogate-salpica-milei?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 23:34:11 +0000"
-      },
-      {
-        "titulo": "Suspenden vuelos en aeropuertos de Washington D.C. tras un fuerte olor a productos químicos",
-        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "link": "https://actualidad.rt.com/actualidad/592793-suspenden-vuelos-aeropuertos-washington-olor-quimico?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 23:22:03 +0000"
       }
     ],
     "total_entradas": 10
@@ -1237,124 +1237,124 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "At least six killed in air attack on Iran’s central province of Markazi — agency",
-        "resumen": "According to the news agency, seven more people were wounded",
-        "link": "https://tass.com/world/2101493",
-        "fecha_publicacion": "Sat, 14 Mar 2026 01:24:49 +0300"
+        "titulo": "German exports to Russia down 5.3% in April month-on-month",
+        "resumen": "In annual terms, exports from Germany to Russia lost 9.3%",
+        "link": "https://tass.com/economy/1969687",
+        "fecha_publicacion": "Fri, 06 Jun 2025 13:04:25 +0300"
       },
       {
-        "titulo": "ISS orbit increased by 1.1 km — Roscosmos",
-        "resumen": "It amounted to 421.54 km above the Earth's surface",
-        "link": "https://tass.com/science/2101491",
-        "fecha_publicacion": "Sat, 14 Mar 2026 00:00:56 +0300"
+        "titulo": "Khrunichev Center begins production of three Angara-A5M rockets for launching ROS modules",
+        "resumen": "The next phase in the Angara-A5 modernization program involves adapting the rocket for launching manned spacecraft",
+        "link": "https://tass.com/science/1969671",
+        "fecha_publicacion": "Fri, 06 Jun 2025 13:03:51 +0300"
       },
       {
-        "titulo": "Israeli planes attack south of Beirut — source",
-        "resumen": "There is yet no information about the extent of the damage and the victims",
-        "link": "https://tass.com/world/2101483",
-        "fecha_publicacion": "Fri, 13 Mar 2026 23:45:01 +0300"
+        "titulo": "Gagauzia head faces court: recent developments",
+        "resumen": "\"No matter what the pro-government media outlets say, I am tried today because I am Gagauzia's head,\" Evghenia Gutsul stated",
+        "link": "https://tass.com/world/1969667",
+        "fecha_publicacion": "Fri, 06 Jun 2025 13:03:02 +0300"
       },
       {
-        "titulo": "Swedish prosecutor’s office decides to detain Sea Owl captain",
-        "resumen": "He is suspected of using forged documents",
-        "link": "https://tass.com/world/2101481",
-        "fecha_publicacion": "Fri, 13 Mar 2026 23:35:27 +0300"
+        "titulo": "Trump-Musk clash costs both hefty sums in one day — media",
+        "resumen": "According to the news outlet, Elon Musk remains the world’s richest businessman, but his fortune declined by $33.9 billion",
+        "link": "https://tass.com/economy/1969669",
+        "fecha_publicacion": "Fri, 06 Jun 2025 13:01:16 +0300"
       },
       {
-        "titulo": "Energy crisis in Europe cannot be overcome without Russia — Orban",
-        "resumen": "Hungarian Prime Minister state that Brussels does not want to know anything about the suspension of sanctions against Russian energy",
-        "link": "https://tass.com/world/2101479",
-        "fecha_publicacion": "Fri, 13 Mar 2026 23:23:36 +0300"
+        "titulo": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
+        "resumen": "Top stories from the Russian press on Friday, June 6th",
+        "link": "https://tass.com/pressreview/1969589",
+        "fecha_publicacion": "Fri, 06 Jun 2025 13:00:01 +0300"
       },
       {
-        "titulo": "Trump says to end operation against Iran when intuition tells him to",
-        "resumen": "The US leader also said that prices for oil and other commodities would begin to decline immediately after the end of the operation",
-        "link": "https://tass.com/world/2101475",
-        "fecha_publicacion": "Fri, 13 Mar 2026 23:11:01 +0300"
+        "titulo": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+        "resumen": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+        "link": "https://tass.com/world/1969663",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:45:53 +0300"
       },
       {
-        "titulo": "Afghanistan attacks military facility in Islamabad",
-        "resumen": "The attack precisely targeted the command center and other critical installations of the facility using drones, causing heavy casualties and substantial material losses to enemy forces, said the Afghan Defense Ministry",
-        "link": "https://tass.com/world/2101473",
-        "fecha_publicacion": "Fri, 13 Mar 2026 22:49:26 +0300"
+        "titulo": "WHO reports over 8,500 global attacks on health facilities since 2018 — director general",
+        "resumen": "\"Attacks on health care have become the 'new normal' of conflict,\" WHO Director General Tedros Adhanom Ghebreyesus said",
+        "link": "https://tass.com/society/1969643",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:34:36 +0300"
       },
       {
-        "titulo": "Iran uses solid-fuel ballistic missiles to attack Israel — IRGC",
-        "resumen": "Among the targets were \"places of the deployment of American soldiers in the region\"",
-        "link": "https://tass.com/world/2101467",
-        "fecha_publicacion": "Fri, 13 Mar 2026 21:53:58 +0300"
+        "titulo": "Shadow of 'potential brutal divorce' between Trump-Musk looms over Republicans — TV",
+        "resumen": "According to the report, Republican lawmakers worry that Musk may try to oust them from power in midterm elections next year",
+        "link": "https://tass.com/world/1969641",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:31:08 +0300"
       },
       {
-        "titulo": "Turkey takes steps to avoid being dragged into Iranian crisis — Erdogan",
-        "resumen": "The Turkish leader said that Ankara is taking the necessary security measures against any threats",
-        "link": "https://tass.com/world/2101465",
-        "fecha_publicacion": "Fri, 13 Mar 2026 21:43:34 +0300"
+        "titulo": "EU must conclude arms limitation agreement with Russia, says Orban",
+        "resumen": "The Hungarian prime minister noted that Hungary agrees with the need to strengthen Europe’s defense capabilities, but this should not lead to an unrestrained arms race",
+        "link": "https://tass.com/world/1969637",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:18:57 +0300"
       },
       {
-        "titulo": "Israel hits Basij headquarters in Tehran — IDF",
-        "resumen": "The IDF added that the Israeli Air Force struck air defense systems and infrastructure at the first air defense base in Tehran",
-        "link": "https://tass.com/world/2101463",
-        "fecha_publicacion": "Fri, 13 Mar 2026 21:36:33 +0300"
+        "titulo": "Bank of Russia sells yuan worth $83 mln with settlements on June 5",
+        "resumen": "The Central Bank sold yuan on the domestic market with settlements on June 4, 2025 in the amount of 6.5 bln rubles",
+        "link": "https://tass.com/economy/1969635",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:15:52 +0300"
       },
       {
-        "titulo": "US soldiers wounded in Kuwait, Jordan, other places — Pentagon",
-        "resumen": "Chairman of the Joint Chiefs of Staff Dan Caine did not say how many deaths the US army sustained",
-        "link": "https://tass.com/world/2101461",
-        "fecha_publicacion": "Fri, 13 Mar 2026 21:29:54 +0300"
+        "titulo": "Attacks ahead of meeting between IAEA, Rosatom chiefs 'pressure tool,' ZNPP believes",
+        "resumen": "On June 5, Ukrainian troops launched several drone attacks on the training center of the Zaporozhye nuclear power plant",
+        "link": "https://tass.com/world/1969633",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:01:09 +0300"
       },
       {
-        "titulo": "Iran launches new missiles towards Israel — state television",
-        "resumen": "There is no information yet on the number of projectiles used",
-        "link": "https://tass.com/world/2101453",
-        "fecha_publicacion": "Fri, 13 Mar 2026 21:08:38 +0300"
+        "titulo": "Dodon calls on Sandu, Recean not to succumb to Western attempts to drag Moldova into war",
+        "resumen": "The former Moldovan president criticized Dorin Recean's statement in Brussels that Russia allegedly wants to deploy 10,000 of its soldiers in Transnistria",
+        "link": "https://tass.com/world/1969631",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:53:27 +0300"
       },
       {
-        "titulo": "US seeks to make Cuba economically dependent — Bloomberg",
-        "resumen": "The agency notes that Donald Trump’s allies believe current Cuban President Miguel Diaz-Canel is incapable of implementing necessary economic reforms",
-        "link": "https://tass.com/economy/2101443",
-        "fecha_publicacion": "Fri, 13 Mar 2026 20:42:27 +0300"
+        "titulo": "Zelensky’s regime bears all hallmarks of terrorist organization — Russian senator",
+        "resumen": "The official designation of Kiev regime as a terrorist organization is merely a matter of time, Andrey Klischas stated",
+        "link": "https://tass.com/politics/1969627",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:42:09 +0300"
       },
       {
-        "titulo": "Iranian armed forces HQ reports on strikes against Israel, US bases in Bahrain, Iraq",
-        "resumen": "According to the report, the Muwaffaq Salti base in Jordan and other US bases in Manama and Erbil were subjected to the most powerful attacks by missiles and drones of the Islamic Revolutionary Guard Corps",
-        "link": "https://tass.com/world/2101437",
-        "fecha_publicacion": "Fri, 13 Mar 2026 20:25:58 +0300"
+        "titulo": "Russian stocks down as main trading session opens",
+        "resumen": "The yuan exchange rate was up by 3.1 kopecks at 10.999 rubles.",
+        "link": "https://tass.com/economy/1969629",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:40:44 +0300"
       },
       {
-        "titulo": "Ensuring Iran's security will bring oil prices down, ambassador to Moscow says",
-        "resumen": "Kazem Jalali also pointed out that it was the United States and Israel that had destabilized the situation",
-        "link": "https://tass.com/world/2101435",
-        "fecha_publicacion": "Fri, 13 Mar 2026 20:23:56 +0300"
+        "titulo": "Rosatom CEO, IAEA chief meet in Kaliningrad",
+        "resumen": "The meeting is taking place at Khrabrovo Airport",
+        "link": "https://tass.com/economy/1969625",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:39:50 +0300"
       },
       {
-        "titulo": "Iran to provide safe passage for Indian ships through Strait of Hormuz — ambassador",
-        "resumen": "Mohammad Fathali said that Iran and India share common interests in the region",
-        "link": "https://tass.com/economy/2101433",
-        "fecha_publicacion": "Fri, 13 Mar 2026 20:17:56 +0300"
+        "titulo": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone",
+        "resumen": "Maxim Pukhov stressed that the hotel was non-operational, so no one was injured",
+        "link": "https://tass.com/emergencies/1969621",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:22:03 +0300"
       },
       {
-        "titulo": "Annual inflation in Russia gearing up to 5.84% over week — Economy Ministry",
-        "resumen": "Inflation in the consumer market stood at 0.11% over the period from March 3 to 10, 2026",
-        "link": "https://tass.com/economy/2101427",
-        "fecha_publicacion": "Fri, 13 Mar 2026 20:06:22 +0300"
+        "titulo": "Ukrainian army retreating from Komar community in western Donetsk region",
+        "resumen": "The Ukrainian military tried to deploy reserves to that community but most of them were destroyed by Russia’s air strikes, the source added",
+        "link": "https://tass.com/politics/1969619",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:20:31 +0300"
       },
       {
-        "titulo": "Russian business ready to share experience with Namibia — VEB.RF",
-        "resumen": "Artem Dovlatov, Deputy Chairman of the Russian development corporation VEB.RF, noted the high potential for bilateral business development and the importance of financial mechanisms for their practical implementation",
-        "link": "https://tass.com/economy/2101423",
-        "fecha_publicacion": "Fri, 13 Mar 2026 20:01:53 +0300"
+        "titulo": "Putin enjoys strong support among Russian people, latest poll shows",
+        "resumen": "\"When asked directly if they trusted Putin, 80% of participants responded affirmatively,\" the service said",
+        "link": "https://tass.com/politics/1969617",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:16:22 +0300"
       },
       {
-        "titulo": "Over 20 Russian companies took part in Russia-Namibia business forum — Russian envoy",
-        "resumen": "Yury Trutnev said that both countries are bound by a strong and long-standing friendship",
-        "link": "https://tass.com/economy/2101421",
-        "fecha_publicacion": "Fri, 13 Mar 2026 19:39:38 +0300"
+        "titulo": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
+        "resumen": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
+        "link": "https://tass.com/world/1969613",
+        "fecha_publicacion": "Fri, 06 Jun 2025 10:52:46 +0300"
       },
       {
-        "titulo": "US-Israeli strikes leave more than 220 women, 200 children dead in Iran — ISNA agency",
-        "resumen": "A total of 2,729 women and 1,190 minors, among them 41 children under two years old, have been injured",
-        "link": "https://tass.com/world/2101419",
-        "fecha_publicacion": "Fri, 13 Mar 2026 19:37:35 +0300"
+        "titulo": "Death toll in Ukrainian attack on Kursk Region's Rylsk climbs to two",
+        "resumen": "Governor Alexander Khinshtein said that an 83-year-old woman died in hospital",
+        "link": "https://tass.com/emergencies/1969611",
+        "fecha_publicacion": "Fri, 06 Jun 2025 10:48:20 +0300"
       }
     ],
     "total_entradas": 20

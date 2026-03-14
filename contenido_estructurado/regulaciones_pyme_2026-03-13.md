@@ -88,6 +88,27 @@ schema: "NewsDigest"
 - **Resumen**: Una de las primeras    sacudidas económicas que provoca una guerra, máxime si se registra en una de las principales zonas productoras, es el enloquecido aumento de los precios internacionales de petróleo, y la artera agresión de Estados Unidos e Israel a Irán obviamente no es una excepción, pues en cuestión de días aquéllos se han incrementado en alrededor de 50 por ciento, y contando, lo que, si bien beneficia a unos cuantos países –México entre ellos–, descompone la de por sí frágil estabilidad internacional.
 - **Relevancia**: 0.6442
 
+### La guerra en Irán activa subsidio de 2.6 pesos al diésel en México
+- **Fecha**: Fri, 13 Mar 2026 23:58:20 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico
+- **Resumen**: La cuota por el impuesto IEPS que se cobra al combustible utilizado para el transporte de mercancías y personas, tendrá un descuento que absorberá Hacienda como un pérdida recaudatoria.
+- **Relevancia**: 0.5398
+
+### Santander: "Hemos frenado un poco el negocio de tarjetas"
+- **Fecha**: Fri, 13 Mar 2026 22:00:08 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/13/santander-hemos-frenado-un-poco-el-negocio-de-tarjetas
+- **Resumen**: Felipe García, director general del banco, dice que detectan problemas de morosidad en el segmento en medio de la creciente competencia de nuevos jugadores.
+- **Relevancia**: 0.483
+
+### Scotiabank: México es prioridad para el banco; representa 30% del negocio
+- **Fecha**: Fri, 13 Mar 2026 18:01:35 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/13/scotiabank-mexico-es-prioridad-para-el-banco-representa-30-del-negocio
+- **Resumen**: Pablo Elek, director general de Scotiabank México, afirma que el país ha demostrado resiliencia económica y cuenta con una plataforma manufacturera integrada al corredor norte.
+- **Relevancia**: 0.5465
+
 ### Analistas advierten que la guerra podría durar dos meses, con peligro de recesión
 - **Fecha**: Fri, 13 Mar 2026 00:30:33 GMT
 - **Fuente**: expansion_economia
@@ -171,25 +192,4 @@ schema: "NewsDigest"
 - **URL**: https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas
 - **Resumen**: Por mayores precios del petróleo, los ingresos de México pueden acelerarse, pero el alza en los precios de gasolinas borrará los ingresos extras.
 - **Relevancia**: 0.5761
-
-### Bankaool: Nuestros sistemas antilavado nacieron fuertes
-- **Fecha**: Mon, 09 Mar 2026 22:09:12 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/09/bankaool-nuestros-sistemas-antilavado-nacieron-fuertes
-- **Resumen**: Juan Antonio Pérez Simón, director general del banco, dijo que tienen un área de PLD fuerte que les blinda de señalamientos contra el lavado de dinero y espera mantener crecimiento de las utilidades.
-- **Relevancia**: 0.4936
-
-### México perfila revisión del T-MEC con foco en reglas de origen, cadenas y seguridad
-- **Fecha**: Mon, 09 Mar 2026 18:18:24 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/09/ebrard-revela-plan-accion-revision-tmec
-- **Resumen**: El proceso de consultas reunió a empresas, cámaras industriales, organizaciones agropecuarias, sindicatos y especialistas académicos para construir una postura antes de iniciar conversaciones formales.
-- **Relevancia**: 0.7018
-
-### Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico
-- **Fecha**: Mon, 09 Mar 2026 13:30:28 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico
-- **Resumen**: El alza de alimentos y servicios mantuvo presiones en los precios durante febrero, mientras el componente subyacente —clave para Banxico— se ubicó en 4.50% anual.
-- **Relevancia**: 0.6169
 

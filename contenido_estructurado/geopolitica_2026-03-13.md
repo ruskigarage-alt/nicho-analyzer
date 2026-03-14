@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-13"
 date: "2026-03-13"
 nicho: "geopolitica"
-total_entradas: 51
+total_entradas: 41
 schema: "NewsDigest"
 ---
 
@@ -237,14 +237,28 @@ Speaking to the media during a visit to Saudi Arabia, the UK...
 Beijing’s arms imports have nose-dived by nearly three-quarters over the past five years, as it has replaced overseas weapons purchases with domestic technology,...
 - **Relevancia**: 0.4841
 
-### US sanctions 2 firms, 6 individuals for funding North Korean weapons
-- **Fecha**: Fri, 13 Mar 2026 01:35:07 +0000
-- **Fuente**: scmp_world
-- **URL**: https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed
-- **Resumen**: The United States has imposed sanctions on two companies and six individuals for their roles in operations that used information technology workers in foreign countries to raise money for North Korea.
-The Treasury Department said the schemes, orchestrated by the North Korean government, had systematically defrauded US businesses and generated revenue to fund North Korea’s weapons programmes, including nearly US$800 million in 2024.
-The department also accused workers associated with North Korea...
-- **Relevancia**: 0.5313
+### ¿Quién gana y quién pierde con el alza del petróleo en Latinoamérica?
+- **Fecha**: Sat, 14 Mar 2026 01:10:20 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592739-ganar-perder-alza-petroleo-latinoamerica?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b449c0e9ff711e27471966.jpg" style="float: left;" />
+        	Expertos advierten que en el peor escenario, los precios del crudo podrían promediar 105 dólares por barril en 2026.
+- **Relevancia**: 0.6459
+
+### Delcy Rodríguez anuncia el inicio de exportaciones de gas venezolano hacia Colombia
+- **Fecha**: Sat, 14 Mar 2026 00:53:29 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592806-delcy-anunciar-inicio-exportaciones-gas-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
+- **Relevancia**: 0.5561
+
+### EE.UU. asegura que el portaviones USS Abraham Lincoln opera con normalidad
+- **Fecha**: Sat, 14 Mar 2026 00:46:34 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592821-eeuu-asegura-portaviones-uss-abraham?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4b55559bf5b014d6be6da.jpg" style="float: left;" />
+        	El CENTCOM señaló que Irán ya ha afirmado en múltiples ocasiones que "habían destruido" el portaviones.
+- **Relevancia**: 0.4743
 
 ### Noboa decreta toque de queda en cuatro provincias de Ecuador
 - **Fecha**: Sat, 14 Mar 2026 00:13:49 +0000
@@ -253,97 +267,12 @@ The department also accused workers associated with North Korea...
 - **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
 - **Relevancia**: 0.481
 
-### El pretexto de un policía que mató a tiros a un joven: "Pensé que me iban a robar"
-- **Fecha**: Fri, 13 Mar 2026 23:52:32 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592785-pretexto-policia-matar-tiros-joven-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4a03759bf5b014d6be6cd.jpg" style="float: left;" />
-        	El hecho se investiga como un posible caso de "gatillo fácil".
-- **Relevancia**: 0.5417
-
-### Nuevo dato enciende el 'criptogate' que salpica a Milei
-- **Fecha**: Fri, 13 Mar 2026 23:34:11 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592782-nuevo-dato-enciende-criptogate-salpica-milei?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
-- **Relevancia**: 0.4881
-
-### Israeli planes attack south of Beirut — source
-- **Fecha**: Fri, 13 Mar 2026 23:45:01 +0300
+### Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister
+- **Fecha**: Fri, 06 Jun 2025 12:45:53 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101483
-- **Resumen**: There is yet no information about the extent of the damage and the victims
-- **Relevancia**: 0.5679
-
-### Energy crisis in Europe cannot be overcome without Russia — Orban
-- **Fecha**: Fri, 13 Mar 2026 23:23:36 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101479
-- **Resumen**: Hungarian Prime Minister state that Brussels does not want to know anything about the suspension of sanctions against Russian energy
-- **Relevancia**: 0.5511
-
-### Trump says to end operation against Iran when intuition tells him to
-- **Fecha**: Fri, 13 Mar 2026 23:11:01 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101475
-- **Resumen**: The US leader also said that prices for oil and other commodities would begin to decline immediately after the end of the operation
-- **Relevancia**: 0.4764
-
-### Iran uses solid-fuel ballistic missiles to attack Israel — IRGC
-- **Fecha**: Fri, 13 Mar 2026 21:53:58 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101467
-- **Resumen**: Among the targets were "places of the deployment of American soldiers in the region"
-- **Relevancia**: 0.6247
-
-### Israel hits Basij headquarters in Tehran — IDF
-- **Fecha**: Fri, 13 Mar 2026 21:36:33 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101463
-- **Resumen**: The IDF added that the Israeli Air Force struck air defense systems and infrastructure at the first air defense base in Tehran
-- **Relevancia**: 0.5901
-
-### Iran launches new missiles towards Israel — state television
-- **Fecha**: Fri, 13 Mar 2026 21:08:38 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101453
-- **Resumen**: There is no information yet on the number of projectiles used
-- **Relevancia**: 0.5466
-
-### Iranian armed forces HQ reports on strikes against Israel, US bases in Bahrain, Iraq
-- **Fecha**: Fri, 13 Mar 2026 20:25:58 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101437
-- **Resumen**: According to the report, the Muwaffaq Salti base in Jordan and other US bases in Manama and Erbil were subjected to the most powerful attacks by missiles and drones of the Islamic Revolutionary Guard Corps
-- **Relevancia**: 0.6098
-
-### Ensuring Iran's security will bring oil prices down, ambassador to Moscow says
-- **Fecha**: Fri, 13 Mar 2026 20:23:56 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101435
-- **Resumen**: Kazem Jalali also pointed out that it was the United States and Israel that had destabilized the situation
-- **Relevancia**: 0.4661
-
-### Iran to provide safe passage for Indian ships through Strait of Hormuz — ambassador
-- **Fecha**: Fri, 13 Mar 2026 20:17:56 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/economy/2101433
-- **Resumen**: Mohammad Fathali said that Iran and India share common interests in the region
-- **Relevancia**: 0.4729
-
-### Annual inflation in Russia gearing up to 5.84% over week — Economy Ministry
-- **Fecha**: Fri, 13 Mar 2026 20:06:22 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/economy/2101427
-- **Resumen**: Inflation in the consumer market stood at 0.11% over the period from March 3 to 10, 2026
-- **Relevancia**: 0.5062
-
-### US-Israeli strikes leave more than 220 women, 200 children dead in Iran — ISNA agency
-- **Fecha**: Fri, 13 Mar 2026 19:37:35 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2101419
-- **Resumen**: A total of 2,729 women and 1,190 minors, among them 41 children under two years old, have been injured
-- **Relevancia**: 0.5828
+- **URL**: https://tass.com/world/1969663
+- **Resumen**: "Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force," Israel Katz said
+- **Relevancia**: 0.5835
 
 ### Republican lawmakers shrug at more funding for Iran war
 - **Fecha**: Fri, 13 Mar 2026 14:09:39 +0000

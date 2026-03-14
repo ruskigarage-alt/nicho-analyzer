@@ -4,7 +4,7 @@
   "name": "geopolitica — 2026-03-13",
   "description": "Digest semántico de geopolitica generado el 2026-03-13",
   "datePublished": "2026-03-13",
-  "numberOfItems": 51,
+  "numberOfItems": 41,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -521,21 +521,55 @@
       "position": 31,
       "item": {
         "@type": "NewsArticle",
-        "headline": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
-        "description": "The United States has imposed sanctions on two companies and six individuals for their roles in operations that used information technology workers in foreign countries to raise money for North Korea.\nThe Treasury Department said the schemes, orchestrated by the North Korean government, had systematically defrauded US businesses and generated revenue to fund North Korea’s weapons programmes, including nearly US$800 million in 2024.\nThe department also accused workers associated with North Korea...",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed",
-        "datePublished": "Fri, 13 Mar 2026 01:35:07 +0000",
+        "headline": "¿Quién gana y quién pierde con el alza del petróleo en Latinoamérica?",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b449c0e9ff711e27471966.jpg\" style=\"float: left;\" />\n        \tExpertos advierten que en el peor escenario, los precios del crudo podrían promediar 105 dólares por barril en 2026.",
+        "url": "https://actualidad.rt.com/actualidad/592739-ganar-perder-alza-petroleo-latinoamerica?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 01:10:20 +0000",
         "publisher": {
           "@type": "Organization",
-          "name": "scmp_world"
+          "name": "rt_espanol"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.5313
+        "relevanceScore": 0.6459
       }
     },
     {
       "@type": "ListItem",
       "position": 32,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Delcy Rodríguez anuncia el inicio de exportaciones de gas venezolano hacia Colombia",
+        "description": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "url": "https://actualidad.rt.com/actualidad/592806-delcy-anunciar-inicio-exportaciones-gas-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 00:53:29 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5561
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "EE.UU. asegura que el portaviones USS Abraham Lincoln opera con normalidad",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4b55559bf5b014d6be6da.jpg\" style=\"float: left;\" />\n        \tEl CENTCOM señaló que Irán ya ha afirmado en múltiples ocasiones que \"habían destruido\" el portaviones.",
+        "url": "https://actualidad.rt.com/actualidad/592821-eeuu-asegura-portaviones-uss-abraham?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 00:46:34 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4743
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
       "item": {
         "@type": "NewsArticle",
         "headline": "Noboa decreta toque de queda en cuatro provincias de Ecuador",
@@ -552,228 +586,24 @@
     },
     {
       "@type": "ListItem",
-      "position": 33,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "El pretexto de un policía que mató a tiros a un joven: \"Pensé que me iban a robar\"",
-        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4a03759bf5b014d6be6cd.jpg\" style=\"float: left;\" />\n        \tEl hecho se investiga como un posible caso de \"gatillo fácil\".",
-        "url": "https://actualidad.rt.com/actualidad/592785-pretexto-policia-matar-tiros-joven-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Fri, 13 Mar 2026 23:52:32 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5417
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 34,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Nuevo dato enciende el 'criptogate' que salpica a Milei",
-        "description": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-        "url": "https://actualidad.rt.com/actualidad/592782-nuevo-dato-enciende-criptogate-salpica-milei?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "datePublished": "Fri, 13 Mar 2026 23:34:11 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "rt_espanol"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4881
-      }
-    },
-    {
-      "@type": "ListItem",
       "position": 35,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Israeli planes attack south of Beirut — source",
-        "description": "There is yet no information about the extent of the damage and the victims",
-        "url": "https://tass.com/world/2101483",
-        "datePublished": "Fri, 13 Mar 2026 23:45:01 +0300",
+        "headline": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+        "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+        "url": "https://tass.com/world/1969663",
+        "datePublished": "Fri, 06 Jun 2025 12:45:53 +0300",
         "publisher": {
           "@type": "Organization",
           "name": "tass_english"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.5679
+        "relevanceScore": 0.5835
       }
     },
     {
       "@type": "ListItem",
       "position": 36,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Energy crisis in Europe cannot be overcome without Russia — Orban",
-        "description": "Hungarian Prime Minister state that Brussels does not want to know anything about the suspension of sanctions against Russian energy",
-        "url": "https://tass.com/world/2101479",
-        "datePublished": "Fri, 13 Mar 2026 23:23:36 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5511
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 37,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Trump says to end operation against Iran when intuition tells him to",
-        "description": "The US leader also said that prices for oil and other commodities would begin to decline immediately after the end of the operation",
-        "url": "https://tass.com/world/2101475",
-        "datePublished": "Fri, 13 Mar 2026 23:11:01 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4764
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 38,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iran uses solid-fuel ballistic missiles to attack Israel — IRGC",
-        "description": "Among the targets were \"places of the deployment of American soldiers in the region\"",
-        "url": "https://tass.com/world/2101467",
-        "datePublished": "Fri, 13 Mar 2026 21:53:58 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6247
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 39,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Israel hits Basij headquarters in Tehran — IDF",
-        "description": "The IDF added that the Israeli Air Force struck air defense systems and infrastructure at the first air defense base in Tehran",
-        "url": "https://tass.com/world/2101463",
-        "datePublished": "Fri, 13 Mar 2026 21:36:33 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5901
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 40,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iran launches new missiles towards Israel — state television",
-        "description": "There is no information yet on the number of projectiles used",
-        "url": "https://tass.com/world/2101453",
-        "datePublished": "Fri, 13 Mar 2026 21:08:38 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5466
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 41,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iranian armed forces HQ reports on strikes against Israel, US bases in Bahrain, Iraq",
-        "description": "According to the report, the Muwaffaq Salti base in Jordan and other US bases in Manama and Erbil were subjected to the most powerful attacks by missiles and drones of the Islamic Revolutionary Guard Corps",
-        "url": "https://tass.com/world/2101437",
-        "datePublished": "Fri, 13 Mar 2026 20:25:58 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6098
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 42,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Ensuring Iran's security will bring oil prices down, ambassador to Moscow says",
-        "description": "Kazem Jalali also pointed out that it was the United States and Israel that had destabilized the situation",
-        "url": "https://tass.com/world/2101435",
-        "datePublished": "Fri, 13 Mar 2026 20:23:56 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4661
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 43,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iran to provide safe passage for Indian ships through Strait of Hormuz — ambassador",
-        "description": "Mohammad Fathali said that Iran and India share common interests in the region",
-        "url": "https://tass.com/economy/2101433",
-        "datePublished": "Fri, 13 Mar 2026 20:17:56 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4729
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 44,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Annual inflation in Russia gearing up to 5.84% over week — Economy Ministry",
-        "description": "Inflation in the consumer market stood at 0.11% over the period from March 3 to 10, 2026",
-        "url": "https://tass.com/economy/2101427",
-        "datePublished": "Fri, 13 Mar 2026 20:06:22 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5062
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 45,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "US-Israeli strikes leave more than 220 women, 200 children dead in Iran — ISNA agency",
-        "description": "A total of 2,729 women and 1,190 minors, among them 41 children under two years old, have been injured",
-        "url": "https://tass.com/world/2101419",
-        "datePublished": "Fri, 13 Mar 2026 19:37:35 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5828
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 46,
       "item": {
         "@type": "NewsArticle",
         "headline": "Republican lawmakers shrug at more funding for Iran war",
@@ -790,7 +620,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 47,
+      "position": 37,
       "item": {
         "@type": "NewsArticle",
         "headline": "‘Not very logical’: Zelenskyy blasts US for easing Russia sanctions",
@@ -807,7 +637,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 48,
+      "position": 38,
       "item": {
         "@type": "NewsArticle",
         "headline": "NATO intercepts third Iranian missile heading toward Turkey",
@@ -824,7 +654,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 49,
+      "position": 39,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Capital Rules for the Real Economy",
@@ -841,7 +671,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 50,
+      "position": 40,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
@@ -858,7 +688,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 51,
+      "position": 41,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Outlook for the Economy and Monetary Policy",

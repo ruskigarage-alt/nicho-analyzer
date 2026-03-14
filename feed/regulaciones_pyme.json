@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json",
   "language": "es-MX",
-  "date_modified": "2026-03-14T00:45:57.267164+00:00",
-  "total_records": 54,
+  "date_modified": "2026-03-14T01:22:35.972138+00:00",
+  "total_records": 55,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#0",
@@ -428,6 +428,39 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#38",
+      "title": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#39",
+      "title": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://expansion.mx/economia/2026/03/13/santander-hemos-frenado-un-poco-el-negocio-de-tarjetas",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#40",
+      "title": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
+      "content_text": "",
+      "date_published": "2026-03-13",
+      "url": "https://expansion.mx/economia/2026/03/13/scotiabank-mexico-es-prioridad-para-el-banco-representa-30-del-negocio",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#41",
       "title": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -438,7 +471,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#39",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#42",
       "title": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -449,7 +482,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#40",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#43",
       "title": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -460,7 +493,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#41",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#44",
       "title": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -471,7 +504,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#42",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#45",
       "title": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -482,7 +515,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#43",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#46",
       "title": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -493,7 +526,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#44",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#47",
       "title": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -504,7 +537,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#45",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#48",
       "title": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -515,7 +548,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#46",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#49",
       "title": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -526,7 +559,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#47",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#50",
       "title": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -537,7 +570,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#48",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#51",
       "title": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -548,7 +581,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#49",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#52",
       "title": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -559,43 +592,21 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#50",
-      "title": "Bankaool: Nuestros sistemas antilavado nacieron fuertes",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://expansion.mx/economia/2026/03/09/bankaool-nuestros-sistemas-antilavado-nacieron-fuertes",
-      "tags": [
-        "regulaciones_pyme",
-        "expansion_economia"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#51",
-      "title": "México perfila revisión del T-MEC con foco en reglas de origen, cadenas y seguridad",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://expansion.mx/economia/2026/03/09/ebrard-revela-plan-accion-revision-tmec",
-      "tags": [
-        "regulaciones_pyme",
-        "expansion_economia"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#52",
-      "title": "Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico",
-      "tags": [
-        "regulaciones_pyme",
-        "expansion_economia"
-      ]
-    },
-    {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#53",
       "title": "Inflacion INPC anual Mexico",
       "content_text": "",
       "date_published": "2026-03-13",
+      "url": "https://www.inegi.org.mx/temas/inpc/",
+      "tags": [
+        "regulaciones_pyme",
+        "INEGI / Banxico"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#54",
+      "title": "Inflacion INPC anual Mexico",
+      "content_text": "",
+      "date_published": "2026-03-14",
       "url": "https://www.inegi.org.mx/temas/inpc/",
       "tags": [
         "regulaciones_pyme",

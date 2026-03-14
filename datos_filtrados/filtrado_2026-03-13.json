@@ -219,6 +219,30 @@
       "relevancia_score": 0.6442
     },
     {
+      "titulo": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
+      "resumen": "La cuota por el impuesto IEPS que se cobra al combustible utilizado para el transporte de mercancías y personas, tendrá un descuento que absorberá Hacienda como un pérdida recaudatoria.",
+      "link": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico",
+      "fecha_publicacion": "Fri, 13 Mar 2026 23:58:20 GMT",
+      "fuente_nombre": "expansion_economia",
+      "relevancia_score": 0.5398
+    },
+    {
+      "titulo": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
+      "resumen": "Felipe García, director general del banco, dice que detectan problemas de morosidad en el segmento en medio de la creciente competencia de nuevos jugadores.",
+      "link": "https://expansion.mx/economia/2026/03/13/santander-hemos-frenado-un-poco-el-negocio-de-tarjetas",
+      "fecha_publicacion": "Fri, 13 Mar 2026 22:00:08 GMT",
+      "fuente_nombre": "expansion_economia",
+      "relevancia_score": 0.483
+    },
+    {
+      "titulo": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
+      "resumen": "Pablo Elek, director general de Scotiabank México, afirma que el país ha demostrado resiliencia económica y cuenta con una plataforma manufacturera integrada al corredor norte.",
+      "link": "https://expansion.mx/economia/2026/03/13/scotiabank-mexico-es-prioridad-para-el-banco-representa-30-del-negocio",
+      "fecha_publicacion": "Fri, 13 Mar 2026 18:01:35 GMT",
+      "fuente_nombre": "expansion_economia",
+      "relevancia_score": 0.5465
+    },
+    {
       "titulo": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
       "resumen": "Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.",
       "link": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion",
@@ -313,30 +337,6 @@
       "fecha_publicacion": "Tue, 10 Mar 2026 00:36:31 GMT",
       "fuente_nombre": "expansion_economia",
       "relevancia_score": 0.5761
-    },
-    {
-      "titulo": "Bankaool: Nuestros sistemas antilavado nacieron fuertes",
-      "resumen": "Juan Antonio Pérez Simón, director general del banco, dijo que tienen un área de PLD fuerte que les blinda de señalamientos contra el lavado de dinero y espera mantener crecimiento de las utilidades.",
-      "link": "https://expansion.mx/economia/2026/03/09/bankaool-nuestros-sistemas-antilavado-nacieron-fuertes",
-      "fecha_publicacion": "Mon, 09 Mar 2026 22:09:12 GMT",
-      "fuente_nombre": "expansion_economia",
-      "relevancia_score": 0.4936
-    },
-    {
-      "titulo": "México perfila revisión del T-MEC con foco en reglas de origen, cadenas y seguridad",
-      "resumen": "El proceso de consultas reunió a empresas, cámaras industriales, organizaciones agropecuarias, sindicatos y especialistas académicos para construir una postura antes de iniciar conversaciones formales.",
-      "link": "https://expansion.mx/economia/2026/03/09/ebrard-revela-plan-accion-revision-tmec",
-      "fecha_publicacion": "Mon, 09 Mar 2026 18:18:24 GMT",
-      "fuente_nombre": "expansion_economia",
-      "relevancia_score": 0.7018
-    },
-    {
-      "titulo": "Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico",
-      "resumen": "El alza de alimentos y servicios mantuvo presiones en los precios durante febrero, mientras el componente subyacente —clave para Banxico— se ubicó en 4.50% anual.",
-      "link": "https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico",
-      "fecha_publicacion": "Mon, 09 Mar 2026 13:30:28 GMT",
-      "fuente_nombre": "expansion_economia",
-      "relevancia_score": 0.6169
     }
   ],
   "geopolitica": [
@@ -581,12 +581,28 @@
       "relevancia_score": 0.4841
     },
     {
-      "titulo": "US sanctions 2 firms, 6 individuals for funding North Korean weapons",
-      "resumen": "The United States has imposed sanctions on two companies and six individuals for their roles in operations that used information technology workers in foreign countries to raise money for North Korea.\nThe Treasury Department said the schemes, orchestrated by the North Korean government, had systematically defrauded US businesses and generated revenue to fund North Korea’s weapons programmes, including nearly US$800 million in 2024.\nThe department also accused workers associated with North Korea...",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed",
-      "fecha_publicacion": "Fri, 13 Mar 2026 01:35:07 +0000",
-      "fuente_nombre": "scmp_world",
-      "relevancia_score": 0.5313
+      "titulo": "¿Quién gana y quién pierde con el alza del petróleo en Latinoamérica?",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b449c0e9ff711e27471966.jpg\" style=\"float: left;\" />\n        \tExpertos advierten que en el peor escenario, los precios del crudo podrían promediar 105 dólares por barril en 2026.",
+      "link": "https://actualidad.rt.com/actualidad/592739-ganar-perder-alza-petroleo-latinoamerica?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Sat, 14 Mar 2026 01:10:20 +0000",
+      "fuente_nombre": "rt_espanol",
+      "relevancia_score": 0.6459
+    },
+    {
+      "titulo": "Delcy Rodríguez anuncia el inicio de exportaciones de gas venezolano hacia Colombia",
+      "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+      "link": "https://actualidad.rt.com/actualidad/592806-delcy-anunciar-inicio-exportaciones-gas-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Sat, 14 Mar 2026 00:53:29 +0000",
+      "fuente_nombre": "rt_espanol",
+      "relevancia_score": 0.5561
+    },
+    {
+      "titulo": "EE.UU. asegura que el portaviones USS Abraham Lincoln opera con normalidad",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4b55559bf5b014d6be6da.jpg\" style=\"float: left;\" />\n        \tEl CENTCOM señaló que Irán ya ha afirmado en múltiples ocasiones que \"habían destruido\" el portaviones.",
+      "link": "https://actualidad.rt.com/actualidad/592821-eeuu-asegura-portaviones-uss-abraham?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fecha_publicacion": "Sat, 14 Mar 2026 00:46:34 +0000",
+      "fuente_nombre": "rt_espanol",
+      "relevancia_score": 0.4743
     },
     {
       "titulo": "Noboa decreta toque de queda en cuatro provincias de Ecuador",
@@ -597,108 +613,12 @@
       "relevancia_score": 0.481
     },
     {
-      "titulo": "El pretexto de un policía que mató a tiros a un joven: \"Pensé que me iban a robar\"",
-      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4a03759bf5b014d6be6cd.jpg\" style=\"float: left;\" />\n        \tEl hecho se investiga como un posible caso de \"gatillo fácil\".",
-      "link": "https://actualidad.rt.com/actualidad/592785-pretexto-policia-matar-tiros-joven-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fecha_publicacion": "Fri, 13 Mar 2026 23:52:32 +0000",
-      "fuente_nombre": "rt_espanol",
-      "relevancia_score": 0.5417
-    },
-    {
-      "titulo": "Nuevo dato enciende el 'criptogate' que salpica a Milei",
-      "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
-      "link": "https://actualidad.rt.com/actualidad/592782-nuevo-dato-enciende-criptogate-salpica-milei?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "fecha_publicacion": "Fri, 13 Mar 2026 23:34:11 +0000",
-      "fuente_nombre": "rt_espanol",
-      "relevancia_score": 0.4881
-    },
-    {
-      "titulo": "Israeli planes attack south of Beirut — source",
-      "resumen": "There is yet no information about the extent of the damage and the victims",
-      "link": "https://tass.com/world/2101483",
-      "fecha_publicacion": "Fri, 13 Mar 2026 23:45:01 +0300",
+      "titulo": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+      "resumen": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+      "link": "https://tass.com/world/1969663",
+      "fecha_publicacion": "Fri, 06 Jun 2025 12:45:53 +0300",
       "fuente_nombre": "tass_english",
-      "relevancia_score": 0.5679
-    },
-    {
-      "titulo": "Energy crisis in Europe cannot be overcome without Russia — Orban",
-      "resumen": "Hungarian Prime Minister state that Brussels does not want to know anything about the suspension of sanctions against Russian energy",
-      "link": "https://tass.com/world/2101479",
-      "fecha_publicacion": "Fri, 13 Mar 2026 23:23:36 +0300",
-      "fuente_nombre": "tass_english",
-      "relevancia_score": 0.5511
-    },
-    {
-      "titulo": "Trump says to end operation against Iran when intuition tells him to",
-      "resumen": "The US leader also said that prices for oil and other commodities would begin to decline immediately after the end of the operation",
-      "link": "https://tass.com/world/2101475",
-      "fecha_publicacion": "Fri, 13 Mar 2026 23:11:01 +0300",
-      "fuente_nombre": "tass_english",
-      "relevancia_score": 0.4764
-    },
-    {
-      "titulo": "Iran uses solid-fuel ballistic missiles to attack Israel — IRGC",
-      "resumen": "Among the targets were \"places of the deployment of American soldiers in the region\"",
-      "link": "https://tass.com/world/2101467",
-      "fecha_publicacion": "Fri, 13 Mar 2026 21:53:58 +0300",
-      "fuente_nombre": "tass_english",
-      "relevancia_score": 0.6247
-    },
-    {
-      "titulo": "Israel hits Basij headquarters in Tehran — IDF",
-      "resumen": "The IDF added that the Israeli Air Force struck air defense systems and infrastructure at the first air defense base in Tehran",
-      "link": "https://tass.com/world/2101463",
-      "fecha_publicacion": "Fri, 13 Mar 2026 21:36:33 +0300",
-      "fuente_nombre": "tass_english",
-      "relevancia_score": 0.5901
-    },
-    {
-      "titulo": "Iran launches new missiles towards Israel — state television",
-      "resumen": "There is no information yet on the number of projectiles used",
-      "link": "https://tass.com/world/2101453",
-      "fecha_publicacion": "Fri, 13 Mar 2026 21:08:38 +0300",
-      "fuente_nombre": "tass_english",
-      "relevancia_score": 0.5466
-    },
-    {
-      "titulo": "Iranian armed forces HQ reports on strikes against Israel, US bases in Bahrain, Iraq",
-      "resumen": "According to the report, the Muwaffaq Salti base in Jordan and other US bases in Manama and Erbil were subjected to the most powerful attacks by missiles and drones of the Islamic Revolutionary Guard Corps",
-      "link": "https://tass.com/world/2101437",
-      "fecha_publicacion": "Fri, 13 Mar 2026 20:25:58 +0300",
-      "fuente_nombre": "tass_english",
-      "relevancia_score": 0.6098
-    },
-    {
-      "titulo": "Ensuring Iran's security will bring oil prices down, ambassador to Moscow says",
-      "resumen": "Kazem Jalali also pointed out that it was the United States and Israel that had destabilized the situation",
-      "link": "https://tass.com/world/2101435",
-      "fecha_publicacion": "Fri, 13 Mar 2026 20:23:56 +0300",
-      "fuente_nombre": "tass_english",
-      "relevancia_score": 0.4661
-    },
-    {
-      "titulo": "Iran to provide safe passage for Indian ships through Strait of Hormuz — ambassador",
-      "resumen": "Mohammad Fathali said that Iran and India share common interests in the region",
-      "link": "https://tass.com/economy/2101433",
-      "fecha_publicacion": "Fri, 13 Mar 2026 20:17:56 +0300",
-      "fuente_nombre": "tass_english",
-      "relevancia_score": 0.4729
-    },
-    {
-      "titulo": "Annual inflation in Russia gearing up to 5.84% over week — Economy Ministry",
-      "resumen": "Inflation in the consumer market stood at 0.11% over the period from March 3 to 10, 2026",
-      "link": "https://tass.com/economy/2101427",
-      "fecha_publicacion": "Fri, 13 Mar 2026 20:06:22 +0300",
-      "fuente_nombre": "tass_english",
-      "relevancia_score": 0.5062
-    },
-    {
-      "titulo": "US-Israeli strikes leave more than 220 women, 200 children dead in Iran — ISNA agency",
-      "resumen": "A total of 2,729 women and 1,190 minors, among them 41 children under two years old, have been injured",
-      "link": "https://tass.com/world/2101419",
-      "fecha_publicacion": "Fri, 13 Mar 2026 19:37:35 +0300",
-      "fuente_nombre": "tass_english",
-      "relevancia_score": 0.5828
+      "relevancia_score": 0.5835
     },
     {
       "titulo": "Republican lawmakers shrug at more funding for Iran war",

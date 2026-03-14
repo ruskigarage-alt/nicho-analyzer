@@ -198,6 +198,57 @@
       "position": 12,
       "item": {
         "@type": "NewsArticle",
+        "headline": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
+        "description": "La cuota por el impuesto IEPS que se cobra al combustible utilizado para el transporte de mercancías y personas, tendrá un descuento que absorberá Hacienda como un pérdida recaudatoria.",
+        "url": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico",
+        "datePublished": "Fri, 13 Mar 2026 23:58:20 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5398
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
+        "description": "Felipe García, director general del banco, dice que detectan problemas de morosidad en el segmento en medio de la creciente competencia de nuevos jugadores.",
+        "url": "https://expansion.mx/economia/2026/03/13/santander-hemos-frenado-un-poco-el-negocio-de-tarjetas",
+        "datePublished": "Fri, 13 Mar 2026 22:00:08 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.483
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
+        "description": "Pablo Elek, director general de Scotiabank México, afirma que el país ha demostrado resiliencia económica y cuenta con una plataforma manufacturera integrada al corredor norte.",
+        "url": "https://expansion.mx/economia/2026/03/13/scotiabank-mexico-es-prioridad-para-el-banco-representa-30-del-negocio",
+        "datePublished": "Fri, 13 Mar 2026 18:01:35 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5465
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "NewsArticle",
         "headline": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
         "description": "Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.",
         "url": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion",
@@ -212,7 +263,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 13,
+      "position": 16,
       "item": {
         "@type": "NewsArticle",
         "headline": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
@@ -229,7 +280,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 14,
+      "position": 17,
       "item": {
         "@type": "NewsArticle",
         "headline": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
@@ -246,7 +297,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 15,
+      "position": 18,
       "item": {
         "@type": "NewsArticle",
         "headline": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
@@ -263,7 +314,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 16,
+      "position": 19,
       "item": {
         "@type": "NewsArticle",
         "headline": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
@@ -280,7 +331,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 17,
+      "position": 20,
       "item": {
         "@type": "NewsArticle",
         "headline": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
@@ -297,7 +348,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 18,
+      "position": 21,
       "item": {
         "@type": "NewsArticle",
         "headline": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
@@ -314,7 +365,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 19,
+      "position": 22,
       "item": {
         "@type": "NewsArticle",
         "headline": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
@@ -331,7 +382,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 20,
+      "position": 23,
       "item": {
         "@type": "NewsArticle",
         "headline": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
@@ -348,7 +399,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 21,
+      "position": 24,
       "item": {
         "@type": "NewsArticle",
         "headline": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
@@ -365,7 +416,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 22,
+      "position": 25,
       "item": {
         "@type": "NewsArticle",
         "headline": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
@@ -382,7 +433,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 23,
+      "position": 26,
       "item": {
         "@type": "NewsArticle",
         "headline": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
@@ -395,57 +446,6 @@
         },
         "keywords": "regulaciones, pyme",
         "relevanceScore": 0.5761
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 24,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Bankaool: Nuestros sistemas antilavado nacieron fuertes",
-        "description": "Juan Antonio Pérez Simón, director general del banco, dijo que tienen un área de PLD fuerte que les blinda de señalamientos contra el lavado de dinero y espera mantener crecimiento de las utilidades.",
-        "url": "https://expansion.mx/economia/2026/03/09/bankaool-nuestros-sistemas-antilavado-nacieron-fuertes",
-        "datePublished": "Mon, 09 Mar 2026 22:09:12 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "expansion_economia"
-        },
-        "keywords": "regulaciones, pyme",
-        "relevanceScore": 0.4936
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 25,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "México perfila revisión del T-MEC con foco en reglas de origen, cadenas y seguridad",
-        "description": "El proceso de consultas reunió a empresas, cámaras industriales, organizaciones agropecuarias, sindicatos y especialistas académicos para construir una postura antes de iniciar conversaciones formales.",
-        "url": "https://expansion.mx/economia/2026/03/09/ebrard-revela-plan-accion-revision-tmec",
-        "datePublished": "Mon, 09 Mar 2026 18:18:24 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "expansion_economia"
-        },
-        "keywords": "regulaciones, pyme",
-        "relevanceScore": 0.7018
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 26,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Inflación en México repunta a 4.02% en febrero y queda fuera del rango objetivo de Banxico",
-        "description": "El alza de alimentos y servicios mantuvo presiones en los precios durante febrero, mientras el componente subyacente —clave para Banxico— se ubicó en 4.50% anual.",
-        "url": "https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico",
-        "datePublished": "Mon, 09 Mar 2026 13:30:28 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "expansion_economia"
-        },
-        "keywords": "regulaciones, pyme",
-        "relevanceScore": 0.6169
       }
     }
   ]
