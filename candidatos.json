@@ -87,9 +87,9 @@
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
+        "alianza",
         "encuesta",
-        "general",
-        "alianza"
+        "general"
       ],
       "noticias": [
         {
@@ -123,8 +123,8 @@
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
-        "general",
-        "alianza"
+        "alianza",
+        "general"
       ],
       "noticias": [
         {
@@ -158,10 +158,10 @@
       "negativas": 3,
       "fuente": "Medios locales",
       "tags": [
+        "general",
         "encuesta",
         "seguridad",
         "gasto_publico",
-        "general",
         "nepotismo"
       ],
       "noticias": [
@@ -209,7 +209,7 @@
         {
           "fuente": "googlenews",
           "tag": "candidatura",
-          "texto": "Verónica Díaz busca participar en proceso interno de Morena para la candidatura de Zacatecas - MILENIO",
+          "texto": "Verónica Díaz busca participar en proceso interno de Morena para la candidatura de Zacatecas - Milenio",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUh1VFdISHBYVTdoaWVxN0JBOTZfenpidUxPYUZla0dNdEVFOU1fZnNQWktTdU1LU21uQXpiQmRfSmw2YkZfRzUtSXdQWUx0ME1RQnU2SEZiekpoREh4NHk1aGwyOGUxRTZzamhqajlRUUFWTTdtZ180a2JZdDF5aW5rTzdEbHFxNUdDWk5PbFktUzBCV2p1X1dQQTRMSFFoaE1UQtIBpAFBVV95cUxPRnBONlNxQmtNTFRhOG1JQldUeVpKa1lGb2F1WmZVRmtUQk1kSVdtZzNYVkRXdGxTa2NJbjRrbzNEaWpVM3Q1Vk84TnAyWEdQLU03a1JwMlJpbkZnRnB6M2J6T1I3cUFrUkNmQndUTUFqZi1TMFFvVTJGendxT05FczJodkM2V1N2UnJUVTZEcUlyb0VHQ3Z0ODlibjhHLV81V3lwUQ?oc=5"
         },
         {
@@ -231,10 +231,10 @@
       "negativas": 1,
       "fuente": "Referencia general",
       "tags": [
+        "candidatura",
         "seguridad",
         "general",
-        "nepotismo",
-        "candidatura"
+        "nepotismo"
       ],
       "noticias": [
         {

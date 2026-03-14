@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-14"
 date: "2026-03-14"
 nicho: "geopolitica"
-total_entradas: 40
+total_entradas: 39
 schema: "NewsDigest"
 ---
 
@@ -157,13 +157,6 @@ schema: "NewsDigest"
 - **URL**: https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss
 - **Resumen**: Drone strikes have hit the paramilitary&#039;s heavily armed checkpoints this week, Islamic Revolutionary Guard Corps said.
 - **Relevancia**: 0.6044
-
-### Iran says Strait of Hormuz will not be reopened to US ships
-- **Fecha**: Sat, 14 Mar 2026 15:18:04 +0000
-- **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss
-- **Resumen**: A member of Iran’s Expediency Council says the Strait of Hormuz will remain closed to US ships.
-- **Relevancia**: 0.6081
 
 ### Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns
 - **Fecha**: Sat, 14 Mar 2026 17:40:47 +0000

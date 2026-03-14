@@ -371,7 +371,7 @@
       "fecha_minado": "2026-03-14"
     },
     {
-      "titulo": "Verónica Díaz busca participar en proceso interno de Morena para la candidatura de Zacatecas - MILENIO",
+      "titulo": "Verónica Díaz busca participar en proceso interno de Morena para la candidatura de Zacatecas - Milenio",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUh1VFdISHBYVTdoaWVxN0JBOTZfenpidUxPYUZla0dNdEVFOU1fZnNQWktTdU1LU21uQXpiQmRfSmw2YkZfRzUtSXdQWUx0ME1RQnU2SEZiekpoREh4NHk1aGwyOGUxRTZzamhqajlRUUFWTTdtZ180a2JZdDF5aW5rTzdEbHFxNUdDWk5PbFktUzBCV2p1X1dQQTRMSFFoaE1UQtIBpAFBVV95cUxPRnBONlNxQmtNTFRhOG1JQldUeVpKa1lGb2F1WmZVRmtUQk1kSVdtZzNYVkRXdGxTa2NJbjRrbzNEaWpVM3Q1Vk84TnAyWEdQLU03a1JwMlJpbkZnRn",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUh1VFdISHBYVTdoaWVxN0JBOTZfenpidUxPYUZla0dNdEVFOU1fZnNQWktTdU1LU21uQXpiQmRfSmw2YkZfRzUtSXdQWUx0ME1RQnU2SEZiekpoREh4NHk1aGwyOGUxRTZzamhqajlRUUFWTTdtZ180a2JZdDF5aW5rTzdEbHFxNUdDWk5PbFktUzBCV2p1X1dQQTRMSFFoaE1UQtIBpAFBVV95cUxPRnBONlNxQmtNTFRhOG1JQldUeVpKa1lGb2F1WmZVRmtUQk1kSVdtZzNYVkRXdGxTa2NJbjRrbzNEaWpVM3Q1Vk84TnAyWEdQLU03a1JwMlJpbkZnRnB6M2J6T1I3cUFrUkNmQndUTUFqZi1TMFFvVTJGendxT05FczJodkM2V1N2UnJUVTZEcUlyb0VHQ3Z0ODlibjhHLV81V3lwUQ?oc=5",
       "fecha": "Thu, 12 Mar 2026 19:25:00 GMT",
@@ -1162,9 +1162,9 @@
       "negativo": 0,
       "momentum": 16,
       "temas": [
+        "alianza",
         "encuesta",
-        "general",
-        "alianza"
+        "general"
       ]
     },
     "saul_monreal": {
@@ -1173,10 +1173,10 @@
       "negativo": 3,
       "momentum": 5,
       "temas": [
+        "general",
         "encuesta",
         "seguridad",
         "gasto_publico",
-        "general",
         "nepotismo"
       ]
     },
@@ -1196,10 +1196,10 @@
       "negativo": 1,
       "momentum": 9,
       "temas": [
+        "candidatura",
         "seguridad",
         "general",
-        "nepotismo",
-        "candidatura"
+        "nepotismo"
       ]
     },
     "varela_pinedo": {
@@ -1227,8 +1227,8 @@
       "negativo": 0,
       "momentum": 14,
       "temas": [
-        "general",
-        "alianza"
+        "alianza",
+        "general"
       ]
     }
   },

@@ -4,7 +4,7 @@
   "name": "geopolitica — 2026-03-14",
   "description": "Digest semántico de geopolitica generado el 2026-03-14",
   "datePublished": "2026-03-14",
-  "numberOfItems": 40,
+  "numberOfItems": 39,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -368,23 +368,6 @@
       "position": 22,
       "item": {
         "@type": "NewsArticle",
-        "headline": "Iran says Strait of Hormuz will not be reopened to US ships",
-        "description": "A member of Iran’s Expediency Council says the Strait of Hormuz will remain closed to US ships.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss",
-        "datePublished": "Sat, 14 Mar 2026 15:18:04 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "al_jazeera"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.6081
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 23,
-      "item": {
-        "@type": "NewsArticle",
         "headline": "Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns",
         "description": "Turkey expressed deep concern on Saturday over Israel’s ongoing strikes on Lebanon, voicing fears it could commit “a new genocide” under the guise of fighting Iran-backed Hezbollah.\n“We are frankly concerned [Israeli Prime Minister Benjamin] Netanyahu is moving toward a new genocide under the pretext of fighting Hezbollah,” Turkish Foreign Minister Hakan Fidan told a news conference.\n“The international community must act as soon as possible in the face of the crimes that Israel continues to...",
         "url": "https://www.scmp.com/news/world/middle-east/article/3346629/israel-may-commit-new-genocide-lebanon-using-iran-war-pretext-turkey-warns?utm_source=rss_feed",
@@ -399,7 +382,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 24,
+      "position": 23,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war: Trump urges China, other nations, to send warships to secure Hormuz",
@@ -416,7 +399,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 25,
+      "position": 24,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war entering ‘decisive phase’, Israel says, as attacks continue",
@@ -433,7 +416,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 26,
+      "position": 25,
       "item": {
         "@type": "NewsArticle",
         "headline": "Hamas calls on Iran to ‘avoid targeting neighbouring countries’",
@@ -450,7 +433,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 27,
+      "position": 26,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war fallout puts 9 million Indian workers in the line of fire",
@@ -467,7 +450,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 28,
+      "position": 27,
       "item": {
         "@type": "NewsArticle",
         "headline": "Strikes on Iraqi capital kill 2 Iran-linked Kataeb Hezbollah members",
@@ -484,7 +467,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 29,
+      "position": 28,
       "item": {
         "@type": "NewsArticle",
         "headline": "Beyond Pax Silica: Japan, France and Canada seek rare earth autonomy",
@@ -501,7 +484,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 30,
+      "position": 29,
       "item": {
         "@type": "NewsArticle",
         "headline": "El CGRI insta a \"evacuar todas las industrias estadounidenses en la región\"",
@@ -518,7 +501,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 31,
+      "position": 30,
       "item": {
         "@type": "NewsArticle",
         "headline": "Orbán: \"Hungría no será una colonia ucraniana, aquí Zelenski no manda\"",
@@ -535,7 +518,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 32,
+      "position": 31,
       "item": {
         "@type": "NewsArticle",
         "headline": "\"Mucho más perjudiciales y tóxicos\": Otro lado oscuro de la agresión contra Irán",
@@ -552,7 +535,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 33,
+      "position": 32,
       "item": {
         "@type": "NewsArticle",
         "headline": "'Protejan el estrecho': el mensaje de Trump a los países que reciben petróleo por Ormuz",
@@ -569,7 +552,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 34,
+      "position": 33,
       "item": {
         "@type": "NewsArticle",
         "headline": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
@@ -586,7 +569,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 35,
+      "position": 34,
       "item": {
         "@type": "NewsArticle",
         "headline": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
@@ -603,7 +586,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 36,
+      "position": 35,
       "item": {
         "@type": "NewsArticle",
         "headline": "Russia not interested in arms race with Europe, European Parliament member says",
@@ -620,7 +603,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 37,
+      "position": 36,
       "item": {
         "@type": "NewsArticle",
         "headline": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
@@ -637,7 +620,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 38,
+      "position": 37,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Capital Rules for the Real Economy",
@@ -654,7 +637,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 39,
+      "position": 38,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
@@ -671,7 +654,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 40,
+      "position": 39,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Outlook for the Economy and Monetary Policy",

@@ -65,9 +65,9 @@
       "negativo": 0,
       "momentum": 16,
       "temas": [
+        "alianza",
         "encuesta",
-        "general",
-        "alianza"
+        "general"
       ]
     },
     "saul_monreal": {
@@ -76,10 +76,10 @@
       "negativo": 3,
       "momentum": 5,
       "temas": [
+        "general",
         "encuesta",
         "seguridad",
         "gasto_publico",
-        "general",
         "nepotismo"
       ]
     },
@@ -99,10 +99,10 @@
       "negativo": 1,
       "momentum": 9,
       "temas": [
+        "candidatura",
         "seguridad",
         "general",
-        "nepotismo",
-        "candidatura"
+        "nepotismo"
       ]
     },
     "varela_pinedo": {
@@ -130,8 +130,8 @@
       "negativo": 0,
       "momentum": 14,
       "temas": [
-        "general",
-        "alianza"
+        "alianza",
+        "general"
       ]
     }
   }
