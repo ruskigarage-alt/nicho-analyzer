@@ -126,6 +126,8 @@ FUENTES_ELECTORALES = [
     {"nombre": "proceso",           "url": "https://www.proceso.com.mx/rss/",                    "tipo": "nacional"},
     {"nombre": "animal_politico",   "url": "https://www.animalpolitico.com/feed/",               "tipo": "nacional"},
     {"nombre": "infobae_mx",        "url": "https://www.infobae.com/mexico/feed/",               "tipo": "nacional"},
+    {"nombre": "eltrochilero",  "url": "https://eltrochilero.com/feed/",                    "tipo": "local"},
+    {"nombre": "ntv_zacatecas", "url": "https://ntv.com.mx/feed/",                          "tipo": "local"},
 ]
 
 # ─────────────────────────────────────────
@@ -168,7 +170,10 @@ def clasificar_tema(texto):
 def minar_fuente_electoral(fuente):
     print(f"  → {fuente['nombre']}...")
     try:
-        feed = feedparser.parse(fuente["url"])
+        feed = feedparser.parse(
+            fuente["url"],
+            request_headers={"User-Agent": "Mozilla/5.0"}
+        )
         if not feed.entries:
             print(f"    sin entradas")
             return []

@@ -2,8 +2,8 @@
   "meta": {
     "fuente": "Cripeso · Marzo 2026",
     "actualizado": "2026-03-14",
-    "total_menciones_hoy": 0,
-    "entradas_analizadas": 0,
+    "total_menciones_hoy": 2,
+    "entradas_analizadas": 2,
     "nota": "Generado automáticamente. Edita ENCUESTAS en generar_candidatos_json.py para actualizar porcentajes."
   },
   "candidatos": [
@@ -72,15 +72,29 @@
       "partido": "PT/Morena",
       "partyClass": "ptmorena",
       "pct": 21.7,
-      "momentum": -5,
-      "menciones": 0,
+      "momentum": -3,
+      "menciones": 2,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Medios locales",
       "tags": [
-        "general"
+        "seguridad",
+        "gasto_publico"
       ],
-      "noticias": []
+      "noticias": [
+        {
+          "fuente": "eltrochilero",
+          "tag": "gasto_publico",
+          "texto": "Arranca David Monreal Programa Diésel Agropecuario 2026 para el campo",
+          "link": "https://eltrochilero.com/arranca-david-monreal-programa-diesel-agropecuario-2026-para-el-campo/"
+        },
+        {
+          "fuente": "eltrochilero",
+          "tag": "seguridad",
+          "texto": "Zacatecas instalará Punto Inteligente Vecinal para prevenir delitos",
+          "link": "https://eltrochilero.com/zacatecas-instalara-punto-inteligente-vecinal-para-prevenir-delitos/"
+        }
+      ]
     },
     {
       "nombre": "Verónica Díaz Robles",
