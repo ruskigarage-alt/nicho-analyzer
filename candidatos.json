@@ -20,7 +20,8 @@
       "tags": [
         "general"
       ],
-      "noticias": []
+      "noticias": [],
+      "id": "varela_pinedo"
     },
     {
       "nombre": "Adolfo Bonilla Gómez",
@@ -35,7 +36,8 @@
       "tags": [
         "general"
       ],
-      "noticias": []
+      "noticias": [],
+      "id": "bonilla_gomez"
     },
     {
       "nombre": "Ulises Mejía Haro",
@@ -50,7 +52,8 @@
       "tags": [
         "general"
       ],
-      "noticias": []
+      "noticias": [],
+      "id": "mejia_haro"
     },
     {
       "nombre": "Claudia Anaya Mota",
@@ -65,7 +68,8 @@
       "tags": [
         "general"
       ],
-      "noticias": []
+      "noticias": [],
+      "id": "anaya_mota"
     },
     {
       "nombre": "Saúl Monreal Ávila",
@@ -94,7 +98,8 @@
           "texto": "Zacatecas instalará Punto Inteligente Vecinal para prevenir delitos",
           "link": "https://eltrochilero.com/zacatecas-instalara-punto-inteligente-vecinal-para-prevenir-delitos/"
         }
-      ]
+      ],
+      "id": "saul_monreal"
     },
     {
       "nombre": "Verónica Díaz Robles",
@@ -109,7 +114,8 @@
       "tags": [
         "general"
       ],
-      "noticias": []
+      "noticias": [],
+      "id": "diaz_robles"
     },
     {
       "nombre": "José Narro Céspedes",
@@ -124,7 +130,8 @@
       "tags": [
         "general"
       ],
-      "noticias": []
+      "noticias": [],
+      "id": "narro_cespedes"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": "bonilla_gomez",
+  "nombre": "Adolfo Bonilla Gómez",
+  "partido": "PRI",
+  "partyClass": "pri",
+  "actualizado": "2026-03-14",
+  "fuente_wiki": null,
+  "bio_corta": "Político priista zacatecano, aspirante a la gubernatura de Zacatecas para las elecciones de 2027.",
+  "nacimiento": "Zacatecas, México",
+  "educacion": [
+    "Derecho"
+  ],
+  "partido_actual": "Partido Revolucionario Institucional (PRI)",
+  "militancia_desde": "—",
+  "cargo_actual": "Aspirante a la gubernatura de Zacatecas 2027",
+  "cargos": [
+    {
+      "cargo": "Candidato a gobernador de Zacatecas",
+      "periodo": "2027",
+      "partido": "PRI"
+    }
+  ],
+  "vinculos": [],
+  "cargos_detectados": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "varela_pinedo",
+  "nombre": "Miguel Varela Pinedo",
+  "partido": "PAN",
+  "partyClass": "pan",
+  "actualizado": "2026-03-14",
+  "fuente_wiki": null,
+  "bio_corta": "Político zacatecano del PAN, aspirante a la gubernatura de Zacatecas para las elecciones de 2027.",
+  "nacimiento": "Zacatecas, México",
+  "educacion": [
+    "Derecho"
+  ],
+  "partido_actual": "Partido Acción Nacional (PAN)",
+  "militancia_desde": "—",
+  "cargo_actual": "Aspirante a la gubernatura de Zacatecas 2027",
+  "cargos": [
+    {
+      "cargo": "Candidato a gobernador de Zacatecas",
+      "periodo": "2027",
+      "partido": "PAN"
+    }
+  ],
+  "vinculos": [],
+  "cargos_detectados": []
+}

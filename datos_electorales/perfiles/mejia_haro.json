@@ -1,0 +1,30 @@
+{
+  "id": "mejia_haro",
+  "nombre": "Ulises Mejía Haro",
+  "partido": "Morena",
+  "partyClass": "morena",
+  "actualizado": "2026-03-14",
+  "fuente_wiki": null,
+  "bio_corta": "Político morenista, ex presidente municipal de Zacatecas, aspirante a la gubernatura 2027.",
+  "nacimiento": "Zacatecas, México",
+  "educacion": [
+    "Derecho"
+  ],
+  "partido_actual": "Morena",
+  "militancia_desde": "—",
+  "cargo_actual": "Aspirante a la gubernatura de Zacatecas 2027",
+  "cargos": [
+    {
+      "cargo": "Presidente municipal de Zacatecas",
+      "periodo": "2022-2025",
+      "partido": "Morena"
+    },
+    {
+      "cargo": "Candidato a gobernador de Zacatecas",
+      "periodo": "2027",
+      "partido": "Morena"
+    }
+  ],
+  "vinculos": [],
+  "cargos_detectados": []
+}

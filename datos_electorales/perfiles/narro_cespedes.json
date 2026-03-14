@@ -1,0 +1,25 @@
+{
+  "id": "narro_cespedes",
+  "nombre": "José Narro Céspedes",
+  "partido": "PT",
+  "partyClass": "pt",
+  "actualizado": "2026-03-14",
+  "fuente_wiki": "https://es.wikipedia.org/wiki/Jos%C3%A9_Narro_C%C3%A9spedes",
+  "bio_corta": "José Narro Céspedes es un médico y político mexicano, militante del Movimiento Regeneración Nacional; desde el 1 de septiembre de 2018 es senador al Congreso de la Union por el Estado de Zacatecas. Durante su carrera política ha sido diputado local en dos oportunidades y diputado federal en tres oportunidades, además de ocupar otros cargos como presidente de la Comisión de Agricultura, Ganadería, Pesca y Desarrollo Rural del Senado de la República y dirigente de la Coordinadora Nacional Plan de Ayala (CNPA) y del Frente Popular de Lucha de Zacatecas (FPLZ). Fue fundador y miembro del Partido d",
+  "nacimiento": "Zacatecas, México",
+  "educacion": [
+    "—"
+  ],
+  "partido_actual": "Partido del Trabajo (PT)",
+  "militancia_desde": "—",
+  "cargo_actual": "Diputado federal",
+  "cargos": [
+    {
+      "cargo": "Diputado federal",
+      "periodo": "2021-2024",
+      "partido": "PT"
+    }
+  ],
+  "vinculos": [],
+  "cargos_detectados": []
+}

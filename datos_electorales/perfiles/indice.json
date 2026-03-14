@@ -1,0 +1,55 @@
+{
+  "actualizado": "2026-03-14",
+  "total": 7,
+  "candidatos": [
+    {
+      "id": "varela_pinedo",
+      "nombre": "Miguel Varela Pinedo",
+      "partido": "PAN",
+      "cargo_actual": "Aspirante a la gubernatura de Zacatecas 2027",
+      "fuente_wiki": null
+    },
+    {
+      "id": "bonilla_gomez",
+      "nombre": "Adolfo Bonilla Gómez",
+      "partido": "PRI",
+      "cargo_actual": "Aspirante a la gubernatura de Zacatecas 2027",
+      "fuente_wiki": null
+    },
+    {
+      "id": "mejia_haro",
+      "nombre": "Ulises Mejía Haro",
+      "partido": "Morena",
+      "cargo_actual": "Aspirante a la gubernatura de Zacatecas 2027",
+      "fuente_wiki": null
+    },
+    {
+      "id": "anaya_mota",
+      "nombre": "Claudia Anaya Mota",
+      "partido": "PRI",
+      "cargo_actual": "Senadora de la República",
+      "fuente_wiki": "https://es.wikipedia.org/wiki/Claudia_Anaya_Mota"
+    },
+    {
+      "id": "saul_monreal",
+      "nombre": "Saúl Monreal Ávila",
+      "partido": "PT/Morena",
+      "cargo_actual": "Senador de la República",
+      "fuente_wiki": "https://es.wikipedia.org/wiki/Sa%C3%BAl_Monreal_%C3%81vila"
+    },
+    {
+      "id": "diaz_robles",
+      "nombre": "Verónica Díaz Robles",
+      "partido": "Morena",
+      "cargo_actual": "Aspirante a la gubernatura de Zacatecas 2027",
+      "fuente_wiki": "https://es.wikipedia.org/wiki/Ver%C3%B3nica_D%C3%ADaz_Robles"
+    },
+    {
+      "id": "narro_cespedes",
+      "nombre": "José Narro Céspedes",
+      "partido": "PT",
+      "cargo_actual": "Diputado federal",
+      "fuente_wiki": "https://es.wikipedia.org/wiki/Jos%C3%A9_Narro_C%C3%A9spedes"
+    }
+  ]
+}
