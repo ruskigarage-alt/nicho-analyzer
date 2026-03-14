@@ -266,6 +266,7 @@ html = f"""<!DOCTYPE html>
 <title>Mexico Economic Signals — {FECHA}</title>
 <meta name="description" content="Dashboard diario de señales económicas para México y LATAM. Cotizaciones, noticias y diagnóstico integral. {FECHA}.">
 <meta name="robots" content="index, follow">
+<link rel="canonical" href="https://ruskigarage-alt.github.io/nicho-analyzer/dashboard.html">
 <meta name="dateModified" content="{datetime.now(timezone.utc).isoformat()}">
 <link rel="alternate" type="application/json"  title="Dataset completo"   href="{BASE_URL}/dataset.json">
 <link rel="alternate" type="application/json"  title="Feed JSON"          href="{BASE_URL}/feed.json">

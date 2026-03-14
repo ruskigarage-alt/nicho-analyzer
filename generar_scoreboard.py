@@ -324,6 +324,7 @@ html = f"""<!DOCTYPE html>
 <meta name="robots" content="index, follow">
 <meta name="keywords" content="Zacatecas elecciones 2027, candidatos gobernador Zacatecas, Morena Zacatecas, PAN Zacatecas">
 <meta name="dateModified" content="{datetime.now(timezone.utc).isoformat()}">
+<link rel="canonical" href="https://ruskigarage-alt.github.io/nicho-analyzer/scoreboard.html">
 <link rel="alternate" type="application/rss+xml" href="{BASE_URL}/mi_feed/feed.xml">
 <script type="application/ld+json">{jsonld}</script>
 <style>
