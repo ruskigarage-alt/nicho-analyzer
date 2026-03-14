@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-14"
 date: "2026-03-14"
 nicho: "geopolitica"
-total_entradas: 39
+total_entradas: 40
 schema: "NewsDigest"
 ---
 
@@ -60,6 +60,13 @@ schema: "NewsDigest"
 - **Resumen**: El presunto narcotraficante uruguayo Sebastián Marset, buscado en diversos países y acusado de ser el cerebro del crimen de un fiscal paraguayo en 2022, fue capturado junto a cuatro de sus colaboradores, incluida una mujer, en un barrio residencial de Santa Cruz, y entregado a la Administración para el Control de Drogas (DEA), que lo trasladó a Estados Unidos, informó ayer Marco Antonio Oviedo, ministro de gobierno de Bolivia.
 - **Relevancia**: 0.4753
 
+### Iran Denies Attack on Lanaz Oil Refinery in Northern Iraq
+- **Fecha**: Sat, 14 Mar 2026 21:09:31 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-14/iran-denies-attack-on-lanaz-oil-refinery-in-northern-iraq
+- **Resumen**: Iran and allied Iraqi militia groups denied attacking the Lanaz oil refinery in northern Iraq, the semi-official Tasnim news agency reported, citing an unnamed military official.
+- **Relevancia**: 0.4731
+
 ### Gas Prices & Airfare Spike as Iran War Drags On
 - **Fecha**: Sat, 14 Mar 2026 16:17:25 GMT
 - **Fuente**: bloomberg_markets
@@ -109,13 +116,6 @@ schema: "NewsDigest"
 - **Resumen**: “Hopefully China, France, Japan, South Korea, the UK, and others, that are affected by this artificial constraint, will send Ships,” President Donald Trump says in a Truth Social post.
 - **Relevancia**: 0.5367
 
-### Second Dynacom Oil Tanker Passes Hormuz as Other Owners Hold Back
-- **Fecha**: Sat, 14 Mar 2026 13:09:27 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-14/second-dynacom-oil-tanker-passes-hormuz-as-other-owners-hold-back
-- **Resumen**: A Greek shipowner sent a second oil tanker through the Strait of Hormuz, bucking caution among the shipping industry as Iran lashes out across the region in response to attacks by Israel and the US.
-- **Relevancia**: 0.7481
-
 ### Trump’s Efforts to Defuse the Oil Spike Aren’t Working
 - **Fecha**: Thu, 12 Mar 2026 17:53:32 +0000
 - **Fuente**: foreign_policy
@@ -143,20 +143,6 @@ schema: "NewsDigest"
 - **URL**: https://www.aljazeera.com/video/quotable/2026/3/14/israel-targeting-irans-security-forces-may-aim-to-encourage?traffic_source=rss
 - **Resumen**: ‘Israel targeting Iran’s security forces may aim to encourage uprising’ says director of the Iran Program at the MEI.
 - **Relevancia**: 0.6203
-
-### Iran allows limited Indian shipping through Strait of Hormuz
-- **Fecha**: Sat, 14 Mar 2026 16:23:24 +0000
-- **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-allows-limited-indian-shipping-through-strait-of-hormuz?traffic_source=rss
-- **Resumen**: Iran has allowed some Indian vessels through the Strait of Hormuz.
-- **Relevancia**: 0.5831
-
-### Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs
-- **Fecha**: Sat, 14 Mar 2026 16:03:00 +0000
-- **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss
-- **Resumen**: Drone strikes have hit the paramilitary&#039;s heavily armed checkpoints this week, Islamic Revolutionary Guard Corps said.
-- **Relevancia**: 0.6044
 
 ### Israel may commit ‘new genocide’ in Lebanon using Iran war as pretext, Turkey warns
 - **Fecha**: Sat, 14 Mar 2026 17:40:47 +0000
@@ -222,6 +208,22 @@ Japan, France and Canada have all been exploring how to build supply chains for 
 Senior officials from the three Group of Seven economies are working on...
 - **Relevancia**: 0.6477
 
+### General iraní: "El fin de la guerra está en nuestras manos"
+- **Fecha**: Sat, 14 Mar 2026 20:42:24 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592901-general-irani-fin-guerra-esta-manos?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b59ac559bf5b4f1f27b506.jpg" style="float: left;" />
+        	Omán e Irán son, junto a otros países del golfo Pérsico, los que deben controlar el estrecho de Ormuz, opina un infuyente general de la Guardia Revolucionaria Islámica.
+- **Relevancia**: 0.4642
+
+### Irán golpea una base que alberga cazas F-35 de EE.UU.
+- **Fecha**: Sat, 14 Mar 2026 20:25:07 +0000
+- **Fuente**: rt_espanol
+- **URL**: https://actualidad.rt.com/actualidad/592957-iran-golpea-base-alberga-cazas-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5cc5ae9ff711874488ace.jpg" style="float: left;" />
+        	El CGRI detalló que la operación se realizó mediante un ataque combinado de misiles de combustible líquido y solido.
+- **Relevancia**: 0.4627
+
 ### El CGRI insta a "evacuar todas las industrias estadounidenses en la región"
 - **Fecha**: Sat, 14 Mar 2026 19:59:57 +0000
 - **Fuente**: rt_espanol
@@ -245,41 +247,47 @@ Senior officials from the three Group of Seven economies are working on...
         	Expertos hacen saltar las alarmas por más consecuencias devastadoras de la actual escalada en Oriente Medio, que perdurarán a lo largo de décadas.
 - **Relevancia**: 0.4724
 
-### 'Protejan el estrecho': el mensaje de Trump a los países que reciben petróleo por Ormuz
-- **Fecha**: Sat, 14 Mar 2026 19:08:36 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592948-trump-pide-paises-reciben-petroleo-estrecho-ormuz-velar-seguridad?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b5b4c9e9ff7114aa02c9d1.jpg" style="float: left;" />
-        	El mandatario estadounidense comentó que ese "siempre debería haber sido un esfuerzo de equipo".
-- **Relevancia**: 0.6144
-
-### Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry
-- **Fecha**: Wed, 04 Jun 2025 14:21:03 +0300
+### US rebuffs efforts by Middle East monarchies toward ceasefire talks with Iran — Reuters
+- **Fecha**: Sat, 14 Mar 2026 20:54:48 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/politics/1968329
-- **Resumen**: "As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire," Maria Zakharova said
-- **Relevancia**: 0.4822
+- **URL**: https://tass.com/world/2101651
+- **Resumen**: In its turn, Iran is not ready to discuss a ceasefire until the United States and Israel stop intense bombing and meet its demands, including compensation
+- **Relevancia**: 0.5037
 
-### Poland's capacity to deliver arms to Ukraine heavily constrained — paper
-- **Fecha**: Wed, 04 Jun 2025 13:22:26 +0300
+### Israel carries out 400 waves of attacks on Iran since February 28 — IDF
+- **Fecha**: Sat, 14 Mar 2026 19:31:48 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/1968271
-- **Resumen**: According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine
-- **Relevancia**: 0.4853
+- **URL**: https://tass.com/world/2101639
+- **Resumen**: The Israeli Air Force focused "on the dismantling of infrastructure and targeting operatives of the fire, defense, and production units in western Iran," the Israeli military said
+- **Relevancia**: 0.7033
 
-### Russia not interested in arms race with Europe, European Parliament member says
-- **Fecha**: Wed, 04 Jun 2025 13:02:43 +0300
+### Iran announces new wave of missile strikes on Israel — public broadcaster
+- **Fecha**: Sat, 14 Mar 2026 16:19:52 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/1968241
-- **Resumen**: Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as "strategic patience"
-- **Relevancia**: 0.5195
+- **URL**: https://tass.com/world/2101609
+- **Resumen**: Air raid sirens have been ringing out in Tel Aviv and adjacent areas in central Israel
+- **Relevancia**: 0.6088
 
-### Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint
-- **Fecha**: Wed, 04 Jun 2025 13:00:01 +0300
+### Iran attacks US military objects in UAE, Kuwait, Bahrain — IRGC
+- **Fecha**: Sat, 14 Mar 2026 16:17:11 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/pressreview/1968153
-- **Resumen**: Top stories from the Russian press on Wednesday, June 4th
-- **Relevancia**: 0.4758
+- **URL**: https://tass.com/world/2101607
+- **Resumen**: Iranian missiles and UAVs struck Patriot radars, a control tower, and anti-aircraft installations at the Al-Dhafra base, the Islamic Revolutionary Guard Corps reported
+- **Relevancia**: 0.4791
+
+### Pentagon reports strikes on 90 military targets on Iran's Kharg Island
+- **Fecha**: Sat, 14 Mar 2026 15:16:23 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101603
+- **Resumen**: But the Islamic Republic’s oil industry facilities located there were not affected, CENTCOM said
+- **Relevancia**: 0.5125
+
+### Israeli army reports destruction of Iranian Space Agency research center
+- **Fecha**: Sat, 14 Mar 2026 14:31:56 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101597
+- **Resumen**: In addition, strikes targeted several facilities involved in the production of air defense systems, the military stated
+- **Relevancia**: 0.6352
 
 ### Bowman, Capital Rules for the Real Economy
 - **Fecha**: Thu, 12 Mar 2026 15:00:00 GMT

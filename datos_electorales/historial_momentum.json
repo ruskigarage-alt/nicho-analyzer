@@ -65,8 +65,8 @@
       "negativo": 0,
       "momentum": 16,
       "temas": [
-        "alianza",
         "encuesta",
+        "alianza",
         "general"
       ]
     },
@@ -76,10 +76,10 @@
       "negativo": 3,
       "momentum": 5,
       "temas": [
-        "general",
+        "gasto_publico",
         "encuesta",
         "seguridad",
-        "gasto_publico",
+        "general",
         "nepotismo"
       ]
     },
@@ -89,8 +89,8 @@
       "negativo": 0,
       "momentum": 12,
       "temas": [
-        "general",
-        "candidatura"
+        "candidatura",
+        "general"
       ]
     },
     "narro_cespedes": {
@@ -99,8 +99,8 @@
       "negativo": 1,
       "momentum": 9,
       "temas": [
-        "candidatura",
         "seguridad",
+        "candidatura",
         "general",
         "nepotismo"
       ]
