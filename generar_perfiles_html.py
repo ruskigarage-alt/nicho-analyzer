@@ -117,7 +117,13 @@ def generar_html_perfil(perfil):
               <div class="cargo-partido">{c.get('partido','—')}</div>
             </div>"""
     elif cargos_detectados:
-        for c in cargos_detectados[:6]:
+        keywords_cargo = ["diputad", "senador", "presidente", "gobernador",
+                         "secretari", "regidor", "síndico", "alcalde", "director"]
+        cargos_filtrados = [
+            c for c in cargos_detectados
+            if any(k in c.lower() for k in keywords_cargo) and len(c) < 150
+        ]
+        for c in (cargos_filtrados or ["No disponible"])[:6]:
             cargos_html += f"""
             <div class="cargo-item">
               <div class="cargo-titulo">{c}</div>
@@ -127,6 +133,29 @@ def generar_html_perfil(perfil):
 
     # Vínculos
     vinculos = perfil.get("vinculos", [])
+    # Separar nombres pegados y filtrar el propio candidato
+    def separar_nombres(texto):
+        palabras = texto.split()
+        nombres = []
+        i = 0
+        while i < len(palabras) - 1:
+            if palabras[i][0].isupper():
+                if i+2 < len(palabras) and palabras[i+1][0].isupper() and palabras[i+2][0].isupper():
+                    nombres.append(' '.join(palabras[i:i+3]))
+                    i += 3
+                elif i+1 < len(palabras) and palabras[i+1][0].isupper():
+                    nombres.append(' '.join(palabras[i:i+2]))
+                    i += 2
+                else:
+                    i += 1
+            else:
+                i += 1
+        return nombres if nombres else [texto]
+
+    vinculos_separados = []
+    for v in vinculos:
+        vinculos_separados.extend(separar_nombres(v))
+    vinculos = [v for v in vinculos_separados if perfil["nombre"] not in v and len(v) > 4]
     vinculos_html = ""
     if vinculos:
         vinculos_html = "<ul class='vinculos-list'>"
@@ -160,7 +189,7 @@ def generar_html_perfil(perfil):
   <div class="breadcrumb">
     <a href="index.html">nicho-analyzer</a> /
     <a href="radar_electoral_zacatecas.html">radar electoral</a> /
-    {nombre.split()[0].lower()}_{nombre.split()[-1].lower()}
+    {pid}
   </div>
 
   <div class="perfil-header">
