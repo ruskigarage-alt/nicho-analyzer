@@ -15,19 +15,17 @@
       "negativo": 0,
       "momentum": 4,
       "temas": [
+        "gasto_publico",
         "seguridad",
-        "general",
-        "gasto_publico"
+        "general"
       ]
     },
     "diaz_robles": {
-      "menciones": 1,
-      "positivo": 1,
+      "menciones": 0,
+      "positivo": 0,
       "negativo": 0,
-      "momentum": 3,
-      "temas": [
-        "candidatura"
-      ]
+      "momentum": 0,
+      "temas": []
     },
     "narro_cespedes": {
       "menciones": 0,

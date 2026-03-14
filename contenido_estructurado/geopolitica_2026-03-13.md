@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-13"
 date: "2026-03-13"
 nicho: "geopolitica"
-total_entradas: 42
+total_entradas: 51
 schema: "NewsDigest"
 ---
 
@@ -74,40 +74,33 @@ schema: "NewsDigest"
 - **Resumen**: Los ataques directos a buques petroleros en Medio Oriente, la apuesta de Irán por el bloqueo sostenido del estrecho de Ormuz y la advertencia de que el mundo se enfrenta a la mayor interrupción petrolera de la historia, detonó la volatilidad del precio del crudo, que este jueves cerró arriba del nivel de 100 dólares por barril.
 - **Relevancia**: 0.5815
 
-### BofA’s Hartnett Warns Markets Looking Like 2008
-- **Fecha**: Fri, 13 Mar 2026 11:58:31 GMT
+### US Hits Military Targets on Iran’s Kharg Island as War Escalates
+- **Fecha**: Fri, 13 Mar 2026 16:16:03 GMT
 - **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-13/bofa-s-hartnett-warns-markets-are-starting-to-look-like-2008
-- **Resumen**: The spike in oil prices and growing concerns around private credit are causing market activity to resemble the lead-up to the global financial crisis, according to Bank of America’s Michael Hartnett.
-- **Relevancia**: 0.5001
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-13/us-intensifies-strikes-rhetoric-in-iran-war-as-oil-rises
+- **Resumen**: President Donald Trump said the US bombed military targets on a critical Iranian outpost in the Persian Gulf and threatened additional strikes targeting oil infrastructure if Tehran continued to block energy flows, in the latest escalation of the two-week conflict that has upended the region.
+- **Relevancia**: 0.5435
 
-### Gold Heads for Weekly Drop as Mideast War Keeps Oil Prices High
+### Stocks Fall and Brent Tops $100 as War Heats Up: Markets Wrap
+- **Fecha**: Thu, 12 Mar 2026 22:27:20 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap
+- **Resumen**: Volatility gripped Wall Street, with stocks falling and oil jumping to an over three-year high as the war in Iran raged on. A rally in bonds waned as higher energy prices stoked inflation angst.
+- **Relevancia**: 0.5611
+
+### Hedge Funds Turn Most Bullish on Oil Since 2020 Amid Iran War
+- **Fecha**: Fri, 13 Mar 2026 20:58:59 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-13/hedge-funds-turn-most-bullish-on-oil-since-2020-amid-iran-war
+- **Resumen**: Hedge funds turned the most bullish on Brent oil in six years at the outset of one of the crude market’s most volatile weeks ever.
+- **Relevancia**: 0.4639
+
+### Gold Heads for Weekly Drop as War in Iran Keeps Oil Prices High
 - **Fecha**: Thu, 12 Mar 2026 22:20:17 GMT
 - **Fuente**: bloomberg_markets
 - **URL**: https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further
-- **Resumen**: Gold edged higher on Friday, but headed for a second weekly decline as the war in the Middle East kept oil prices near $100 a barrel, underpinning global inflationary pressures.
-- **Relevancia**: 0.5662
-
-### European Stocks Rebound on Hopes of Hormuz Passage for Tankers
-- **Fecha**: Fri, 13 Mar 2026 08:26:53 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-13/european-stocks-set-for-second-weekly-drop-as-iran-war-weighs
-- **Resumen**: European stocks rose Friday as oil prices slipped below $100 a barrel, following news reports that several European nations are in talks with Iran for a safe passage for their ships through the Strait of Hormuz, a key transport artery that’s been effectively shut amid the Iran war.
-- **Relevancia**: 0.5191
-
-### Treasuries Rise as Data Supports Case for Fed Rate Cut This Year
-- **Fecha**: Fri, 13 Mar 2026 12:52:17 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-13/treasuries-rise-as-data-backs-case-for-a-fed-rate-cut-this-year
-- **Resumen**: US Treasuries advanced and bond traders nearly priced in one Federal Reserve interest-rate cut after data revealed a more discerning consumer, sticky inflation and weaker growth.
-- **Relevancia**: 0.5693
-
-### How the Iran War Could Usher in a New Era of Global Shiite Extremism
-- **Fecha**: Fri, 13 Mar 2026 10:00:55 +0000
-- **Fuente**: foreign_policy
-- **URL**: https://foreignpolicy.com/2026/03/13/terroism-iran-war-shiite-extremism/
-- **Resumen**: Degrading command and control over proxy groups could make them more dangerous and unpredictable.
-- **Relevancia**: 0.4625
+- **Resumen**: Gold fell on Friday, putting it on pace for its second weekly decline as the war in the Middle East kept oil prices above $100 a barrel, underpinning global inflationary pressures.
+- **Relevancia**: 0.465
 
 ### Trump’s Efforts to Defuse the Oil Spike Aren’t Working
 - **Fecha**: Thu, 12 Mar 2026 17:53:32 +0000
@@ -116,33 +109,97 @@ schema: "NewsDigest"
 - **Resumen**: Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.
 - **Relevancia**: 0.4675
 
-### What’s happened in Gaza and the West Bank since the start of the Iran war?
-- **Fecha**: Fri, 13 Mar 2026 12:50:04 +0000
+### Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next
+- **Fecha**: Sat, 14 Mar 2026 00:00:00 +0000
 - **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/news/2026/3/13/whats-happened-in-gaza-and-the-west-bank-since-the-start-of-the-iran-war?traffic_source=rss
-- **Resumen**: Israel has closed the Rafah border crossing and Israeli settler attacks in the occupied West Bank have continued.
-- **Relevancia**: 0.5084
+- **URL**: https://www.aljazeera.com/news/liveblog/2026/3/14/iran-war-live-pentagon-vows-to-ramp-up-us-military-campaign-against-iran?traffic_source=rss
+- **Resumen**: Intense strikes target central Tehran as US president says &#039;powerful&#039; bombing raid hit Iranian forces on Kharg Island.
+- **Relevancia**: 0.5114
 
-### Dozens injured after missile attack hits northern Israel
-- **Fecha**: Fri, 13 Mar 2026 12:41:15 +0000
+### Israel’s military campaign in Lebanon reaches devastating new phase
+- **Fecha**: Fri, 13 Mar 2026 20:10:43 +0000
 - **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/13/dozens-injured-after-missile-attack-hits-northern-israel?traffic_source=rss
-- **Resumen**: A missile attack that hit a Palestinian community in northern Israel has injured dozens of people.
-- **Relevancia**: 0.483
+- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss
+- **Resumen**: Israel has warned Lebanon could face Gaza-level destruction.
+- **Relevancia**: 0.4765
 
-### Air attack strikes Tehran during al-Quds Day rally
-- **Fecha**: Fri, 13 Mar 2026 11:54:07 +0000
+### Iranian missile strike in central Israel sets building ablaze
+- **Fecha**: Fri, 13 Mar 2026 20:04:14 +0000
 - **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/13/air-attack-strikes-tehran-during-al-quds-day-rally?traffic_source=rss
-- **Resumen**: An air attack struck near thousands of Iranians marking al-Quds Day in Tehran, reportedly killing at least one person.
-- **Relevancia**: 0.5255
+- **URL**: https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss
+- **Resumen**: Smoke and flames rising beside a road in central Israel after an Iranian missile attack, the Israeli army said.
+- **Relevancia**: 0.4865
 
-### Turkiye says NATO defences intercepted third missile from Iran
-- **Fecha**: Fri, 13 Mar 2026 11:51:45 +0000
+### Israel destroys bridge in Lebanon and threatens Gaza-scale devastation
+- **Fecha**: Fri, 13 Mar 2026 17:54:21 +0000
 - **Fuente**: al_jazeera
-- **URL**: https://www.aljazeera.com/news/2026/3/13/turkiye-says-nato-defences-intercepted-third-missile-from-iran?traffic_source=rss
-- **Resumen**: The missiles increasingly pose a test for NATO member Turkiye and the alliance.
-- **Relevancia**: 0.5147
+- **URL**: https://www.aljazeera.com/news/2026/3/13/israel-destroys-bridge-in-lebanon-and-threatens-gaza-scale-devastation?traffic_source=rss
+- **Resumen**: Israeli attacks since early March have killed 773 in Lebanon as military expands assault to more Beirut neighbourhoods.
+- **Relevancia**: 0.5036
+
+### Success uncertain, but Israelis continue to back ‘heroic’ war with Iran
+- **Fecha**: Fri, 13 Mar 2026 17:14:04 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/news/2026/3/13/success-uncertain-but-israelis-continue-to-back-heroic-war-with-iran?traffic_source=rss
+- **Resumen**: Israeli public overwhelmingly supports war with Iran, rallying behind Netanyahu despite political divisions.
+- **Relevancia**: 0.5998
+
+### Ukraine, EU allies slam US decision to roll back Russia oil sanctions
+- **Fecha**: Fri, 13 Mar 2026 17:05:57 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss
+- **Resumen**: Volodymyr Zelenskyy says move &#039;does not help peace&#039; as Europe reels from soaring energy prices linked to Iran war.
+- **Relevancia**: 0.5665
+
+### Ukraine finds new role as protector of US, Gulf allies amid Iran war
+- **Fecha**: Fri, 13 Mar 2026 17:03:22 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/news/2026/3/13/ukraine-finds-new-role-as-protector-of-the-us-and-its-allies-in-gulf-war?traffic_source=rss
+- **Resumen**: Having abandoned Ukraine, the US has sought Kyiv&#039;s support in defence from Iranian drones.
+- **Relevancia**: 0.4891
+
+### Who wins and loses in the global energy crisis?
+- **Fecha**: Fri, 13 Mar 2026 16:10:18 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss
+- **Resumen**: As oil prices surge, some economies benefit while others face rising costs.
+- **Relevancia**: 0.6513
+
+### Beyond Pax Silica: Japan, France and Canada seek rare earth autonomy
+- **Fecha**: Sat, 14 Mar 2026 00:00:09 +0000
+- **Fuente**: scmp_world
+- **URL**: https://www.scmp.com/week-asia/economics/article/3346530/beyond-pax-silica-japan-france-and-canada-seek-rare-earth-autonomy?utm_source=rss_feed
+- **Resumen**: For years, the West’s answer to Chinese dominance of critical minerals was to rally around Washington. Now, some of its most important allies are reaching a different conclusion: that depending too heavily on the United States carries its own risks.
+Japan, France and Canada have all been exploring how to build supply chains for rare earths and other critical minerals that answer to neither Beijing nor Washington.
+Senior officials from the three Group of Seven economies are working on...
+- **Relevancia**: 0.6477
+
+### Iran lets 2 India-flagged gas tankers sail through Strait of Hormuz, insiders say
+- **Fecha**: Fri, 13 Mar 2026 18:35:10 +0000
+- **Fuente**: scmp_world
+- **URL**: https://www.scmp.com/news/world/middle-east/article/3346565/iran-lets-2-india-flagged-gas-tankers-sail-through-strait-hormuz-insiders-say?utm_source=rss_feed
+- **Resumen**: Iran ⁠has allowed two Indian-flagged liquefied ⁠petroleum gas carriers to sail through the Strait of Hormuz, ⁠four sources with direct knowledge of the matter said, a rare exception to the Iranian blockade that has disrupted global energy supplies.
+The Indian-flagged LPG tanker Shivalik crossed the Strait under escort from the Indian Navy, said two of the sources, and the second vessel, Nanda Devi, was expected to clear in the ‌next few hours.
+Since the United States and Israel launched a...
+- **Relevancia**: 0.6587
+
+### US downplays Strait of Hormuz concerns as Trump claims ‘there’s nothing to be afraid of’
+- **Fecha**: Fri, 13 Mar 2026 15:23:09 +0000
+- **Fuente**: scmp_world
+- **URL**: https://www.scmp.com/news/us/diplomacy/article/3346558/us-says-irans-new-supreme-leader-likely-wounded-dismisses-strait-hormuz-concerns?utm_source=rss_feed
+- **Resumen**: The Trump administration has sought to minimise the impact of the Strait of Hormuz’s effective closure while offering few details on how it might restore oil flows through the strategic waterway.
+“There’s nothing to be afraid of,” US President Donald Trump said in an interview with Fox News aired on Friday, urging oil tankers to “show some guts.”
+Trump said Washington was still considering escorting ships through the strait but did not indicate whether a decision had been made.
+“We would do it...
+- **Relevancia**: 0.6129
+
+### How Iran turned Strait of Hormuz into potent weapon against US bombardment
+- **Fecha**: Fri, 13 Mar 2026 15:15:07 +0000
+- **Fuente**: scmp_world
+- **URL**: https://www.scmp.com/news/world/middle-east/article/3346557/how-iran-turned-strait-hormuz-potent-weapon-against-us-bombardment?utm_source=rss_feed
+- **Resumen**: Long before the US and Israel ⁠attacked Iran, the Islamic Republic had devised its own weapon: holding the world’s main ⁠oil lifeline hostage to offset its foes’ military superiority, three regional sources familiar with Iranian planning said.
+For decades, Iran has signalled that if pushed into a confrontation, it would restrict tanker traffic in the Strait of Hormuz, the chokepoint where its adversaries are most exposed because disruptions there reverberate instantly through global energy...
+- **Relevancia**: 0.5459
 
 ### Strait of Hormuz transiting ships flash ‘China owner’ signals to evade Iran blockade
 - **Fecha**: Fri, 13 Mar 2026 12:45:56 +0000
@@ -189,90 +246,104 @@ The Treasury Department said the schemes, orchestrated by the North Korean gover
 The department also accused workers associated with North Korea...
 - **Relevancia**: 0.5313
 
-### Netanyahu threatens Iran’s new supreme leader, defends joint assault with US
-- **Fecha**: Thu, 12 Mar 2026 21:31:01 +0000
-- **Fuente**: scmp_world
-- **URL**: https://www.scmp.com/news/world/middle-east/article/3346419/netanyahu-threatens-irans-new-supreme-leader-defends-joint-assault-us?utm_source=rss_feed
-- **Resumen**: Israeli Prime Minister Benjamin Netanyahu on Thursday issued ⁠a veiled threat to kill Iran’s new supreme leader Mojtaba Khamenei even as he acknowledged that Israel’s joint air war with the US may not lead to a collapse of Tehran’s clerical government.
-Holding his first press conference since the start of the war, ‌the Israeli leader said that Iran was “no longer the same” after nearly two weeks of bombardment and that Tehran had suffered blows to its elite Revolutionary Guards Corps and Basij...
-- **Relevancia**: 0.5526
-
-### Iran’s new supreme leader defies Trump, says Hormuz must stay blocked
-- **Fecha**: Thu, 12 Mar 2026 14:05:21 +0000
-- **Fuente**: scmp_world
-- **URL**: https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed
-- **Resumen**: Iran’s new supreme leader has vowed to keep blocking the Strait of Hormuz, attack US bases and avenge the blood of its martyrs in his first statement since succeeding his father. US President Donald Trump responded with an insult and threat soon after.
-“The lever of blocking the Strait of Hormuz must definitely be used,” Mojtaba Khamenei said about the strategic waterway, which carries about a fifth of global oil shipments.
-Khamenei urged Iran’s Gulf neighbours to close US military bases in the...
-- **Relevancia**: 0.5153
-
-### "Que piense en sus cinco hijos y seis nietos": general retirado de Ucrania amenaza a Orbán
-- **Fecha**: Fri, 13 Mar 2026 14:50:48 +0000
+### Noboa decreta toque de queda en cuatro provincias de Ecuador
+- **Fecha**: Sat, 14 Mar 2026 00:13:49 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592511-general-ucrania-amenazar-orban?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b411d2e9ff716c4d34a8a4.jpg" style="float: left;" />
-        	La semana pasada, el líder del régimen ucraniano, Vladímir Zelenski, dio a entender al primer ministro que podría pasar su dirección a las Fuerzas Armadas de Ucrania.
-- **Relevancia**: 0.5415
+- **URL**: https://actualidad.rt.com/actualidad/592805-noboa-decreta-toque-queda-cuatro?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
+- **Relevancia**: 0.481
 
-### Cómo China puede ser la gran ganadora de la guerra en Oriente Medio
-- **Fecha**: Fri, 13 Mar 2026 13:56:03 +0000
+### El pretexto de un policía que mató a tiros a un joven: "Pensé que me iban a robar"
+- **Fecha**: Fri, 13 Mar 2026 23:52:32 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592644-nyt-china-gran-ganadora-guerra-oriente-medio?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3dd2259bf5b52be7f5992.jpg" style="float: left;" />
-        	La atención de EE.UU. centrada en Irán permite a Pekín obtener ciertas ventajas.
-- **Relevancia**: 0.4717
+- **URL**: https://actualidad.rt.com/actualidad/592785-pretexto-policia-matar-tiros-joven-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4a03759bf5b014d6be6cd.jpg" style="float: left;" />
+        	El hecho se investiga como un posible caso de "gatillo fácil".
+- **Relevancia**: 0.5417
 
-### Sismo de magnitud 6,3 sacude la costa central de Chile
-- **Fecha**: Fri, 13 Mar 2026 13:46:48 +0000
+### Nuevo dato enciende el 'criptogate' que salpica a Milei
+- **Fecha**: Fri, 13 Mar 2026 23:34:11 +0000
 - **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592697-sismo-magnitud-sacude-costa-chile?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b416c059bf5b7bee52f89b.jpg" style="float: left;" />
-        	El epicentro se ubicó al 41 kilómetros al suroeste de Huasco.
-- **Relevancia**: 0.5038
+- **URL**: https://actualidad.rt.com/actualidad/592782-nuevo-dato-enciende-criptogate-salpica-milei?utm_source=rss&utm_medium=rss&utm_campaign=all
+- **Resumen**: <img alt="Preview" src="https://actualidad.rt.com/feeds/all.rss" style="float: left;" />
+- **Relevancia**: 0.4881
 
-### Cancillería de Rusia convoca a los embajadores de Reino Unido y Francia por ataques contra Briansk
-- **Fecha**: Fri, 13 Mar 2026 13:24:18 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592692-cancilleria-rusia-embajadores-reino-unido-francia-ataques-misiles-briansk?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4111de9ff716c4d34a8a1.jpg" style="float: left;" />
-        	Moscú exigió emitir "una reacción pública clara con una condena firme e inequívoca del atentado terrorista de las Fuerzas Armadas de Ucrania".
-- **Relevancia**: 0.4966
-
-### Uno de cada tres hombres de la generación Z prefiere una esposa obediente
-- **Fecha**: Fri, 13 Mar 2026 12:50:35 +0000
-- **Fuente**: rt_espanol
-- **URL**: https://actualidad.rt.com/actualidad/592643-tres-hombres-jovenes-prefiere-tener?utm_source=rss&utm_medium=rss&utm_campaign=all
-- **Resumen**: <img alt="Preview" src="https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3da3659bf5b71f64b2d51.jpeg" style="float: left;" />
-        	La directora del estudio señaló que muchas personas se sientan presionadas por expectativas sociales que no reflejan lo que realmente la mayoría de la sociedad piensa.
-- **Relevancia**: 0.5461
-
-### Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry
-- **Fecha**: Wed, 04 Jun 2025 14:21:03 +0300
+### Israeli planes attack south of Beirut — source
+- **Fecha**: Fri, 13 Mar 2026 23:45:01 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/politics/1968329
-- **Resumen**: "As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire," Maria Zakharova said
-- **Relevancia**: 0.4822
+- **URL**: https://tass.com/world/2101483
+- **Resumen**: There is yet no information about the extent of the damage and the victims
+- **Relevancia**: 0.5679
 
-### Poland's capacity to deliver arms to Ukraine heavily constrained — paper
-- **Fecha**: Wed, 04 Jun 2025 13:22:26 +0300
+### Energy crisis in Europe cannot be overcome without Russia — Orban
+- **Fecha**: Fri, 13 Mar 2026 23:23:36 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/1968271
-- **Resumen**: According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine
-- **Relevancia**: 0.4853
+- **URL**: https://tass.com/world/2101479
+- **Resumen**: Hungarian Prime Minister state that Brussels does not want to know anything about the suspension of sanctions against Russian energy
+- **Relevancia**: 0.5511
 
-### Russia not interested in arms race with Europe, European Parliament member says
-- **Fecha**: Wed, 04 Jun 2025 13:02:43 +0300
+### Trump says to end operation against Iran when intuition tells him to
+- **Fecha**: Fri, 13 Mar 2026 23:11:01 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/1968241
-- **Resumen**: Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as "strategic patience"
-- **Relevancia**: 0.5195
+- **URL**: https://tass.com/world/2101475
+- **Resumen**: The US leader also said that prices for oil and other commodities would begin to decline immediately after the end of the operation
+- **Relevancia**: 0.4764
 
-### Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint
-- **Fecha**: Wed, 04 Jun 2025 13:00:01 +0300
+### Iran uses solid-fuel ballistic missiles to attack Israel — IRGC
+- **Fecha**: Fri, 13 Mar 2026 21:53:58 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/pressreview/1968153
-- **Resumen**: Top stories from the Russian press on Wednesday, June 4th
-- **Relevancia**: 0.4758
+- **URL**: https://tass.com/world/2101467
+- **Resumen**: Among the targets were "places of the deployment of American soldiers in the region"
+- **Relevancia**: 0.6247
+
+### Israel hits Basij headquarters in Tehran — IDF
+- **Fecha**: Fri, 13 Mar 2026 21:36:33 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101463
+- **Resumen**: The IDF added that the Israeli Air Force struck air defense systems and infrastructure at the first air defense base in Tehran
+- **Relevancia**: 0.5901
+
+### Iran launches new missiles towards Israel — state television
+- **Fecha**: Fri, 13 Mar 2026 21:08:38 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101453
+- **Resumen**: There is no information yet on the number of projectiles used
+- **Relevancia**: 0.5466
+
+### Iranian armed forces HQ reports on strikes against Israel, US bases in Bahrain, Iraq
+- **Fecha**: Fri, 13 Mar 2026 20:25:58 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101437
+- **Resumen**: According to the report, the Muwaffaq Salti base in Jordan and other US bases in Manama and Erbil were subjected to the most powerful attacks by missiles and drones of the Islamic Revolutionary Guard Corps
+- **Relevancia**: 0.6098
+
+### Ensuring Iran's security will bring oil prices down, ambassador to Moscow says
+- **Fecha**: Fri, 13 Mar 2026 20:23:56 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101435
+- **Resumen**: Kazem Jalali also pointed out that it was the United States and Israel that had destabilized the situation
+- **Relevancia**: 0.4661
+
+### Iran to provide safe passage for Indian ships through Strait of Hormuz — ambassador
+- **Fecha**: Fri, 13 Mar 2026 20:17:56 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/economy/2101433
+- **Resumen**: Mohammad Fathali said that Iran and India share common interests in the region
+- **Relevancia**: 0.4729
+
+### Annual inflation in Russia gearing up to 5.84% over week — Economy Ministry
+- **Fecha**: Fri, 13 Mar 2026 20:06:22 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/economy/2101427
+- **Resumen**: Inflation in the consumer market stood at 0.11% over the period from March 3 to 10, 2026
+- **Relevancia**: 0.5062
+
+### US-Israeli strikes leave more than 220 women, 200 children dead in Iran — ISNA agency
+- **Fecha**: Fri, 13 Mar 2026 19:37:35 +0300
+- **Fuente**: tass_english
+- **URL**: https://tass.com/world/2101419
+- **Resumen**: A total of 2,729 women and 1,190 minors, among them 41 children under two years old, have been injured
+- **Relevancia**: 0.5828
 
 ### Republican lawmakers shrug at more funding for Iran war
 - **Fecha**: Fri, 13 Mar 2026 14:09:39 +0000
@@ -294,13 +365,6 @@ Khamenei urged Iran’s Gulf neighbours to close US military bases in the...
 - **URL**: https://www.politico.eu/article/nato-intercepts-third-iran-missile-toward-turkey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 - **Resumen**: It was unclear whether Tehran was directly targeting Turkey or whether the missile was intended to cross Turkish airspace en route to another target.
 - **Relevancia**: 0.4704
-
-### Trump is ‘wrong’: Europeans slam US decision to ease Russia oil sanctions
-- **Fecha**: Fri, 13 Mar 2026 11:09:31 +0000
-- **Fuente**: politico_europe
-- **URL**: https://www.politico.eu/article/germany-friedrich-merz-blasts-donald-trump-lift-russian-energy-sanctions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-- **Resumen**: “We want to ensure that Russia does not exploit the war in Iran to weaken Ukraine,” the German chancellor said.
-- **Relevancia**: 0.5022
 
 ### Bowman, Capital Rules for the Real Economy
 - **Fecha**: Thu, 12 Mar 2026 15:00:00 GMT

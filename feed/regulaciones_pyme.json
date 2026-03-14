@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json",
   "language": "es-MX",
-  "date_modified": "2026-03-13T15:02:12.588378+00:00",
-  "total_records": 55,
+  "date_modified": "2026-03-14T00:45:57.267164+00:00",
+  "total_records": 54,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#0",
@@ -593,17 +593,6 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#53",
-      "title": "Nu: Tenemos más de 2 millones de clientes en el sur; el crédito es transformador",
-      "content_text": "",
-      "date_published": "2026-03-13",
-      "url": "https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador",
-      "tags": [
-        "regulaciones_pyme",
-        "expansion_economia"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#54",
       "title": "Inflacion INPC anual Mexico",
       "content_text": "",
       "date_published": "2026-03-13",

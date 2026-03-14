@@ -489,6 +489,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "HSBC: El cuello de botella del crecimiento en México era la falta de proyectos",
+        "resumen": "Jorge Arce, director general de HSBC México, dice que los planes de infraestructura del gobierno pueden detonar nuevas inversiones, especialmente en energía.",
+        "link": "https://expansion.mx/economia/2026/03/13/hsbc-falta-de-proyectos-principal-cuello-botella",
+        "fecha_publicacion": "Fri, 13 Mar 2026 11:55:52 GMT"
+      },
+      {
         "titulo": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
         "resumen": "Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.",
         "link": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion",
@@ -601,12 +607,6 @@
         "resumen": "El alza de alimentos y servicios mantuvo presiones en los precios durante febrero, mientras el componente subyacente —clave para Banxico— se ubicó en 4.50% anual.",
         "link": "https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico",
         "fecha_publicacion": "Mon, 09 Mar 2026 13:30:28 GMT"
-      },
-      {
-        "titulo": "Nu: Tenemos más de 2 millones de clientes en el sur; el crédito es transformador",
-        "resumen": "Armando Herrera, CEO de Nu México, dijo que de los más de 13 millones de clientes que tienen, un 14% está en la región de menos inclusión financiera.",
-        "link": "https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador",
-        "fecha_publicacion": "Mon, 09 Mar 2026 11:55:50 GMT"
       }
     ],
     "total_entradas": 20
@@ -647,124 +647,124 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "BofA’s Hartnett Warns Markets Looking Like 2008",
-        "resumen": "The spike in oil prices and growing concerns around private credit are causing market activity to resemble the lead-up to the global financial crisis, according to Bank of America’s Michael Hartnett.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/bofa-s-hartnett-warns-markets-are-starting-to-look-like-2008",
-        "fecha_publicacion": "Fri, 13 Mar 2026 11:58:31 GMT"
+        "titulo": "Wall Street Week | Soft US Jobs, Swedish Defense Spending, Private Credit Woes",
+        "resumen": "This week, Steven Rattner of Willett Advisors explains why the US labor market is softening and what tariffs, AI and stagflation risk could mean next. And as Europe prepares to spend more on defense, Sweden is emerging as an unlikely but crucial player in the continent’s push. Plus, private credit’s advantages are becoming vulnerabilities as some investors try to get their money out. Later, Nepal’s Gen Z protests toppled a government, and now the country’s voters are trying to turn that uprising into lasting change.\n (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-13/wall-street-week-yellow-alert-on-private-credit-video",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:14:02 GMT"
       },
       {
-        "titulo": "Arabica Coffee Drops as Analysts Raise Brazil Harvest Outlook",
-        "resumen": "Arabica coffee futures fell as much as 3.2% on expectations that top producer Brazil could produce a bumper 2026-27 crop.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/raw-sugar-set-for-weekly-gain-with-brazil-fuel-policy-in-focus",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:37:41 GMT"
+        "titulo": "Fuel Shortages From War Begin to Threaten Global Food Supply",
+        "resumen": "Food crops are becoming increasingly vulnerable to the energy supply crunch caused by war in the Middle East, with farmers across Asia and Europe facing a scarcity of fuel needed to operate essential machinery.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-14/fuel-shortages-from-war-begin-to-threaten-global-food-supply",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:00:00 GMT"
       },
       {
-        "titulo": "Treasuries Rise on Sluggish Data as War Rages On: Markets Wrap",
-        "resumen": "Wall Street traders rushed to the perceived safety of bonds amid signs of economic sluggishness while the war in Iran showed no signs of abating. The advance in stocks waned. Brent hovered near $100.",
+        "titulo": "US Hits Military Targets on Iran’s Kharg Island as War Escalates",
+        "resumen": "President Donald Trump said the US bombed military targets on a critical Iranian outpost in the Persian Gulf and threatened additional strikes targeting oil infrastructure if Tehran continued to block energy flows, in the latest escalation of the two-week conflict that has upended the region.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/us-intensifies-strikes-rhetoric-in-iran-war-as-oil-rises",
+        "fecha_publicacion": "Fri, 13 Mar 2026 16:16:03 GMT"
+      },
+      {
+        "titulo": "Blue Owl Private Credit BDC Urges Rejecting Boaz Weinstein Offer",
+        "resumen": "A Blue Owl Capital Inc. private credit fund is urging investors to reject a share purchase offer led by Boaz Weinstein’s Saba Capital Management, saying the price is too low.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/blue-owl-fund-urges-shareholders-to-reject-tender-from-saba-cox",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:49:40 GMT"
+      },
+      {
+        "titulo": "Private Credit Infecting Public Markets, Boaz Weinstein Says",
+        "resumen": "While sitting for a \"Bloomberg Money Stuff\" podcast episode taping, Saba Capital Management CIO Boaz Weinstein speaks about private credit \"infecting\" public markets. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-13/private-credit-infecting-public-markets-boaz-weinstein-video",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:50:59 GMT"
+      },
+      {
+        "titulo": "TD Says Corporate Bonds Are Now Cheap Enough to Consider Buying",
+        "resumen": "TD Securities believes now is the time for investors to consider taking on a little more risk and buying corporate bonds.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/td-says-corporate-bonds-are-now-cheap-enough-to-consider-buying",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:45:28 GMT"
+      },
+      {
+        "titulo": "Stocks Fall and Brent Tops $100 as War Heats Up: Markets Wrap",
+        "resumen": "Volatility gripped Wall Street, with stocks falling and oil jumping to an over three-year high as the war in Iran raged on. A rally in bonds waned as higher energy prices stoked inflation angst.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/asian-stocks-bonds-to-echo-us-drop-as-crude-rises-markets-wrap",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:27:20 GMT"
       },
       {
-        "titulo": "European Gas Set for Weekly Drop as Traders Await Iran War Signs",
-        "resumen": "European natural gas headed for a weekly decline as traders await more signs on how the Iran war will unfold and affect global energy supplies after the initial shock for LNG markets was priced in.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/europe-gas-open-interest-drops-as-traders-struggle-with-turmoil",
-        "fecha_publicacion": "Fri, 13 Mar 2026 08:00:34 GMT"
+        "titulo": "LSEG Looks to Sell as Much as $3 Billion of Bonds Next Week",
+        "resumen": "The London Stock Exchange Group Plc is seeking to sell as much as $3 billion of high-grade US corporate bonds as soon as early next week, according to people with knowledge of the transaction.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/lseg-looks-to-sell-as-much-as-3-billion-of-bonds-next-week",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:33:54 GMT"
       },
       {
-        "titulo": "Dollar Rises to Two-Month High as Oil Prices Hover Near $100",
-        "resumen": "The dollar touched its highest level in two months on Friday, as elevated oil prices sparked worries over inflation and the war in Iran showed no signs of winding down.",
+        "titulo": "Oaktree’s Poli Says Bigger Price Moves in Credit Are Coming",
+        "resumen": "Oaktree Capital Management’s Danielle Poli says the moment for the distressed debt shop to scoop up the asset class in droves isn’t here yet as global credit markets remain relatively resilient.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/oaktree-s-poli-says-bigger-price-moves-in-credit-are-coming",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:30:04 GMT"
+      },
+      {
+        "titulo": "Hedge Funds Turn Most Bullish on Oil Since 2020 Amid Iran War",
+        "resumen": "Hedge funds turned the most bullish on Brent oil in six years at the outset of one of the crude market’s most volatile weeks ever.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/hedge-funds-turn-most-bullish-on-oil-since-2020-amid-iran-war",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:58:59 GMT"
+      },
+      {
+        "titulo": "EM Posts Weekly Slump as Oil Shock Triggers Rates Repricing",
+        "resumen": "Emerging-market assets recorded their second week of losses and traders repriced several monetary policy moves as the Middle East crisis shows no signs of abating and concerns grow over the impact of high oil prices.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/em-stocks-set-for-second-weekly-drop-as-oil-prices-stay-buoyant",
+        "fecha_publicacion": "Fri, 13 Mar 2026 09:11:58 GMT"
+      },
+      {
+        "titulo": "Hims Shares Notch Record Week as Novo Pact Spurs Optimism",
+        "resumen": "Hims &amp; Hers Health Inc. shares posted their best week on record as a new partnership with Novo Nordisk A/S fuels fresh optimism about the company’s future in weight-loss drugs.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/hims-shares-set-for-record-week-as-new-novo-pact-fuels-optimism",
+        "fecha_publicacion": "Fri, 13 Mar 2026 13:53:27 GMT"
+      },
+      {
+        "titulo": "Brent Crude Closes Above $100 for Second Straight Session",
+        "resumen": "Brent crude settled above $100 a barrel for the second straight session, ending the day at the highest level in more than three years as the conflict in the Middle East drags on and world leaders struggle to resolve the biggest disruption to the oil market in history.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/brent-crude-closes-above-100-for-second-straight-session",
+        "fecha_publicacion": "Fri, 13 Mar 2026 19:01:38 GMT"
+      },
+      {
+        "titulo": "US Allows Venezuela to Sell Fertilizers as War Crimps Supply",
+        "resumen": "The Trump administration authorized Venezuela to sell fertilizers and other petrochemicals to US companies, further loosening sanctions just as the Iran war tightens global supplies of critical crop nutrients.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/us-authorizes-venezuela-to-sell-fertilizers-as-war-crimps-supply",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:16:07 GMT"
+      },
+      {
+        "titulo": "Tech Giants Enter Correction as Mideast War Drags Stocks Down",
+        "resumen": "Technology giants entered a correction on Friday as the war in Iran continued to escalate and oil closed above above $100 a barrel once again.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/us-stocks-rise-as-tepid-economic-data-boosts-rate-cut-hopes",
+        "fecha_publicacion": "Fri, 13 Mar 2026 13:43:54 GMT"
+      },
+      {
+        "titulo": "S&P Closes Out Third Straight Week of Loses | Closing Bell",
+        "resumen": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-13/s-p-closes-third-straight-week-of-loses-closing-bell-video",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:19:26 GMT"
+      },
+      {
+        "titulo": "Judge Rejects Subpoenas of Fed in Powell Case, DOJ to Appeal",
+        "resumen": "A federal judge rejected Justice Department subpoenas seeking records from the Federal Reserve Board related to its headquarters renovations and Chair Jerome Powell's comments to Congress.\nThe judge said the government had no evidence to justify the subpoenas and they reflected an \"improper motive\" of retaliating against Powell over policy differences.\nThe US Attorney's Office for the District of Columbia said they would appeal the decision, which was welcomed by a Republican senator who called the investigation \"a failed attack on Fed independence\". Bloomberg's Elliot Stein joins to discuss. (Source: Bloomberg)",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-13/judge-rejects-subpoenas-of-fed-in-powell-case-video",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:16:17 GMT"
+      },
+      {
+        "titulo": "Dollar Soars to Highest Level This Year as Oil Stirs Haven Bid",
+        "resumen": "The dollar ended a volatile week at its highest level this year, underscoring renewed appetite for the greenback as a haven amid the escalating conflict with Iran and surging energy prices.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-13/yen-slides-to-weakest-since-july-2024-as-iran-war-escalates",
         "fecha_publicacion": "Fri, 13 Mar 2026 04:34:16 GMT"
       },
       {
-        "titulo": "Brent Oil Trades Near $100 as Iran Vows to Keep Hormuz Closed",
-        "resumen": "Brent crude traded near $100 a barrel following one of the most volatile weeks ever for the oil market, with investors bracing for more upheaval as Iran pledged to keep the vital Strait of Hormuz effectively shut.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:05:31 GMT"
-      },
-      {
-        "titulo": "AT1 Hoarding Is Shielding Market From a Global Risk Selloff",
-        "resumen": "Investors are hanging onto Additional Tier 1 bonds for fear of missing out on getting hold of them again, enabling this risky bank debt to dodge the worst of the selloff seen across financial markets since the war in Iran.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/at1-investor-fomo-shields-market-from-global-selloff-in-risk",
-        "fecha_publicacion": "Fri, 13 Mar 2026 11:27:29 GMT"
-      },
-      {
-        "titulo": "US Consumer Spending Stalls, GDP Takes a Hit",
-        "resumen": "Wall Street is digesting a raft of economic data that could bolster the case for a Federal Reserve rate cut in 2026. The FOMC meets next week. Bloomberg's Michael McKee reports on consumer spending and US GDP growth. (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-13/us-consumer-spending-stalls-gdp-takes-a-hit-video",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:36:26 GMT"
-      },
-      {
-        "titulo": "Danish Drugmaker Leo Pharma Is Said to Seek Bank Pitches for IPO",
-        "resumen": "Leo Pharma A/S has invited investment bankers to vie for roles in a potential initial public offering, according to people familiar with the matter, as the more-than-a-century-old Danish drugmaker edges closer to going public.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/danish-drugmaker-leo-pharma-is-said-to-seek-bank-pitches-for-ipo",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:28:15 GMT"
-      },
-      {
-        "titulo": "Venture Global Greenlights $8.6 Billion US LNG Export Expansion",
-        "resumen": "Venture Global Inc. will move forward with an $8.6 billion expansion of its third liquefied natural gas export project in Louisiana, the company said on Friday.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/venture-global-greenlights-8-6-billion-us-lng-export-expansion",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:28:11 GMT"
-      },
-      {
-        "titulo": "EU Floats Fix for Euro Use That’s Clouding Montenegro Membership",
-        "resumen": "The European Union is close to overcoming a unique obstacle to Montenegro’s membership bid &mdash; the country’s de-facto use of the euro &mdash; people familiar with the matter said.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/eu-floats-fix-for-euro-use-that-s-clouding-montenegro-membership",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:20:41 GMT"
-      },
-      {
-        "titulo": "India Highway Authority Infra Trust IPO Subscribed 14 Times",
-        "resumen": "Raajmarg Infra Investment Trust’s 60 billion rupee ($649 million) initial public offering was subscribed 13.94 times on the final day of bidding, signaling resilient demand for yield-focused assets amid market volatility.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/india-highway-authority-s-infra-trust-ipo-subscribed-four-times",
-        "fecha_publicacion": "Fri, 13 Mar 2026 10:56:50 GMT"
-      },
-      {
-        "titulo": "Gold Heads for Weekly Drop as Mideast War Keeps Oil Prices High",
-        "resumen": "Gold edged higher on Friday, but headed for a second weekly decline as the war in the Middle East kept oil prices near $100 a barrel, underpinning global inflationary pressures.",
+        "titulo": "Gold Heads for Weekly Drop as War in Iran Keeps Oil Prices High",
+        "resumen": "Gold fell on Friday, putting it on pace for its second weekly decline as the war in the Middle East kept oil prices above $100 a barrel, underpinning global inflationary pressures.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-12/gold-steadies-after-two-day-drop-as-oil-prices-rally-further",
         "fecha_publicacion": "Thu, 12 Mar 2026 22:20:17 GMT"
       },
       {
-        "titulo": "What War in Iran Means for Teapot Oil Refineries in China",
-        "resumen": "A lot of Iranian oil goes to China's so-called \"teapot\" refineries, which tend to be smaller and owned by independent companies. On this episode of the Odd Lots podcast, Erica Downs, a senior research scholar at Columbia University, joins Joe Weisenthal and Tracy Alloway to discuss the buffer oil stock that China has built over the years and why it could ultimately play to the country's advantage. (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-13/what-war-in-iran-means-for-teapot-refineries-in-china-video",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:13:39 GMT"
-      },
-      {
-        "titulo": "European Stocks Rebound on Hopes of Hormuz Passage for Tankers",
-        "resumen": "European stocks rose Friday as oil prices slipped below $100 a barrel, following news reports that several European nations are in talks with Iran for a safe passage for their ships through the Strait of Hormuz, a key transport artery that’s been effectively shut amid the Iran war.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/european-stocks-set-for-second-weekly-drop-as-iran-war-weighs",
-        "fecha_publicacion": "Fri, 13 Mar 2026 08:26:53 GMT"
-      },
-      {
-        "titulo": "Treasuries Rise as Data Supports Case for Fed Rate Cut This Year",
-        "resumen": "US Treasuries advanced and bond traders nearly priced in one Federal Reserve interest-rate cut after data revealed a more discerning consumer, sticky inflation and weaker growth.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/treasuries-rise-as-data-backs-case-for-a-fed-rate-cut-this-year",
-        "fecha_publicacion": "Fri, 13 Mar 2026 12:52:17 GMT"
-      },
-      {
-        "titulo": "From Amazon to Airbnb, US Blue-Chip Bond Sales Flirt With Record",
-        "resumen": "Middle East war. Rising yields and oil prices. Private credit distress. It barely seemed to matter for corporate borrowers this week as US investment-grade bond sales came close to yet another record.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/from-amazon-to-airbnb-us-blue-chip-bond-sales-flirt-with-record",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:10:50 GMT"
-      },
-      {
-        "titulo": "Goldman Says Iran War Risks Weighing on Rand, Rate Outlook",
-        "resumen": "Prolonged higher oil prices could force the South African central bank to consider raising interest rates as a weaker rand pushes inflation higher than it’s prepared to tolerate.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/goldman-says-iran-war-risks-weighing-on-rand-forcing-rate-move",
-        "fecha_publicacion": "Fri, 13 Mar 2026 06:00:00 GMT"
-      },
-      {
-        "titulo": "Burgers, Memes and CEOs: The Fast-Food War Goes Viral",
-        "resumen": "The viral video of McDonald's CEO Chris Kempczinski trying the chain’s new Big Arch burger has taken fast food's burger war to social media. Bloomberg's Ben Steverman joins Stacey Vanek Smith and Max Chafkin on the Everybody's Business podcast to discuss the viral video and what it has to do with the K-shaped economy. (Source: Bloomberg)",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-13/burgers-memes-and-ceos-the-fast-food-war-goes-viral-video",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:01:00 GMT"
-      },
-      {
-        "titulo": "Maker of Mine-Destroying Sea Drones Rallies on Hormuz Threat",
-        "resumen": "Exail Technologies SA shares have jumped in the past two weeks as Iran’s closure of the Strait of Hormuz thrust the French defense contractor’s seagoing, mine-destroying drones into the spotlight.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-13/maker-of-mine-destroying-sea-drones-gets-stock-market-boost",
-        "fecha_publicacion": "Fri, 13 Mar 2026 12:03:20 GMT"
+        "titulo": "‘Lose $1 Million in 2 Seconds’: Market Chaos Rocks Trading Desks",
+        "resumen": "It was 1 a.m. in London when the markets jarred Michael Brown awake. He had his phone next to his bed, and it had started pinging him with alerts, just “buzzing and buzzing and buzzing”: Brent crude is over $100 a barrel; over $110; Nasdaq futures sink 2%; the Nikkei plunges 5%.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/-lose-1-million-in-2-seconds-market-chaos-rocks-trading-desks",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:00:59 GMT"
       }
     ],
     "total_entradas": 20
@@ -777,13 +777,79 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Six U.S. Troops Killed in Aircraft Crash in Iraq",
+        "resumen": "Trump maintains that the United States is winning its war against Iran.",
+        "link": "https://foreignpolicy.com/2026/03/13/us-troops-killed-refueling-aircraft-crash-iraq-iran-war-oil-strait-hormuz/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:20:38 +0000"
+      },
+      {
+        "titulo": "The Economic Costs of the Iran War, by the Numbers",
+        "resumen": "From multimillion-dollar munitions to surging oil prices, here’s how much the war is costing.",
+        "link": "https://foreignpolicy.com/2026/03/13/iran-war-cost-economic-oil-gas-prices-hormuz/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:18:11 +0000"
+      },
+      {
+        "titulo": "Iran War Puts India in Tricky Position",
+        "resumen": "Modi’s government faces increasing domestic dissent when it comes to working with the Trump administration.",
+        "link": "https://foreignpolicy.com/2026/03/13/india-iran-war-us-trump-landau-ship-sinking/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:14:47 +0000"
+      },
+      {
+        "titulo": "What in the World?",
+        "resumen": "Test yourself on the week of March 7: The war in Iran continues, conflict flares in South Sudan, and José Antonio Kast is inaugurated.",
+        "link": "https://foreignpolicy.com/2026/03/13/news-quiz-iran-war-oil-south-sudan-jose-antonio-kast-north-korea/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 19:42:41 +0000"
+      },
+      {
+        "titulo": "In Putin’s Russia, Resistance Is Lonely",
+        "resumen": "An Oscar-nominated documentary offers an intimate view of Russia’s descent into fascism.",
+        "link": "https://foreignpolicy.com/2026/03/13/mr-nobody-against-putin-pavel-talankin-review-documentary-film-oscar-academy-awards/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 19:00:23 +0000"
+      },
+      {
+        "titulo": "Christian Democracy Is Facing Regime Change",
+        "resumen": "Europe’s unique political tradition is under threat—and perfectly suited for the post-liberal moment.",
+        "link": "https://foreignpolicy.com/2026/03/13/europe-populism-christian-democracy-conservatism/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:40:38 +0000"
+      },
+      {
+        "titulo": "Two Books About the Pull of Home",
+        "resumen": "Plus, more international fiction releases in March.",
+        "link": "https://foreignpolicy.com/2026/03/13/international-fiction-releases-helen-garner-collected-stories-cecile-pin-celestial-lights/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:20:52 +0000"
+      },
+      {
+        "titulo": "5 Streaming Movies to Help Understand Iran Now",
+        "resumen": "Many of these filmmakers have found themselves scrutinized by government censors, leading to arrests and imprisonment.",
+        "link": "https://foreignpolicy.com/2026/03/13/5-streaming-movies-to-help-understand-iran-now/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:00:19 +0000"
+      },
+      {
+        "titulo": "How the Climate Won Paris’s Culture War",
+        "resumen": "Plenty of issues are on the ballot in this month’s mayoral election. The city’s green transition isn’t one of them.",
+        "link": "https://foreignpolicy.com/2026/03/13/paris-elections-mayor-hidalgo-green-transition-climate-change/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 17:41:39 +0000"
+      },
+      {
+        "titulo": "Can Sierra Leone Still Keep Its Mothers Alive?",
+        "resumen": "What foreign aid cuts mean in practice in one African country.",
+        "link": "https://foreignpolicy.com/2026/03/13/sierra-leone-mothers-foreign-aid-cuts/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 16:33:32 +0000"
+      },
+      {
+        "titulo": "What China’s Five-Year Plan Says About Its Economy",
+        "resumen": "A growth target of 4.5 percent is the lowest in decades.",
+        "link": "https://foreignpolicy.com/2026/03/13/china-five-year-plan-economy-ones-tooze/",
+        "fecha_publicacion": "Fri, 13 Mar 2026 15:41:22 +0000"
+      },
+      {
         "titulo": "Trump’s Summit Offers More Deference Than Details",
         "resumen": "Leaders emerged from the “Shield of the Americas” with few policy specifics.",
         "link": "https://foreignpolicy.com/2026/03/13/trump-shield-americas-drug-cartel-military-far-right/",
         "fecha_publicacion": "Fri, 13 Mar 2026 12:00:01 +0000"
       },
       {
-        "titulo": "How the Iran War Could Usher in a New Era of Global Shiite Extremism",
+        "titulo": "The Iran War Could Spark a New Era of Global Shiite Extremism",
         "resumen": "Degrading command and control over proxy groups could make them more dangerous and unpredictable.",
         "link": "https://foreignpolicy.com/2026/03/13/terroism-iran-war-shiite-extremism/",
         "fecha_publicacion": "Fri, 13 Mar 2026 10:00:55 +0000"
@@ -829,72 +895,6 @@
         "resumen": "“The Voice of Hind Rajab” is an indictment of the international system that has failed Gaza.",
         "link": "https://foreignpolicy.com/2026/03/12/hind-rajab-gaza-war-children-israel-tunisia-oscars/",
         "fecha_publicacion": "Thu, 12 Mar 2026 17:36:29 +0000"
-      },
-      {
-        "titulo": "How to (Not) Be a Pacific Power",
-        "resumen": "Washington has yet to recognize that mobility is an essential part of regional security.",
-        "link": "https://foreignpolicy.com/2026/03/12/us-pacific-pivot-islander-mobility-travel-visa-ban-usaid-china/",
-        "fecha_publicacion": "Thu, 12 Mar 2026 17:01:26 +0000"
-      },
-      {
-        "titulo": "The War That Cracked the Postwar Order Illusion",
-        "resumen": "Conflict in Ukraine has shattered the myths sustaining the Western coalition.",
-        "link": "https://foreignpolicy.com/2026/03/12/russia-ukraine-war-europe-trump-putin-zelensky-negotiations-deal/",
-        "fecha_publicacion": "Thu, 12 Mar 2026 14:24:54 +0000"
-      },
-      {
-        "titulo": "The Irresistible Urge to Invoke World War III",
-        "resumen": "Forget the inflated comparisons. Neither the war in the Middle East nor the Russian invasion of Ukraine ever signaled a global conflagration.",
-        "link": "https://foreignpolicy.com/2026/03/12/world-war-iii-3-middle-east-iran-nuclear-russia-ukraine-china-history-geopolitics/",
-        "fecha_publicacion": "Thu, 12 Mar 2026 10:29:57 +0000"
-      },
-      {
-        "titulo": "Countries Agree to Historic Emergency Oil Reserve Release",
-        "resumen": "IEA member states will distribute 400 million barrels of oil to ease the Iran war-caused supply crunch.",
-        "link": "https://foreignpolicy.com/2026/03/11/iran-war-iea-oil-reserves-release-crude-strait-hormuz/",
-        "fecha_publicacion": "Wed, 11 Mar 2026 21:31:29 +0000"
-      },
-      {
-        "titulo": "Trump’s New Cyber-First War Strategy",
-        "resumen": "From Iran to Venezuela, Trump has fully embraced offensive cyberoperations.",
-        "link": "https://foreignpolicy.com/2026/03/11/iran-war-cyber-trump-israel-handala-strategy/",
-        "fecha_publicacion": "Wed, 11 Mar 2026 20:06:42 +0000"
-      },
-      {
-        "titulo": "How South Africa Is Navigating the Iran War",
-        "resumen": "Pretoria’s awkward dance between Washington and Tehran.",
-        "link": "https://foreignpolicy.com/2026/03/11/south-africa-response-us-iran-war-economic-fallout/",
-        "fecha_publicacion": "Wed, 11 Mar 2026 19:17:38 +0000"
-      },
-      {
-        "titulo": "The Major Local Election That France’s Far Right Might Just Win",
-        "resumen": "A year before presidential elections, the National Rally has a chance of capturing Marseille, a historic hub of immigration.",
-        "link": "https://foreignpolicy.com/2026/03/11/france-far-right-national-rally-marseille-mayoral-election/",
-        "fecha_publicacion": "Wed, 11 Mar 2026 18:44:46 +0000"
-      },
-      {
-        "titulo": "Gaza’s Reconstruction Must Begin With Its Youth",
-        "resumen": "A better future for Palestine depends on psychological recovery.",
-        "link": "https://foreignpolicy.com/2026/03/11/gaza-war-reconstruction-israel-palestine-youth-mental-health/",
-        "fecha_publicacion": "Wed, 11 Mar 2026 14:42:09 +0000"
-      },
-      {
-        "titulo": "Mojtaba’s Selection Is a Sign of Political Exhaustion",
-        "resumen": "In choosing Khamenei’s son, the regime has imposed exactly what many Iranians feared.",
-        "link": "https://foreignpolicy.com/2026/03/11/ayatollah-mojtaba-khamenei-iran-war-supreme-leader/",
-        "fecha_publicacion": "Wed, 11 Mar 2026 10:39:05 +0000"
-      },
-      {
-        "titulo": "Why Haven’t the Houthis Fired?",
-        "resumen": "The rational calculus, for the moment, is that death to America can wait.",
-        "link": "https://foreignpolicy.com/2026/03/11/iran-war-houthis-yemen-military-operations-calculus-ground-force-mobilization/",
-        "fecha_publicacion": "Wed, 11 Mar 2026 10:19:07 +0000"
-      },
-      {
-        "titulo": "Trump Promised to Tear Up the Regime-Change Playbook. He Is Now Following It.",
-        "resumen": "Exaggerate the threat and underestimate the consequences.",
-        "link": "https://foreignpolicy.com/2026/03/10/trump-regime-change-playbook-iran/",
-        "fecha_publicacion": "Tue, 10 Mar 2026 23:52:39 +0000"
       }
     ],
     "total_entradas": 20
@@ -907,124 +907,124 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "US’s Hegseth claims new Iran Supreme Leader Mojtaba Khamenei injured",
-        "resumen": "Pete Hegseth&#039;s remarks come a day after Khamenei pledged to keep fighting in first statement since he was named leader.",
-        "link": "https://www.aljazeera.com/news/2026/3/13/us-hegseth-claims-irans-new-supreme-leader-mojtaba-khamenei-injured?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:35:22 +0000"
+        "titulo": "Republic of Congo election: Who is running and what’s at stake?",
+        "resumen": "Analysts say Congo Brazzaville&#039;s election are a mere formality as President Sassou Nguesso is set to extend his rule.",
+        "link": "https://www.aljazeera.com/news/2026/3/14/republic-of-congo-election-who-is-running-and-whats-at-stake?traffic_source=rss",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:21:09 +0000"
       },
       {
-        "titulo": "Former Arsenal player Partey to plead not guilty to 2 new rape charges",
-        "resumen": "Ghana international Thomas Partey faced initial charges of rape just days after leaving Arsenal last summer.",
-        "link": "https://www.aljazeera.com/sports/2026/3/13/former-arsenal-player-partey-to-plead-not-guilty-to-2-new-charges-of-rape?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:26:53 +0000"
+        "titulo": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
+        "resumen": "Defense Secretary Pete Hegseth said there would be &#039;no quarter, no mercy&#039; as US continues to pummel Iran.",
+        "link": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:17:50 +0000"
       },
       {
-        "titulo": "Australia edge North Korea to set up China or Taiwan Asian Cup semifinal",
-        "resumen": "Australia beat North Korea 2-1 to set up Women’s Asian Cup semi against China or Taiwan, and seal FIFA World Cup spot.",
-        "link": "https://www.aljazeera.com/sports/2026/3/13/australia-edge-north-korea-to-set-up-china-or-taiwan-asian-cup-semifinal?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:20:17 +0000"
+        "titulo": "Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next",
+        "resumen": "Intense strikes target central Tehran as US president says &#039;powerful&#039; bombing raid hit Iranian forces on Kharg Island.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/14/iran-war-live-pentagon-vows-to-ramp-up-us-military-campaign-against-iran?traffic_source=rss",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:00:00 +0000"
       },
       {
-        "titulo": "US’s new scramble for Africa is biomedical imperialism",
-        "resumen": "From Zimbabwe to Zambia, US health deals are raising fears of a new era of biomedical extractivism.",
-        "link": "https://www.aljazeera.com/opinions/2026/3/13/uss-new-scramble-for-africa-is-biomedical-imperialism?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:16:01 +0000"
+        "titulo": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
+        "resumen": "Judge James Boasberg ruled US prosecutors under Trump produced &#039;essentially zero evidence&#039; to justify the subpoenas.",
+        "link": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 22:52:35 +0000"
       },
       {
-        "titulo": "Huge pipe emerges from the ground in Japanese city",
-        "resumen": "Traffic in Japan’s Osaka was brought to a standstill after residents discovered a huge steel pipe had emerged.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/huge-pipe-emerges-from-the-ground-in-japanese-city?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:03:54 +0000"
+        "titulo": "Worshippers pray outside Al-Aqsa amid closure on al-Quds Day",
+        "resumen": "Muslim worshippers prayed outside Jerusalem’s Al-Aqsa compound as Israeli authorities kept holy sites closed.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/worshippers-pray-outside-al-aqsa-amid-closure-on-al-quds-day?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:53:58 +0000"
       },
       {
-        "titulo": "Cuban President Diaz-Canel says talks held with US amid Trump threats",
-        "resumen": "Miguel Diaz-Canel says discussions held to find solutions &#039;through dialogue&#039; as Washington tightens oil blockade.",
-        "link": "https://www.aljazeera.com/news/2026/3/13/cuban-president-diaz-canel-says-talks-held-with-us-amid-trump-threats?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:25:28 +0000"
+        "titulo": "Drone attack on market in Sudan kills 11, as air war civilian toll mounts",
+        "resumen": "More than 200 civilians killed in recent days as drone strikes tear through markets, schools and hospitals.",
+        "link": "https://www.aljazeera.com/news/2026/3/13/drone-attack-on-market-in-sudan-kills-11-as-air-war-civilian-toll-mounts?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:50:49 +0000"
       },
       {
-        "titulo": "From Gaza to LA, hopes rise as The Voice of Hind Rajab heads to the Oscars",
-        "resumen": "Acclaimed docudrama reconstructing killing of five-year-old girl in Gaza is nominated for best international feature.",
-        "link": "https://www.aljazeera.com/features/2026/3/13/from-gaza-to-la-hopes-rise-as-the-voice-of-hind-rajab-heads-to-the-oscars?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:18:05 +0000"
+        "titulo": "Israel’s military campaign in Lebanon reaches devastating new phase",
+        "resumen": "Israel has warned Lebanon could face Gaza-level destruction.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:10:43 +0000"
       },
       {
-        "titulo": "Destroy, displace, dismantle: Israel’s Gaza doctrine comes to Lebanon",
-        "resumen": "The strategy used to depopulate Gaza - displacement, destruction and fragmentation - is now being deployed on Lebanon.",
-        "link": "https://www.aljazeera.com/opinions/2026/3/13/destroy-displace-dismantle-israels-gaza-doctrine-comes-to-lebanon?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:12:29 +0000"
+        "titulo": "Iranian missile strike in central Israel sets building ablaze",
+        "resumen": "Smoke and flames rising beside a road in central Israel after an Iranian missile attack, the Israeli army said.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:04:14 +0000"
       },
       {
-        "titulo": "IEA announces release of 400 million barrels of oil. But is it enough?",
-        "resumen": "Global energy watchdog pledges largest release from oil reserves amid war on Iran. But is &#039;one-shot&#039; tactic sufficient?",
-        "link": "https://www.aljazeera.com/news/2026/3/13/iea-announces-release-of-400-million-barrels-of-oil-but-is-it-enough?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:08:07 +0000"
+        "titulo": "Qatar’s interior minister says security situation ‘stable’ amid Iran war",
+        "resumen": "Sheikh Khalifa bin Hamad says Qatar will &#039;not hesitate&#039; to ensure its stability as US-Israeli war on Iran continues.",
+        "link": "https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 19:18:20 +0000"
       },
       {
-        "titulo": "Four killed in US military plane crash in Iraq",
-        "resumen": "Four killed in US military plane crash in Iraq",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/four-killed-in-us-military-plane-crash-in-iraq?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 12:54:49 +0000"
+        "titulo": "Bolivian authorities capture drug kingpin Sebastian Marset in police raid",
+        "resumen": "Marset was transferred into the custody of the United States, which has pushed for more aggressive antidrug tactics.",
+        "link": "https://www.aljazeera.com/news/2026/3/13/bolivian-authorities-capture-drug-kingpin-sebastian-marset-in-police-raid?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:52:46 +0000"
       },
       {
-        "titulo": "What’s happened in Gaza and the West Bank since the start of the Iran war?",
-        "resumen": "Israel has closed the Rafah border crossing and Israeli settler attacks in the occupied West Bank have continued.",
-        "link": "https://www.aljazeera.com/news/2026/3/13/whats-happened-in-gaza-and-the-west-bank-since-the-start-of-the-iran-war?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 12:50:04 +0000"
+        "titulo": "What is Israel’s endgame in Lebanon?",
+        "resumen": "Israel seizes more territory in southern Lebanon and threatens to keep holding it.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/13/what-is-israels-endgame-in-lebanon?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:21:25 +0000"
       },
       {
-        "titulo": "Dozens injured after missile attack hits northern Israel",
-        "resumen": "A missile attack that hit a Palestinian community in northern Israel has injured dozens of people.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/dozens-injured-after-missile-attack-hits-northern-israel?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 12:41:15 +0000"
+        "titulo": "Brazil pulls visa of Trump adviser who asked to visit Bolsonaro in prison",
+        "resumen": "Brazilian President Luiz Inacio Lula da Silva says Darren Beattie was &#039;prohibited from visiting&#039; Bolsonaro in prison.",
+        "link": "https://www.aljazeera.com/news/2026/3/13/brazil-pulls-visa-of-trump-adviser-who-asked-to-visit-bolsonaro-in-prison?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:10:41 +0000"
       },
       {
-        "titulo": "Michigan synagogue and Virginia university shootings: What we know",
-        "resumen": "The assailant who rammed his vehicle into Detroit&#039;s Temple Israel synagogue has been killed.",
-        "link": "https://www.aljazeera.com/news/2026/3/13/michigan-synagogue-and-virginia-university-shootings-what-we-know?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 12:07:09 +0000"
+        "titulo": "Bahrain and Saudi F1 races set to be cancelled due to Middle East conflict",
+        "resumen": "Bahrain and Saudi Arabia F1 races unlikely to be rescheduled but WEC&#039;s Qatar round moved to October.",
+        "link": "https://www.aljazeera.com/sports/2026/3/13/bahrain-and-saudi-f1-races-set-to-be-cancelled-due-to-middle-east-conflict?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:06:34 +0000"
       },
       {
-        "titulo": "Air attack strikes Tehran during al-Quds Day rally",
-        "resumen": "An air attack struck near thousands of Iranians marking al-Quds Day in Tehran, reportedly killing at least one person.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/air-attack-strikes-tehran-during-al-quds-day-rally?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 11:54:07 +0000"
+        "titulo": "Israel destroys bridge in Lebanon and threatens Gaza-scale devastation",
+        "resumen": "Israeli attacks since early March have killed 773 in Lebanon as military expands assault to more Beirut neighbourhoods.",
+        "link": "https://www.aljazeera.com/news/2026/3/13/israel-destroys-bridge-in-lebanon-and-threatens-gaza-scale-devastation?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 17:54:21 +0000"
       },
       {
-        "titulo": "Turkiye says NATO defences intercepted third missile from Iran",
-        "resumen": "The missiles increasingly pose a test for NATO member Turkiye and the alliance.",
-        "link": "https://www.aljazeera.com/news/2026/3/13/turkiye-says-nato-defences-intercepted-third-missile-from-iran?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 11:51:45 +0000"
+        "titulo": "What rats do’: US says Iranian leaders hiding as leaders appear in Tehran",
+        "resumen": "US Defense Secretary Pete Hegseth said Iran’s leadership was “desperate and hiding,” after US-Israeli strikes.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/what-rats-do-us-says-iranian-leaders-hiding-as-leaders-appear-in-tehran?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 17:50:17 +0000"
       },
       {
-        "titulo": "Netanyahu wants to ‘create conditions’ for Iran regime change",
-        "resumen": "Israeli Prime Minister Benjamin Netanyahu said he wants his country’s attacks on Iran to help bring about regime change.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-wants-to-create-conditions-for-iran-regime-change?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 11:48:53 +0000"
+        "titulo": "Lebanese father buries four daughters killed in Israeli strike",
+        "resumen": "A Lebanese father mourned the death of his four daughters, who were killed in an Israeli strike.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/lebanese-father-buries-four-daughters-killed-in-israeli-strike?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 17:28:17 +0000"
       },
       {
-        "titulo": "Iran team hit back at Trump over FIFA World Cup exclusion threat",
-        "resumen": "Iran says no one can exclude it from the FIFA World Cup 2026, which is co-hosted by United States, Canada and Mexico.",
-        "link": "https://www.aljazeera.com/sports/2026/3/13/iran-hit-back-at-trump-over-fifa-world-cup-exclusion-threat?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 11:33:33 +0000"
+        "titulo": "Success uncertain, but Israelis continue to back ‘heroic’ war with Iran",
+        "resumen": "Israeli public overwhelmingly supports war with Iran, rallying behind Netanyahu despite political divisions.",
+        "link": "https://www.aljazeera.com/news/2026/3/13/success-uncertain-but-israelis-continue-to-back-heroic-war-with-iran?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 17:14:04 +0000"
       },
       {
-        "titulo": "Black smoke seen after blasts in Dubai financial district",
-        "resumen": "Black smoke seen after blasts in Dubai financial district",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/black-smoke-seen-after-blasts-in-dubai-financial-district?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 10:39:40 +0000"
+        "titulo": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
+        "resumen": "Volodymyr Zelenskyy says move &#039;does not help peace&#039; as Europe reels from soaring energy prices linked to Iran war.",
+        "link": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 17:05:57 +0000"
       },
       {
-        "titulo": "The ‘bad leader’ trap",
-        "resumen": "Turning leaders into symbols of evil makes intervention easy to justify and its consequences easy to ignore.",
-        "link": "https://www.aljazeera.com/opinions/2026/3/13/the-bad-leader-trap?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 10:39:38 +0000"
+        "titulo": "Ukraine finds new role as protector of US, Gulf allies amid Iran war",
+        "resumen": "Having abandoned Ukraine, the US has sought Kyiv&#039;s support in defence from Iranian drones.",
+        "link": "https://www.aljazeera.com/news/2026/3/13/ukraine-finds-new-role-as-protector-of-the-us-and-its-allies-in-gulf-war?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 17:03:22 +0000"
       },
       {
-        "titulo": "Real Madrid vs Elche: La Liga – teams, start, lineups, kickoff time",
-        "resumen": "Elche hope to upset the odds as they travel to title-chasing Real Madrid, seeking their first win at Bernabeu Stadium.",
-        "link": "https://www.aljazeera.com/sports/2026/3/13/real-madrid-vs-elche-la-liga-teams-start-lineups-kickoff-time?traffic_source=rss",
-        "fecha_publicacion": "Fri, 13 Mar 2026 10:30:54 +0000"
+        "titulo": "Who wins and loses in the global energy crisis?",
+        "resumen": "As oil prices surge, some economies benefit while others face rising costs.",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss",
+        "fecha_publicacion": "Fri, 13 Mar 2026 16:10:18 +0000"
       }
     ],
     "total_entradas": 20
@@ -1036,6 +1036,66 @@
     "fecha_minado": "2026-03-13",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Beyond Pax Silica: Japan, France and Canada seek rare earth autonomy",
+        "resumen": "For years, the West’s answer to Chinese dominance of critical minerals was to rally around Washington. Now, some of its most important allies are reaching a different conclusion: that depending too heavily on the United States carries its own risks.\nJapan, France and Canada have all been exploring how to build supply chains for rare earths and other critical minerals that answer to neither Beijing nor Washington.\nSenior officials from the three Group of Seven economies are working on...",
+        "link": "https://www.scmp.com/week-asia/economics/article/3346530/beyond-pax-silica-japan-france-and-canada-seek-rare-earth-autonomy?utm_source=rss_feed",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:00:09 +0000"
+      },
+      {
+        "titulo": "Trump says US bombed Iran’s Kharg Island, threatens oil infrastructure",
+        "resumen": "⁠US ⁠President ⁠Donald Trump said on Friday that the United ‌States had carried out strikes against “every military target” on Iran’s Kharg Island export hub.\n“For reasons ⁠of decency, I have ‌chosen NOT to wipe out the Oil ‌Infrastructure on the ⁠Island,” ⁠Trump said in a social media post.\n“However, should Iran, or anyone ‌else, ‌do anything to interfere ‌with the Free ⁠and Safe Passage of ⁠Ships through the Strait of Hormuz, I ‌will immediately ‌reconsider this decision.”\nIran had no ability...",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3346570/us-strikes-irans-kharg-island-attacking-every-military-target-trump-says?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:23:28 +0000"
+      },
+      {
+        "titulo": "Trump and Netanyahu’s Iran quagmire is wrecking the global economy",
+        "resumen": "A declining superpower and an aspiring regional hegemon make a deadly combination. The warmongering duo of the United States and Israel have now given the world an illegal and potentially catastrophic war in Iran.\nIt’s a tragic irony that both countries have a culture of extreme self-righteousness, with a constant army of apologists telling others they must stand up to evil wherever it exists because if they don’t, it will come for them one day.\nWell, that day is here, but guess who’s committing...",
+        "link": "https://www.scmp.com/opinion/asia-opinion/article/3346228/trump-and-netanyahus-iran-quagmire-wrecking-global-economy?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:30:07 +0000"
+      },
+      {
+        "titulo": "Judge quashes subpoenas of Fed chair, says investigation was ‘politically motivated’",
+        "resumen": "A federal judge on Friday quashed US Justice Department subpoenas issued to the Federal Reserve in January, a severe blow to an investigation that has already attracted strong criticism on Capitol Hill.\nJudge James Boasberg said that a “mountain of evidence suggests” that the purpose of the subpoenas was simply to pressure the Fed to cut its key interest rate, as US President Donald Trump has repeatedly demanded.\nFed Chair Jerome Powell revealed the investigation on January 11, prompting Senator...",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346568/judge-quashes-subpoenas-fed-chair-says-investigation-was-politically-motivated?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:17:52 +0000"
+      },
+      {
+        "titulo": "Cartel boss on US ‘most wanted’ list captured in Bolivia raid",
+        "resumen": "An alleged cocaine boss with a US$2 million bounty on his head was captured by Bolivian forces as the Andean nation renews cooperation with the US after decades of hostility.\nDozens of antinarcotics police raided two houses in Santa Cruz in the early hours of Friday, with snipers positioned on nearby rooftops.\nTheir target, Uruguayan citizen Sebastian Enrique Marset Cabrera, was immediately put on a plane to be transferred to the US by the Drug Enforcement Administration.\nBolivia’s President...",
+        "link": "https://www.scmp.com/news/world/americas/article/3346567/cartel-boss-us-most-wanted-list-captured-bolivia-raid?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 19:43:26 +0000"
+      },
+      {
+        "titulo": "UK’s Peter Mandelson and ex-prince Andrew pictured in bathrobes with Jeffrey Epstein",
+        "resumen": "A photograph of Britain’s former prince Andrew and veteran politician Peter Mandelson sitting in bathrobes alongside late sex offender Jeffrey Epstein was unearthed on Friday in previously published documents.\nThe image is believed to be the first known photograph of the two men with Epstein. They are both currently engulfed in scandal in the UK over their ties to their mutual friend.\nThe undated photograph, first reported by ITV News, shows King Charles’ disgraced brother and Britain’s former...",
+        "link": "https://www.scmp.com/news/world/europe/article/3346566/uks-andrew-and-peter-mandelson-pictured-bathrobes-jeffrey-epstein?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 19:04:36 +0000"
+      },
+      {
+        "titulo": "Iran lets 2 India-flagged gas tankers sail through Strait of Hormuz, insiders say",
+        "resumen": "Iran ⁠has allowed two Indian-flagged liquefied ⁠petroleum gas carriers to sail through the Strait of Hormuz, ⁠four sources with direct knowledge of the matter said, a rare exception to the Iranian blockade that has disrupted global energy supplies.\nThe Indian-flagged LPG tanker Shivalik crossed the Strait under escort from the Indian Navy, said two of the sources, and the second vessel, Nanda Devi, was expected to clear in the ‌next few hours.\nSince the United States and Israel launched a...",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3346565/iran-lets-2-india-flagged-gas-tankers-sail-through-strait-hormuz-insiders-say?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:35:10 +0000"
+      },
+      {
+        "titulo": "Brazil’s Jair Bolsonaro in ICU with pneumonia",
+        "resumen": "Brazil’s former president Jair Bolsonaro has pneumonia and is receiving treatment in an intensive care unit, a hospital in the capital, Brasilia, said on Friday.\nEarlier in the day, Bolsonaro’s eldest son, Flavio, said on social media that his father was being transferred from prison to the hospital after waking up with chills and vomiting.\n“I ask for prayers that it not be anything serious,” Flavio wrote. He has said he would run for president this year, and recent polls show him and President...",
+        "link": "https://www.scmp.com/news/world/americas/article/3346564/brazils-jair-bolsonaro-icu-pneumonia?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 17:09:34 +0000"
+      },
+      {
+        "titulo": "US downplays Strait of Hormuz concerns as Trump claims ‘there’s nothing to be afraid of’",
+        "resumen": "The Trump administration has sought to minimise the impact of the Strait of Hormuz’s effective closure while offering few details on how it might restore oil flows through the strategic waterway.\n“There’s nothing to be afraid of,” US President Donald Trump said in an interview with Fox News aired on Friday, urging oil tankers to “show some guts.”\nTrump said Washington was still considering escorting ships through the strait but did not indicate whether a decision had been made.\n“We would do it...",
+        "link": "https://www.scmp.com/news/us/diplomacy/article/3346558/us-says-irans-new-supreme-leader-likely-wounded-dismisses-strait-hormuz-concerns?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 15:23:09 +0000"
+      },
+      {
+        "titulo": "How Iran turned Strait of Hormuz into potent weapon against US bombardment",
+        "resumen": "Long before the US and Israel ⁠attacked Iran, the Islamic Republic had devised its own weapon: holding the world’s main ⁠oil lifeline hostage to offset its foes’ military superiority, three regional sources familiar with Iranian planning said.\nFor decades, Iran has signalled that if pushed into a confrontation, it would restrict tanker traffic in the Strait of Hormuz, the chokepoint where its adversaries are most exposed because disruptions there reverberate instantly through global energy...",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3346557/how-iran-turned-strait-hormuz-potent-weapon-against-us-bombardment?utm_source=rss_feed",
+        "fecha_publicacion": "Fri, 13 Mar 2026 15:15:07 +0000"
+      },
       {
         "titulo": "US economic growth slumps to 0.7% in fourth quarter, stoking inflation worries",
         "resumen": "The US economy grew at a significantly slower pace than initially estimated for the final months of 2025, government data showed on Friday, a major downgrade that comes as fallout from war in the Middle East looms.\nUS gross domestic product rose at an annual rate of 0.7 per cent in the fourth quarter, the Commerce Department said.\nThis was sharply down from its earlier estimated 1.4 per cent over the October to December period.\nIt also indicates that the world’s biggest economy was on a weaker...",
@@ -1095,66 +1155,6 @@
         "resumen": "The United States has imposed sanctions on two companies and six individuals for their roles in operations that used information technology workers in foreign countries to raise money for North Korea.\nThe Treasury Department said the schemes, orchestrated by the North Korean government, had systematically defrauded US businesses and generated revenue to fund North Korea’s weapons programmes, including nearly US$800 million in 2024.\nThe department also accused workers associated with North Korea...",
         "link": "https://www.scmp.com/news/asia/east-asia/article/3346426/us-sanctions-2-firms-6-individuals-funding-north-korean-weapons?utm_source=rss_feed",
         "fecha_publicacion": "Fri, 13 Mar 2026 01:35:07 +0000"
-      },
-      {
-        "titulo": "California’s Governor Newsom says no imminent threat despite warning of Iran drone attack",
-        "resumen": "California Governor Gavin Newsom said there was no imminent threat to the state, despite a warning from the FBI that Iran could send drones to the west coast in retaliation for war.\nNewsom said drone issues “have always been top of mind”.\n“We’ve been aware of that information. … It’s all about a posture of preparedness for worst-case scenarios,” the governor said on Wednesday.\nThe Federal Bureau of Investigation (FBI) recently warned police departments about Iran and a possible California...",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346422/californias-governor-newsom-says-no-imminent-threat-despite-warning-iran-drone-attack?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:29:49 +0000"
-      },
-      {
-        "titulo": "US military refuelling plane crashes in Iraq, killing 4",
-        "resumen": "Four US crew members were killed when an American KC-135 aerial refuelling aircraft crashed in western Iraq, the US military said on Friday, adding that the incident was not caused by “hostile fire”.\n“Four of six crew members on board the aircraft have been confirmed deceased as rescue efforts continue,” US Central Command (CENTCOM), which is responsible for American forces in the Middle East, said in a statement on social media.\nAn investigation was under way into Thursday’s crash, it added....",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3346421/us-military-refuelling-plane-crashes-iraq-rescue-efforts-are-under-way?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 23:02:39 +0000"
-      },
-      {
-        "titulo": "Serbian president confirms his country owns Chinese supersonic missiles after photo leak",
-        "resumen": "Serbia’s president confirmed late on Thursday that his country possesses Chinese supersonic surface-attack cruise missiles, after photos of the weapons attached to Serbian fighter jets leaked online.\nPhotos, which began circulating on social media and defence blogs earlier this week, showed missiles believed to be Chinese-made CM-400AKG cruise missiles attached to Serbia’s Russian-made MiG-29 planes.\n“We have things we do not show,” President Aleksandar Vucic told Serbia’s national broadcaster...",
-        "link": "https://www.scmp.com/news/world/europe/article/3346420/serbian-president-confirms-his-country-owns-chinese-supersonic-missiles-after-photo-leak?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 22:47:46 +0000"
-      },
-      {
-        "titulo": "Netanyahu threatens Iran’s new supreme leader, defends joint assault with US",
-        "resumen": "Israeli Prime Minister Benjamin Netanyahu on Thursday issued ⁠a veiled threat to kill Iran’s new supreme leader Mojtaba Khamenei even as he acknowledged that Israel’s joint air war with the US may not lead to a collapse of Tehran’s clerical government.\nHolding his first press conference since the start of the war, ‌the Israeli leader said that Iran was “no longer the same” after nearly two weeks of bombardment and that Tehran had suffered blows to its elite Revolutionary Guards Corps and Basij...",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3346419/netanyahu-threatens-irans-new-supreme-leader-defends-joint-assault-us?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 21:31:01 +0000"
-      },
-      {
-        "titulo": "Iran war signals return to world of hierarchy without order",
-        "resumen": "The war in Iran is not just another Middle Eastern crisis. It is a window into what world politics looks like when rules are weakest and power is most concentrated. Washington has spoken in the language of surrender and coercion, European governments have called for restraint and respect for international law, and Asian powers have scrambled to keep energy flows moving through a Strait of Hormuz that has nearly ground to a halt.\nWhat this reveals is not a functioning rules-based order. It is a...",
-        "link": "https://www.scmp.com/opinion/world-opinion/article/3346206/iran-war-signals-return-world-hierarchy-without-order?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 21:30:08 +0000"
-      },
-      {
-        "titulo": "1 dead, 2 injured in shooting at Virginia’s Old Dominion University, police say",
-        "resumen": "ROTC (Reserve Officers’ Training Corps) students in an Old Dominion University classroom subdued and killed the shooter who killed one person and wounded two others, the FBI announced on Thursday.\nDominique Evans, special agent in charge of the FBI’s (Federal Bureau of Investigation) Norfolk field office, said at a news conference that the suspect identified by authorities as Mohamed Bailor Jalloh shouted “Allahu akbar” before the shooting. Then the ROTC students stopped him, showing “extreme...",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346418/gunman-who-injured-2-people-virginias-old-dominion-university-dead-college-says?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 19:05:45 +0000"
-      },
-      {
-        "titulo": "Assailant dead after ramming vehicle into Michigan synagogue",
-        "resumen": "A 41-year-old man was killed Thursday after ramming his pickup truck into a synagogue on the outskirts of Detroit, Michigan, causing a blaze and triggering a huge police response.\nUS media reported the assailant had recently lost family members in an Israeli strike in Lebanon, as part of the ongoing Middle East war.\nA spokesperson for the Department of Homeland Security identified the assailant as Ayman Mohamad Ghazali, who was born in Lebanon, came to Detroit in 2011 on a visa granted to...",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3346417/police-respond-report-active-shooter-michigan-synagogue?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 18:13:44 +0000"
-      },
-      {
-        "titulo": "British mum who kept woman as ‘house slave’ for 25 years is jailed",
-        "resumen": "A UK judge on Thursday jailed for 13 years a mother-of-10 who forced a vulnerable woman to work as a “house slave” for more than two decades.\nAmanda Wixon subjected the woman, who was a teenager when the ordeal began, to more than 25 years of abuse at her squalid home in Gloucestershire, western England.\nThe 56-year-old forced the victim, who has a learning disability, to do manual labour, regularly assaulted her and deprived her of food and healthcare, it emerged during an earlier 13-day...",
-        "link": "https://www.scmp.com/news/world/europe/article/3346416/british-mother-jailed-keeping-woman-house-slave-25-years?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 17:05:30 +0000"
-      },
-      {
-        "titulo": "UK PM Starmer admits his ‘mistake’ in appointing Mandelson as US ambassador",
-        "resumen": "British Prime Minister Keir Starmer has taken responsibility for his “mistake” in sending Peter Mandelson to Washington as ambassador, as Downing Street denied there was a “cover-up” in the release of files related to the appointment.\nThe prime minister is facing fresh questions about his judgment in giving Mandelson the ambassadorship despite being warned of a “general reputational risk” because of his relationship with paedophile Jeffrey Epstein.\nIn his first public appearance since the...",
-        "link": "https://www.scmp.com/news/world/europe/article/3346415/uk-pm-starmer-admits-his-mistake-appointing-mandelson-us-ambassador?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 16:38:12 +0000"
-      },
-      {
-        "titulo": "Iran’s new supreme leader defies Trump, says Hormuz must stay blocked",
-        "resumen": "Iran’s new supreme leader has vowed to keep blocking the Strait of Hormuz, attack US bases and avenge the blood of its martyrs in his first statement since succeeding his father. US President Donald Trump responded with an insult and threat soon after.\n“The lever of blocking the Strait of Hormuz must definitely be used,” Mojtaba Khamenei said about the strategic waterway, which carries about a fifth of global oil shipments.\nKhamenei urged Iran’s Gulf neighbours to close US military bases in the...",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3346408/irans-mojtaba-khamenei-tells-gulf-nations-close-us-bases-war-rages?utm_source=rss_feed",
-        "fecha_publicacion": "Thu, 12 Mar 2026 14:05:21 +0000"
       }
     ],
     "total_entradas": 20
@@ -1167,64 +1167,64 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "\"Que piense en sus cinco hijos y seis nietos\": general retirado de Ucrania amenaza a Orbán",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b411d2e9ff716c4d34a8a4.jpg\" style=\"float: left;\" />\n        \tLa semana pasada, el líder del régimen ucraniano, Vladímir Zelenski, dio a entender al primer ministro que podría pasar su dirección a las Fuerzas Armadas de Ucrania.",
-        "link": "https://actualidad.rt.com/actualidad/592511-general-ucrania-amenazar-orban?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:50:48 +0000"
+        "titulo": "Trump afirma que Irán \"tenía planes para apoderarse de todo Oriente Medio\"",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592808-trump-afirma-planes-iran-israel-fallado?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:25:14 +0000"
       },
       {
-        "titulo": "Trump comenta el primer mensaje del nuevo líder supremo de Irán",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b41f2ee9ff713a437119b6.jpg\" style=\"float: left;\" />\n        \t\"Creo que probablemente sí [está vivo], creo que está herido, pero creo que probablemente está vivo de alguna forma\", declaró el mandatario.",
-        "link": "https://actualidad.rt.com/actualidad/592708-trump-comentar-mensaje-lider-supremo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:17:58 +0000"
+        "titulo": "\"Nadie hizo más con menos\": Imágenes por satélite muestran el alcance de las represalias de Irán",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b492f959bf5b687f7b61b2.jpg\" style=\"float: left;\" />\n        \tMás de 3.000 misiles y drones han sido lanzados por el país persa desde el inicio de la guerra.",
+        "link": "https://actualidad.rt.com/actualidad/592792-imagenes-satelitales-muestran-alcance-represalias?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:17:32 +0000"
       },
       {
-        "titulo": "Trump: Putin podría estar ayudando a Irán",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b41c8f59bf5b6b1d17289a.jpg\" style=\"float: left;\" />\n        \tEl mandatario resaltó que su homólogo ruso pensaría que Washington ayuda a Kiev.",
-        "link": "https://actualidad.rt.com/actualidad/592706-trump-putin-podria-ayudando-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 14:12:02 +0000"
+        "titulo": "Noboa decreta toque de queda en cuatro provincias de Ecuador",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592805-noboa-decreta-toque-queda-cuatro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:13:49 +0000"
       },
       {
-        "titulo": "Cómo China puede ser la gran ganadora de la guerra en Oriente Medio",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3dd2259bf5b52be7f5992.jpg\" style=\"float: left;\" />\n        \tLa atención de EE.UU. centrada en Irán permite a Pekín obtener ciertas ventajas.",
-        "link": "https://actualidad.rt.com/actualidad/592644-nyt-china-gran-ganadora-guerra-oriente-medio?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:56:03 +0000"
+        "titulo": "\"Las puertas del infierno no se cerrarán\": El CGRI promete luchar hasta la muerte del último soldado de EE.UU. e Israel",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b482f059bf5b20cc522c9a.jpg\" style=\"float: left;\" />\n        \tTeherán luchará contra los \"malvados mandos\" de los países agresores, aseguró la fuerza de élite.",
+        "link": "https://actualidad.rt.com/actualidad/592775-puertas-infierno-cerraran-cgri-promete-luchar-muerte-soldado?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:10:56 +0000"
       },
       {
-        "titulo": "Hegseth sobre el estrecho de Ormuz: \"No hay de qué preocuparse\"",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b40b7f59bf5b7bee52f889.jpg\" style=\"float: left;\" />\n        \tEl secretario de Guerra estadounidense afirmó que el cierre del estrecho de Ormuz era algo \"previsto\" por el Pentágono.",
-        "link": "https://actualidad.rt.com/actualidad/592689-hegseth-estrecho-ormuz-hay-preocuparse?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:48:40 +0000"
+        "titulo": "Misiles iraníes dañan cinco aviones cisterna de EE.UU. en base saudí",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592807-misiles-iranies-danan-cinco-aviones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:06:00 +0000"
       },
       {
-        "titulo": "Sismo de magnitud 6,3 sacude la costa central de Chile",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b416c059bf5b7bee52f89b.jpg\" style=\"float: left;\" />\n        \tEl epicentro se ubicó al 41 kilómetros al suroeste de Huasco.",
-        "link": "https://actualidad.rt.com/actualidad/592697-sismo-magnitud-sacude-costa-chile?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:46:48 +0000"
+        "titulo": "El pretexto de un policía que mató a tiros a un joven: \"Pensé que me iban a robar\"",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4a03759bf5b014d6be6cd.jpg\" style=\"float: left;\" />\n        \tEl hecho se investiga como un posible caso de \"gatillo fácil\".",
+        "link": "https://actualidad.rt.com/actualidad/592785-pretexto-policia-matar-tiros-joven-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:52:32 +0000"
       },
       {
-        "titulo": "Hegseth afirma que el nuevo ayatolá está herido y \"probablemente desfigurado\"",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b40124e9ff711b9000b3c2.jpg\" style=\"float: left;\" />\n        \tEl secretario de Guerra de Estados Unidos cuestionó que el nuevo líder supremo iraní no se mostrara en persona en su primera declaración.",
-        "link": "https://actualidad.rt.com/actualidad/592680-hegseth-afirma-nuevo-ayatola-esta?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:37:20 +0000"
+        "titulo": "Los 'narcomonstruos' blindados llegan a la Ciudad de México",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592787-narcomonstruos-blindados-llegan-ciudad-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:47:21 +0000"
       },
       {
-        "titulo": "Revelan que miembro de la cúpula del Gobierno de Trump se opuso a la decisión de atacar Irán",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b400ed59bf5b6b1d172875.jpg\" style=\"float: left;\" />\n        \tUna de las figuras centrales de la Administración de EE.UU. \"simplemente se opone\" a la guerra con Irán y expresó su oposición internamente antes de la ofensiva.",
-        "link": "https://actualidad.rt.com/actualidad/592665-revelar-miembro-maxima-cupula-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:35:18 +0000"
+        "titulo": "Jefe del Parlamento iraní da una pista sobre cuánto puede durar la guerra",
+        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b49353e9ff71489544cc49.jpg\" style=\"float: left;\" />\n        \tMohammad Bagher Ghalibaf aseguró que Trump \"actúa ahora bajo control\" de Netanyahu.",
+        "link": "https://actualidad.rt.com/actualidad/592789-jefe-parlamento-irani-cuanto-durar-guerra?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:42:13 +0000"
       },
       {
-        "titulo": "Cancillería de Rusia convoca a los embajadores de Reino Unido y Francia por ataques contra Briansk",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b4111de9ff716c4d34a8a1.jpg\" style=\"float: left;\" />\n        \tMoscú exigió emitir \"una reacción pública clara con una condena firme e inequívoca del atentado terrorista de las Fuerzas Armadas de Ucrania\".",
-        "link": "https://actualidad.rt.com/actualidad/592692-cancilleria-rusia-embajadores-reino-unido-francia-ataques-misiles-briansk?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 13:24:18 +0000"
+        "titulo": "Nuevo dato enciende el 'criptogate' que salpica a Milei",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592782-nuevo-dato-enciende-criptogate-salpica-milei?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:34:11 +0000"
       },
       {
-        "titulo": "Uno de cada tres hombres de la generación Z prefiere una esposa obediente",
-        "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b3da3659bf5b71f64b2d51.jpeg\" style=\"float: left;\" />\n        \tLa directora del estudio señaló que muchas personas se sientan presionadas por expectativas sociales que no reflejan lo que realmente la mayoría de la sociedad piensa.",
-        "link": "https://actualidad.rt.com/actualidad/592643-tres-hombres-jovenes-prefiere-tener?utm_source=rss&utm_medium=rss&utm_campaign=all",
-        "fecha_publicacion": "Fri, 13 Mar 2026 12:50:35 +0000"
+        "titulo": "Suspenden vuelos en aeropuertos de Washington D.C. tras un fuerte olor a productos químicos",
+        "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+        "link": "https://actualidad.rt.com/actualidad/592793-suspenden-vuelos-aeropuertos-washington-olor-quimico?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:22:03 +0000"
       }
     ],
     "total_entradas": 10
@@ -1237,124 +1237,124 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
-        "resumen": "\"As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire,\" Maria Zakharova said",
-        "link": "https://tass.com/politics/1968329",
-        "fecha_publicacion": "Wed, 04 Jun 2025 14:21:03 +0300"
+        "titulo": "At least six killed in air attack on Iran’s central province of Markazi — agency",
+        "resumen": "According to the news agency, seven more people were wounded",
+        "link": "https://tass.com/world/2101493",
+        "fecha_publicacion": "Sat, 14 Mar 2026 01:24:49 +0300"
       },
       {
-        "titulo": "Russia, Ukraine to agree on date of new round of talks after memorandums are studied",
-        "resumen": "\"It will take some time to examine the draft memorandums that have been exchanged,\" Dmitry Peskov said",
-        "link": "https://tass.com/politics/1968333",
-        "fecha_publicacion": "Wed, 04 Jun 2025 14:20:34 +0300"
+        "titulo": "ISS orbit increased by 1.1 km — Roscosmos",
+        "resumen": "It amounted to 421.54 km above the Earth's surface",
+        "link": "https://tass.com/science/2101491",
+        "fecha_publicacion": "Sat, 14 Mar 2026 00:00:56 +0300"
       },
       {
-        "titulo": "Belarus’ defense ministry expects to strengthen cooperation with Pakistan significantly",
-        "resumen": "The ministers agreed to meet soon at an SCO event in China to discuss preliminary results of the agreements",
-        "link": "https://tass.com/world/1968325",
-        "fecha_publicacion": "Wed, 04 Jun 2025 14:13:52 +0300"
+        "titulo": "Israeli planes attack south of Beirut — source",
+        "resumen": "There is yet no information about the extent of the damage and the victims",
+        "link": "https://tass.com/world/2101483",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:45:01 +0300"
       },
       {
-        "titulo": "Frequency of meetings on Ukraine talks can’t be strictly standardized — Kremlin",
-        "resumen": "\"Contacts are underway and in the course of them suitable timeframes will be discussed,\" Dmitry Peskov added",
-        "link": "https://tass.com/politics/1968321",
-        "fecha_publicacion": "Wed, 04 Jun 2025 14:12:19 +0300"
+        "titulo": "Swedish prosecutor’s office decides to detain Sea Owl captain",
+        "resumen": "He is suspected of using forged documents",
+        "link": "https://tass.com/world/2101481",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:35:27 +0300"
       },
       {
-        "titulo": "Pakistani PM asks Putin to help resolve conflict with India — aide",
-        "resumen": "Syed Tariq Fatemi said that Pakistan and India must sit down at the negotiating table",
-        "link": "https://tass.com/world/1968319",
-        "fecha_publicacion": "Wed, 04 Jun 2025 14:11:09 +0300"
+        "titulo": "Energy crisis in Europe cannot be overcome without Russia — Orban",
+        "resumen": "Hungarian Prime Minister state that Brussels does not want to know anything about the suspension of sanctions against Russian energy",
+        "link": "https://tass.com/world/2101479",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:23:36 +0300"
       },
       {
-        "titulo": "Russia to take all measures to solve crime related to attacks on airfields — Kremlin",
-        "resumen": "Dmitry Peskov said that everything that must be done to resolve this crime will be done",
-        "link": "https://tass.com/politics/1968317",
-        "fecha_publicacion": "Wed, 04 Jun 2025 14:03:13 +0300"
+        "titulo": "Trump says to end operation against Iran when intuition tells him to",
+        "resumen": "The US leader also said that prices for oil and other commodities would begin to decline immediately after the end of the operation",
+        "link": "https://tass.com/world/2101475",
+        "fecha_publicacion": "Fri, 13 Mar 2026 23:11:01 +0300"
       },
       {
-        "titulo": "France, Belgium oppose ban on gas imports from Russia to EU — Politico",
-        "resumen": "Representatives of French and Belgian governments said that they need “more reassurances on the economic and legal consequences of the move before making a decision”",
-        "link": "https://tass.com/economy/1968311",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:57:48 +0300"
+        "titulo": "Afghanistan attacks military facility in Islamabad",
+        "resumen": "The attack precisely targeted the command center and other critical installations of the facility using drones, causing heavy casualties and substantial material losses to enemy forces, said the Afghan Defense Ministry",
+        "link": "https://tass.com/world/2101473",
+        "fecha_publicacion": "Fri, 13 Mar 2026 22:49:26 +0300"
       },
       {
-        "titulo": "Putin’s stance on death penalty moratorium remains firm — Kremlin spokesman",
-        "resumen": "President Vladimir Putin said in late 2024 that the Russian authorities had no plans to introduce capital punishment even amid the country’s special military operation",
-        "link": "https://tass.com/politics/1968307",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:49:31 +0300"
+        "titulo": "Iran uses solid-fuel ballistic missiles to attack Israel — IRGC",
+        "resumen": "Among the targets were \"places of the deployment of American soldiers in the region\"",
+        "link": "https://tass.com/world/2101467",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:53:58 +0300"
       },
       {
-        "titulo": "Europe’s gas stocks replenishment slower than usual, situation becomes tense",
-        "resumen": "According to Gazprom, 8.9 bln cubic meters of gas were injected into European UGS facilities in May, which 1.1 bln cubic meters less than the average for that month over the past ten years",
-        "link": "https://tass.com/economy/1968299",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:40:45 +0300"
+        "titulo": "Turkey takes steps to avoid being dragged into Iranian crisis — Erdogan",
+        "resumen": "The Turkish leader said that Ankara is taking the necessary security measures against any threats",
+        "link": "https://tass.com/world/2101465",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:43:34 +0300"
       },
       {
-        "titulo": "Japan reports record-low birth rate in 2024, ministry reveals",
-        "resumen": "Birth rates in Japan have been shrinking for a ninth consecutive year",
-        "link": "https://tass.com/society/1968297",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:40:28 +0300"
+        "titulo": "Israel hits Basij headquarters in Tehran — IDF",
+        "resumen": "The IDF added that the Israeli Air Force struck air defense systems and infrastructure at the first air defense base in Tehran",
+        "link": "https://tass.com/world/2101463",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:36:33 +0300"
       },
       {
-        "titulo": "Russia takes measures proceeding from Kiev’s attacks on peaceful facilities — Kremlin",
-        "resumen": "Having lost the initiative on the battlefield, Ukrainian servicemen resorted to terrorist tactics, attempting to attack deep within Russia with drones",
-        "link": "https://tass.com/politics/1968289",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:34:27 +0300"
+        "titulo": "US soldiers wounded in Kuwait, Jordan, other places — Pentagon",
+        "resumen": "Chairman of the Joint Chiefs of Staff Dan Caine did not say how many deaths the US army sustained",
+        "link": "https://tass.com/world/2101461",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:29:54 +0300"
       },
       {
-        "titulo": "Diamond prices mixed in May — industry agency",
-        "resumen": "Prices for diamonds weighing from 0.5 to 0.7 carats fell due to tariff policy adjustments, and the desire to complete sales before the beginning of summer holidays, Rapaport said",
-        "link": "https://tass.com/economy/1968279",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:27:01 +0300"
+        "titulo": "Iran launches new missiles towards Israel — state television",
+        "resumen": "There is no information yet on the number of projectiles used",
+        "link": "https://tass.com/world/2101453",
+        "fecha_publicacion": "Fri, 13 Mar 2026 21:08:38 +0300"
       },
       {
-        "titulo": "Crimean bridge unaffected by Kiev’s attack, Kremlin spokesman says",
-        "resumen": "According to Dmitry Peskov, the bridge is operational",
-        "link": "https://tass.com/politics/1968275",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:26:52 +0300"
+        "titulo": "US seeks to make Cuba economically dependent — Bloomberg",
+        "resumen": "The agency notes that Donald Trump’s allies believe current Cuban President Miguel Diaz-Canel is incapable of implementing necessary economic reforms",
+        "link": "https://tass.com/economy/2101443",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:42:27 +0300"
       },
       {
-        "titulo": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
-        "resumen": "According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine",
-        "link": "https://tass.com/world/1968271",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:22:26 +0300"
+        "titulo": "Iranian armed forces HQ reports on strikes against Israel, US bases in Bahrain, Iraq",
+        "resumen": "According to the report, the Muwaffaq Salti base in Jordan and other US bases in Manama and Erbil were subjected to the most powerful attacks by missiles and drones of the Islamic Revolutionary Guard Corps",
+        "link": "https://tass.com/world/2101437",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:25:58 +0300"
       },
       {
-        "titulo": "Russia not interested in arms race with Europe, European Parliament member says",
-        "resumen": "Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as \"strategic patience\"",
-        "link": "https://tass.com/world/1968241",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:02:43 +0300"
+        "titulo": "Ensuring Iran's security will bring oil prices down, ambassador to Moscow says",
+        "resumen": "Kazem Jalali also pointed out that it was the United States and Israel that had destabilized the situation",
+        "link": "https://tass.com/world/2101435",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:23:56 +0300"
       },
       {
-        "titulo": "Moscow Exchange launches trade in Bitcoin futures for qualified investors",
-        "resumen": "The quote with IBIT ticker will be traded in US dollars per lot, with settlements processed in Russian rubles",
-        "link": "https://tass.com/economy/1968239",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:01:29 +0300"
+        "titulo": "Iran to provide safe passage for Indian ships through Strait of Hormuz — ambassador",
+        "resumen": "Mohammad Fathali said that Iran and India share common interests in the region",
+        "link": "https://tass.com/economy/2101433",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:17:56 +0300"
       },
       {
-        "titulo": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
-        "resumen": "Top stories from the Russian press on Wednesday, June 4th",
-        "link": "https://tass.com/pressreview/1968153",
-        "fecha_publicacion": "Wed, 04 Jun 2025 13:00:01 +0300"
+        "titulo": "Annual inflation in Russia gearing up to 5.84% over week — Economy Ministry",
+        "resumen": "Inflation in the consumer market stood at 0.11% over the period from March 3 to 10, 2026",
+        "link": "https://tass.com/economy/2101427",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:06:22 +0300"
       },
       {
-        "titulo": "More than 20 children return to Lugansk People’s Republic from Ukraine in two years",
-        "resumen": "The LPR children’s rights commissioner Inna Shvenk noted that most commonly, children were separated from their legal representatives during evacuation from combat zones",
-        "link": "https://tass.com/politics/1968233",
-        "fecha_publicacion": "Wed, 04 Jun 2025 12:48:56 +0300"
+        "titulo": "Russian business ready to share experience with Namibia — VEB.RF",
+        "resumen": "Artem Dovlatov, Deputy Chairman of the Russian development corporation VEB.RF, noted the high potential for bilateral business development and the importance of financial mechanisms for their practical implementation",
+        "link": "https://tass.com/economy/2101423",
+        "fecha_publicacion": "Fri, 13 Mar 2026 20:01:53 +0300"
       },
       {
-        "titulo": "Dialogue with Russia crucial as West shuns it — retired French officer",
-        "resumen": "Jacques Hogarde believes that it is necessary to maintain contacts of any kind",
-        "link": "https://tass.com/world/1968229",
-        "fecha_publicacion": "Wed, 04 Jun 2025 12:46:52 +0300"
+        "titulo": "Over 20 Russian companies took part in Russia-Namibia business forum — Russian envoy",
+        "resumen": "Yury Trutnev said that both countries are bound by a strong and long-standing friendship",
+        "link": "https://tass.com/economy/2101421",
+        "fecha_publicacion": "Fri, 13 Mar 2026 19:39:38 +0300"
       },
       {
-        "titulo": "Ukrainian army attacks Russia’s borderline Belgorod Region with over 70 UAVs in 24 hours",
-        "resumen": "In the village of Afonyevka, an 18-year-old young man suffered injuries",
-        "link": "https://tass.com/politics/1968231",
-        "fecha_publicacion": "Wed, 04 Jun 2025 12:44:23 +0300"
+        "titulo": "US-Israeli strikes leave more than 220 women, 200 children dead in Iran — ISNA agency",
+        "resumen": "A total of 2,729 women and 1,190 minors, among them 41 children under two years old, have been injured",
+        "link": "https://tass.com/world/2101419",
+        "fecha_publicacion": "Fri, 13 Mar 2026 19:37:35 +0300"
       }
     ],
     "total_entradas": 20
@@ -1366,6 +1366,30 @@
     "fecha_minado": "2026-03-13",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Germany’s Merz turns against Trump over war in Iran",
+        "resumen": "Last week, the chancellor told the U.S. president he was fully aligned on toppling the regime in Tehran. But his tone on the war is now souring sharply.",
+        "link": "https://www.politico.eu/article/germany-merz-turns-against-trump-over-war-iran/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:38:23 +0000"
+      },
+      {
+        "titulo": "EU insists on tuition fees cut as price of Brexit reset",
+        "resumen": "\"Frustrated\" Brussels says issue must be resolved before talks can conclude.",
+        "link": "https://www.politico.eu/article/eu-insists-tuition-fees-cut-price-brexit-reset/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 18:12:37 +0000"
+      },
+      {
+        "titulo": "Macron: France’s role in Middle East remains ‘purely defensive’ despite soldier’s death",
+        "resumen": "France has suffered its first fatality in the war in the Middle East.",
+        "link": "https://www.politico.eu/article/emmanuel-macron-france-role-in-middle-east-remains-purely-defensive-despite-soldiers-death/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 15:53:07 +0000"
+      },
+      {
+        "titulo": "Nuclear plans hand Starmer a way to woo Trump",
+        "resumen": "The U.S. has been pitching for nuclear investment in the U.K. Insiders reckon Whitehall's new plans make that more likely to happen.",
+        "link": "https://www.politico.eu/article/keir-starmer-donald-trump-nuclear-plans-a-way-to-woo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Fri, 13 Mar 2026 15:49:49 +0000"
+      },
       {
         "titulo": "Far right says EU Parliament chief Metsola broke deal on tribute to slain French activist",
         "resumen": "Parliament President Roberta Metsola says she is in touch with Quentin Deranque's family.",
@@ -1401,30 +1425,6 @@
         "resumen": "It was unclear whether Tehran was directly targeting Turkey or whether the missile was intended to cross Turkish airspace en route to another target.",
         "link": "https://www.politico.eu/article/nato-intercepts-third-iran-missile-toward-turkey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "fecha_publicacion": "Fri, 13 Mar 2026 13:11:16 +0000"
-      },
-      {
-        "titulo": "EU leaders push visa crackdown on Russian war veterans",
-        "resumen": "Demobilized Russian fighters could pose crime and security risks for the EU's Schengen free-movement area, northern and eastern capitals warn.",
-        "link": "https://www.politico.eu/article/eu-leaders-visa-crackdown-russian-war-veterans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "fecha_publicacion": "Fri, 13 Mar 2026 11:31:50 +0000"
-      },
-      {
-        "titulo": "Trump is ‘wrong’: Europeans slam US decision to ease Russia oil sanctions",
-        "resumen": "“We want to ensure that Russia does not exploit the war in Iran to weaken Ukraine,” the German chancellor said.",
-        "link": "https://www.politico.eu/article/germany-friedrich-merz-blasts-donald-trump-lift-russian-energy-sanctions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "fecha_publicacion": "Fri, 13 Mar 2026 11:09:31 +0000"
-      },
-      {
-        "titulo": "How a top Washington strategist courted Jeffrey Epstein",
-        "resumen": "Crisis communications consultant Juleanna Glover corresponded with the late sex offender during a 15-month period shortly before his death in 2019. She says it was all in service of tanking Trump.",
-        "link": "https://www.politico.com/news/2026/03/13/how-a-top-dc-strategist-courted-jeffrey-epstein-00827448?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "fecha_publicacion": "Fri, 13 Mar 2026 10:40:22 +0000"
-      },
-      {
-        "titulo": "Vance was ‘skeptical’ voice in White House on Iran strikes",
-        "resumen": "White House officials revealed that the vice president made his opposition known in the leadup.",
-        "link": "https://www.politico.com/news/2026/03/13/jd-vance-skeptical-iran-operation-00826780?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "fecha_publicacion": "Fri, 13 Mar 2026 09:14:58 +0000"
       }
     ],
     "total_entradas": 10

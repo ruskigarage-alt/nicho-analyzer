@@ -4,7 +4,7 @@
   "name": "regulaciones_pyme — 2026-03-13",
   "description": "Digest semántico de regulaciones_pyme generado el 2026-03-13",
   "datePublished": "2026-03-13",
-  "numberOfItems": 27,
+  "numberOfItems": 26,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -446,23 +446,6 @@
         },
         "keywords": "regulaciones, pyme",
         "relevanceScore": 0.6169
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 27,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Nu: Tenemos más de 2 millones de clientes en el sur; el crédito es transformador",
-        "description": "Armando Herrera, CEO de Nu México, dijo que de los más de 13 millones de clientes que tienen, un 14% está en la región de menos inclusión financiera.",
-        "url": "https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador",
-        "datePublished": "Mon, 09 Mar 2026 11:55:50 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "expansion_economia"
-        },
-        "keywords": "regulaciones, pyme",
-        "relevanceScore": 0.4623
       }
     }
   ]

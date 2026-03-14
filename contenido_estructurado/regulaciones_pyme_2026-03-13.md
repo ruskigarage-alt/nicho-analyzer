@@ -2,7 +2,7 @@
 title: "Regulaciones Pyme — Actualización 2026-03-13"
 date: "2026-03-13"
 nicho: "regulaciones_pyme"
-total_entradas: 27
+total_entradas: 26
 schema: "NewsDigest"
 ---
 
@@ -192,11 +192,4 @@ schema: "NewsDigest"
 - **URL**: https://expansion.mx/economia/2026/03/09/inflacion-en-mexico-repunta-a-4-02-en-febrero-y-queda-fuera-del-rango-objetivo-de-banxico
 - **Resumen**: El alza de alimentos y servicios mantuvo presiones en los precios durante febrero, mientras el componente subyacente —clave para Banxico— se ubicó en 4.50% anual.
 - **Relevancia**: 0.6169
-
-### Nu: Tenemos más de 2 millones de clientes en el sur; el crédito es transformador
-- **Fecha**: Mon, 09 Mar 2026 11:55:50 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/09/nu-tenemos-mas-de-2-millones-de-clientes-en-el-sur-el-credito-es-transformador
-- **Resumen**: Armando Herrera, CEO de Nu México, dijo que de los más de 13 millones de clientes que tienen, un 14% está en la región de menos inclusión financiera.
-- **Relevancia**: 0.4623
 
