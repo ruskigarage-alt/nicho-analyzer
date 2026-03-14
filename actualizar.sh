@@ -82,6 +82,10 @@ fi
 # PASO 5 — PUBLICAR TODO
 # ─────────────────────────────────────────
 echo ""
+echo ""
+echo "[ 4.5/5 ] Publicando en Telegram..."
+python3 telegram_bot.py
+echo ""
 echo "[ 5/5 ] Publicando en GitHub..."
 git add .
 git commit -m "update $(date +%Y-%m-%d)"
