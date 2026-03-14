@@ -1,0 +1,588 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "geopolitica — 2026-03-14",
+  "description": "Digest semántico de geopolitica generado el 2026-03-14",
+  "datePublished": "2026-03-14",
+  "numberOfItems": 34,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Escala precio del crudo 11.86 por ciento en una semana",
+        "description": "Los precios internacionales del crudo cerraron la semana por arriba de 100 dólares, nivel no observado en cuatro años, lo cual se explica por el persistente temor de que se prolongue el cierre del estrecho de Ormuz por el conflicto bélico en Medio Oriente.",
+        "url": "https://www.jornada.com.mx/2026/03/14/mundo/018n1mun?partner=rss",
+        "datePublished": "Sat, 14 Mar 2026 07:58:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5522
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Culpan a ocho por tiroteo en un centro de detención del ICE",
+        "description": "Un jurado federal declaró ayer culpables a ocho personas de cargos relacionados con el terrorismo en conexión con una balacera en un centro de detención de inmigrantes, en Texas, del Servicio de Control de Inmigración y Aduanas (ICE), que los fiscales vincularon con Antifa, un movimiento de extrema izquierda frecuentemente atacado por la administración Trump.",
+        "url": "https://www.jornada.com.mx/2026/03/14/mundo/019n4mun?partner=rss",
+        "datePublished": "Sat, 14 Mar 2026 07:58:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4736
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Cese el fuego en Medio Oriente, instan México, Colombia y Brasil",
+        "description": "Manzanillo, Col., México, Colombia y Brasil llamaron, en un comunicado conjunto, a que se declare un cese al fuego inmediato en Medio Oriente y se privilegien las vías diplomáticas para resolver las diferencias entre Estados Unidos, Israel e Irán, informó ayer la presidenta Claudia Sheinbaum Pardo.",
+        "url": "https://www.jornada.com.mx/2026/03/14/mundo/018n3mun?partner=rss",
+        "datePublished": "Sat, 14 Mar 2026 07:58:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4779
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Juan Pablo Duch: Apuntes postsoviéticos",
+        "description": "La guerra de Estados Unidos e Israel contra Irán y su impacto en los precios internacionales de los hidrocarburos por el cierre del estrecho de Ormuz como respuesta de Teherán resultaron una inesperada fuente de ingresos para Rusia, que sin mover un dedo está obteniendo dinero adicional para financiar su “operación militar especial” en Ucrania.",
+        "url": "https://www.jornada.com.mx/2026/03/14/opinion/020o1mun?partner=rss",
+        "datePublished": "Sat, 14 Mar 2026 07:58:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.573
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Ucrania y Alemania condenan “venta temporal” de petróleo ruso",
+        "description": "París. El presidente de Ucrania, Volodymir Zelensky, y el canciller alemán, Friedrich Merz, condenaron el levantamiento temporal de las sanciones estadunidenses al petróleo ruso con el argumento de que aporta a Moscú hasta 10 mil millones de dólares adicionales para continuar con la guerra. El presidente de Francia, Emmanuel Macron, aseguró que se trata de una medida “excepcional” y “limitada”.",
+        "url": "https://www.jornada.com.mx/2026/03/14/mundo/017n2mun?partner=rss",
+        "datePublished": "Sat, 14 Mar 2026 07:58:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.529
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "La Habana niega la venta  de donaciones de México",
+        "description": "El presidente de Cuba, Miguel Díaz-Canel, agradeció la ayuda enviada por México en medio de la crisis que enfrenta su país, derivada del bloqueo energético impuesto por el gobierno de Donald Trump, y desmintió la supuesta venta de los productos recibidos.",
+        "url": "https://www.jornada.com.mx/2026/03/14/mundo/014n3mun?partner=rss",
+        "datePublished": "Sat, 14 Mar 2026 07:58:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5334
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Capturan en Bolivia buscado narco con cuatro colaboradores",
+        "description": "El presunto narcotraficante uruguayo Sebastián Marset, buscado en diversos países y acusado de ser el cerebro del crimen de un fiscal paraguayo en 2022, fue capturado junto a cuatro de sus colaboradores, incluida una mujer, en un barrio residencial de Santa Cruz, y entregado a la Administración para el Control de Drogas (DEA), que lo trasladó a Estados Unidos, informó ayer Marco Antonio Oviedo, ministro de gobierno de Bolivia.",
+        "url": "https://www.jornada.com.mx/2026/03/14/mundo/019n3mun?partner=rss",
+        "datePublished": "Sat, 14 Mar 2026 07:58:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4753
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Second Dynacom Oil Tanker Passes Hormuz as Other Owners Hold Back",
+        "description": "A Greek shipowner sent a second oil tanker through the Strait of Hormuz, bucking caution among the shipping industry as Iran lashes out across the region in response to attacks by Israel and the US.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-14/second-dynacom-oil-tanker-passes-hormuz-as-other-owners-hold-back",
+        "datePublished": "Sat, 14 Mar 2026 13:09:27 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.7481
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Two LPG Ships Sail Through Hormuz to Shortage-Hit India",
+        "description": "Two tankers carrying liquefied petroleum gas are heading to India after crossing the Strait of Hormuz, providing some relief to acute shortages as the war in the Persian Gulf disrupts supply of the cooking fuel.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-14/two-lpg-ships-sail-through-hormuz-on-way-to-shortage-hit-india",
+        "datePublished": "Sat, 14 Mar 2026 06:37:31 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6947
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "HORMUZ TRACKER: Saudi Suezmax Reappears Off Mumbai; LPG to India",
+        "description": "Commercial vessel traffic through the Strait of Hormuz continues at very low levels, with just a handful of oil and liquefied petroleum gas tankers transiting in the last 24 hours amid heightened regional tensions.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-14/hormuz-tracker-saudi-suezmax-reappears-off-mumbai-lpg-to-india",
+        "datePublished": "Sat, 14 Mar 2026 13:15:38 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6862
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Russian Refinery, Port Hit by Drones; Kyiv Comes Under Fire",
+        "description": "Drone attacks on Russia sparked a fire at an oil refinery and caused damage at a key port in the southern Krasnodar region, while Ukraine faced one of the largest missile and drone barrages so far this year, with at least four people killed.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-14/russia-says-major-oil-refinery-key-port-hit-by-ukraine-drones",
+        "datePublished": "Sat, 14 Mar 2026 05:11:25 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.475
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Trump’s Efforts to Defuse the Oil Spike Aren’t Working",
+        "description": "Big reserve releases, promises of escorts, and insurance can’t convince the market that the crisis will be over soon.",
+        "url": "https://foreignpolicy.com/2026/03/12/trump-oil-price-spike-markets-iran-war-reserve-release/",
+        "datePublished": "Thu, 12 Mar 2026 17:53:32 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "foreign_policy"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4675
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
+        "description": "Iran&#039;s envoy to New Delhi says Tehran allowed some Indian vessels to pass the Strait in rare exception to the blockade.",
+        "url": "https://www.aljazeera.com/news/2026/3/14/two-indian-ships-cross-strait-of-hormuz-as-iran-says-it-allowed-passage?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 12:58:22 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5114
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war",
+        "description": "Israeli forces carry out daily attacks on besieged Gaza, as humanitarian conditions amid Iran war worsen.",
+        "url": "https://www.aljazeera.com/news/2026/3/14/israels-genocide-in-gaza-claims-another-5-palestinian-lives-amid-wider-war?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 12:12:07 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4743
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "The battle on the propaganda front intensifies",
+        "description": "As the US and Israel battle to control the story of their war against Iran, their messaging gets harder to defend.",
+        "url": "https://www.aljazeera.com/video/the-listening-post/2026/3/14/the-battle-on-the-propaganda-front-intensifies?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 11:17:10 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5081
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
+        "description": "The Palestinian group calls for end to Gulf attacks while supporting Tehran’s right to defend against Israel and US.",
+        "url": "https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 09:53:03 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5276
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran continues intensified attacks across Gulf in US-Israel war fallout",
+        "description": "Strikes target multiple countries, including UAE, Saudi Arabia and Qatar, with interceptions reported.",
+        "url": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss",
+        "datePublished": "Sat, 14 Mar 2026 09:12:38 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6598
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Hamas calls on Iran to ‘avoid targeting neighbouring countries’",
+        "description": "Palestinian Islamist movement Hamas on Saturday called on Iran to refrain from targeting neighbouring countries, while affirming Tehran’s right to defend itself against Israel and the United States.\nIn a rare appeal, Hamas also urged the international community to take steps to end the war that has gripped the Middle East since it began on February 28.\n“While affirming the right of the Islamic Republic of Iran to respond to this aggression by all available means in accordance with international...",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3346608/hamas-calls-iran-avoid-targeting-neighbouring-countries?utm_source=rss_feed",
+        "datePublished": "Sat, 14 Mar 2026 11:30:07 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5047
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran war fallout puts 9 million Indian workers in the line of fire",
+        "description": "When the alert arrives on his phone, Yashwant Deshmukh knows exactly what to do.\nThe Dubai-based political analyst moves away from the windows, waits for the second message confirming the missile has been intercepted, and then goes back to work.\n“It has become a drill,” he said.\nFor the roughly 9 million Indians living and working across the Gulf, the war on Iran has shattered one of the region’s most durable illusions: that cities like Dubai, Abu Dhabi, Doha and Manama would remain apart from...",
+        "url": "https://www.scmp.com/week-asia/people/article/3346524/iran-war-fallout-puts-9-million-indian-workers-line-fire?utm_source=rss_feed",
+        "datePublished": "Sat, 14 Mar 2026 08:00:12 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5389
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Strikes on Iraqi capital kill 2 Iran-linked Kataeb Hezbollah members",
+        "description": "Explosions rocked Iraq’s capital Baghdad on Saturday after two strikes targeted the powerful Iran-backed group Kataeb Hezbollah, killing two members including a “key figure”, security sources said.\nThe strikes are the first in the heart of Baghdad to kill Iran-backed fighters since the start of the Middle East war on February 28, which has not spared Iraq, long a proxy battleground between the US and Iran.\n“At 2.15am, a missile struck a house that was being used by Kataeb Hezbollah,” said a...",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3346576/strikes-iraqi-capital-kill-2-iran-linked-kataeb-hezbollah-members?utm_source=rss_feed",
+        "datePublished": "Sat, 14 Mar 2026 03:35:28 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5674
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Beyond Pax Silica: Japan, France and Canada seek rare earth autonomy",
+        "description": "For years, the West’s answer to Chinese dominance of critical minerals was to rally around Washington. Now, some of its most important allies are reaching a different conclusion: that depending too heavily on the United States carries its own risks.\nJapan, France and Canada have all been exploring how to build supply chains for rare earths and other critical minerals that answer to neither Beijing nor Washington.\nSenior officials from the three Group of Seven economies are working on...",
+        "url": "https://www.scmp.com/week-asia/economics/article/3346530/beyond-pax-silica-japan-france-and-canada-seek-rare-earth-autonomy?utm_source=rss_feed",
+        "datePublished": "Sat, 14 Mar 2026 00:00:09 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6477
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran lets 2 India-flagged gas tankers sail through Strait of Hormuz, insiders say",
+        "description": "Iran ⁠has allowed two Indian-flagged liquefied ⁠petroleum gas carriers to sail through the Strait of Hormuz, ⁠four sources with direct knowledge of the matter said, a rare exception to the Iranian blockade that has disrupted global energy supplies.\nThe Indian-flagged LPG tanker Shivalik crossed the Strait under escort from the Indian Navy, said two of the sources, and the second vessel, Nanda Devi, was expected to clear in the ‌next few hours.\nSince the United States and Israel launched a...",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3346565/iran-lets-2-india-flagged-gas-tankers-sail-through-strait-hormuz-insiders-say?utm_source=rss_feed",
+        "datePublished": "Fri, 13 Mar 2026 18:35:10 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6587
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Trump: \"Los medios de comunicación despreciables realmente quieren que perdamos la guerra\"",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b568c659bf5b79b60a9d4e.jpg\" style=\"float: left;\" />\n        \tEl presidente estadounidense se refirió a los informes sobre aviones cisterna que supuestamente habían sido afectados por ataques de represalia iraníes.",
+        "url": "https://actualidad.rt.com/actualidad/592909-trump-medios-comunicacion-despreciables-realmente?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 14:09:51 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5001
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Petrolero griego atacado por \"un objeto desconocido\" en el mar Negro",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b54da6e9ff7102ad04c186.jpg\" style=\"float: left;\" />\n        \tComo consecuencia del ataque, solo se produjeron daños materiales en el costado de estribor del buque.",
+        "url": "https://actualidad.rt.com/actualidad/592893-petrolero-griego-atacar-objeto-desconocido-mar-negro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 13:00:48 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5811
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "X hará cambios en Europa para resolver una disputa de 138 millones de dólares",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b559abe9ff7115cc5c6b9a.jpg\" style=\"float: left;\" />\n        \t\"La Comisión [Europea] evaluará ahora detenidamente las medidas correctivas propuestas\", dijo este viernes un portavoz del ente.",
+        "url": "https://actualidad.rt.com/actualidad/592871-musk-resolver-disputa-millones-dolares-medida?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 12:10:51 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5246
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Cuán importante es \"la joya\" petrolera de Irán y qué pasará si EE.UU. decide destruirla",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b53b10e9ff7113de11f4f6.jpg\" style=\"float: left;\" />\n        \tLa última vez que la isla sufrió un ataque importante fue durante la guerra entre Irán e Irak en la década de 1980.",
+        "url": "https://actualidad.rt.com/actualidad/592877-importante-isla-petrolera-irani-kharg-iran-destruir?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Sat, 14 Mar 2026 12:03:07 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4692
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
+        "description": "\"As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire,\" Maria Zakharova said",
+        "url": "https://tass.com/politics/1968329",
+        "datePublished": "Wed, 04 Jun 2025 14:21:03 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4822
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
+        "description": "According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine",
+        "url": "https://tass.com/world/1968271",
+        "datePublished": "Wed, 04 Jun 2025 13:22:26 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4853
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Russia not interested in arms race with Europe, European Parliament member says",
+        "description": "Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as \"strategic patience\"",
+        "url": "https://tass.com/world/1968241",
+        "datePublished": "Wed, 04 Jun 2025 13:02:43 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5195
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
+        "description": "Top stories from the Russian press on Wednesday, June 4th",
+        "url": "https://tass.com/pressreview/1968153",
+        "datePublished": "Wed, 04 Jun 2025 13:00:01 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4758
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran warns of retaliation after US bombing of Kharg Island",
+        "description": "Tehran threatens to hit U.S.-linked oil and energy infrastructures if its own oil facilities are attacked.",
+        "url": "https://www.politico.eu/article/iran-warns-of-retaliatory-strikes-on-us-oil-facilities-kharg-island/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "datePublished": "Sat, 14 Mar 2026 09:37:22 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "politico_europe"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5101
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Bowman, Capital Rules for the Real Economy",
+        "description": "Speech At the Cato Institute Policy Forum: Basel III and Bank Capital Rules, Washington, D.C.",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm",
+        "datePublished": "Thu, 12 Mar 2026 15:00:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "fed_speeches"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4734
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
+        "description": "Speech At The Roundtable on Liquidity and Lender of Last Resort sponsored by the Committee on Capital Markets Regulation, Washington, D.C.",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm",
+        "datePublished": "Tue, 3 Mar 2026 13:30:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "fed_speeches"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4634
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Bowman, Outlook for the Economy and Monetary Policy",
+        "description": "Speech At Outlook 26:  The New England Economic Forum, Foxborough, Massachusetts",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm",
+        "datePublished": "Fri, 16 Jan 2026 16:00:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "fed_speeches"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4652
+      }
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "regulaciones_pyme — 2026-03-14",
+  "description": "Digest semántico de regulaciones_pyme generado el 2026-03-14",
+  "datePublished": "2026-03-14",
+  "numberOfItems": 17,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Exhibe guerra contra Irán grietas en la economía de Estados Unidos",
+        "description": "Washington. La resiliente economía de Estados Unidos ya mostraba señales de tensión incluso antes del inicio de la guerra contra Irán, según datos publicados ayer, lo que subraya los riesgos que puede plantear el aumento de los precios de la gasolina y la energía.",
+        "url": "https://www.jornada.com.mx/2026/03/14/economia/012n1eco?partner=rss",
+        "datePublished": "Sat, 14 Mar 2026 07:58:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.4753
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Carlos Fernández-Vega: México SA",
+        "description": "¿Qué fue de la sucia campaña,   rebosante de clichés de la guerra fría y financiada por la mano que mece a la oposición, la cual histéricamente pregona: “¡cuidado!”, porque los médicos cubanos que arriban a México sólo lo hacen “para inocular el comunismo” y “financiar al régimen totalitario de la isla”, al tiempo que “cuestiona” si en realidad se trata de galenos o “agentes de la seguridad de Cuba”. Y como éstas, muchísimas más sandeces inundan los medios de “comunicación” al servicio de Washington y la ultraderecha. Entonces, ¿dónde acabó esta tentativa? Pues en el mismo sitio de donde salió: la basura, como tantas otras “cruzadas” emprendidas por los neofascistas.",
+        "url": "https://www.jornada.com.mx/2026/03/14/opinion/013o1eco?partner=rss",
+        "datePublished": "Sat, 14 Mar 2026 07:58:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5601
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
+        "description": "La cuota por el impuesto IEPS que se cobra al combustible utilizado para el transporte de mercancías y personas, tendrá un descuento que absorberá Hacienda como un pérdida recaudatoria.",
+        "url": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico",
+        "datePublished": "Fri, 13 Mar 2026 23:58:20 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5398
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
+        "description": "Felipe García, director general del banco, dice que detectan problemas de morosidad en el segmento en medio de la creciente competencia de nuevos jugadores.",
+        "url": "https://expansion.mx/economia/2026/03/13/santander-hemos-frenado-un-poco-el-negocio-de-tarjetas",
+        "datePublished": "Fri, 13 Mar 2026 22:00:08 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.483
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
+        "description": "Pablo Elek, director general de Scotiabank México, afirma que el país ha demostrado resiliencia económica y cuenta con una plataforma manufacturera integrada al corredor norte.",
+        "url": "https://expansion.mx/economia/2026/03/13/scotiabank-mexico-es-prioridad-para-el-banco-representa-30-del-negocio",
+        "datePublished": "Fri, 13 Mar 2026 18:01:35 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5465
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
+        "description": "Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.",
+        "url": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion",
+        "datePublished": "Fri, 13 Mar 2026 00:30:33 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5477
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
+        "description": "El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.",
+        "url": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas",
+        "datePublished": "Fri, 13 Mar 2026 00:25:17 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.6305
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
+        "description": "Durante el último año, el comercio de acero entre ambos países se convirtió en uno de los puntos más sensibles de la relación bilateral.",
+        "url": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec",
+        "datePublished": "Thu, 12 Mar 2026 22:12:23 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.6495
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
+        "description": "Gobiernos y sector privado impulsan misiones comerciales y acuerdos empresariales para ampliar el intercambio entre México y Canadá.",
+        "url": "https://expansion.mx/economia/2026/03/12/mexico-gana-frente-canada-exportaciones-se-disparan",
+        "datePublished": "Thu, 12 Mar 2026 21:35:37 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5687
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
+        "description": "Luis Brossier afirma que empresas ya dialogan con CFE sobre generación eléctrica y que el banco apoyará con financiamiento cuando se asignen los proyectos.",
+        "url": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura",
+        "datePublished": "Thu, 12 Mar 2026 19:20:27 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.6567
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
+        "description": "Eduardo Osuna, director general de BBVA México, dijo que la banca está lista para financiar los proyectos del Plan México, siempre que cuenten con permisos, fuentes de pago claras y una adecuada asignación de riesgos.",
+        "url": "https://expansion.mx/economia/2026/03/12/bbva-los-proyectos-del-plan-mexico-seran-exitosos-y-rentables-si-se-ejecutan-bien",
+        "datePublished": "Thu, 12 Mar 2026 11:55:40 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5674
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
+        "description": "La USTR indicó que el proceso en el marco de la Sección 301 analizará si las políticas industriales de estos países son irrazonables o discriminatorias y si restringen el comercio de Estados Unidos.",
+        "url": "https://expansion.mx/economia/2026/03/11/eu-investiga-mexico-economias-sobrecapacidad-manufactura",
+        "datePublished": "Thu, 12 Mar 2026 00:33:02 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.6943
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
+        "description": "El plan busca ampliar el financiamiento a pequeñas empresas con garantías de Nafin y mayor colocación bancaria, pero la falta de historial crediticio es la principal barrera para el primer préstamo.",
+        "url": "https://expansion.mx/economia/2026/03/11/plan-mexico-credito-pymes-pero-reto-negocios-fuera",
+        "datePublished": "Wed, 11 Mar 2026 19:59:02 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.7022
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
+        "description": "Carlos López-Moctezuma dice que el banco tomó el control de la cartera en febrero, contrató cobranza especializada y prevé un alza temporal en la morosidad mientras los clientes migran al nuevo sistema de pago.",
+        "url": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos",
+        "datePublished": "Wed, 11 Mar 2026 18:01:01 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5538
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
+        "description": "El fisco publicó 80 tasas efectivas pagadas en 2022 y 2023; los contribuyentes que pagaron menos ISR que el promedio de su actividad, ya tienen un mensaje en su Buzón Tributario para ponerse al tanto.",
+        "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes",
+        "datePublished": "Wed, 11 Mar 2026 15:31:29 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.4857
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
+        "description": "Julio Escandón, director general del banco, afirma que tras los señalamientos de EU contra instituciones financieras, se optó por frenar la captación de nuevos clientes y reforzar sus controles de cumplimiento.",
+        "url": "https://expansion.mx/economia/2026/03/10/banco-base-acusaciones-de-lavado-de-dinero-fueron-una-sacudida-para-los-bancos",
+        "datePublished": "Tue, 10 Mar 2026 11:55:42 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5195
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
+        "description": "Por mayores precios del petróleo, los ingresos de México pueden acelerarse, pero el alza en los precios de gasolinas borrará los ingresos extras.",
+        "url": "https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas",
+        "datePublished": "Tue, 10 Mar 2026 00:36:31 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "expansion_economia"
+        },
+        "keywords": "regulaciones, pyme",
+        "relevanceScore": 0.5761
+      }
+    }
+  ]
+}

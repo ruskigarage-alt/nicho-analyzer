@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json",
   "language": "es-MX",
-  "date_modified": "2026-03-14T01:22:35.972138+00:00",
-  "total_records": 55,
+  "date_modified": "2026-03-14T14:51:10.164705+00:00",
+  "total_records": 72,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#0",
@@ -593,6 +593,193 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#53",
+      "title": "Exhibe guerra contra Irán grietas en la economía de Estados Unidos",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/economia/012n1eco?partner=rss",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#54",
+      "title": "Carlos Fernández-Vega: México SA",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/opinion/013o1eco?partner=rss",
+      "tags": [
+        "regulaciones_pyme",
+        "jornada_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#55",
+      "title": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#56",
+      "title": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/13/santander-hemos-frenado-un-poco-el-negocio-de-tarjetas",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#57",
+      "title": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/13/scotiabank-mexico-es-prioridad-para-el-banco-representa-30-del-negocio",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#58",
+      "title": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#59",
+      "title": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#60",
+      "title": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#61",
+      "title": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/12/mexico-gana-frente-canada-exportaciones-se-disparan",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#62",
+      "title": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#63",
+      "title": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/12/bbva-los-proyectos-del-plan-mexico-seran-exitosos-y-rentables-si-se-ejecutan-bien",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#64",
+      "title": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/11/eu-investiga-mexico-economias-sobrecapacidad-manufactura",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#65",
+      "title": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/11/plan-mexico-credito-pymes-pero-reto-negocios-fuera",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#66",
+      "title": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#67",
+      "title": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#68",
+      "title": "Banco BASE: “Acusaciones de lavado de dinero fueron una sacudida para los bancos”",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/10/banco-base-acusaciones-de-lavado-de-dinero-fueron-una-sacudida-para-los-bancos",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#69",
+      "title": "Guerra deja más dinero público por crudo, pero menos por subsidios a gasolinas",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://expansion.mx/economia/2026/03/09/guerra-dinero-publico-crudo-menos-subsidios-gasolinas",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#70",
       "title": "Inflacion INPC anual Mexico",
       "content_text": "",
       "date_published": "2026-03-13",
@@ -603,7 +790,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#54",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#71",
       "title": "Inflacion INPC anual Mexico",
       "content_text": "",
       "date_published": "2026-03-14",

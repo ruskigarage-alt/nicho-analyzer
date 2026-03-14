@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json",
   "language": "es-MX",
-  "date_modified": "2026-03-14T01:22:35.972138+00:00",
-  "total_records": 31,
+  "date_modified": "2026-03-14T14:51:10.164705+00:00",
+  "total_records": 48,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#0",
@@ -343,6 +343,193 @@
       "title": "Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena",
       "content_text": "",
       "date_published": "2026-03-13",
+      "url": "https://ljz.mx/12/03/2026/habra-costo-politico-para-verde-y-pt-por-no-apoyar-la-reforma-electoral-morena/",
+      "tags": [
+        "politica_local",
+        "jornada_zacatecas"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#31",
+      "title": "Gustavo Leal F. *: Primer año de la política de salud de la administración de Sheinbaum",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/politica/010a2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#32",
+      "title": "Salida amistosa al caso Bonfilio Rubio Villegas, plantea Encinas a familiares",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/politica/004n3pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#33",
+      "title": "SRE destaca cooperación y confianza",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/politica/003n3pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#34",
+      "title": "Revelan lista de jubilados de empresas estatales",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/politica/005n1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#35",
+      "title": "Sentencia EU a 15 años de cárcel a mexicano por tráfico de armas",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/politica/004n1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#36",
+      "title": "Raúl Romero*: Crimen organizado y capitalismo",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/politica/011a1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#37",
+      "title": "Solicitan grupos civiles a la CIDH vigilar el desplazamiento forzado interno en el país",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/politica/004n2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#38",
+      "title": "Critica Trump rechazo de México a su “ayuda” contra el narcotráfico",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/politica/003n1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#39",
+      "title": "Activista de Oaxaca y su hermano fueron privados de su libertad",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/estados/021n2est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#40",
+      "title": "Empleados del INAH en Veracruz exigen apoyos para realizar su trabajo",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/estados/023n3est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#41",
+      "title": "Exigen pronta localización de una menor en Veracruz",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/estados/021n3est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#42",
+      "title": "En 4 días, encuentran 8 restos en la alcaldía Álvaro Obregón",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/capital/026n3cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#43",
+      "title": "Diputados locales tendrán megapuente; sesionarán hasta el 18",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/capital/025n1cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#44",
+      "title": "Este año, $600 millones para unidades habitacionales",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/capital/025n3cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#45",
+      "title": "Reintegran al erario 115 millones de pesos por sanciones a funcionarios",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/capital/024n1cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#46",
+      "title": "Maestros protestan en el Zócalo por descuentos en su salario",
+      "content_text": "",
+      "date_published": "2026-03-14",
+      "url": "https://www.jornada.com.mx/2026/03/14/capital/026n2cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#47",
+      "title": "Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena",
+      "content_text": "",
+      "date_published": "2026-03-14",
       "url": "https://ljz.mx/12/03/2026/habra-costo-politico-para-verde-y-pt-por-no-apoyar-la-reforma-electoral-morena/",
       "tags": [
         "politica_local",
