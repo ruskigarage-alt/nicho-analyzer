@@ -1,9 +1,9 @@
 {
   "meta": {
     "fuente": "Cripeso · Marzo 2026",
-    "actualizado": "2026-03-14",
-    "total_menciones_hoy": 0,
-    "entradas_analizadas": 0,
+    "actualizado": "2026-03-15",
+    "total_menciones_hoy": 5,
+    "entradas_analizadas": 5,
     "nota": "Generado automáticamente. Edita ENCUESTAS en generar_candidatos_json.py para actualizar porcentajes."
   },
   "candidatos": [
@@ -13,7 +13,7 @@
       "partido": "PAN",
       "partyClass": "pan",
       "pct": 39.5,
-      "momentum": -3,
+      "momentum": 0,
       "menciones": 0,
       "positivas": 0,
       "negativas": 0,
@@ -32,18 +32,25 @@
       "partido": "PRI",
       "partyClass": "pri",
       "pct": 35.3,
-      "momentum": 0,
-      "menciones": 0,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "general"
       ],
-      "noticias": [],
-      "menciones_total": 9,
-      "menciones_hoy": 0,
-      "score_compuesto": 36.2
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Escenarios / Un vistazo a la oposición - El Sol de México",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlROeWpNdUVRZ1RQN3o5SVZwY1ExZUJaZWxlVHI2Z2NIdlUwRkt6QWUwdFlxZUJ5OWM4N3llWnpjUVZsU2xWSy15VFNEUHJLdWlvOHAya25LU2pkdC0tN2kxdTlibkVOR2libnd5ZFc3ZHRQN0hmTGF1aGFzOWZtdUJrejg4QVltcWs0dVdGdHNCcm9s?oc=5"
+        }
+      ],
+      "menciones_total": 10,
+      "menciones_hoy": 1,
+      "score_compuesto": 36.3
     },
     {
       "id": "mejia_haro",
@@ -51,18 +58,25 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 23.6,
-      "momentum": -3,
-      "menciones": 0,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "general"
       ],
-      "noticias": [],
-      "menciones_total": 11,
-      "menciones_hoy": 0,
-      "score_compuesto": 24.7
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Plantea Ulises Mejía reconocer a Zacatecas como “estado binacional” - Central Municipal",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1lZdlhMOXU5QjM0UmZ2WU1RYlZfMFpaU0hGMkJ5akNQUXZIeUtYekR5TDhUQWh3cVNFV2hBdWVsdzZxZ3dXbldhNGo0ZFpPTVhsTFpuTzV3UHBTZ0E0Sjl1U0p5dzM5UExSYllqMFhlRGVKeEdlSVV2TzIwZUI4bkJJZUhEYzdwVkx0YmJWeHpMQ193OGFuUWtqTVJGRnJKX1V0aG9ITGxTZjFiX2ZNN25KRko?oc=5"
+        }
+      ],
+      "menciones_total": 12,
+      "menciones_hoy": 1,
+      "score_compuesto": 24.8
     },
     {
       "id": "anaya_mota",
@@ -70,18 +84,25 @@
       "partido": "PRI",
       "partyClass": "pri",
       "pct": 23.5,
-      "momentum": 0,
-      "menciones": 0,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "general"
       ],
-      "noticias": [],
-      "menciones_total": 9,
-      "menciones_hoy": 0,
-      "score_compuesto": 24.4
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "¿Quién es Claudia Anaya, conoce a la próxima senadora? - El Heraldo de México",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHVVcS1mcmh4bWJCQ010dU82SHlfc2hzZWZLXzdmeGF4WmduNEhLSnVXdndZN1NSZGYxMjlaYlYzd1E2SENiMW1DLUduSXc3R0NVNzlvRF91WWxaTmtZV2hHMjFfQXVuY3p6b2JGVkluSEhYRjZYMFE5aDhuNjJaSEgyeUtzRExrRGNoMlozTkRublFmNlcxLXNrYm5Md3lvbmw3a1JzTEZxbEpGRmg00gG0AUFVX3lxTE5WRUF5cjZMV01sam5FMjg2S244Q1hYOEdJV3h4QWxUNFRMT0kxa1RETW9lUzB3VUNDdnlnZjgxbFFwSUFnVWlDNFM0LXYxejJrUGZwYmZ1TjFaNFJLMkNPTzdxRnpuNDlqb19pdjFiUk55YlllUWI2T1lGLVhFV0N4MGg4VjNXX0oyODJVM1g2ekN6Um5EY0RyU2tCb2NFbkIwZUE2eFJzMU5rTm9oTWJaWjZJcA?oc=5"
+        }
+      ],
+      "menciones_total": 10,
+      "menciones_hoy": 1,
+      "score_compuesto": 24.5
     },
     {
       "id": "saul_monreal",
@@ -89,18 +110,25 @@
       "partido": "PT/Morena",
       "partyClass": "ptmorena",
       "pct": 21.7,
-      "momentum": -5,
-      "menciones": 0,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Medios locales",
       "tags": [
         "general"
       ],
-      "noticias": [],
-      "menciones_total": 12,
-      "menciones_hoy": 0,
-      "score_compuesto": 22.9
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "“Yo no soy el favorito del gobernador”, asegura Saúl Monreal sobre sus aspiraciones en Zacatecas - Expansión Política",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOUNMWUpNd1hpN0xOSi14eWZ3dWpLY3VRTGIweHV6RTRqbld5T1NPMjRGTWs4ZGpvWUhwM2VYcktodnA3WFR6Y1RiM2RXeDRkWk1hZ2VuZ2NxYmZ1T2I2cVk5V2d5TjVaWW1WZEc3RG1QaFgwOGRlbXNrOFp3SF9sNzZKNnAtbTZmenVCendqWWcxd2JPY09WdHM3UFpIUXpLMUJOME84TXFIMUtZZ1lsWDRkYUQtUlp3d3FsTUp4eFJIV3I4OUcweHF4SUlwQlJDWFFNNE0wZk5mazjSAegBQVVfeXFMTzhxc3BvVmZwRlNmOUY3b1Z6bWNkOGRnU0pJOFZNWDRmWXRFczNOcTFxU0RQeUxKVU55SUNteDZqNWpOcGhONzh1S19sOUhBbXdUM0lBQU1tbWRVRzlKaGk4SW41U2pHZGVheGhEZG1uUjU0dTdMTkVQN0xTZEd4Qk5KQXFrTHkzZVhoVDJjTVlqcHRsUDRmVkQ0QlJrZW1jbkNTaXZPTncxb3ltZG9qdWdENS05d2ZqTW9rR1pJZGJ0ZmltUGJyZ2hlWVJEZjhWYllIc2lWVVBreHVfM3FCTGg0MmFsRWw0Vw?oc=5"
+        }
+      ],
+      "menciones_total": 13,
+      "menciones_hoy": 1,
+      "score_compuesto": 23.0
     },
     {
       "id": "diaz_robles",
@@ -108,18 +136,25 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 16.3,
-      "momentum": 0,
-      "menciones": 0,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Referencia general",
       "tags": [
         "general"
       ],
-      "noticias": [],
-      "menciones_total": 11,
-      "menciones_hoy": 0,
-      "score_compuesto": 17.4
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Arranca la temporada de destapes, Verónica Díaz se apunta para Zacatecas - enfoquenoticias.com.mx",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1pzUXExS3kzX3FrcWdOeTI4bEYydFNWYU92ZHVLZDhKWTRCVm9RcWxEaW5VZjFmN08wUmlLS3kwM0pLTnJzMFNUemRDU3NMZ1VDNmtNYzhXNERtbG1aamRNS0tFdDA2V3hkWTZCNmMzWHp4dldCaWlvbVhraHE1Tks2M2ZQM3ZPeXV1SHgzOGU5S1Y3QzMyZmxjdjRibGlFdDhiWHVmNF9qSDZUU0E0VFVB?oc=5"
+        }
+      ],
+      "menciones_total": 12,
+      "menciones_hoy": 1,
+      "score_compuesto": 17.5
     },
     {
       "id": "narro_cespedes",

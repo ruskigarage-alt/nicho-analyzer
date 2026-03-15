@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json",
   "language": "es-MX",
-  "date_modified": "2026-03-14T22:53:08.383545+00:00",
-  "total_records": 36,
+  "date_modified": "2026-03-15T15:53:45.167125+00:00",
+  "total_records": 38,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#0",
@@ -398,6 +398,28 @@
       "title": "UNGM — licitaciones ONU en LATAM",
       "content_text": "Licitaciones de UNOPS, PNUD, UNICEF, FAO activas en América Latina. URL: https://www.ungm.org/Public/Notice. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:14.977677+00:00",
+      "url": "https://www.ungm.org/Public/Notice",
+      "tags": [
+        "licitaciones_gobierno",
+        "Referencia portal"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#36",
+      "title": "CompraNet México — portal licitaciones",
+      "content_text": "Sistema oficial de contrataciones APF México. Licitaciones públicas, invitaciones y adjudicaciones directas. URL: https://compranet.hacienda.gob.mx. Fecha: 2026-03-15.",
+      "date_published": "2026-03-15T15:51:27.608944+00:00",
+      "url": "https://compranet.hacienda.gob.mx",
+      "tags": [
+        "licitaciones_gobierno",
+        "Referencia portal"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/licitaciones_gobierno.json#37",
+      "title": "UNGM — licitaciones ONU en LATAM",
+      "content_text": "Licitaciones de UNOPS, PNUD, UNICEF, FAO activas en América Latina. URL: https://www.ungm.org/Public/Notice. Fecha: 2026-03-15.",
+      "date_published": "2026-03-15T15:51:27.608944+00:00",
       "url": "https://www.ungm.org/Public/Notice",
       "tags": [
         "licitaciones_gobierno",

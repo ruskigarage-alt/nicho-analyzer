@@ -108,5 +108,66 @@
       "momentum": 0,
       "temas": []
     }
+  },
+  "2026-03-15": {
+    "mejia_haro": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
+      "temas": [
+        "general"
+      ]
+    },
+    "saul_monreal": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
+      "temas": [
+        "general"
+      ]
+    },
+    "diaz_robles": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
+      "temas": [
+        "general"
+      ]
+    },
+    "narro_cespedes": {
+      "menciones": 0,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
+    },
+    "varela_pinedo": {
+      "menciones": 0,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
+    },
+    "bonilla_gomez": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
+      "temas": [
+        "general"
+      ]
+    },
+    "anaya_mota": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
+      "temas": [
+        "general"
+      ]
+    }
   }
 }
