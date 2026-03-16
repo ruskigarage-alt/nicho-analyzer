@@ -5,8 +5,8 @@
   "url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Nicho Analyzer Pipeline",
-  "dateModified": "2026-03-15T15:53:45.084927+00:00",
-  "dateCreated": "2026-03-15",
+  "dateModified": "2026-03-16T14:40:21.571554+00:00",
+  "dateCreated": "2026-03-16",
   "inLanguage": "es",
   "keywords": [
     "México",
@@ -41,20 +41,20 @@
     "jsonld",
     "markdown"
   ],
-  "total_records": 739,
+  "total_records": 950,
   "nichos": {
-    "geopolitica": 223,
-    "politica_local": 58,
-    "regulaciones_pyme": 95,
-    "mercados_latam": 61,
-    "licitaciones_gobierno": 38,
-    "movimiento_buques": 52,
-    "aranceles_aduanas": 36,
-    "finanzas_globales": 53,
-    "energia_petroleo": 33,
-    "mineria_metales": 36,
-    "comercio_aranceles": 12,
-    "transporte_maritimo": 42
+    "geopolitica": 277,
+    "politica_local": 77,
+    "regulaciones_pyme": 123,
+    "mercados_latam": 77,
+    "licitaciones_gobierno": 50,
+    "movimiento_buques": 65,
+    "aranceles_aduanas": 45,
+    "finanzas_globales": 73,
+    "energia_petroleo": 43,
+    "mineria_metales": 48,
+    "comercio_aranceles": 16,
+    "transporte_maritimo": 56
   },
   "records": [
     {
@@ -1628,6 +1628,326 @@
       "texto_completo": "Bowman, Outlook for the Economy and Monetary Policy. Speech At Outlook 26:  The New England Economic Forum, Foxborough, Massachusetts"
     },
     {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Irán lanza misiles de gran alcance contra centros de mando de Israel",
+      "resumen": "Teherán. El ejército iraní informó en un comunicado ayer que lanzó drones contra centros de seguridad israelíes, incluida la unidad policial Lahav 433 y un centro de comunicaciones por satélite, así como misiles de gran alcance contra infraestructuras militares y de mando.",
+      "url": "https://www.jornada.com.mx/2026/03/16/mundo/020n1mun?partner=rss",
+      "fuente": "jornada_mundo",
+      "relevancia_score": 0.4672,
+      "texto_completo": "Irán lanza misiles de gran alcance contra centros de mando de Israel. Teherán. El ejército iraní informó en un comunicado ayer que lanzó drones contra centros de seguridad israelíes, incluida la unidad policial Lahav 433 y un centro de comunicaciones por satélite, así como misiles de gran alcance contra infraestructuras militares y de mando."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Hallan contrato por 5 mdd para que Milei apoyara criptomoneda $LIBRA",
+      "resumen": "Madrid. La investigación del caso de la $LIBRA en Argentina ha descubierto un documento de contrato por el que se establece un pago de 5 millones de dólares a cambio del apoyo público del presidente argentino, Javier Milei, a dicha criptomoneda.",
+      "url": "https://www.jornada.com.mx/2026/03/16/mundo/022n4mun?partner=rss",
+      "fuente": "jornada_mundo",
+      "relevancia_score": 0.4645,
+      "texto_completo": "Hallan contrato por 5 mdd para que Milei apoyara criptomoneda $LIBRA. Madrid. La investigación del caso de la $LIBRA en Argentina ha descubierto un documento de contrato por el que se establece un pago de 5 millones de dólares a cambio del apoyo público del presidente argentino, Javier Milei, a dicha criptomoneda."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Gold Wavers as High Energy Prices Threaten Fed Rate Path",
+      "resumen": "Gold traded in a narrow range, hovering near $5,000 an ounce, as the conflict in the Middle East entered a third week and investors weighed the inflationary impact of higher oil prices.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-15/gold-steadies-as-oil-jumps-mideast-conflict-enters-third-week",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.4644,
+      "texto_completo": "Gold Wavers as High Energy Prices Threaten Fed Rate Path. Gold traded in a narrow range, hovering near $5,000 an ounce, as the conflict in the Middle East entered a third week and investors weighed the inflationary impact of higher oil prices."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "US Is Letting Iran Continue to Ship Its Oil, Bessent Tells CNBC",
+      "resumen": "The US is letting Iran continue to ship its oil via the Strait of Hormuz, Treasury Secretary Scott Bessent told CNBC on Monday.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/us-is-letting-iran-continue-to-ship-its-oil-bessent-tells-cnbc",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.6135,
+      "texto_completo": "US Is Letting Iran Continue to Ship Its Oil, Bessent Tells CNBC. The US is letting Iran continue to ship its oil via the Strait of Hormuz, Treasury Secretary Scott Bessent told CNBC on Monday."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "US, China Mull ‘Board of Trade’ to Manage Bilateral Economy Ties",
+      "resumen": "The US and China are considering a new mechanism that could potentially oversee economic ties and manage bilateral concerns between the two geoeconomic competitors.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/us-china-mull-board-of-trade-to-manage-bilateral-economy-ties",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.5139,
+      "texto_completo": "US, China Mull ‘Board of Trade’ to Manage Bilateral Economy Ties. The US and China are considering a new mechanism that could potentially oversee economic ties and manage bilateral concerns between the two geoeconomic competitors."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Treasuries Join Global Bond Rally as Oil Drops From Recent Peaks",
+      "resumen": "Treasuries gained as oil prices retreated from recent highs, allaying concern about their inflationary potential, while remaining at levels that are stoking concern elevated energy prices will slow economic growth.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/treasuries-join-global-bond-rally-as-oil-drops-from-recent-peaks",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.4799,
+      "texto_completo": "Treasuries Join Global Bond Rally as Oil Drops From Recent Peaks. Treasuries gained as oil prices retreated from recent highs, allaying concern about their inflationary potential, while remaining at levels that are stoking concern elevated energy prices will slow economic growth."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "S&amp;P 500 Rises as Tankers Traverse Strait of Hormuz, Oil Slips",
+      "resumen": "US stocks rose Monday as investor concerns that the prolonged closure of the Strait of Hormuz would impact global supply chains abate.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/us-stock-futures-rise-as-tankers-traverse-strait-of-hormuz",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.6051,
+      "texto_completo": "S&amp;P 500 Rises as Tankers Traverse Strait of Hormuz, Oil Slips. US stocks rose Monday as investor concerns that the prolonged closure of the Strait of Hormuz would impact global supply chains abate."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Iran’s Political Prisoners Are in the Firing Line",
+      "resumen": "Thousands of detainees are in danger from U.S. and Israeli strikes and Tehran’s vengeance.",
+      "url": "https://foreignpolicy.com/2026/03/16/iran-war-political-prisoners-detainees/",
+      "fuente": "foreign_policy",
+      "relevancia_score": 0.5181,
+      "texto_completo": "Iran’s Political Prisoners Are in the Firing Line. Thousands of detainees are in danger from U.S. and Israeli strikes and Tehran’s vengeance."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "The US-Israeli strategy against Iran is working. Here is why",
+      "resumen": "Every aspect of Iran’s ability to project regional power is being successfully degraded.",
+      "url": "https://www.aljazeera.com/opinions/2026/3/16/the-us-israeli-strategy-against-iran-is-working-here-is-why?traffic_source=rss",
+      "fuente": "al_jazeera",
+      "relevancia_score": 0.5763,
+      "texto_completo": "The US-Israeli strategy against Iran is working. Here is why. Every aspect of Iran’s ability to project regional power is being successfully degraded."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Strait of Hormuz: Which countries’ ships has Iran allowed safe passage to?",
+      "resumen": "Tehran allows a small number of ships from certain countries to pass through waterway.",
+      "url": "https://www.aljazeera.com/economy/2026/3/16/strait-of-hormuz-which-countriess-ships-has-iran-allowed-safe-passage-to?traffic_source=rss",
+      "fuente": "al_jazeera",
+      "relevancia_score": 0.501,
+      "texto_completo": "Strait of Hormuz: Which countries’ ships has Iran allowed safe passage to?. Tehran allows a small number of ships from certain countries to pass through waterway."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "In Lebanon, Israel is using occupation as negotiating tool, say analysts",
+      "resumen": "Israel is using military occupation of southern Lebanon and displacement crisis to dictate ceasefire terms, say experts.",
+      "url": "https://www.aljazeera.com/features/2026/3/16/in-lebanon-israel-is-using-occupation-as-negotiating-tool-say-analysts?traffic_source=rss",
+      "fuente": "al_jazeera",
+      "relevancia_score": 0.5088,
+      "texto_completo": "In Lebanon, Israel is using occupation as negotiating tool, say analysts. Israel is using military occupation of southern Lebanon and displacement crisis to dictate ceasefire terms, say experts."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "War on Iran: Can fuel rationing, remote work, short sleeves ease oil woes?",
+      "resumen": "Rising oil prices amid the US-Israel war on Iran are pushing nations to readjust their energy policies.",
+      "url": "https://www.aljazeera.com/news/2026/3/16/war-on-iran-can-fuel-rationing-remote-work-short-sleeves-ease-oil-woes?traffic_source=rss",
+      "fuente": "al_jazeera",
+      "relevancia_score": 0.5665,
+      "texto_completo": "War on Iran: Can fuel rationing, remote work, short sleeves ease oil woes?. Rising oil prices amid the US-Israel war on Iran are pushing nations to readjust their energy policies."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Israeli military launches ‘ground operations’ in southern Lebanon",
+      "resumen": "Israeli army says its forces are targeting key locations in southern Lebanon, aiming to expand forward defence zones.",
+      "url": "https://www.aljazeera.com/news/2026/3/16/israeli-military-launches-limited-ground-operations-in-southern-lebanon?traffic_source=rss",
+      "fuente": "al_jazeera",
+      "relevancia_score": 0.4977,
+      "texto_completo": "Israeli military launches ‘ground operations’ in southern Lebanon. Israeli army says its forces are targeting key locations in southern Lebanon, aiming to expand forward defence zones."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Papers please: China raises pressure on Panama amid canal row with ship inspection wave",
+      "resumen": "Beijing has increased its inspections on Panama-flagged vessels entering Chinese ports, a source from the shipping industry said, an action intended to raise the Latin American country’s stress level after its courts voided the operating rights of Hong Kong-based conglomerate CK Hutchison in the Panama Canal.\nPort state control (PSC) – the inspection regime countries may deploy to verify the compliance of foreign ships with various international standards – was being used as a form of leverage...",
+      "url": "https://www.scmp.com/economy/global-economy/article/3346767/papers-please-china-raises-pressure-panama-amid-canal-row-ship-inspection-wave?utm_source=rss_feed",
+      "fuente": "scmp_world",
+      "relevancia_score": 0.4832,
+      "texto_completo": "Papers please: China raises pressure on Panama amid canal row with ship inspection wave. Beijing has increased its inspections on Panama-flagged vessels entering Chinese ports, a source from the shipping industry said, an action intended to raise the Latin American country’s stress level after its courts voided the operating rights of Hong Kong-based conglomerate CK Hutchison in the Panama Canal.\nPort state control (PSC) – the inspection regime countries may deploy to verify the compliance of foreign ships with various international standards – was being used as a form of leverage..."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Strait of Hormuz marks first full day’s pause as no ships cross amid Iran war",
+      "resumen": "Maritime tracking data showed that no ships passed through the Strait of Hormuz on Saturday, marking the first full day without any confirmed commercial traffic in either direction since February 28, when the US and Israel began military strikes on Iran.\nCrossings dropped to zero, below the previous seven-day average of 2.57 daily transits, according to maritime analytics firm Windward. Although no vessels entered the waterway that day, about 400 ships sailed in the Gulf of Oman on Friday, it...",
+      "url": "https://www.scmp.com/economy/global-economy/article/3346755/no-ships-cross-strait-hormuz-first-time-conflict-began-data-shows?utm_source=rss_feed",
+      "fuente": "scmp_world",
+      "relevancia_score": 0.5202,
+      "texto_completo": "Strait of Hormuz marks first full day’s pause as no ships cross amid Iran war. Maritime tracking data showed that no ships passed through the Strait of Hormuz on Saturday, marking the first full day without any confirmed commercial traffic in either direction since February 28, when the US and Israel began military strikes on Iran.\nCrossings dropped to zero, below the previous seven-day average of 2.57 daily transits, according to maritime analytics firm Windward. Although no vessels entered the waterway that day, about 400 ships sailed in the Gulf of Oman on Friday, it..."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Trump warns he ‘may delay’ China visit in demand for countries to secure Hormuz",
+      "resumen": "US President Donald Trump on Sunday sought to pressure Nato allies and China to help reopen the Strait of Hormuz, the critical oil transport conduit that Iran has effectively closed in retaliation for the US and Israeli war against Tehran.\nWith the conflict creating turmoil across the Middle East and shaking up global energy markets in its third week, Trump insisted that nations relying heavily on oil from the Gulf have a responsibility to help protect the strait.\n“I’m demanding that these...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3346692/starmer-holds-calls-trump-and-carney-irans-hormuz-blockage?utm_source=rss_feed",
+      "fuente": "scmp_world",
+      "relevancia_score": 0.4762,
+      "texto_completo": "Trump warns he ‘may delay’ China visit in demand for countries to secure Hormuz. US President Donald Trump on Sunday sought to pressure Nato allies and China to help reopen the Strait of Hormuz, the critical oil transport conduit that Iran has effectively closed in retaliation for the US and Israeli war against Tehran.\nWith the conflict creating turmoil across the Middle East and shaking up global energy markets in its third week, Trump insisted that nations relying heavily on oil from the Gulf have a responsibility to help protect the strait.\n“I’m demanding that these..."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "How US-Israel war on Iran rocks foundations of the Abraham Accords",
+      "resumen": "The 2020 Abraham Accords were heralded as a transformative diplomatic breakthrough in the Middle East. The US-brokered agreements normalised relations between Israel and Arab states including the United Arab Emirates (UAE) and Bahrain. They established full diplomatic relations, opening embassies, initiating direct commercial flights, expanding trade ties and encouraging people-to-people exchanges.\nThe accords were notable because the participating Arab states agreed to normalise relations with...",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3346247/how-us-israel-war-iran-rocks-foundations-abraham-accords?utm_source=rss_feed",
+      "fuente": "scmp_world",
+      "relevancia_score": 0.5391,
+      "texto_completo": "How US-Israel war on Iran rocks foundations of the Abraham Accords. The 2020 Abraham Accords were heralded as a transformative diplomatic breakthrough in the Middle East. The US-brokered agreements normalised relations between Israel and Arab states including the United Arab Emirates (UAE) and Bahrain. They established full diplomatic relations, opening embassies, initiating direct commercial flights, expanding trade ties and encouraging people-to-people exchanges.\nThe accords were notable because the participating Arab states agreed to normalise relations with..."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "US energy chief signals Iran war could continue for several more weeks",
+      "resumen": "Energy Secretary Chris Wright signalled the war with Iran may last several more weeks, with oil and petrol prices elevated as the US and Israel seek to destroy Iranian military capabilities.\nIn television interviews on Sunday, Wright defended the Trump administration’s argument that Americans are facing short-term pain at the pump in a midterm election year for the larger goal of eliminating Iran as a threat to the Middle East.\n“I think that this conflict will certainly come to the end in the...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3346684/us-energy-chief-signals-iran-war-could-continue-several-more-weeks?utm_source=rss_feed",
+      "fuente": "scmp_world",
+      "relevancia_score": 0.4887,
+      "texto_completo": "US energy chief signals Iran war could continue for several more weeks. Energy Secretary Chris Wright signalled the war with Iran may last several more weeks, with oil and petrol prices elevated as the US and Israel seek to destroy Iranian military capabilities.\nIn television interviews on Sunday, Wright defended the Trump administration’s argument that Americans are facing short-term pain at the pump in a midterm election year for the larger goal of eliminating Iran as a threat to the Middle East.\n“I think that this conflict will certainly come to the end in the..."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Araghchi advierte de las consecuencias de los ataques israelíes contra depósitos de petróleo en Irán",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b7f2cae9ff714ac7543a45.png\" style=\"float: left;\" />\n        \t\"Los residentes se enfrentan a daños a largo plazo en su salud y bienestar. La contaminación del suelo y del agua subterránea podría tener repercusiones generacionales\", declaró el canciller iraní.",
+      "url": "https://actualidad.rt.com/actualidad/593190-ecocidio-araghchi-advierte-consecuencias-ataques-depositos-petroleo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fuente": "rt_espanol",
+      "relevancia_score": 0.4605,
+      "texto_completo": "Araghchi advierte de las consecuencias de los ataques israelíes contra depósitos de petróleo en Irán. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b7f2cae9ff714ac7543a45.png\" style=\"float: left;\" />\n        \t\"Los residentes se enfrentan a daños a largo plazo en su salud y bienestar. La contaminación del suelo y del agua subterránea podría tener repercusiones generacionales\", declaró el canciller iraní."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "\"No tenemos más dinero\": La agresión contra Irán \"golpea a Europa con un choque energético\"",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b7d5b0e9ff7148660f5f2b.jpg\" style=\"float: left;\" />\n        \tUn alza del petróleo hasta los 125 dólares o más podría bastar para empujar al Viejo Continente a una recesión.",
+      "url": "https://actualidad.rt.com/actualidad/593191-no-tenemos-dinero-agresion-iran-golpea-europa-choque-energetico?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fuente": "rt_espanol",
+      "relevancia_score": 0.5409,
+      "texto_completo": "\"No tenemos más dinero\": La agresión contra Irán \"golpea a Europa con un choque energético\". <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b7d5b0e9ff7148660f5f2b.jpg\" style=\"float: left;\" />\n        \tUn alza del petróleo hasta los 125 dólares o más podría bastar para empujar al Viejo Continente a una recesión."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "El conflicto en Oriente Medio podría llevar al Reino Unido a un desempleo récord",
+      "resumen": "<img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />",
+      "url": "https://actualidad.rt.com/actualidad/593236-conflicto-belico-oriente-medio-podria?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fuente": "rt_espanol",
+      "relevancia_score": 0.4718,
+      "texto_completo": "El conflicto en Oriente Medio podría llevar al Reino Unido a un desempleo récord. <img alt=\"Preview\" src=\"https://actualidad.rt.com/feeds/all.rss\" style=\"float: left;\" />"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "NYT: Los petroleros incautados por Trump le cuestan millones de dólares a EE.UU.",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b7c70c59bf5b2e873a380e.jpg\" style=\"float: left;\" />\n        \tA pesar de los elevados costes, fuentes aseguran que la Casa Blanca planea incautar más buques.",
+      "url": "https://actualidad.rt.com/actualidad/593182-petroleros-incautados-trump-costar-millones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fuente": "rt_espanol",
+      "relevancia_score": 0.5797,
+      "texto_completo": "NYT: Los petroleros incautados por Trump le cuestan millones de dólares a EE.UU.. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b7c70c59bf5b2e873a380e.jpg\" style=\"float: left;\" />\n        \tA pesar de los elevados costes, fuentes aseguran que la Casa Blanca planea incautar más buques."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Trump, sobre la ofensiva contra Irán: \"No creo que dure mucho\"",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b812dd59bf5b552702f886.jpg\" style=\"float: left;\" />\n        \tCuando el conflicto armado termine, los precios del petróleo se desplomarán, aseguró en una entrevista el mandatario.",
+      "url": "https://actualidad.rt.com/actualidad/593246-trump-duracion-ofensiva-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fuente": "rt_espanol",
+      "relevancia_score": 0.5092,
+      "texto_completo": "Trump, sobre la ofensiva contra Irán: \"No creo que dure mucho\". <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b812dd59bf5b552702f886.jpg\" style=\"float: left;\" />\n        \tCuando el conflicto armado termine, los precios del petróleo se desplomarán, aseguró en una entrevista el mandatario."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Trump: \"Los precios del petróleo caerán en picado en cuanto termine\" la guerra con Irán",
+      "resumen": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b813ce59bf5b361f253210.jpg\" style=\"float: left;\" />\n        \tEl presidente de EE.UU. también afirmó que el conflicto es \"un precio muy pequeño a pagar\" para acabar con los líderes de la República Islámica.",
+      "url": "https://actualidad.rt.com/actualidad/593250-trump-precios-petroleo-caer-picado-terminar-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fuente": "rt_espanol",
+      "relevancia_score": 0.5206,
+      "texto_completo": "Trump: \"Los precios del petróleo caerán en picado en cuanto termine\" la guerra con Irán. <img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69b813ce59bf5b361f253210.jpg\" style=\"float: left;\" />\n        \tEl presidente de EE.UU. también afirmó que el conflicto es \"un precio muy pequeño a pagar\" para acabar con los líderes de la República Islámica."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry",
+      "resumen": "\"As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire,\" Maria Zakharova said",
+      "url": "https://tass.com/politics/1968329",
+      "fuente": "tass_english",
+      "relevancia_score": 0.4822,
+      "texto_completo": "Ukraine, Russia to pore over memoranda exchanged at talks — Foreign Ministry. \"As agreed on May 16, the Russian side handed over to the Ukrainian delegation a detailed two-part memorandum outlining its position on ways to achieve long-term peace and a possible full-fledged ceasefire,\" Maria Zakharova said"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper",
+      "resumen": "According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine",
+      "url": "https://tass.com/world/1968271",
+      "fuente": "tass_english",
+      "relevancia_score": 0.4853,
+      "texto_completo": "Poland's capacity to deliver arms to Ukraine heavily constrained — paper. According to Head of the country’s intelligence agency Dariusz Lukowski, Poland supplied weapons and military equipment worth about €5 billion to Ukraine"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Russia not interested in arms race with Europe, European Parliament member says",
+      "resumen": "Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as \"strategic patience\"",
+      "url": "https://tass.com/world/1968241",
+      "fuente": "tass_english",
+      "relevancia_score": 0.5195,
+      "texto_completo": "Russia not interested in arms race with Europe, European Parliament member says. Fernand Kartheiser described Russia’s approach to resolving the conflict in Ukraine as \"strategic patience\""
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint",
+      "resumen": "Top stories from the Russian press on Wednesday, June 4th",
+      "url": "https://tass.com/pressreview/1968153",
+      "fuente": "tass_english",
+      "relevancia_score": 0.4758,
+      "texto_completo": "Press review: Kiev’s terrorist acts risk derailing talks as NATO expands Arctic footprint. Top stories from the Russian press on Wednesday, June 4th"
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Not one molecule! EU rules out relaxing Russian gas ban to ease energy crisis",
+      "resumen": "The European Commission is resisting pressure from some member countries to temporarily import Russian fossil fuels.",
+      "url": "https://www.politico.eu/article/eu-rules-out-relaxing-russian-gas-ban-to-ease-energy-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "fuente": "politico_europe",
+      "relevancia_score": 0.499,
+      "texto_completo": "Not one molecule! EU rules out relaxing Russian gas ban to ease energy crisis. The European Commission is resisting pressure from some member countries to temporarily import Russian fossil fuels."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Bowman, Capital Rules for the Real Economy",
+      "resumen": "Speech At the Cato Institute Policy Forum: Basel III and Bank Capital Rules, Washington, D.C.",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm",
+      "fuente": "fed_speeches",
+      "relevancia_score": 0.4734,
+      "texto_completo": "Bowman, Capital Rules for the Real Economy. Speech At the Cato Institute Policy Forum: Basel III and Bank Capital Rules, Washington, D.C."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
+      "resumen": "Speech At The Roundtable on Liquidity and Lender of Last Resort sponsored by the Committee on Capital Markets Regulation, Washington, D.C.",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm",
+      "fuente": "fed_speeches",
+      "relevancia_score": 0.4634,
+      "texto_completo": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve. Speech At The Roundtable on Liquidity and Lender of Last Resort sponsored by the Committee on Capital Markets Regulation, Washington, D.C."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
+      "titulo": "Bowman, Outlook for the Economy and Monetary Policy",
+      "resumen": "Speech At Outlook 26:  The New England Economic Forum, Foxborough, Massachusetts",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm",
+      "fuente": "fed_speeches",
+      "relevancia_score": 0.4652,
+      "texto_completo": "Bowman, Outlook for the Economy and Monetary Policy. Speech At Outlook 26:  The New England Economic Forum, Foxborough, Massachusetts"
+    },
+    {
       "nicho": "politica_local",
       "fecha": "2026-03-12",
       "titulo": "Sheinbaum rinde homenaje a los militares caídos en el operativo contra El Mencho",
@@ -2206,6 +2526,196 @@
       "fuente": "jornada_zacatecas",
       "relevancia_score": 0.5352,
       "texto_completo": "Habrá «costo político» para Verde y PT por no apoyar la reforma electoral: Morena. Luego de que ayer fue rechazada en la Cámara de Diputados la iniciativa de reforma electoral de la presidenta Claudia Sheinbaum, el grupo parlamentario de Morena definió dos pasos inmediatos: reconstruir su relación con los partidos del Trabajo (PT) y Verde Ecologista de México (PVEM), los cuales –a su juicio– “sí tendrán un costo político” [&#8230;]"
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Gobierno de EU ha llevado migrantes a fuerza a otros países: informe de ONG",
+      "resumen": "Una coalición de 22 organizaciones en defensa de los derechos de las personas migrantes documentó que durante el gobierno de Donald Trump se ha consolidado una estrategia de deportación y traslado forzado de solicitantes de asilo hacia terceros países que “no les ofrecen garantías mínimas de seguridad ni protección”.",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/008n1pol?partner=rss",
+      "fuente": "jornada_politica",
+      "relevancia_score": 0.4754,
+      "texto_completo": "Gobierno de EU ha llevado migrantes a fuerza a otros países: informe de ONG. Una coalición de 22 organizaciones en defensa de los derechos de las personas migrantes documentó que durante el gobierno de Donald Trump se ha consolidado una estrategia de deportación y traslado forzado de solicitantes de asilo hacia terceros países que “no les ofrecen garantías mínimas de seguridad ni protección”."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "El INE, ramo autónomo con la segunda mayor carga al PEF: estudio",
+      "resumen": "De 2018 a 2026, el monto asignado al Instituto Nacional Electoral (INE) –que incluye el financiamiento a los partidos– sumó 242 mil 378 millones de pesos, por lo que es el segundo ramo autónomo más importante en el Presupuesto de Egresos de la Federación (PEF), después del Poder Judicial, explicó el Centro de Estudios de las Finanzas Públicas de la Cámara de Diputados.",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/007n1pol?partner=rss",
+      "fuente": "jornada_politica",
+      "relevancia_score": 0.4992,
+      "texto_completo": "El INE, ramo autónomo con la segunda mayor carga al PEF: estudio. De 2018 a 2026, el monto asignado al Instituto Nacional Electoral (INE) –que incluye el financiamiento a los partidos– sumó 242 mil 378 millones de pesos, por lo que es el segundo ramo autónomo más importante en el Presupuesto de Egresos de la Federación (PEF), después del Poder Judicial, explicó el Centro de Estudios de las Finanzas Públicas de la Cámara de Diputados."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Urge MC a dictaminar minuta sobre el Sistema Nacional de Cuidados",
+      "resumen": "A dos años de haber recibido la minuta que establece el Sistema Nacional de Cuidados, el Senado no la ha dictaminado, denunció el grupo parlamentario de Movimiento Ciudadano (MC), que urgió a hacerlo ya, pues al menos 58.3 millones de mexicanos requieren atención en sus hogares, entre adultos mayores, personas con discapacitad, niños y adolescentes.",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/007n3pol?partner=rss",
+      "fuente": "jornada_politica",
+      "relevancia_score": 0.4747,
+      "texto_completo": "Urge MC a dictaminar minuta sobre el Sistema Nacional de Cuidados. A dos años de haber recibido la minuta que establece el Sistema Nacional de Cuidados, el Senado no la ha dictaminado, denunció el grupo parlamentario de Movimiento Ciudadano (MC), que urgió a hacerlo ya, pues al menos 58.3 millones de mexicanos requieren atención en sus hogares, entre adultos mayores, personas con discapacitad, niños y adolescentes."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Empieza mañana el registro de aspirantes a bachillerato",
+      "resumen": "Mañana arranca el registro para el Proceso de Asignación a la Educación Media Superior 2026 “Mi derecho, mi lugar”, en la zona metropolitana del valle de México, dirigido a estudiantes que concluyen la secundaria y buscan ingresar al bachillerato.",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/009n3pol?partner=rss",
+      "fuente": "jornada_politica",
+      "relevancia_score": 0.5313,
+      "texto_completo": "Empieza mañana el registro de aspirantes a bachillerato. Mañana arranca el registro para el Proceso de Asignación a la Educación Media Superior 2026 “Mi derecho, mi lugar”, en la zona metropolitana del valle de México, dirigido a estudiantes que concluyen la secundaria y buscan ingresar al bachillerato."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "José Murat: Economía crece pese a entorno mundial volátil",
+      "resumen": "A pesar de un entorno internacional    dominado por la incertidumbre y la zozobra, con reglas del juego ya de por sí volátiles, y ahora con una guerra reactivada de impacto mundial, México ha sabido superar los desafíos y salir ganando, a la luz de cuatro indicadores económicos y sociales básicos, recién publicados: una proyección de crecimiento del PIB para 2026, por encima de las expectativas originales; incremento histórico de las exportaciones; aumento significativo de la inversión extranjera y, lo más importante, un descenso marcado de la pobreza laboral.",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/012a1pol?partner=rss",
+      "fuente": "jornada_politica",
+      "relevancia_score": 0.5568,
+      "texto_completo": "José Murat: Economía crece pese a entorno mundial volátil. A pesar de un entorno internacional    dominado por la incertidumbre y la zozobra, con reglas del juego ya de por sí volátiles, y ahora con una guerra reactivada de impacto mundial, México ha sabido superar los desafíos y salir ganando, a la luz de cuatro indicadores económicos y sociales básicos, recién publicados: una proyección de crecimiento del PIB para 2026, por encima de las expectativas originales; incremento histórico de las exportaciones; aumento significativo de la inversión extranjera y, lo más importante, un descenso marcado de la pobreza laboral."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "México tiene el menor gasto público de salud por persona en AL: experto",
+      "resumen": "La desigualdad estructural es un obstáculo central para la universalización en salud y, en lugar de enfrentarla con un sistema de salud igualador y solidario, las reformas recientes del siglo XXI han ahondado estas brechas que, junto a un financiamiento históricamente insuficiente, han llevado al rezago de México respecto al promedio de la región de América Latina tanto en inversión como en resultados sanitarios, advierte el ensayo México frente a la universalidad en salud: desigualdad, segmentación y reformas contradictorias.",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/013n2pol?partner=rss",
+      "fuente": "jornada_politica",
+      "relevancia_score": 0.6421,
+      "texto_completo": "México tiene el menor gasto público de salud por persona en AL: experto. La desigualdad estructural es un obstáculo central para la universalización en salud y, en lugar de enfrentarla con un sistema de salud igualador y solidario, las reformas recientes del siglo XXI han ahondado estas brechas que, junto a un financiamiento históricamente insuficiente, han llevado al rezago de México respecto al promedio de la región de América Latina tanto en inversión como en resultados sanitarios, advierte el ensayo México frente a la universalidad en salud: desigualdad, segmentación y reformas contradictorias."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Llama el TEPJF a privilegiar diálogo ante controversias",
+      "resumen": "Ante “la creciente complejidad de la competencia política”, es necesario incorporar mecanismos alternativos de solución de controversias que permitan procesar los desacuerdos, sostuvo el magistrado presidente del Tribunal Electoral del Poder Judicial de la Federación (TEPJF), Gilberto Bátiz García. Subrayó que esta instancia impulsa mecanismos alternativos de solución de controversias, los cuales, dijo, “fortalecen y modernizan” el sistema democrático mexicano.",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/006n2pol?partner=rss",
+      "fuente": "jornada_politica",
+      "relevancia_score": 0.5146,
+      "texto_completo": "Llama el TEPJF a privilegiar diálogo ante controversias. Ante “la creciente complejidad de la competencia política”, es necesario incorporar mecanismos alternativos de solución de controversias que permitan procesar los desacuerdos, sostuvo el magistrado presidente del Tribunal Electoral del Poder Judicial de la Federación (TEPJF), Gilberto Bátiz García. Subrayó que esta instancia impulsa mecanismos alternativos de solución de controversias, los cuales, dijo, “fortalecen y modernizan” el sistema democrático mexicano."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Cientos responden a convocatoria de La Jornada a recaudar fondos para la isla",
+      "resumen": "La convocatoria publicada en La Jornada, en la cual activistas, intelectuales, académicos, ciudadanos y periodistas mexicanos llaman a recaudar fondos para apoyar al pueblo de la isla ante la crisis provocada por el bloqueo económico impuesto por Estados Unidos ha tenido una amplia respuesta.",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/003n4pol?partner=rss",
+      "fuente": "jornada_politica",
+      "relevancia_score": 0.4768,
+      "texto_completo": "Cientos responden a convocatoria de La Jornada a recaudar fondos para la isla. La convocatoria publicada en La Jornada, en la cual activistas, intelectuales, académicos, ciudadanos y periodistas mexicanos llaman a recaudar fondos para apoyar al pueblo de la isla ante la crisis provocada por el bloqueo económico impuesto por Estados Unidos ha tenido una amplia respuesta."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Camión choca contra una casa en Guelatao; 4 fallecidos",
+      "resumen": "Oaxaca, Oax., Un camión que transportaba madera se quedó sin frenos en la cabecera municipal de San Pablo Guelatao, mientras se celebraba la tradicional Copa Benito Juárez de basquetbol con la cual se conmemora el natalicio del Benemérito de las Américas.",
+      "url": "https://www.jornada.com.mx/2026/03/16/estados/026n3est?partner=rss",
+      "fuente": "jornada_estados",
+      "relevancia_score": 0.5335,
+      "texto_completo": "Camión choca contra una casa en Guelatao; 4 fallecidos. Oaxaca, Oax., Un camión que transportaba madera se quedó sin frenos en la cabecera municipal de San Pablo Guelatao, mientras se celebraba la tradicional Copa Benito Juárez de basquetbol con la cual se conmemora el natalicio del Benemérito de las Américas."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Pese a clausuras y violar normas, autoriza Semarnat proyecto inmobiliario en BC",
+      "resumen": "Tijuana, BC., Después de 18 meses, en medio de clausuras por empezar la construcción sin permiso, violaciones a las normas ambientales y señalamientos por apropiarse de dos metros de la zona federal marítimo-terrestre, los empresarios David Saúl Guakil y Fernando Salgado consiguieron, por fin, que la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat) les autorizara el desarrollo inmobiliario Cosmopolitan by the Sea a la orilla del mar de Ensenada, en las inmediaciones del Valle de Guadalupe.",
+      "url": "https://www.jornada.com.mx/2026/03/16/estados/027n1est?partner=rss",
+      "fuente": "jornada_estados",
+      "relevancia_score": 0.4769,
+      "texto_completo": "Pese a clausuras y violar normas, autoriza Semarnat proyecto inmobiliario en BC. Tijuana, BC., Después de 18 meses, en medio de clausuras por empezar la construcción sin permiso, violaciones a las normas ambientales y señalamientos por apropiarse de dos metros de la zona federal marítimo-terrestre, los empresarios David Saúl Guakil y Fernando Salgado consiguieron, por fin, que la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat) les autorizara el desarrollo inmobiliario Cosmopolitan by the Sea a la orilla del mar de Ensenada, en las inmediaciones del Valle de Guadalupe."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Juez ordena suspender permisos a familia para talar bosques en Ozolco, Puebla",
+      "resumen": "Puebla, Pue., El Poder Judicial de la Federación (PJF) ordenó detener la tala que la familia Aizpuro realiza en los bosques del volcán Iztaccíhuatl, dentro del territorio indígena de San Mateo Ozolco, pues determinó la suspensión definitiva del permiso que la Secretaría del Medio Ambiente y Recursos Naturales (Semarnat) concedió a dichas personas para cortar más de mil árboles en la junta auxiliar de San Andrés Calpan.",
+      "url": "https://www.jornada.com.mx/2026/03/16/estados/026n2est?partner=rss",
+      "fuente": "jornada_estados",
+      "relevancia_score": 0.4921,
+      "texto_completo": "Juez ordena suspender permisos a familia para talar bosques en Ozolco, Puebla. Puebla, Pue., El Poder Judicial de la Federación (PJF) ordenó detener la tala que la familia Aizpuro realiza en los bosques del volcán Iztaccíhuatl, dentro del territorio indígena de San Mateo Ozolco, pues determinó la suspensión definitiva del permiso que la Secretaría del Medio Ambiente y Recursos Naturales (Semarnat) concedió a dichas personas para cortar más de mil árboles en la junta auxiliar de San Andrés Calpan."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Se descarrila en Culiacán tren con grano transgénico",
+      "resumen": "Un tren cargado con maíz amarillo proveniente de Estados Unidos se descarriló ayer en el sector Centro Sinaloa, en Culiacán, luego de cruzar el puente de la avenida Federalismo, sobre el túnel con dirección hacia el centro de ciudad. De acuerdo con personal de Ferrocarriles Mexicanos (Ferromex), al menos ochos vagones resultaron afectados, los cuales cargaban alrededor de 180 toneladas de maíz transgénico que quedaron siniestradas. No hubo personas lesionadas.",
+      "url": "https://www.jornada.com.mx/2026/03/16/estados/025n3est?partner=rss",
+      "fuente": "jornada_estados",
+      "relevancia_score": 0.5442,
+      "texto_completo": "Se descarrila en Culiacán tren con grano transgénico. Un tren cargado con maíz amarillo proveniente de Estados Unidos se descarriló ayer en el sector Centro Sinaloa, en Culiacán, luego de cruzar el puente de la avenida Federalismo, sobre el túnel con dirección hacia el centro de ciudad. De acuerdo con personal de Ferrocarriles Mexicanos (Ferromex), al menos ochos vagones resultaron afectados, los cuales cargaban alrededor de 180 toneladas de maíz transgénico que quedaron siniestradas. No hubo personas lesionadas."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "“Es un avance”, pero urge un modelo para el resto de los estados: líder agrícola",
+      "resumen": "El presidente de la organización Campesinos Unidos de Sinaloa y representante del Frente Nacional para el Rescate del Campo Mexicano, Baltazar Valdez Armentia, expuso que si bien es positivo el acuerdo con las autoridades federales y estatales para la compra-venta de 70 por ciento de producción de maíz, “todavía es necesario establecer un modelo para los productores agrícolas del resto del país sin depender de los mercados globales”. “Se lograron dar pasos pero no se ha resuelto el problema”, sentenció.",
+      "url": "https://www.jornada.com.mx/2026/03/16/estados/025n2est?partner=rss",
+      "fuente": "jornada_estados",
+      "relevancia_score": 0.508,
+      "texto_completo": "“Es un avance”, pero urge un modelo para el resto de los estados: líder agrícola. El presidente de la organización Campesinos Unidos de Sinaloa y representante del Frente Nacional para el Rescate del Campo Mexicano, Baltazar Valdez Armentia, expuso que si bien es positivo el acuerdo con las autoridades federales y estatales para la compra-venta de 70 por ciento de producción de maíz, “todavía es necesario establecer un modelo para los productores agrícolas del resto del país sin depender de los mercados globales”. “Se lograron dar pasos pero no se ha resuelto el problema”, sentenció."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Protección Civil apremia a dar mantenimiento a más de 9 mil unidades habitacionales",
+      "resumen": "En la Ciudad de México existen más de 9 mil unidades habitacionales de interés social, algunas con antigüedad superior a 50 años, en las que viven alrededor de 2.5 millones de habitantes, “lo que hace más evidente la urgencia de implementar un mantenimiento correctivo y preventivo como condición necesaria para asegurar que las estructuras se mantengan en condiciones óptimas, así como para evitar pérdidas y daños futuros”, señala la Secretaría de Gestión Integral de Riesgos y Protección Civil.",
+      "url": "https://www.jornada.com.mx/2026/03/16/capital/029n2cap?partner=rss",
+      "fuente": "jornada_capital",
+      "relevancia_score": 0.4953,
+      "texto_completo": "Protección Civil apremia a dar mantenimiento a más de 9 mil unidades habitacionales. En la Ciudad de México existen más de 9 mil unidades habitacionales de interés social, algunas con antigüedad superior a 50 años, en las que viven alrededor de 2.5 millones de habitantes, “lo que hace más evidente la urgencia de implementar un mantenimiento correctivo y preventivo como condición necesaria para asegurar que las estructuras se mantengan en condiciones óptimas, así como para evitar pérdidas y daños futuros”, señala la Secretaría de Gestión Integral de Riesgos y Protección Civil."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Miguel Ángel Velázquez: Ciudad perdida",
+      "resumen": "Claudia Sheinbaum, la presidenta,    está convertida en un peligro para la corrupción, para la injusticia que campeó, lo niegue quien lo niegue, durante más de tres décadas en el país.",
+      "url": "https://www.jornada.com.mx/2026/03/16/opinion/030o1cap?partner=rss",
+      "fuente": "jornada_capital",
+      "relevancia_score": 0.5854,
+      "texto_completo": "Miguel Ángel Velázquez: Ciudad perdida. Claudia Sheinbaum, la presidenta,    está convertida en un peligro para la corrupción, para la injusticia que campeó, lo niegue quien lo niegue, durante más de tres décadas en el país."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Rojo de la Vega, sin pruebas de que negara permiso de demolición de edificio en San Antonio, asegura legislador morenista",
+      "resumen": "Al contrario de lo que ha expuesto la alcaldesa de Cuauhtémoc, Alessandra Rojo de la Vega, no hay un documento en el que se compruebe que esa alcaldía negara el permiso para la demolición del edificio en la calzada San Antonio Abad donde fallecieron tres personas en el derrumbe, sostuvo el vocero de la bancada de Morena en el Congreso capitalino, Paulo Emilio García.",
+      "url": "https://www.jornada.com.mx/2026/03/16/capital/029n3cap?partner=rss",
+      "fuente": "jornada_capital",
+      "relevancia_score": 0.4753,
+      "texto_completo": "Rojo de la Vega, sin pruebas de que negara permiso de demolición de edificio en San Antonio, asegura legislador morenista. Al contrario de lo que ha expuesto la alcaldesa de Cuauhtémoc, Alessandra Rojo de la Vega, no hay un documento en el que se compruebe que esa alcaldía negara el permiso para la demolición del edificio en la calzada San Antonio Abad donde fallecieron tres personas en el derrumbe, sostuvo el vocero de la bancada de Morena en el Congreso capitalino, Paulo Emilio García."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Supervisan establecimientos de hospedaje temporal con la finalidad de prevenir delitos",
+      "resumen": "Como parte de la estrategia para fortalecer la seguridad y prevenir delitos que vulneren la integridad de las personas, el Gobierno de la Ciudad de México inició operativos de supervisión en establecimientos de hospedaje temporal ubicados en diversas zonas de la capital.",
+      "url": "https://www.jornada.com.mx/2026/03/16/capital/030n2cap?partner=rss",
+      "fuente": "jornada_capital",
+      "relevancia_score": 0.4688,
+      "texto_completo": "Supervisan establecimientos de hospedaje temporal con la finalidad de prevenir delitos. Como parte de la estrategia para fortalecer la seguridad y prevenir delitos que vulneren la integridad de las personas, el Gobierno de la Ciudad de México inició operativos de supervisión en establecimientos de hospedaje temporal ubicados en diversas zonas de la capital."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Pese a recorte, el presupuesto anual del Congreso se ha elevado más de 100 mdp",
+      "resumen": "Aun cuando el Congreso de la Ciudad de México –uno de los cinco legislativos estatales más caros del país– tuvo una disminución de recursos a partir de los gobiernos de la 4T, en los años recientes ha reportado incrementos anuales de más de 100 millones de pesos, así como ampliaciones presupuestales, de acuerdo con datos de la Secretaría de Administración y Finanzas.",
+      "url": "https://www.jornada.com.mx/2026/03/16/capital/028n1cap?partner=rss",
+      "fuente": "jornada_capital",
+      "relevancia_score": 0.4893,
+      "texto_completo": "Pese a recorte, el presupuesto anual del Congreso se ha elevado más de 100 mdp. Aun cuando el Congreso de la Ciudad de México –uno de los cinco legislativos estatales más caros del país– tuvo una disminución de recursos a partir de los gobiernos de la 4T, en los años recientes ha reportado incrementos anuales de más de 100 millones de pesos, así como ampliaciones presupuestales, de acuerdo con datos de la Secretaría de Administración y Finanzas."
+    },
+    {
+      "nicho": "politica_local",
+      "fecha": "2026-03-16",
+      "titulo": "Narro Céspedes rechaza señalamientos y denuncia “guerra sucia” tras comunicado del PT",
+      "resumen": "El diputado federal de José Narro Céspedes rechazó los señalamientos que lo vinculan con supuestas investigaciones y presuntos nexos con actividades ilícitas, y calificó dichas versiones como parte de una “guerra sucia” dirigida a desacreditar su trayectoria política y al movimiento social que encabeza en Zacatecas. El posicionamiento del legislador se produjo luego de que [&#8230;]",
+      "url": "https://ljz.mx/14/03/2026/narro-cespedes-rechaza-senalamientos-y-denuncia-guerra-sucia-tras-comunicado-del-pt/",
+      "fuente": "jornada_zacatecas",
+      "relevancia_score": 0.5191,
+      "texto_completo": "Narro Céspedes rechaza señalamientos y denuncia “guerra sucia” tras comunicado del PT. El diputado federal de José Narro Céspedes rechazó los señalamientos que lo vinculan con supuestas investigaciones y presuntos nexos con actividades ilícitas, y calificó dichas versiones como parte de una “guerra sucia” dirigida a desacreditar su trayectoria política y al movimiento social que encabeza en Zacatecas. El posicionamiento del legislador se produjo luego de que [&#8230;]"
     },
     {
       "nicho": "regulaciones_pyme",
@@ -2940,6 +3450,206 @@
     {
       "nicho": "regulaciones_pyme",
       "fecha": "2026-03-15",
+      "titulo": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
+      "resumen": "El fisco publicó 80 tasas efectivas pagadas en 2022 y 2023; los contribuyentes que pagaron menos ISR que el promedio de su actividad, ya tienen un mensaje en su Buzón Tributario para ponerse al tanto.",
+      "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.4857,
+      "texto_completo": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros. El fisco publicó 80 tasas efectivas pagadas en 2022 y 2023; los contribuyentes que pagaron menos ISR que el promedio de su actividad, ya tienen un mensaje en su Buzón Tributario para ponerse al tanto."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "David Márquez Ayala: Reporte económico",
+      "resumen": "El INEGI recién publicó    su Encuesta Nacional de Ocupación y Empleo (ENOE) al cuarto trimestre de 2025, con la cual podemos obtener las cifras promedio anual que aquí utilizamos. Así, en el año la población total promedio de México fue de 130.7 millones de personas (0.51% sobre 2024), de las cuales 102.9 m (78.7%) tienen 15 años y más (edad laboral estadística).",
+      "url": "https://www.jornada.com.mx/2026/03/16/opinion/019o1eco?partner=rss",
+      "fuente": "jornada_economia",
+      "relevancia_score": 0.6662,
+      "texto_completo": "David Márquez Ayala: Reporte económico. El INEGI recién publicó    su Encuesta Nacional de Ocupación y Empleo (ENOE) al cuarto trimestre de 2025, con la cual podemos obtener las cifras promedio anual que aquí utilizamos. Así, en el año la población total promedio de México fue de 130.7 millones de personas (0.51% sobre 2024), de las cuales 102.9 m (78.7%) tienen 15 años y más (edad laboral estadística)."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "Enrique Galván Ochoa: Dinero",
+      "resumen": "¿No hay una buena comunicación    entre el presidente Trump y su embajador en México, Ronald Johnson? ¿O le perdió la confianza a su colaborador? Con frecuencia emiten mensajes contradictorios que restan credibilidad a ambos.",
+      "url": "https://www.jornada.com.mx/2026/03/16/opinion/006o1eco?partner=rss",
+      "fuente": "jornada_economia",
+      "relevancia_score": 0.4747,
+      "texto_completo": "Enrique Galván Ochoa: Dinero. ¿No hay una buena comunicación    entre el presidente Trump y su embajador en México, Ronald Johnson? ¿O le perdió la confianza a su colaborador? Con frecuencia emiten mensajes contradictorios que restan credibilidad a ambos."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "Carlos Fernández-Vega: México SA",
+      "resumen": "Como sucedió en 1973, el    régimen genocida de Israel, junto con su cómplice y guardaespaldas (la Casa Blanca), han desatado una crisis petrolera que amenaza –recesión internacional, una vez más– la de por sí frágil estabilidad económica global. Desde su agresión a Irán, más allá del ámbito militar y humanitario, ese par ha hecho un coctel explosivo: los precios internacionales del crudo han llegado hasta 120 dólares, a lo que se suma el cierre parcial del estrecho de Ormuz (a través del cual se transporta, ya comercializado, alrededor de 20 por ciento del oro negro), el bombardeo de instalaciones y, por ende, la baja de la producción en la zona del conflicto.",
+      "url": "https://www.jornada.com.mx/2026/03/16/opinion/018o1eco?partner=rss",
+      "fuente": "jornada_economia",
+      "relevancia_score": 0.5907,
+      "texto_completo": "Carlos Fernández-Vega: México SA. Como sucedió en 1973, el    régimen genocida de Israel, junto con su cómplice y guardaespaldas (la Casa Blanca), han desatado una crisis petrolera que amenaza –recesión internacional, una vez más– la de por sí frágil estabilidad económica global. Desde su agresión a Irán, más allá del ámbito militar y humanitario, ese par ha hecho un coctel explosivo: los precios internacionales del crudo han llegado hasta 120 dólares, a lo que se suma el cierre parcial del estrecho de Ormuz (a través del cual se transporta, ya comercializado, alrededor de 20 por ciento del oro negro), el bombardeo de instalaciones y, por ende, la baja de la producción en la zona del conflicto."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "Los bancos comenzaron el año con ganancias",
+      "resumen": "Tras cerrar 2025 con utilidades históricas que superaron 305 mil millones de pesos, la banca privada que opera en México mantuvo el impulso al inicio del año: en enero, el conjunto de bancos obtuvo ganancias que sumaron 28 mil 364 millones de pesos, cifra 3.7 por ciento superior, en términos nominales, si se compara con los 27 mil 346 millones del mismo mes, pero del año pasado, indican cifras de la Comisión Nacional Bancaria y de Valores (CNBV).",
+      "url": "https://www.jornada.com.mx/2026/03/16/economia/016n2eco?partner=rss",
+      "fuente": "jornada_economia",
+      "relevancia_score": 0.5844,
+      "texto_completo": "Los bancos comenzaron el año con ganancias. Tras cerrar 2025 con utilidades históricas que superaron 305 mil millones de pesos, la banca privada que opera en México mantuvo el impulso al inicio del año: en enero, el conjunto de bancos obtuvo ganancias que sumaron 28 mil 364 millones de pesos, cifra 3.7 por ciento superior, en términos nominales, si se compara con los 27 mil 346 millones del mismo mes, pero del año pasado, indican cifras de la Comisión Nacional Bancaria y de Valores (CNBV)."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "El dinero, listo para trabajar en México",
+      "resumen": "Los inversionistas nacionales    y extranjeros muestran un gran interés en el país. Prácticamente todo aquel que quiere iniciar un negocio “tiene el dinero listo para ponerlo a trabajar en México”, expresa firmemente Felipe García Ascencio, director general de Santander en el país.",
+      "url": "https://www.jornada.com.mx/2026/03/16/economia/017e1eco?partner=rss",
+      "fuente": "jornada_economia",
+      "relevancia_score": 0.5869,
+      "texto_completo": "El dinero, listo para trabajar en México. Los inversionistas nacionales    y extranjeros muestran un gran interés en el país. Prácticamente todo aquel que quiere iniciar un negocio “tiene el dinero listo para ponerlo a trabajar en México”, expresa firmemente Felipe García Ascencio, director general de Santander en el país."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "No todos los ejecutivos deberían ser consejeros (y pocos están realmente listos)",
+      "resumen": "En el gobierno corporativo hay una verdad que conviene no olvidar: el asiento no es el logro; la responsabilidad comienza justo cuando uno se sienta.",
+      "url": "https://expansion.mx/economia/2026/03/16/no-todos-los-ejecutivos-deberian-ser-consejeros-y-pocos-estan-realmente-listos",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.4811,
+      "texto_completo": "No todos los ejecutivos deberían ser consejeros (y pocos están realmente listos). En el gobierno corporativo hay una verdad que conviene no olvidar: el asiento no es el logro; la responsabilidad comienza justo cuando uno se sienta."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "¿Quién contribuye más?, las actividades que impulsan la recaudación del SAT",
+      "resumen": "El pago de impuestos en aduanas, de entidades federativas, y el de entidades financieras concentran el pago de impuestos en México.",
+      "url": "https://expansion.mx/economia/2026/03/14/quien-contribuye-mas-sectores-recaudacion-sat",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.6268,
+      "texto_completo": "¿Quién contribuye más?, las actividades que impulsan la recaudación del SAT. El pago de impuestos en aduanas, de entidades federativas, y el de entidades financieras concentran el pago de impuestos en México."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
+      "resumen": "La cuota por el impuesto IEPS que se cobra al combustible utilizado para el transporte de mercancías y personas, tendrá un descuento que absorberá Hacienda como un pérdida recaudatoria.",
+      "url": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.5398,
+      "texto_completo": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México. La cuota por el impuesto IEPS que se cobra al combustible utilizado para el transporte de mercancías y personas, tendrá un descuento que absorberá Hacienda como un pérdida recaudatoria."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
+      "resumen": "Felipe García, director general del banco, dice que detectan problemas de morosidad en el segmento en medio de la creciente competencia de nuevos jugadores.",
+      "url": "https://expansion.mx/economia/2026/03/13/santander-hemos-frenado-un-poco-el-negocio-de-tarjetas",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.483,
+      "texto_completo": "Santander: \"Hemos frenado un poco el negocio de tarjetas\". Felipe García, director general del banco, dice que detectan problemas de morosidad en el segmento en medio de la creciente competencia de nuevos jugadores."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
+      "resumen": "Pablo Elek, director general de Scotiabank México, afirma que el país ha demostrado resiliencia económica y cuenta con una plataforma manufacturera integrada al corredor norte.",
+      "url": "https://expansion.mx/economia/2026/03/13/scotiabank-mexico-es-prioridad-para-el-banco-representa-30-del-negocio",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.5465,
+      "texto_completo": "Scotiabank: México es prioridad para el banco; representa 30% del negocio. Pablo Elek, director general de Scotiabank México, afirma que el país ha demostrado resiliencia económica y cuenta con una plataforma manufacturera integrada al corredor norte."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
+      "resumen": "Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés.",
+      "url": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.5477,
+      "texto_completo": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión. Diversos análisis ven probable un escenario extremo, que elevaría los precios del petróleo hasta los 150 dólares, presionaría la inflación global y podría retrasar los recortes de tasas de interés."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
+      "resumen": "El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año.",
+      "url": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.6305,
+      "texto_completo": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas. El monto recaudado por el cobro de adeudos fiscales a grandes compañías en 2025 es tres veces el gasto ejercido por la Secretaría de Comunicaciones y Transportes en un año."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
+      "resumen": "Durante el último año, el comercio de acero entre ambos países se convirtió en uno de los puntos más sensibles de la relación bilateral.",
+      "url": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.6495,
+      "texto_completo": "México llevará el acero como primer tema comercial a la mesa del T-MEC. Durante el último año, el comercio de acero entre ambos países se convirtió en uno de los puntos más sensibles de la relación bilateral."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
+      "resumen": "Gobiernos y sector privado impulsan misiones comerciales y acuerdos empresariales para ampliar el intercambio entre México y Canadá.",
+      "url": "https://expansion.mx/economia/2026/03/12/mexico-gana-frente-canada-exportaciones-se-disparan",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.5687,
+      "texto_completo": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd. Gobiernos y sector privado impulsan misiones comerciales y acuerdos empresariales para ampliar el intercambio entre México y Canadá."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
+      "resumen": "Luis Brossier afirma que empresas ya dialogan con CFE sobre generación eléctrica y que el banco apoyará con financiamiento cuando se asignen los proyectos.",
+      "url": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.6567,
+      "texto_completo": "Citi México: Financiaremos proyectos de energía del plan de infraestructura. Luis Brossier afirma que empresas ya dialogan con CFE sobre generación eléctrica y que el banco apoyará con financiamiento cuando se asignen los proyectos."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
+      "resumen": "Eduardo Osuna, director general de BBVA México, dijo que la banca está lista para financiar los proyectos del Plan México, siempre que cuenten con permisos, fuentes de pago claras y una adecuada asignación de riesgos.",
+      "url": "https://expansion.mx/economia/2026/03/12/bbva-los-proyectos-del-plan-mexico-seran-exitosos-y-rentables-si-se-ejecutan-bien",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.5674,
+      "texto_completo": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien. Eduardo Osuna, director general de BBVA México, dijo que la banca está lista para financiar los proyectos del Plan México, siempre que cuenten con permisos, fuentes de pago claras y una adecuada asignación de riesgos."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
+      "resumen": "La USTR indicó que el proceso en el marco de la Sección 301 analizará si las políticas industriales de estos países son irrazonables o discriminatorias y si restringen el comercio de Estados Unidos.",
+      "url": "https://expansion.mx/economia/2026/03/11/eu-investiga-mexico-economias-sobrecapacidad-manufactura",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.6943,
+      "texto_completo": "EU investiga a México y otras economías por sobrecapacidad manufacturera. La USTR indicó que el proceso en el marco de la Sección 301 analizará si las políticas industriales de estos países son irrazonables o discriminatorias y si restringen el comercio de Estados Unidos."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
+      "resumen": "El plan busca ampliar el financiamiento a pequeñas empresas con garantías de Nafin y mayor colocación bancaria, pero la falta de historial crediticio es la principal barrera para el primer préstamo.",
+      "url": "https://expansion.mx/economia/2026/03/11/plan-mexico-credito-pymes-pero-reto-negocios-fuera",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.7022,
+      "texto_completo": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento. El plan busca ampliar el financiamiento a pequeñas empresas con garantías de Nafin y mayor colocación bancaria, pero la falta de historial crediticio es la principal barrera para el primer préstamo."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
+      "titulo": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
+      "resumen": "Carlos López-Moctezuma dice que el banco tomó el control de la cartera en febrero, contrató cobranza especializada y prevé un alza temporal en la morosidad mientras los clientes migran al nuevo sistema de pago.",
+      "url": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.5538,
+      "texto_completo": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”. Carlos López-Moctezuma dice que el banco tomó el control de la cartera en febrero, contrató cobranza especializada y prevé un alza temporal en la morosidad mientras los clientes migran al nuevo sistema de pago."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
       "titulo": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
       "resumen": "El fisco publicó 80 tasas efectivas pagadas en 2022 y 2023; los contribuyentes que pagaron menos ISR que el promedio de su actividad, ya tienen un mensaje en su Buzón Tributario para ponerse al tanto.",
       "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes",
@@ -5184,6 +5894,601 @@
       "fuente": "CEPAL",
       "titulo": "Monitor comercio exterior LATAM — 2026-03-15",
       "contenido": "CEPAL publica estadísticas trimestrales de comercio exterior para ALC. Base de datos: https://statistics.cepal.org/portal/cepalstat/. Fecha: 2026-03-15.",
+      "url": "https://statistics.cepal.org/portal/cepalstat/",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "ExchangeRate-API",
+      "titulo": "Tipo de cambio USD/MXN — 2026-03-16",
+      "contenido": "1 USD = 17.9 MXN (Peso mexicano) al 2026-03-16.",
+      "url": "https://api.exchangerate-api.com",
+      "extra": {
+        "par": "USD/MXN",
+        "tasa": 17.9
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "ExchangeRate-API",
+      "titulo": "Tipo de cambio USD/BRL — 2026-03-16",
+      "contenido": "1 USD = 5.27 BRL (Real brasileño) al 2026-03-16.",
+      "url": "https://api.exchangerate-api.com",
+      "extra": {
+        "par": "USD/BRL",
+        "tasa": 5.27
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "ExchangeRate-API",
+      "titulo": "Tipo de cambio USD/ARS — 2026-03-16",
+      "contenido": "1 USD = 1452.25 ARS (Peso argentino) al 2026-03-16.",
+      "url": "https://api.exchangerate-api.com",
+      "extra": {
+        "par": "USD/ARS",
+        "tasa": 1452.25
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "ExchangeRate-API",
+      "titulo": "Tipo de cambio USD/CLP — 2026-03-16",
+      "contenido": "1 USD = 913.84 CLP (Peso chileno) al 2026-03-16.",
+      "url": "https://api.exchangerate-api.com",
+      "extra": {
+        "par": "USD/CLP",
+        "tasa": 913.84
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "ExchangeRate-API",
+      "titulo": "Tipo de cambio USD/COP — 2026-03-16",
+      "contenido": "1 USD = 3691.67 COP (Peso colombiano) al 2026-03-16.",
+      "url": "https://api.exchangerate-api.com",
+      "extra": {
+        "par": "USD/COP",
+        "tasa": 3691.67
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "ExchangeRate-API",
+      "titulo": "Tipo de cambio USD/PEN — 2026-03-16",
+      "contenido": "1 USD = 3.44 PEN (Sol peruano) al 2026-03-16.",
+      "url": "https://api.exchangerate-api.com",
+      "extra": {
+        "par": "USD/PEN",
+        "tasa": 3.44
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "Commodity Petróleo WTI — 2026-03-16",
+      "contenido": "Petróleo WTI: USD 94.13 al 2026-03-16. Relevancia LATAM: crítico para México y Colombia.",
+      "url": "https://finance.yahoo.com/quote/CL=F",
+      "extra": {
+        "symbol": "CL=F",
+        "precio": 94.13
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "Commodity Petróleo Brent — 2026-03-16",
+      "contenido": "Petróleo Brent: USD 96.9 al 2026-03-16. Relevancia LATAM: referencia global exportaciones LATAM.",
+      "url": "https://finance.yahoo.com/quote/BZ=F",
+      "extra": {
+        "symbol": "BZ=F",
+        "precio": 96.9
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "Commodity Cobre — 2026-03-16",
+      "contenido": "Cobre: USD 5.82 al 2026-03-16. Relevancia LATAM: crítico para Chile y Perú.",
+      "url": "https://finance.yahoo.com/quote/HG=F",
+      "extra": {
+        "symbol": "HG=F",
+        "precio": 5.82
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "Commodity Plata — 2026-03-16",
+      "contenido": "Plata: USD 81.255 al 2026-03-16. Relevancia LATAM: México mayor productor mundial.",
+      "url": "https://finance.yahoo.com/quote/SI=F",
+      "extra": {
+        "symbol": "SI=F",
+        "precio": 81.255
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "Commodity Oro — 2026-03-16",
+      "contenido": "Oro: USD 5024.6 al 2026-03-16. Relevancia LATAM: reservas bancos centrales LATAM.",
+      "url": "https://finance.yahoo.com/quote/GC=F",
+      "extra": {
+        "symbol": "GC=F",
+        "precio": 5024.6
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "Commodity Maíz — 2026-03-16",
+      "contenido": "Maíz: USX 459.25 al 2026-03-16. Relevancia LATAM: crítico para México y Argentina.",
+      "url": "https://finance.yahoo.com/quote/ZC=F",
+      "extra": {
+        "symbol": "ZC=F",
+        "precio": 459.25
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "Commodity Soya — 2026-03-16",
+      "contenido": "Soya: USX 1174.5 al 2026-03-16. Relevancia LATAM: crítico para Brasil y Argentina.",
+      "url": "https://finance.yahoo.com/quote/ZS=F",
+      "extra": {
+        "symbol": "ZS=F",
+        "precio": 1174.5
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "Commodity Café — 2026-03-16",
+      "contenido": "Café: USX 290.95 al 2026-03-16. Relevancia LATAM: Colombia, Brasil, México.",
+      "url": "https://finance.yahoo.com/quote/KC=F",
+      "extra": {
+        "symbol": "KC=F",
+        "precio": 290.95
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "Commodity Gas natural — 2026-03-16",
+      "contenido": "Gas natural: USD 3.09 al 2026-03-16. Relevancia LATAM: energía industria LATAM.",
+      "url": "https://finance.yahoo.com/quote/NG=F",
+      "extra": {
+        "symbol": "NG=F",
+        "precio": 3.09
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Rwanda']]: Boosting Green Finance, Investment and Trade in Rwanda",
+      "contenido": "País: ['Republic of Rwanda']. Sector: . Monto: USD 200,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505244",
+      "extra": {
+        "pais": [
+          "Republic of Rwanda"
+        ],
+        "monto_usd": "200,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Second Bangladesh Green and Climate Resilient Development Credit",
+      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 500,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180439",
+      "extra": {
+        "pais": [
+          "People's Republic of Bangladesh"
+        ],
+        "monto_usd": "500,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Chattogram Water Supply Improvement Project",
+      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 280,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176429",
+      "extra": {
+        "pais": [
+          "People's Republic of Bangladesh"
+        ],
+        "monto_usd": "280,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of India']]: Amaravati Integrated Urban Development Program",
+      "contenido": "País: ['Republic of India']. Sector: . Monto: USD 0. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507508",
+      "extra": {
+        "pais": [
+          "Republic of India"
+        ],
+        "monto_usd": "0"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Health, Nutrition and Population Sector Development Program",
+      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 379,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180283",
+      "extra": {
+        "pais": [
+          "People's Republic of Bangladesh"
+        ],
+        "monto_usd": "379,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Burundi']]: Burundi Colline Climate Resilience Project",
+      "contenido": "País: ['Republic of Burundi']. Sector: . Monto: USD 70,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180864",
+      "extra": {
+        "pais": [
+          "Republic of Burundi"
+        ],
+        "monto_usd": "70,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Kingdom of Morocco']]: Transforming Agri-food Systems in Morocco",
+      "contenido": "País: ['Kingdom of Morocco']. Sector: . Monto: USD 250,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181587",
+      "extra": {
+        "pais": [
+          "Kingdom of Morocco"
+        ],
+        "monto_usd": "250,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Zambia']]: First Zambia Climate and Economic Resilience Programmatic DPF wit",
+      "contenido": "País: ['Republic of Zambia']. Sector: . Monto: USD 0. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507116",
+      "extra": {
+        "pais": [
+          "Republic of Zambia"
+        ],
+        "monto_usd": "0"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Togo']]: Togo Digital Acceleration Project",
+      "contenido": "País: ['Republic of Togo']. Sector: . Monto: USD 100,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179138",
+      "extra": {
+        "pais": [
+          "Republic of Togo"
+        ],
+        "monto_usd": "100,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Tajikistan']]: Tajikistan Digital Foundations Project",
+      "contenido": "País: ['Republic of Tajikistan']. Sector: . Monto: USD 0. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506611",
+      "extra": {
+        "pais": [
+          "Republic of Tajikistan"
+        ],
+        "monto_usd": "0"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Referencia portal",
+      "titulo": "CompraNet México — portal licitaciones",
+      "contenido": "Sistema oficial de contrataciones APF México. Licitaciones públicas, invitaciones y adjudicaciones directas. URL: https://compranet.hacienda.gob.mx. Fecha: 2026-03-16.",
+      "url": "https://compranet.hacienda.gob.mx",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Referencia portal",
+      "titulo": "UNGM — licitaciones ONU en LATAM",
+      "contenido": "Licitaciones de UNOPS, PNUD, UNICEF, FAO activas en América Latina. URL: https://www.ungm.org/Public/Notice. Fecha: 2026-03-16.",
+      "url": "https://www.ungm.org/Public/Notice",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Público",
+      "titulo": "Puerto Veracruz, México (MXVER)",
+      "contenido": "Puerto Veracruz (MXVER), México. Actividad: petrolero y carga general. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:MXVER. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXVER",
+      "extra": {
+        "locode": "MXVER",
+        "pais": "México"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Público",
+      "titulo": "Puerto Lázaro Cárdenas, México (MXLZC)",
+      "contenido": "Puerto Lázaro Cárdenas (MXLZC), México. Actividad: automotriz y granel. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:MXLZC. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXLZC",
+      "extra": {
+        "locode": "MXLZC",
+        "pais": "México"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Público",
+      "titulo": "Puerto Altamira, México (MXATM)",
+      "contenido": "Puerto Altamira (MXATM), México. Actividad: petroquímico e industrial. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:MXATM. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXATM",
+      "extra": {
+        "locode": "MXATM",
+        "pais": "México"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Público",
+      "titulo": "Puerto Santos, Brasil (BRSSZ)",
+      "contenido": "Puerto Santos (BRSSZ), Brasil. Actividad: mayor puerto Sudamérica. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:BRSSZ. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:BRSSZ",
+      "extra": {
+        "locode": "BRSSZ",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Público",
+      "titulo": "Puerto Valparaíso, Chile (CLVAP)",
+      "contenido": "Puerto Valparaíso (CLVAP), Chile. Actividad: cobre y frutas. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:CLVAP. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:CLVAP",
+      "extra": {
+        "locode": "CLVAP",
+        "pais": "Chile"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Público",
+      "titulo": "Puerto Buenaventura, Colombia (COBUN)",
+      "contenido": "Puerto Buenaventura (COBUN), Colombia. Actividad: Pacífico Colombia. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:COBUN. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:COBUN",
+      "extra": {
+        "locode": "COBUN",
+        "pais": "Colombia"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Público",
+      "titulo": "Puerto Callao, Perú (PECLL)",
+      "contenido": "Puerto Callao (PECLL), Perú. Actividad: mayor puerto peruano. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:PECLL. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:PECLL",
+      "extra": {
+        "locode": "PECLL",
+        "pais": "Perú"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Público",
+      "titulo": "Puerto Buenos Aires, Argentina (ARBUE)",
+      "contenido": "Puerto Buenos Aires (ARBUE), Argentina. Actividad: Río de la Plata. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:ARBUE. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:ARBUE",
+      "extra": {
+        "locode": "ARBUE",
+        "pais": "Argentina"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Público",
+      "titulo": "Puerto Balboa, Panamá (PAMIT)",
+      "contenido": "Puerto Balboa (PAMIT), Panamá. Actividad: Canal de Panamá. Tráfico en vivo: https://www.marinetraffic.com/en/ais/details/ports/portid:PAMIT. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:PAMIT",
+      "extra": {
+        "locode": "PAMIT",
+        "pais": "Panamá"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Zonas Estratégicas",
+      "titulo": "Zona marítima: Canal de Panamá",
+      "contenido": "Canal de Panamá (8.9943,-79.5674): 14,000+ buques/año, paso Asia-LATAM. Monitor: https://www.marinetraffic.com/en/ais/home/centerx:-79.5674/centery:8.9943/zoom:7. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/home/centerx:-79.5674/centery:8.9943/zoom:7",
+      "extra": {
+        "lat": 8.9943,
+        "lon": -79.5674
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Zonas Estratégicas",
+      "titulo": "Zona marítima: Golfo de México",
+      "contenido": "Golfo de México (25.0,-90.0): exportaciones petróleo México y USA. Monitor: https://www.marinetraffic.com/en/ais/home/centerx:-90.0/centery:25.0/zoom:7. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/home/centerx:-90.0/centery:25.0/zoom:7",
+      "extra": {
+        "lat": 25.0,
+        "lon": -90.0
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Zonas Estratégicas",
+      "titulo": "Zona marítima: Puerto Santos Brasil",
+      "contenido": "Puerto Santos Brasil (-23.95,-46.33): mayor puerto América Latina. Monitor: https://www.marinetraffic.com/en/ais/home/centerx:-46.33/centery:-23.95/zoom:7. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/home/centerx:-46.33/centery:-23.95/zoom:7",
+      "extra": {
+        "lat": -23.95,
+        "lon": -46.33
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "movimiento_buques",
+      "fuente": "AIS Zonas Estratégicas",
+      "titulo": "Zona marítima: Estrecho de Magallanes",
+      "contenido": "Estrecho de Magallanes (-52.6,-70.9): ruta alternativa al Canal. Monitor: https://www.marinetraffic.com/en/ais/home/centerx:-70.9/centery:-52.6/zoom:7. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/home/centerx:-70.9/centery:-52.6/zoom:7",
+      "extra": {
+        "lat": -52.6,
+        "lon": -70.9
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "aranceles_aduanas",
+      "fuente": "OMC — Perfiles arancelarios",
+      "titulo": "Perfil arancelario México — 2026-03-16",
+      "contenido": "México (OMC: MEX): T-MEC, TLCUEM, 12 TLCs vigentes. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-16.",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=MEX",
+      "extra": {
+        "pais": "México",
+        "codigo_omc": "MEX"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "aranceles_aduanas",
+      "fuente": "OMC — Perfiles arancelarios",
+      "titulo": "Perfil arancelario Brasil — 2026-03-16",
+      "contenido": "Brasil (OMC: BRA): MERCOSUR, arancel externo común. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-16.",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=BRA",
+      "extra": {
+        "pais": "Brasil",
+        "codigo_omc": "BRA"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "aranceles_aduanas",
+      "fuente": "OMC — Perfiles arancelarios",
+      "titulo": "Perfil arancelario Argentina — 2026-03-16",
+      "contenido": "Argentina (OMC: ARG): MERCOSUR, restricciones importación activas. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-16.",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=ARG",
+      "extra": {
+        "pais": "Argentina",
+        "codigo_omc": "ARG"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "aranceles_aduanas",
+      "fuente": "OMC — Perfiles arancelarios",
+      "titulo": "Perfil arancelario Chile — 2026-03-16",
+      "contenido": "Chile (OMC: CHL): 65+ TLCs — economía más abierta LATAM. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-16.",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=CHL",
+      "extra": {
+        "pais": "Chile",
+        "codigo_omc": "CHL"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "aranceles_aduanas",
+      "fuente": "OMC — Perfiles arancelarios",
+      "titulo": "Perfil arancelario Colombia — 2026-03-16",
+      "contenido": "Colombia (OMC: COL): TLC con USA, UE, Alianza del Pacífico. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-16.",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=COL",
+      "extra": {
+        "pais": "Colombia",
+        "codigo_omc": "COL"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "aranceles_aduanas",
+      "fuente": "OMC — Perfiles arancelarios",
+      "titulo": "Perfil arancelario Perú — 2026-03-16",
+      "contenido": "Perú (OMC: PER): Alianza del Pacífico, TLC con China. Datos: https://tariffanalysis.wto.org. Fecha: 2026-03-16.",
+      "url": "https://tariffanalysis.wto.org/summary/index.aspx?lang=1&rg=PER",
+      "extra": {
+        "pais": "Perú",
+        "codigo_omc": "PER"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "aranceles_aduanas",
+      "fuente": "DOF México",
+      "titulo": "Cambios arancelarios DOF — 2026-03-16",
+      "contenido": "El DOF publica modificaciones a la LIGIE y acuerdos comerciales. Consulta: https://www.dof.gob.mx. Fecha: 2026-03-16.",
+      "url": "https://www.dof.gob.mx",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "aranceles_aduanas",
+      "fuente": "USTR / Federal Register",
+      "titulo": "Aranceles USA impacto LATAM — 2026-03-16",
+      "contenido": "Cambios arancelarios EE.UU. con impacto en exportaciones LATAM (2025-2026): acero, aluminio, productos agrícolas. Fuente: https://ustr.gov/tariff-actions. Fecha: 2026-03-16.",
+      "url": "https://ustr.gov/tariff-actions",
+      "extra": {
+        "relevancia": "alta_2026"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:37:50.961048+00:00",
+      "nicho": "aranceles_aduanas",
+      "fuente": "CEPAL",
+      "titulo": "Monitor comercio exterior LATAM — 2026-03-16",
+      "contenido": "CEPAL publica estadísticas trimestrales de comercio exterior para ALC. Base de datos: https://statistics.cepal.org/portal/cepalstat/. Fecha: 2026-03-16.",
       "url": "https://statistics.cepal.org/portal/cepalstat/",
       "extra": {}
     },
@@ -7993,6 +9298,941 @@
       }
     },
     {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "US Treasury FiscalData",
+      "titulo": "Deuda publica USA — 2026-03-16",
+      "contenido": "Deuda publica total de EE.UU. al 2026-03-12: USD 38900879040970.80 millones. Deuda en manos del publico: USD 31300175076619.99 millones.",
+      "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/",
+      "extra": {
+        "record_date": "2026-03-12",
+        "debt_held_public_amt": "31300175076619.99",
+        "intragov_hold_amt": "7600703964350.81",
+        "tot_pub_debt_out_amt": "38900879040970.80",
+        "src_line_nbr": "1",
+        "record_fiscal_year": "2026",
+        "record_fiscal_quarter": "2",
+        "record_calendar_year": "2026",
+        "record_calendar_quarter": "1",
+        "record_calendar_month": "03",
+        "record_calendar_day": "12"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "US Treasury — Tasas",
+      "titulo": "Tasa interes bonos USA: Treasury Bills — 2026-02-28",
+      "contenido": "Instrumento: Treasury Bills. Tipo: Marketable. Tasa promedio: 3.720%. Fecha: 2026-02-28.",
+      "url": "https://fiscaldata.treasury.gov/datasets/average-interest-rates-treasury-securities/",
+      "extra": {
+        "record_date": "2026-02-28",
+        "security_type_desc": "Marketable",
+        "security_desc": "Treasury Bills",
+        "avg_interest_rate_amt": "3.720",
+        "src_line_nbr": "1",
+        "record_fiscal_year": "2026",
+        "record_fiscal_quarter": "2",
+        "record_calendar_year": "2026",
+        "record_calendar_quarter": "1",
+        "record_calendar_month": "02",
+        "record_calendar_day": "28"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "US Treasury — Tasas",
+      "titulo": "Tasa interes bonos USA: Treasury Notes — 2026-02-28",
+      "contenido": "Instrumento: Treasury Notes. Tipo: Marketable. Tasa promedio: 3.190%. Fecha: 2026-02-28.",
+      "url": "https://fiscaldata.treasury.gov/datasets/average-interest-rates-treasury-securities/",
+      "extra": {
+        "record_date": "2026-02-28",
+        "security_type_desc": "Marketable",
+        "security_desc": "Treasury Notes",
+        "avg_interest_rate_amt": "3.190",
+        "src_line_nbr": "2",
+        "record_fiscal_year": "2026",
+        "record_fiscal_quarter": "2",
+        "record_calendar_year": "2026",
+        "record_calendar_quarter": "1",
+        "record_calendar_month": "02",
+        "record_calendar_day": "28"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "US Treasury — Tasas",
+      "titulo": "Tasa interes bonos USA: Treasury Bonds — 2026-02-28",
+      "contenido": "Instrumento: Treasury Bonds. Tipo: Marketable. Tasa promedio: 3.377%. Fecha: 2026-02-28.",
+      "url": "https://fiscaldata.treasury.gov/datasets/average-interest-rates-treasury-securities/",
+      "extra": {
+        "record_date": "2026-02-28",
+        "security_type_desc": "Marketable",
+        "security_desc": "Treasury Bonds",
+        "avg_interest_rate_amt": "3.377",
+        "src_line_nbr": "3",
+        "record_fiscal_year": "2026",
+        "record_fiscal_quarter": "2",
+        "record_calendar_year": "2026",
+        "record_calendar_quarter": "1",
+        "record_calendar_month": "02",
+        "record_calendar_day": "28"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "Federal Reserve RSS",
+      "titulo": "Fed — Comunicados politica monetaria — 2026-03-16",
+      "contenido": "Feed RSS oficial de la Reserva Federal de EE.UU. con comunicados de politica monetaria, decisiones de tasas, discursos y reportes. Relevante para LATAM por impacto en tipos de cambio. URL: https://www.federalreserve.gov/feeds/press_monetary.xml. Fecha: 2026-03-16.",
+      "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "Federal Reserve RSS",
+      "titulo": "Fed — Todos los comunicados — 2026-03-16",
+      "contenido": "Feed RSS oficial de la Reserva Federal de EE.UU. con comunicados de politica monetaria, decisiones de tasas, discursos y reportes. Relevante para LATAM por impacto en tipos de cambio. URL: https://www.federalreserve.gov/feeds/press_all.xml. Fecha: 2026-03-16.",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "ECB — Banco Central Europeo",
+      "titulo": "Tipo de cambio EUR/USD BCE — 2026-03-09",
+      "contenido": "Tipo de cambio oficial EUR/USD del Banco Central Europeo: 1.1555 al 2026-03-09. Referencia para comercio exterior Mexico-UE y deuda corporativa LATAM en euros.",
+      "url": "https://data.ecb.europa.eu/data/datasets/EXR",
+      "extra": {
+        "fecha": "2026-03-09",
+        "eur_usd": 1.1555
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "ECB — Banco Central Europeo",
+      "titulo": "Tipo de cambio EUR/USD BCE — 2026-03-10",
+      "contenido": "Tipo de cambio oficial EUR/USD del Banco Central Europeo: 1.1641 al 2026-03-10. Referencia para comercio exterior Mexico-UE y deuda corporativa LATAM en euros.",
+      "url": "https://data.ecb.europa.eu/data/datasets/EXR",
+      "extra": {
+        "fecha": "2026-03-10",
+        "eur_usd": 1.1641
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "ECB — Banco Central Europeo",
+      "titulo": "Tipo de cambio EUR/USD BCE — 2026-03-11",
+      "contenido": "Tipo de cambio oficial EUR/USD del Banco Central Europeo: 1.1581 al 2026-03-11. Referencia para comercio exterior Mexico-UE y deuda corporativa LATAM en euros.",
+      "url": "https://data.ecb.europa.eu/data/datasets/EXR",
+      "extra": {
+        "fecha": "2026-03-11",
+        "eur_usd": 1.1581
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "FMI — DataMapper",
+      "titulo": "Crecimiento PIB Argentina 2030",
+      "contenido": "Tasa de crecimiento real del PIB de Argentina en 2030: 3.2%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
+      "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
+      "extra": {
+        "pais": "ARG",
+        "anio": "2030",
+        "pct": 3.2
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "FMI — DataMapper",
+      "titulo": "Crecimiento PIB Brasil 2030",
+      "contenido": "Tasa de crecimiento real del PIB de Brasil en 2030: 2.5%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
+      "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
+      "extra": {
+        "pais": "BRA",
+        "anio": "2030",
+        "pct": 2.5
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "FMI — DataMapper",
+      "titulo": "Crecimiento PIB Chile 2030",
+      "contenido": "Tasa de crecimiento real del PIB de Chile en 2030: 2.2%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
+      "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
+      "extra": {
+        "pais": "CHL",
+        "anio": "2030",
+        "pct": 2.2
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "FMI — DataMapper",
+      "titulo": "Crecimiento PIB Colombia 2030",
+      "contenido": "Tasa de crecimiento real del PIB de Colombia en 2030: 2.8%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
+      "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
+      "extra": {
+        "pais": "COL",
+        "anio": "2030",
+        "pct": 2.8
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "FMI — DataMapper",
+      "titulo": "Crecimiento PIB Mexico 2030",
+      "contenido": "Tasa de crecimiento real del PIB de Mexico en 2030: 2.1%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
+      "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
+      "extra": {
+        "pais": "MEX",
+        "anio": "2030",
+        "pct": 2.1
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "finanzas_globales",
+      "fuente": "FMI — DataMapper",
+      "titulo": "Crecimiento PIB Peru 2030",
+      "contenido": "Tasa de crecimiento real del PIB de Peru en 2030: 2.5%. Fuente: Fondo Monetario Internacional, World Economic Outlook.",
+      "url": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO",
+      "extra": {
+        "pais": "PER",
+        "anio": "2030",
+        "pct": 2.5
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "energia_petroleo",
+      "fuente": "EIA — US Energy Information",
+      "titulo": "Petroleo WTI — 2026-03-09",
+      "contenido": "Petroleo WTI (precio spot diario Cushing Oklahoma): USD 94.65 por barril al 2026-03-09. Relevante para presupuesto Pemex y exportaciones Mexico.",
+      "url": "https://www.eia.gov/petroleum/",
+      "extra": {
+        "period": "2026-03-09",
+        "duoarea": "YCUOK",
+        "area-name": "NA",
+        "product": "EPCWTI",
+        "product-name": "WTI Crude Oil",
+        "process": "PF4",
+        "process-name": "Spot Price FOB",
+        "series": "RWTC",
+        "series-description": "Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",
+        "value": 94.65,
+        "units": "$/BBL"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "energia_petroleo",
+      "fuente": "EIA — US Energy Information",
+      "titulo": "Petroleo Brent — 2026-03-09",
+      "contenido": "Petroleo Brent (precio spot diario Europa): USD 94.35 por barril al 2026-03-09. Relevante para presupuesto Pemex y exportaciones Mexico.",
+      "url": "https://www.eia.gov/petroleum/",
+      "extra": {
+        "period": "2026-03-09",
+        "duoarea": "ZEU",
+        "area-name": "NA",
+        "product": "EPCBRENT",
+        "product-name": "UK Brent Crude Oil",
+        "process": "PF4",
+        "process-name": "Spot Price FOB",
+        "series": "RBRTE",
+        "series-description": "Europe Brent Spot Price FOB (Dollars per Barrel)",
+        "value": 94.35,
+        "units": "$/BBL"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "energia_petroleo",
+      "fuente": "EIA — US Energy Information",
+      "titulo": "Gas Natural Henry Hub — 2026-03-09",
+      "contenido": "Gas Natural Henry Hub (precio spot diario USA): USD 3.25 por barril al 2026-03-09. Relevante para presupuesto Pemex y exportaciones Mexico.",
+      "url": "https://www.eia.gov/petroleum/",
+      "extra": {
+        "period": "2026-03-09",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": 3.25,
+        "units": "$/MMBTU"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "energia_petroleo",
+      "fuente": "Yahoo Finance",
+      "titulo": "Petroleo WTI — 2026-03-16",
+      "contenido": "Petroleo WTI: USD 94.26 al 2026-03-16. Relevancia LATAM: critico para Mexico, Colombia, Venezuela.",
+      "url": "https://finance.yahoo.com/quote/CL=F",
+      "extra": {
+        "symbol": "CL=F",
+        "precio": 94.26
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "energia_petroleo",
+      "fuente": "Yahoo Finance",
+      "titulo": "Petroleo Brent — 2026-03-16",
+      "contenido": "Petroleo Brent: USD 96.9 al 2026-03-16. Relevancia LATAM: referencia global exportaciones LATAM.",
+      "url": "https://finance.yahoo.com/quote/BZ=F",
+      "extra": {
+        "symbol": "BZ=F",
+        "precio": 96.9
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "energia_petroleo",
+      "fuente": "Yahoo Finance",
+      "titulo": "Gas Natural — 2026-03-16",
+      "contenido": "Gas Natural: USD 3.09 al 2026-03-16. Relevancia LATAM: energia industria LATAM.",
+      "url": "https://finance.yahoo.com/quote/NG=F",
+      "extra": {
+        "symbol": "NG=F",
+        "precio": 3.09
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "energia_petroleo",
+      "fuente": "Yahoo Finance",
+      "titulo": "Gasoil calefaccion — 2026-03-16",
+      "contenido": "Gasoil calefaccion: USD 3.6911 al 2026-03-16. Relevancia LATAM: derivado petroleo.",
+      "url": "https://finance.yahoo.com/quote/HO=F",
+      "extra": {
+        "symbol": "HO=F",
+        "precio": 3.6911
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "energia_petroleo",
+      "fuente": "Yahoo Finance",
+      "titulo": "Gasolina RBOB — 2026-03-16",
+      "contenido": "Gasolina RBOB: USD 2.9573 al 2026-03-16. Relevancia LATAM: referencia precios combustibles.",
+      "url": "https://finance.yahoo.com/quote/RB=F",
+      "extra": {
+        "symbol": "RB=F",
+        "precio": 2.9573
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "energia_petroleo",
+      "fuente": "OPEC",
+      "titulo": "Portal OPEC — noticias produccion petroleo 2026-03-16",
+      "contenido": "La OPEC publica diariamente datos de produccion, comunicados de reunion y perspectivas del mercado petrolero. Decisiones de cuotas de produccion impactan directamente precio WTI y Brent. Relevante para Pemex y presupuesto federal mexicano. URL: https://www.opec.org. Fecha: 2026-03-16.",
+      "url": "https://www.opec.org/opec_web/en/press_room/26.htm",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "energia_petroleo",
+      "fuente": "IEA — Agencia Internacional de Energia",
+      "titulo": "Oil Market Report IEA — 2026-03-16",
+      "contenido": "La IEA publica mensualmente el Oil Market Report con datos de oferta, demanda y stocks globales. Incluye perspectivas para paises productores LATAM. Acceso: https://www.iea.org/reports/oil-market-report. Fecha: 2026-03-16.",
+      "url": "https://www.iea.org/reports/oil-market-report",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — LME/CME",
+      "titulo": "Cobre — 2026-03-16",
+      "contenido": "Cobre: USD 5.819 al 2026-03-16. Chile mayor productor mundial, Peru 2do.",
+      "url": "https://finance.yahoo.com/quote/HG=F",
+      "extra": {
+        "symbol": "HG=F",
+        "precio": 5.819,
+        "moneda": "USD"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — LME/CME",
+      "titulo": "Plata — 2026-03-16",
+      "contenido": "Plata: USD 81.175 al 2026-03-16. Mexico mayor productor mundial.",
+      "url": "https://finance.yahoo.com/quote/SI=F",
+      "extra": {
+        "symbol": "SI=F",
+        "precio": 81.175,
+        "moneda": "USD"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — LME/CME",
+      "titulo": "Oro — 2026-03-16",
+      "contenido": "Oro: USD 5022.7 al 2026-03-16. Mexico 9no productor mundial.",
+      "url": "https://finance.yahoo.com/quote/GC=F",
+      "extra": {
+        "symbol": "GC=F",
+        "precio": 5022.7,
+        "moneda": "USD"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — LME/CME",
+      "titulo": "Aluminio — 2026-03-16",
+      "contenido": "Aluminio: USD 3354.0 al 2026-03-16. insumo industria automotriz Mexico.",
+      "url": "https://finance.yahoo.com/quote/ALI=F",
+      "extra": {
+        "symbol": "ALI=F",
+        "precio": 3354.0,
+        "moneda": "USD"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — LME/CME",
+      "titulo": "Paladio — 2026-03-16",
+      "contenido": "Paladio: USD 1618.5 al 2026-03-16. metales del grupo platino.",
+      "url": "https://finance.yahoo.com/quote/PA=F",
+      "extra": {
+        "symbol": "PA=F",
+        "precio": 1618.5,
+        "moneda": "USD"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — LME/CME",
+      "titulo": "Platino — 2026-03-16",
+      "contenido": "Platino: USD 2114.1 al 2026-03-16. tierras raras y metales criticos.",
+      "url": "https://finance.yahoo.com/quote/PL=F",
+      "extra": {
+        "symbol": "PL=F",
+        "precio": 2114.1,
+        "moneda": "USD"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — LME/CME",
+      "titulo": "Zinc — 2026-03-16",
+      "contenido": "Zinc: USD 111.82813 al 2026-03-16. Mexico top 5 productor mundial.",
+      "url": "https://finance.yahoo.com/quote/ZN=F",
+      "extra": {
+        "symbol": "ZN=F",
+        "precio": 111.82813,
+        "moneda": "USD"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — LME/CME",
+      "titulo": "Plomo — 2026-03-16",
+      "contenido": "Plomo: USD 380.6 al 2026-03-16. Mexico productor relevante.",
+      "url": "https://finance.yahoo.com/quote/LBS=F",
+      "extra": {
+        "symbol": "LBS=F",
+        "precio": 380.6,
+        "moneda": "USD"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — Litio/Tierras raras",
+      "titulo": "Accion Albemarle (ALB) — 2026-03-16",
+      "contenido": "Albemarle (ALB): USD 164.08 al 2026-03-16. mayor productor litio mundial, opera en Chile y Australia. Indicador de mercado de litio y tierras raras relevante para Mexico y LATAM.",
+      "url": "https://finance.yahoo.com/quote/ALB",
+      "extra": {
+        "empresa": "Albemarle",
+        "ticker": "ALB",
+        "precio": 164.08
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — Litio/Tierras raras",
+      "titulo": "Accion SQM (SQM) — 2026-03-16",
+      "contenido": "SQM (SQM): USD 76.805 al 2026-03-16. productor litio Chile — Atacama. Indicador de mercado de litio y tierras raras relevante para Mexico y LATAM.",
+      "url": "https://finance.yahoo.com/quote/SQM",
+      "extra": {
+        "empresa": "SQM",
+        "ticker": "SQM",
+        "precio": 76.805
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "Yahoo Finance — Litio/Tierras raras",
+      "titulo": "Accion Lithium Americas (LAC) — 2026-03-16",
+      "contenido": "Lithium Americas (LAC): USD 4.4 al 2026-03-16. proyecto Thacker Pass y Caucharí-Olaroz Argentina. Indicador de mercado de litio y tierras raras relevante para Mexico y LATAM.",
+      "url": "https://finance.yahoo.com/quote/LAC",
+      "extra": {
+        "empresa": "Lithium Americas",
+        "ticker": "LAC",
+        "precio": 4.4
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "mineria_metales",
+      "fuente": "London Metal Exchange",
+      "titulo": "LME — precios metales industriales 2026-03-16",
+      "contenido": "El London Metal Exchange publica precios oficiales de cobre, aluminio, zinc, plomo, estanio y niquel. Estos precios son referencia global para contratos de exportacion minera LATAM. Consulta: https://www.lme.com/en/metals. Fecha: 2026-03-16.",
+      "url": "https://www.lme.com/en/metals",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "comercio_aranceles",
+      "fuente": "OMC — World Trade Organization",
+      "titulo": "Noticias OMC — 2026-03-16",
+      "contenido": "La OMC publica noticias sobre disputas comerciales, nuevas negociaciones y cambios arancelarios. Impacta directamente en T-MEC, exportaciones mexicanas y acceso a mercados LATAM. Feed: https://www.wto.org/english/news_e/news_e.rss. Fecha: 2026-03-16.",
+      "url": "https://www.wto.org/english/news_e/news_e.rss",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "comercio_aranceles",
+      "fuente": "UN Comtrade",
+      "titulo": "Exportaciones Mexico al mundo — 2023",
+      "contenido": "Mexico exporto USD 5343291962.0 al mundo en 2023. Principales socios: EE.UU., Canada, UE. Fuente: UN Comtrade base de datos oficial.",
+      "url": "https://comtrade.un.org",
+      "extra": {
+        "reporter": "Mexico",
+        "periodo": "2023",
+        "valor_usd": 5343291962.0
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "comercio_aranceles",
+      "fuente": "USTR — US Trade Representative",
+      "titulo": "Comunicados USTR aranceles — 2026-03-16",
+      "contenido": "La Oficina del Representante Comercial de EE.UU. publica cambios arancelarios, investigaciones seccion 301 y resultados de disputas comerciales. Critico para exportadores mexicanos bajo T-MEC. Feed: https://ustr.gov/rss.xml. Fecha: 2026-03-16.",
+      "url": "https://ustr.gov/rss.xml",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "comercio_aranceles",
+      "fuente": "Secretaria de Economia — Mexico",
+      "titulo": "T-MEC y comercio exterior Mexico — 2026-03-16",
+      "contenido": "La Secretaria de Economia publica datos de comercio exterior, reglas de origen T-MEC, cupos arancelarios y resoluciones antidumping. Sistema de Informacion Arancelaria: https://www.economia.gob.mx/datamexico. Fecha: 2026-03-16.",
+      "url": "https://www.gob.mx/se",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "Baltic Exchange",
+      "titulo": "Baltic Dry Index (BDI) — 2026-03-16",
+      "contenido": "Baltic Dry Index: indicador global de costo flete granel seco — maiz, trigo, mineral. Indicador clave del costo de transporte maritimo global. Impacta en competitividad exportaciones agricolas y minerales de LATAM. Referencia: https://www.balticexchange.com/en/data/download.html. Fecha: 2026-03-16.",
+      "url": "https://www.balticexchange.com",
+      "extra": {
+        "codigo": "BDI",
+        "descripcion": "indicador global de costo flete granel seco — maiz, trigo, mineral"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "Baltic Exchange",
+      "titulo": "Baltic Capesize Index (BCI) — 2026-03-16",
+      "contenido": "Baltic Capesize Index: buques grandes mineral hierro y carbon. Indicador clave del costo de transporte maritimo global. Impacta en competitividad exportaciones agricolas y minerales de LATAM. Referencia: https://www.balticexchange.com/en/data/download.html. Fecha: 2026-03-16.",
+      "url": "https://www.balticexchange.com",
+      "extra": {
+        "codigo": "BCI",
+        "descripcion": "buques grandes mineral hierro y carbon"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "Baltic Exchange",
+      "titulo": "Baltic Panamax Index (BPI) — 2026-03-16",
+      "contenido": "Baltic Panamax Index: buques Panamax — granos y carbon LATAM. Indicador clave del costo de transporte maritimo global. Impacta en competitividad exportaciones agricolas y minerales de LATAM. Referencia: https://www.balticexchange.com/en/data/download.html. Fecha: 2026-03-16.",
+      "url": "https://www.balticexchange.com",
+      "extra": {
+        "codigo": "BPI",
+        "descripcion": "buques Panamax — granos y carbon LATAM"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "Baltic Exchange",
+      "titulo": "Baltic Supramax Index (BSI) — 2026-03-16",
+      "contenido": "Baltic Supramax Index: buques medianos — exportaciones agricolas LATAM. Indicador clave del costo de transporte maritimo global. Impacta en competitividad exportaciones agricolas y minerales de LATAM. Referencia: https://www.balticexchange.com/en/data/download.html. Fecha: 2026-03-16.",
+      "url": "https://www.balticexchange.com",
+      "extra": {
+        "codigo": "BSI",
+        "descripcion": "buques medianos — exportaciones agricolas LATAM"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "IMO — Organizacion Maritima Internacional",
+      "titulo": "Regulaciones maritimas IMO — 2026-03-16",
+      "contenido": "La IMO publica regulaciones de seguridad maritima, normas ambientales (MARPOL) y nuevas restricciones de emisiones que afectan costos de flete. Relevante para puertos mexicanos y rutas comerciales LATAM. URL: https://www.imo.org. Fecha: 2026-03-16.",
+      "url": "https://www.imo.org",
+      "extra": {}
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "AIS Puertos LATAM",
+      "titulo": "Puerto Veracruz (MXVER) Mexico — 2026-03-16",
+      "contenido": "Puerto Veracruz en Mexico (LOCODE: MXVER): petroleo y carga general — 25M ton/año. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:MXVER. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXVER",
+      "extra": {
+        "locode": "MXVER",
+        "pais": "Mexico"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "AIS Puertos LATAM",
+      "titulo": "Puerto Lazaro Cardenas (MXLZC) Mexico — 2026-03-16",
+      "contenido": "Puerto Lazaro Cardenas en Mexico (LOCODE: MXLZC): automotriz y granel — hub Pacifico. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:MXLZC. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXLZC",
+      "extra": {
+        "locode": "MXLZC",
+        "pais": "Mexico"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "AIS Puertos LATAM",
+      "titulo": "Puerto Altamira (MXATM) Mexico — 2026-03-16",
+      "contenido": "Puerto Altamira en Mexico (LOCODE: MXATM): petroquimico e industrial. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:MXATM. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXATM",
+      "extra": {
+        "locode": "MXATM",
+        "pais": "Mexico"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "AIS Puertos LATAM",
+      "titulo": "Puerto Santos (BRSSZ) Brasil — 2026-03-16",
+      "contenido": "Puerto Santos en Brasil (LOCODE: BRSSZ): mayor puerto America Latina — 150M ton/año. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:BRSSZ. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:BRSSZ",
+      "extra": {
+        "locode": "BRSSZ",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "AIS Puertos LATAM",
+      "titulo": "Puerto Valparaiso (CLVAP) Chile — 2026-03-16",
+      "contenido": "Puerto Valparaiso en Chile (LOCODE: CLVAP): cobre y frutas — exportaciones Chile. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:CLVAP. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:CLVAP",
+      "extra": {
+        "locode": "CLVAP",
+        "pais": "Chile"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "AIS Puertos LATAM",
+      "titulo": "Puerto Buenaventura (COBUN) Colombia — 2026-03-16",
+      "contenido": "Puerto Buenaventura en Colombia (LOCODE: COBUN): Pacifico Colombia — carbon y cafe. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:COBUN. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:COBUN",
+      "extra": {
+        "locode": "COBUN",
+        "pais": "Colombia"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "AIS Puertos LATAM",
+      "titulo": "Puerto Callao (PECLL) Peru — 2026-03-16",
+      "contenido": "Puerto Callao en Peru (LOCODE: PECLL): mayor puerto peruano — mineral y pesquero. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:PECLL. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:PECLL",
+      "extra": {
+        "locode": "PECLL",
+        "pais": "Peru"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "AIS Puertos LATAM",
+      "titulo": "Puerto Buenos Aires (ARBUE) Argentina — 2026-03-16",
+      "contenido": "Puerto Buenos Aires en Argentina (LOCODE: ARBUE): hub Rio de la Plata — soya y granos. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:ARBUE. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:ARBUE",
+      "extra": {
+        "locode": "ARBUE",
+        "pais": "Argentina"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "transporte_maritimo",
+      "fuente": "AIS Puertos LATAM",
+      "titulo": "Puerto Balboa (PAMIT) Panama — 2026-03-16",
+      "contenido": "Puerto Balboa en Panama (LOCODE: PAMIT): Canal de Panama — 14000 buques/año. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:PAMIT. Fecha: 2026-03-16.",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:PAMIT",
+      "extra": {
+        "locode": "PAMIT",
+        "pais": "Panama"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Think Tank — EEUU",
+      "titulo": "Council on Foreign Relations — feed geopolitico 2026-03-16",
+      "contenido": "Council on Foreign Relations (EEUU): Analisis de politica exterior y geopolitica global. Feed RSS referencia: https://www.cfr.org/blog/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
+      "url": "https://www.cfr.org/blog/feed",
+      "extra": {
+        "region": "EEUU",
+        "tipo": "think_tank",
+        "estado": "referencia"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Think Tank — EEUU",
+      "titulo": "CSIS — feed geopolitico 2026-03-16",
+      "contenido": "CSIS (EEUU): Centro de Estudios Estrategicos e Internacionales. Feed RSS referencia: https://www.csis.org/blogs/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
+      "url": "https://www.csis.org/blogs/feed",
+      "extra": {
+        "region": "EEUU",
+        "tipo": "think_tank",
+        "estado": "referencia"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Think Tank — EEUU",
+      "titulo": "Brookings Institution — feed geopolitico 2026-03-16",
+      "contenido": "Brookings Institution (EEUU): Think tank politica publica y economia global. Feed RSS activo: https://www.brookings.edu/feed/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
+      "url": "https://www.brookings.edu/feed/",
+      "extra": {
+        "region": "EEUU",
+        "tipo": "think_tank",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Think Tank — EEUU",
+      "titulo": "Carnegie Endowment — feed geopolitico 2026-03-16",
+      "contenido": "Carnegie Endowment (EEUU): Geopolitica y relaciones internacionales. Feed RSS activo: https://carnegieendowment.org/rss/solr/feed/?fa=pub. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
+      "url": "https://carnegieendowment.org/rss/solr/feed/?fa=pub",
+      "extra": {
+        "region": "EEUU",
+        "tipo": "think_tank",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Think Tank — Europa",
+      "titulo": "Chatham House — feed geopolitico 2026-03-16",
+      "contenido": "Chatham House (Europa): Relaciones internacionales Reino Unido. Feed RSS activo: https://www.chathamhouse.org/research/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
+      "url": "https://www.chathamhouse.org/research/",
+      "extra": {
+        "region": "Europa",
+        "tipo": "think_tank",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Think Tank — Europa",
+      "titulo": "Bruegel — feed geopolitico 2026-03-16",
+      "contenido": "Bruegel (Europa): Economia europea y politica comercial. Feed RSS activo: https://www.bruegel.org/rss.xml. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
+      "url": "https://www.bruegel.org/rss.xml",
+      "extra": {
+        "region": "Europa",
+        "tipo": "think_tank",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Think Tank — Rusia",
+      "titulo": "RIAC — feed geopolitico 2026-03-16",
+      "contenido": "RIAC (Rusia): Consejo Ruso de Asuntos Internacionales. Feed RSS activo: https://russiancouncil.ru/en/rss/analytics/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
+      "url": "https://russiancouncil.ru/en/rss/analytics/",
+      "extra": {
+        "region": "Rusia",
+        "tipo": "think_tank",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Medio internacional — Global",
+      "titulo": "Reuters — Business — 2026-03-16",
+      "contenido": "Feed de noticias geopoliticas y economicas: Reuters — Business (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US",
+      "extra": {
+        "medio": "Reuters — Business",
+        "region": "Global",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Medio internacional — Global",
+      "titulo": "Reuters — World — 2026-03-16",
+      "contenido": "Feed de noticias geopoliticas y economicas: Reuters — World (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US",
+      "extra": {
+        "medio": "Reuters — World",
+        "region": "Global",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Medio internacional — Global",
+      "titulo": "Financial Times — 2026-03-16",
+      "contenido": "Feed de noticias geopoliticas y economicas: Financial Times (Global). Estado: activo. URL: https://www.ft.com/world?format=rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
+      "url": "https://www.ft.com/world?format=rss",
+      "extra": {
+        "medio": "Financial Times",
+        "region": "Global",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Medio internacional — Global",
+      "titulo": "Bloomberg Markets — 2026-03-16",
+      "contenido": "Feed de noticias geopoliticas y economicas: Bloomberg Markets (Global). Estado: activo. URL: https://feeds.bloomberg.com/markets/news.rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "extra": {
+        "medio": "Bloomberg Markets",
+        "region": "Global",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Medio internacional — EEUU",
+      "titulo": "WSJ Markets — 2026-03-16",
+      "contenido": "Feed de noticias geopoliticas y economicas: WSJ Markets (EEUU). Estado: activo. URL: https://feeds.a.dj.com/rss/RSSMarketsMain.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "extra": {
+        "medio": "WSJ Markets",
+        "region": "EEUU",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Medio internacional — Asia",
+      "titulo": "Nikkei Asia — 2026-03-16",
+      "contenido": "Feed de noticias geopoliticas y economicas: Nikkei Asia (Asia). Estado: activo. URL: https://asia.nikkei.com/rss/feed/nar. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
+      "url": "https://asia.nikkei.com/rss/feed/nar",
+      "extra": {
+        "medio": "Nikkei Asia",
+        "region": "Asia",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Medio internacional — Asia",
+      "titulo": "South China Morning Post — 2026-03-16",
+      "contenido": "Feed de noticias geopoliticas y economicas: South China Morning Post (Asia). Estado: activo. URL: https://www.scmp.com/rss/91/feed. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "extra": {
+        "medio": "South China Morning Post",
+        "region": "Asia",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Medio internacional — Rusia",
+      "titulo": "TASS — 2026-03-16",
+      "contenido": "Feed de noticias geopoliticas y economicas: TASS (Rusia). Estado: activo. URL: https://tass.com/rss/v2.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
+      "url": "https://tass.com/rss/v2.xml",
+      "extra": {
+        "medio": "TASS",
+        "region": "Rusia",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Medio internacional — Europa",
+      "titulo": "Politico Europe — 2026-03-16",
+      "contenido": "Feed de noticias geopoliticas y economicas: Politico Europe (Europa). Estado: activo. URL: https://www.politico.eu/feed/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
+      "url": "https://www.politico.eu/feed/",
+      "extra": {
+        "medio": "Politico Europe",
+        "region": "Europa",
+        "estado": "activo"
+      }
+    },
+    {
+      "fecha": "2026-03-16T14:38:00.117556+00:00",
+      "nicho": "geopolitica",
+      "fuente": "Medio internacional — EEUU",
+      "titulo": "Defense News — 2026-03-16",
+      "contenido": "Feed de noticias geopoliticas y economicas: Defense News (EEUU). Estado: activo. URL: https://www.defensenews.com/arc/outboundfeeds/rss/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
+      "extra": {
+        "medio": "Defense News",
+        "region": "EEUU",
+        "estado": "activo"
+      }
+    },
+    {
       "fecha": "2026-03-13",
       "nicho": "regulaciones_pyme",
       "fuente": "INEGI / Banxico",
@@ -8690,6 +10930,294 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYTg1YTVZTkdVdExzRVB2REhkXzF6blpieDBRM3B5T3ByNWlnMldFYlpGMGtKdGRTNk5lTHY5d1pnTy1wMkZiRmtneFNrWnNhNjVNR3Z1YmIwVGw4Y1RlZkRETnNvMnVuVzl5M1JHaFg1eEdoX3JmbFdfRHl6bG4zaTZSZkFuSmlTUEo2b2EzNkJXRmF6Vm1aVFVXN3o0ZjRnTU81d19FMFEtVlBGajlXNzJMWWo4Sjl1a0EwYl9DWkhDTWJZN1Z0bXdhRkNxTWd4Vml6OUlLT3FjeVN4N252anFQLVhtbUkwR2lSaWtjZzRUUFFiTS1r0gGLAkFVX3lxTE1QYzBoQ3dibU14SGdOMnVkWnlmTTdscnBGUW1WU3NRNmpYYjctZVcxLVlVVVhXNV9VZFBRT093NktFaGMwaV9ITzlENnJKdTVPY0plQ1hJb2JrYkJvenVtU29qSWpYQWRhSURZaVdPSzFWWUVDYy00Wm9iUGVteW9GQ3dHbzVhdWJkTzlTbGZ0czduby1JR2tDazdicVNHQ2djQlFOY3Bhem8zajViSHBFWmY4UW43QWFNdFdWeFRLclJuNFdtMXRrdnJSaWZ2MWRoZlctb1JMU3BXN2RzbkF0UTBSbW5fa0Z2ZHpuU01DdmlJNWlpUk4zMm1pN0YtYWRxNkhwR0VNSndmcw?oc=5",
       "fecha": "Wed, 26 Nov 2025 08:00:00 GMT",
       "fecha_minado": "2026-03-14",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "plan+Mexico+infraestructura+economia"
+      }
+    },
+    {
+      "fecha": "2026-03-15",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "USD/MXN Tipo de cambio FIX",
+      "valor": 17.931,
+      "unidad": "MXN por USD",
+      "url": "https://finance.yahoo.com/quote/MXN=X/",
+      "extra": {
+        "precio": 17.931,
+        "cambio_pct": 0.54,
+        "formula": "cierre_hoy / cierre_ayer - 1 * 100",
+        "interpretacion": "peso fuerte"
+      }
+    },
+    {
+      "fecha": "2026-03-15",
+      "nicho": "regulaciones_pyme",
+      "fuente": "INEGI / Banxico",
+      "titulo": "Inflacion INPC anual Mexico",
+      "valor": 4.03,
+      "unidad": "% anual",
+      "url": "https://www.inegi.org.mx/temas/inpc/",
+      "extra": {
+        "INPC_actual": 144.307,
+        "INPC_hace_12m": 138.722,
+        "mes_referencia": "febrero 2026",
+        "formula": "(INPC_t - INPC_t-12) / INPC_t-12 * 100",
+        "meta_banxico": 3.0,
+        "desviacion": 1.03,
+        "interpretacion": "por encima de meta"
+      }
+    },
+    {
+      "fecha": "2026-03-15",
+      "nicho": "finanzas_globales",
+      "fuente": "Banxico",
+      "titulo": "Reservas internacionales Banxico",
+      "valor": 222.4,
+      "unidad": "miles de millones USD",
+      "url": "https://www.banxico.org.mx/estadisticas/otras-estadisticas/reservas-internacionales.html",
+      "extra": {
+        "umbral_minimo": 150.0,
+        "formula": "activos_externos_brutos - pasivos_reserva",
+        "interpretacion": "saludable"
+      }
+    },
+    {
+      "fecha": "2026-03-15",
+      "nicho": "finanzas_globales",
+      "fuente": "Banxico",
+      "titulo": "Tasa objetivo Banxico",
+      "valor": 8.5,
+      "unidad": "% anual",
+      "url": "https://www.banxico.org.mx/politica-monetaria/politica-monetaria.html",
+      "extra": {
+        "TIIE_28d": 8.65,
+        "CETES_28d": 8.4,
+        "fed_funds": 4.5,
+        "spread_MX_US": 4.0,
+        "formula": "tasa_MX - fed_funds_USA = carry_trade_spread",
+        "interpretacion": "carry trade positivo"
+      }
+    },
+    {
+      "fecha": "2026-03-15",
+      "nicho": "finanzas_globales",
+      "fuente": "Yahoo Finance / calculo propio",
+      "titulo": "Riesgo pais EMBI Mexico aproximado",
+      "valor": 359.0,
+      "unidad": "puntos base",
+      "url": "https://finance.yahoo.com/quote/EWW/",
+      "extra": {
+        "EWW_precio": 71.53,
+        "EWW_cambio": -0.89,
+        "T10_USA": 4.28,
+        "formula": "(tasa_MX - T10_USA) * 100 * 0.85",
+        "interpretacion": "alto",
+        "nota": "EMBI JP Morgan no tiene API publica — este valor es aproximacion"
+      }
+    },
+    {
+      "fecha": "2026-03-15",
+      "nicho": "finanzas_globales",
+      "fuente": "SHCP / Transparencia Presupuestaria",
+      "titulo": "Deficit fiscal Mexico porcentaje PIB",
+      "valor": -0.23,
+      "unidad": "% del PIB",
+      "url": "https://www.transparenciapresupuestaria.gob.mx/Datos-Abiertos",
+      "extra": {
+        "ingresos_mmdmxn": 628.4,
+        "gasto_mmdmxn": 701.2,
+        "deficit_mmdmxn": 72.8,
+        "PIB_estimado": 31200,
+        "formula": "(Gasto - Ingresos) / PIB * 100",
+        "periodo": "enero 2026",
+        "interpretacion": "moderado"
+      }
+    },
+    {
+      "fecha": "2026-03-15",
+      "nicho": "finanzas_globales",
+      "fuente": "calculo propio NichoAnalyzer",
+      "titulo": "Indice confianza macro Mexico",
+      "valor": 71.8,
+      "unidad": "puntos (0-100)",
+      "url": "https://ruskigarage-alt.github.io/nicho-analyzer/dashboard.html",
+      "extra": {
+        "componentes": {
+          "reservas_score": 89.0,
+          "mxn_score": 70.7,
+          "embi_score": 28.2,
+          "inflacion_score": 79.4,
+          "deficit_score": 95.4
+        },
+        "formula": "suma_ponderada(reservas*0.25 + MXN*0.25 + EMBI*0.20 + infl*0.15 + deficit*0.15)",
+        "nivel": "estable",
+        "interpretacion": "estable"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "Dólar en México hoy, martes 10 de marzo de 2026: cotización y efectos en la economía - Dallas News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblZrQXFZbjRYcmxHb2h5Y2FSUjk0S2hWaUJGTXQyQVZoT0tfT24yT3BxLTJ4NHl5TjJ6N0QyM29MY1AxRUViUHlKWm94SEp4aVhKVnh2OEdMUnkwNmJrYnVvQUFNT1NjM3FTcUxXRFE5Z09ZTmRHV3JUYmNkNkdHTUhTVjhfVlREMFZNWmtITlpWWV92OEx2RQ?oc=5",
+      "fecha": "Tue, 10 Mar 2026 11:31:24 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "tipo+de+cambio+peso+mexicano+economia"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "Precio del dólar hoy, 15 de marzo de 2026: ¿Dólar hunde al peso? Así cotiza el tipo de cambio en México - Potosinoticias.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZVRFcHVMLW04OG41N25hU1RjQ2VhWFBveG1odEJWTDNxeWRwVkx6WGhJNmRWTUhKZEtwR29IREszbDg5Wm5TZkNET21KWVp5UUprN2RjSmZtSGU2SFZaTTlySEUxdEUxdFNaZDlMSWNkWk55U0VZNjRMQ0sxVklzSEh5eUNLZXdMM2RiN0MyTWVqTHRpVWdfaGpBeVdqUkVXcUJyZ2psNm1vVDFCQnBwZnJYVlNOV0gtVmhyV0d4bm15bVowOG9SZTgxM1pDY2lMTXRxTA?oc=5",
+      "fecha": "Sun, 15 Mar 2026 13:30:00 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "tipo+de+cambio+peso+mexicano+economia"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "Tipo de cambio hoy: El peso mexicano retrocede frente al dólar este 12 de marzo - ABCNoticias.mx",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUFDb2tMVW1LY0l3eEU5b0ladDR6d2xZazB4Ti1oRXk3cFY2VHF4UFppLVotYU0xOUNOdjQweTlqNlVDVXRud2lUZ0QxZGxDamZsb201Zk1RODlGbV9ZMDRSTHVSYUhUNGFfaFZ6OTlfMHdOTlQtUU9tRUs1XzNwT0ZNaDBESk02QUhXYW9ZSFdObnpmam0zRk02UHJob2tnUTJVM2lXN3FUdU5YOVBnNGNtMDhVMGhYeGdrNU5JWUttenU4d0c3bksyMjbSAcwBQVVfeXFMT01BQ29rTFVtS2NJd3hFOW9JWnQ0endsWWsweE4taEV5N3BWNlRxeFBaaS1aLWFNMTlDTnY0MHk5ajZVQ1V0bndpVGdEMWRsQ2pmbG9tNWZNUTg5Rm1fWTA0Ukx1UmFIVDRhX2hWejk5XzB3Tk5ULVFPbUVLNV8zcE9GTWgwREpNNkFIV2FvWUhXTm56ZmptM0ZNNlByaG9rZ1EyVTNpVzdxVHVOWDlQZzRjbTA4VTBoWHhnazVOSVlLbXp1OHdHN25LMjI2?oc=5",
+      "fecha": "Thu, 12 Mar 2026 14:13:00 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "tipo+de+cambio+peso+mexicano+economia"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "Banco de México sube expectativa crecimiento economía 2026, eleva pronóstico inflación - GBM",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczQxXzVqclVXdENFSTltYkttcHQ2NC1kdXo1OUE3ZTRhb0plOGFadjNaX29lUXJFdHlqLTV6eFMtRGRQZ0ZUZmgwM0EtV2JPSVh0ZjRDNUhidmNyazZrRjQ5Unc1cTdGdWU2R0MyYU5lSDhUeHZ1czk0cWxGUkZtb1lQcm5XV2NmekNObWxYM3M3UlVTQXJOZXFiV0Q1bmYtbzNoQ0JVM1I3MjJ5dHI2UGZEM3N1Unc?oc=5",
+      "fecha": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "inflacion+Mexico+Banxico+economia"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "SAT lanza programa de regularización fiscal 2026: así puedes pagar adeudos sin recargos ni multas - Milenio",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkwtZ1RleVJJQV8xYTNXVGlXaTFRZ2dYNndTN0hIN0lwazdLV1lFOXE3aDlaQmFLSzlrMEFPcGtIZFcwVXJYY29yYTNIbTlTZmhEeWRsWGVDeEFHalBqVjJRUTYtMmZpeThqc2xVZy05Q1RKdXZNZXZJY09KWmh3ejlFU0E5ZG1MOXNhaHVOUmc4bVc2ek5nR9IBmAFBVV95cUxQcFlSZ21HTGpjanRRcXUxUVNOSTRlMjVFQWw0SXFyMDYtbUVja013a1hHX3VVa3Z2OGJjVzNDWkNHaEhCQ2lSczlqN0xIOWtNRy1fcGFPci1FWVhUQVc1bWsxMWFiQlhmcWlWeFBVeS1qUmRMdTlPQURHM1E1WFhrYmR3MC1ubVhYbGdDTi1ZZEZSVUJUakp2YQ?oc=5",
+      "fecha": "Wed, 11 Mar 2026 23:05:18 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "SAT+recaudacion+fiscal+Mexico+2026"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "Una reforma fiscal alarma a las grandes empresas de internet por la entrega de información al Gobierno de México - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUEQ0cFNsMEgwWUNJRklVYmNhblRQNTRodVF3WVc2eGx5XzF6M0JENFk2WnJDNVgtMUlWRzBnZXZBbExpbUVraFE3MmxEb0hTVWxPWlBTRHEwT0pGQjB5eml3SFIzQVMxMFd1U0hHTUlKU3VCTl9SZEU1WXRiRGlHVmNsNzJhRVNkYldHRkl3ZVBZNEhLdFNydmVYcXJiTHJ0WTdzZnpDU25SZU5ZNGFOM1FnWVBYQ1NtcU9sWDFiaURPUGFBWENOc2YyU19JTzFDMW1ocG4yLUhGc3pHYTlPTlVyN3pUcngxSEw4bUZBdkVJUGI4bmfSAYoCQVVfeXFMUC1QWDNFS1JfLThQbG94LW85a0JLYjhaUzNfVUZHczBYaUVZM2VHcDVLTHVWZVpyN0NNUlBjc2ZZYy1FczV2YjdnbGlsb0c4S2V1Mkk5dGdpRWdrUU1zNXZfajNiZDJWdEtEemR6bDU4NUo3ZGZhRHdvTUVGSXZYT0NYTmljWjh4QWZBM185U1VGSGxJVWV5LU1fOU9wblJkWGdhdWxyYkpRQ0M4YktScWpkUnozMHZ6NGt4QURsalN1dXhUQmI0T3hVOE5HUmNJOUgzX0VkakRHYTktX3dKMGctM3RISHphbUFsdUQ1aU0xemtVc3NHNUtTMjJ4V3k3Vkh2bWlQaXBlRXc?oc=5",
+      "fecha": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "SAT+recaudacion+fiscal+Mexico+2026"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "Revisión del T-MEC debe garantizar un arancel cero: CCE - La Jornada",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHQ2MHF5ZFVNdF9zZ0FLSHBBSFBoSUpXOWxXc1ZFcnhQNDNaMmpZblB3ZkdSUkJYSTBuNThERnNBek85dXYzUmhhOGh6X2ZaMTJMLS1pb0xIMWtGRkZoNlVMMXNMaGJmbEtUNDZxWkNLSFBMZDBPam9DZXBTRk1DTHI0V3FBY3g2T1JDQ1VDTmFQN0hLVmgyazBsbWZQVWFxZXdlYmV0NDV2US1W?oc=5",
+      "fecha": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "T-MEC+aranceles+Mexico+exportaciones"
+      }
+    },
+    {
+      "nicho": "geopolitica",
+      "fuente": "google_news_macro",
+      "titulo": "Guerra en Irán: \"México no está en el mapa petrolero global\" - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQckVYRTF6WFhUM3NPMjFTbjVPUU1md044SHh5YnEzV01FUmtmV1dPTnNEakgtMGVfOVBVa0IzdDhtdWVuanI0ZEFDOTU0a01zR3lxMThCQVM4NlBfcHhOdnRudWt6SmcwQ2REREV3QkE0RE9mdDAtUlNBMGVGSndhblZxQU9CWFc1ZlZJbGFqTGtWNG10ZWZlMzFQX3pVbWlHWURaRHR0QlTSAagBQVVfeXFMTlozeFc0d2tiUFd1YjZ5VFdKcllnM0I2U2tVWlZHWHp6cWtyY3ExOVJ0VHU4NzlQVUsyckRDWjYzcWpYSDl4d28wOG1DZjljSXRtVDhOZjhXLWNhM08xcnZrRU5KTzFta2F5aEpGNGs1SEViTTQ0TVRzWVQ4aV8tZklkeG9DU0VwM1hibzdxYzNjeWVBNnhLWFBhcmt5WmRJY3QyTWJoUjBT?oc=5",
+      "fecha": "Wed, 11 Mar 2026 07:59:32 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "guerra+Iran+petroleo+impacto+Mexico"
+      }
+    },
+    {
+      "nicho": "geopolitica",
+      "fuente": "google_news_macro",
+      "titulo": "Inversión extranjera en México y sus efectos con el Nearshoring - BBVA México",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemJ4VHZ2TzRxajNJeUdYZUtNYVNoZkJqbjFjTXh0LUZsdldKemxtZUdhak5tSW1OcXJjczJMUGRNbTlXaVJYNGh6dDZyOVp1N09pMlI5cllUZkFLM0ZtZkpYQVJzNElOLUhoLVlZQmhoZVpiSEFDX2NTME04UlVjS1laTVM1alpwU1RXSlRzbHExaEZYNDAxbQ?oc=5",
+      "fecha": "Sun, 02 Nov 2025 08:56:02 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "nearshoring+Mexico+inversion+extranjera"
+      }
+    },
+    {
+      "nicho": "geopolitica",
+      "fuente": "google_news_macro",
+      "titulo": "Nearshoring enfrenta nuevos retos tras salida de México del ranking de PwC - realestatemarket.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3FvNlM4TFFJQU9fb3JvSHp0MG5ndUlkWDA0Q2R3RDlCRDE3WjAyN21mbXoybHlmTi1ZT0ZTcTd5YU9BWFZKZTJmUFNKRjBzSEU0bm94ZmZ1RXBoenFmOTBQNzI2elVRQTJueXNKbklhMVZsb05fYXdYcndDVFhXVkQ0QTRpYm91TWF5ZENYekE1eUNhay1zX1NUNndudDlpNWl1d1lPOWJCeDI5cTJabzVpNzg4RGtUX19aSHF3?oc=5",
+      "fecha": "Fri, 23 Jan 2026 08:00:00 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "nearshoring+Mexico+inversion+extranjera"
+      }
+    },
+    {
+      "nicho": "geopolitica",
+      "fuente": "google_news_macro",
+      "titulo": "OCDE reconoce estabilidad económica, destaca al Plan México y sugiere acelerar inversión, digitalización e infraestructura - Revista Fortuna",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOTNMQUxaZnBkMEhxWDRDY04yYjhDdkVjeFdjVGNGa3BqeGFJLXRyVFhZX21LaUhOVDRKdHdaY1JPQ0d6V3F5VmNTUHc0RXh0ZjFGY21FU05idFNWVkZaVlI0cEtLZDZDMlg1b3pMZHlmMUtNVXJXcElmeE5oTVk2bVZvSk1xNW5Ld0RCS0wzRkU3VWJaYnpKVW1LRjl3dEdydHdpSGFxLUFFenZBZ3dQWW53YzdURGJpY091VjJnUVVYeEh3dlpDSHVaTmthVEdzTGh3bkZrSlZGMW4yOXRFVmRUZ1dPOG11WDNUZTd6NG5fcVMt?oc=5",
+      "fecha": "Fri, 27 Feb 2026 01:02:25 GMT",
+      "fecha_minado": "2026-03-15",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "plan+Mexico+infraestructura+economia"
+      }
+    },
+    {
+      "nicho": "geopolitica",
+      "fuente": "google_news_macro",
+      "titulo": "Anuncia SHCP plan de inversión en infraestructura de $1.6 billones para 2026 - La Jornada",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWt5azRrdXZwSThuWDhRdGFMdVhTX1VEV3NVNnVkVi1JV3dpYnpRaFIwMGZ5SVlkd1R0U2x2MVYwcGgtR083ME15bVo1Q1cyMHBrbnhFVnhucmZ1LWJ3eUFPbnBZbkFDeGxSczhaZ25PNy13cElwSnlUaEE5UHRlV0IyRW1JRTZpS3E5NHd2OUpkUXZrRmVVMUVUTWFpckpRSHJSQzNWaWlPT0VHN2pTOTY5eGFCRHc?oc=5",
+      "fecha": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "fecha_minado": "2026-03-15",
       "tipo": "noticia",
       "valor": null,
       "unidad": null,

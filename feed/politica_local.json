@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json",
   "language": "es-MX",
-  "date_modified": "2026-03-15T15:53:45.167125+00:00",
-  "total_records": 58,
+  "date_modified": "2026-03-16T14:40:21.672120+00:00",
+  "total_records": 77,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#0",
@@ -641,6 +641,215 @@
       "content_text": "",
       "date_published": "2026-03-15",
       "url": "https://ljz.mx/12/03/2026/habra-costo-politico-para-verde-y-pt-por-no-apoyar-la-reforma-electoral-morena/",
+      "tags": [
+        "politica_local",
+        "jornada_zacatecas"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#58",
+      "title": "Gobierno de EU ha llevado migrantes a fuerza a otros países: informe de ONG",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/008n1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#59",
+      "title": "El INE, ramo autónomo con la segunda mayor carga al PEF: estudio",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/007n1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#60",
+      "title": "Urge MC a dictaminar minuta sobre el Sistema Nacional de Cuidados",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/007n3pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#61",
+      "title": "Empieza mañana el registro de aspirantes a bachillerato",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/009n3pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#62",
+      "title": "José Murat: Economía crece pese a entorno mundial volátil",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/012a1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#63",
+      "title": "México tiene el menor gasto público de salud por persona en AL: experto",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/013n2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#64",
+      "title": "Llama el TEPJF a privilegiar diálogo ante controversias",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/006n2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#65",
+      "title": "Cientos responden a convocatoria de La Jornada a recaudar fondos para la isla",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/politica/003n4pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#66",
+      "title": "Camión choca contra una casa en Guelatao; 4 fallecidos",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/estados/026n3est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#67",
+      "title": "Pese a clausuras y violar normas, autoriza Semarnat proyecto inmobiliario en BC",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/estados/027n1est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#68",
+      "title": "Juez ordena suspender permisos a familia para talar bosques en Ozolco, Puebla",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/estados/026n2est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#69",
+      "title": "Se descarrila en Culiacán tren con grano transgénico",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/estados/025n3est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#70",
+      "title": "“Es un avance”, pero urge un modelo para el resto de los estados: líder agrícola",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/estados/025n2est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#71",
+      "title": "Protección Civil apremia a dar mantenimiento a más de 9 mil unidades habitacionales",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/capital/029n2cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#72",
+      "title": "Miguel Ángel Velázquez: Ciudad perdida",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/opinion/030o1cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#73",
+      "title": "Rojo de la Vega, sin pruebas de que negara permiso de demolición de edificio en San Antonio, asegura legislador morenista",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/capital/029n3cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#74",
+      "title": "Supervisan establecimientos de hospedaje temporal con la finalidad de prevenir delitos",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/capital/030n2cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#75",
+      "title": "Pese a recorte, el presupuesto anual del Congreso se ha elevado más de 100 mdp",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.jornada.com.mx/2026/03/16/capital/028n1cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#76",
+      "title": "Narro Céspedes rechaza señalamientos y denuncia “guerra sucia” tras comunicado del PT",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://ljz.mx/14/03/2026/narro-cespedes-rechaza-senalamientos-y-denuncia-guerra-sucia-tras-comunicado-del-pt/",
       "tags": [
         "politica_local",
         "jornada_zacatecas"
