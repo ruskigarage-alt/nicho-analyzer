@@ -45,6 +45,23 @@
       "position": 3,
       "item": {
         "@type": "NewsArticle",
+        "headline": "Goldman Sachs Warns Oil’s Biggest Shock Will Hurt Fuels Most",
+        "description": "The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most",
+        "datePublished": "Tue, 17 Mar 2026 03:32:32 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5387
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "NewsArticle",
         "headline": "Iran War Upheaval Jolts Shipping Fuel Suppliers in Singapore",
         "description": "A widening conflict in the Middle East has led to dramatic swings and surges in the price of fuel for ships, prompting distributors in Singapore, the world’s top bunkering hub, to cut back their purchases.",
         "url": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-upheaval-jolts-bunker-fuel-suppliers-in-singapore",
@@ -55,23 +72,6 @@
         },
         "keywords": "geopolitica",
         "relevanceScore": 0.4657
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Goldman Says Oil’s Biggest Shock to Hurt Refined Products Most",
-        "description": "The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most",
-        "datePublished": "Tue, 17 Mar 2026 03:32:32 GMT",
-        "publisher": {
-          "@type": "Organization",
-          "name": "bloomberg_markets"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5228
       }
     },
     {

@@ -5,7 +5,7 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/comercio_aranceles.json",
   "language": "es-MX",
-  "date_modified": "2026-03-17T05:21:04.574854+00:00",
+  "date_modified": "2026-03-17T05:26:25.926863+00:00",
   "total_records": 20,
   "items": [
     {
@@ -188,7 +188,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/comercio_aranceles.json#16",
       "title": "Noticias OMC — 2026-03-17",
       "content_text": "La OMC publica noticias sobre disputas comerciales, nuevas negociaciones y cambios arancelarios. Impacta directamente en T-MEC, exportaciones mexicanas y acceso a mercados LATAM. Feed: https://www.wto.org/english/news_e/news_e.rss. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:18:28.465711+00:00",
+      "date_published": "2026-03-17T05:24:57.953596+00:00",
       "url": "https://www.wto.org/english/news_e/news_e.rss",
       "tags": [
         "comercio_aranceles",
@@ -199,7 +199,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/comercio_aranceles.json#17",
       "title": "Exportaciones Mexico al mundo — 2023",
       "content_text": "Mexico exporto USD 5343291962.0 al mundo en 2023. Principales socios: EE.UU., Canada, UE. Fuente: UN Comtrade base de datos oficial.",
-      "date_published": "2026-03-17T05:18:28.465711+00:00",
+      "date_published": "2026-03-17T05:24:57.953596+00:00",
       "url": "https://comtrade.un.org",
       "tags": [
         "comercio_aranceles",
@@ -210,7 +210,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/comercio_aranceles.json#18",
       "title": "Comunicados USTR aranceles — 2026-03-17",
       "content_text": "La Oficina del Representante Comercial de EE.UU. publica cambios arancelarios, investigaciones seccion 301 y resultados de disputas comerciales. Critico para exportadores mexicanos bajo T-MEC. Feed: https://ustr.gov/rss.xml. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:18:28.465711+00:00",
+      "date_published": "2026-03-17T05:24:57.953596+00:00",
       "url": "https://ustr.gov/rss.xml",
       "tags": [
         "comercio_aranceles",
@@ -221,7 +221,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/comercio_aranceles.json#19",
       "title": "T-MEC y comercio exterior Mexico — 2026-03-17",
       "content_text": "La Secretaria de Economia publica datos de comercio exterior, reglas de origen T-MEC, cupos arancelarios y resoluciones antidumping. Sistema de Informacion Arancelaria: https://www.economia.gob.mx/datamexico. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:18:28.465711+00:00",
+      "date_published": "2026-03-17T05:24:57.953596+00:00",
       "url": "https://www.gob.mx/se",
       "tags": [
         "comercio_aranceles",

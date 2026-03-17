@@ -435,6 +435,18 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "UIF y CNBV firman acuerdo de colaboración para mejorar mecanismos antilavado",
+        "resumen": "Las dependencias buscan dar celeridad al intercambio de información coordinada para evitar que este delito dañe al sistema financiero mexicano.",
+        "link": "https://expansion.mx/economia/2026/03/16/uif-y-cnbv-firman-acuerdo-de-colaboracion-para-mejorar-mecanismos-antilavado",
+        "fecha_publicacion": "Mon, 16 Mar 2026 20:20:47 GMT"
+      },
+      {
+        "titulo": "Joseph Stiglitz advierte riesgo de estanflación en Estados Unidos",
+        "resumen": "El premio Nobel de Economía en 2001 dijo que el presidente Donald Trump ha destruido la confianza en Estados Unidos y en el dólar ante el estallido de la guerra en Medio Oriente.",
+        "link": "https://expansion.mx/economia/2026/03/16/joseph-stiglitz-advierte-riesgo-de-estanflacion-en-estados-unidos",
+        "fecha_publicacion": "Mon, 16 Mar 2026 17:12:54 GMT"
+      },
+      {
         "titulo": "Si quieres casa cerca del trabajo, pagarás hasta 2.5 veces más",
         "resumen": "Las zonas donde se concentran el empleo y los salarios más altos encarecen el acceso a la vivienda, de acuerdo a un informe del Infonavit.",
         "link": "https://expansion.mx/economia/2026/03/16/vivienda-casa-cerca-del-trabajo-pago-2-mas-caro",
@@ -541,18 +553,6 @@
         "resumen": "Carlos López-Moctezuma dice que el banco tomó el control de la cartera en febrero, contrató cobranza especializada y prevé un alza temporal en la morosidad mientras los clientes migran al nuevo sistema de pago.",
         "link": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos",
         "fecha_publicacion": "Wed, 11 Mar 2026 18:01:01 GMT"
-      },
-      {
-        "titulo": "La AIE libera 400 millones de barriles de crudo de reservas, el mayor desbloqueo de su historia",
-        "resumen": "La Agencia Internacional de Energía busca compensar la pérdida de suministro por el cierre efectivo del Estrecho de Ormuz y mitigar los efectos inmediatos de la perturbación de los mercados.",
-        "link": "https://expansion.mx/economia/2026/03/11/la-aie-libera-400-millones-de-barriles-de-crudo-de-reservas-el-mayor-desbloqueo-de-su-historia",
-        "fecha_publicacion": "Wed, 11 Mar 2026 15:34:04 GMT"
-      },
-      {
-        "titulo": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
-        "resumen": "El fisco publicó 80 tasas efectivas pagadas en 2022 y 2023; los contribuyentes que pagaron menos ISR que el promedio de su actividad, ya tienen un mensaje en su Buzón Tributario para ponerse al tanto.",
-        "link": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes",
-        "fecha_publicacion": "Wed, 11 Mar 2026 15:31:29 GMT"
       }
     ],
     "total_entradas": 20
@@ -592,6 +592,12 @@
     "fecha_minado": "2026-03-16",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Goldman Sachs Warns Oil’s Biggest Shock Will Hurt Fuels Most",
+        "resumen": "The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc.",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most",
+        "fecha_publicacion": "Tue, 17 Mar 2026 03:32:32 GMT"
+      },
       {
         "titulo": "China Clamps Down on Key Route to Hong Kong IPOs After Deal Boom",
         "resumen": "Beijing is restricting Chinese companies incorporated overseas from seeking initial public offerings in Hong Kong, according to people familiar with the matter, threatening to upend a decades-old playbook that has fueled billions of dollars in share sales.",
@@ -675,12 +681,6 @@
         "resumen": "A widening conflict in the Middle East has led to dramatic swings and surges in the price of fuel for ships, prompting distributors in Singapore, the world’s top bunkering hub, to cut back their purchases.",
         "link": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-upheaval-jolts-bunker-fuel-suppliers-in-singapore",
         "fecha_publicacion": "Mon, 16 Mar 2026 12:37:08 GMT"
-      },
-      {
-        "titulo": "Goldman Says Oil’s Biggest Shock to Hurt Refined Products Most",
-        "resumen": "The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc.",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most",
-        "fecha_publicacion": "Tue, 17 Mar 2026 03:32:32 GMT"
       },
       {
         "titulo": "Iran War Shakes Trump-Xi Summit, Nvidia Makes $1T Forecast | The Asia Trade 3/17/2026",

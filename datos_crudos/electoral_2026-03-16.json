@@ -1,92 +1,12 @@
 {
   "fecha": "2026-03-16",
-  "total": 8,
+  "total": 1,
   "entradas": [
     {
-      "titulo": "Jornada de dignificación transforma primaria en la capital",
-      "resumen": "En representación del Gobernador David Monreal Ávila, el Secretario General de Gobierno, Rodrigo Reyes Mugüerza, encabezó la jornada del Programa Dignificación de Escuelas para el Bienestar en la escuela primaria “Profesor Francisco Berumen Varela”, en la capital del estado. Este programa forma parte de la Agenda del Progreso 2026, orientadas al fortalecimiento de la infraestructura [&#8230;]",
-      "link": "https://eltrochilero.com/jornada-de-dignificacion-transforma-primaria-en-la-capital/",
-      "fecha": "Sat, 14 Mar 2026 17:52:38 +0000",
-      "fuente": "eltrochilero",
-      "tipo_fuente": "local",
-      "nicho": "electoral_zacatecas",
-      "es_electoral": true,
-      "es_contextual": false,
-      "aspirantes_mencionados": [
-        "saul_monreal"
-      ],
-      "tema": "general",
-      "fecha_minado": "2026-03-16"
-    },
-    {
-      "titulo": "Ulises Mejía Haro impulsa ley para fortalecer la investigación en Zacatecas - Las Noticias Ya",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmM5em11MU14LXk1MUFKT3ZSRTZTWFpLbjFxbXR1ZTRuc2xURmVVZThFbWU2b2lYb1hCQ0NXOURBSVdaWFMtcko1UURTYnVUTHE4U2VmVktNaDFGVDlBd1pidll1V0prczZXOFRTNkE4NF8tSzVPVm1MM2JaekNLMHJzRXVhS3dNdVRjeUd0U0poV0NlTWtUTHlmYjBxRVdmUVE4cg?oc=5\" target=\"_blank\">Ulises Mejía Haro impulsa ley para fortalecer la investigación en Zacatecas</a>&nbsp;&nbsp;<font color=\"#",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmM5em11MU14LXk1MUFKT3ZSRTZTWFpLbjFxbXR1ZTRuc2xURmVVZThFbWU2b2lYb1hCQ0NXOURBSVdaWFMtcko1UURTYnVUTHE4U2VmVktNaDFGVDlBd1pidll1V0prczZXOFRTNkE4NF8tSzVPVm1MM2JaekNLMHJzRXVhS3dNdVRjeUd0U0poV0NlTWtUTHlmYjBxRVdmUVE4cg?oc=5",
-      "fecha": "Tue, 17 Mar 2026 04:06:55 GMT",
-      "fuente": "google_news",
-      "tipo_fuente": "agregador",
-      "nicho": "electoral_zacatecas",
-      "es_electoral": true,
-      "es_contextual": false,
-      "aspirantes_mencionados": [
-        "mejia_haro"
-      ],
-      "tema": "general",
-      "fecha_minado": "2026-03-16"
-    },
-    {
-      "titulo": "Zacatecas asume su identidad como un Estado binacional: Ulises Mejía Haro - Las Noticias Ya",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlV2aWk0RWlxV181V0VDUDU1Y0VEMHU1NVQ1REZNeC11V1ZrbkZ1WVJXOER4cmM1bkwxdmNHNE5LT3A1YmxqTW5uQTFoZ2wwWTk3a3hqcnNuSDlhZHdaa21kRmxNaGFscWczdDMyVTBIa1VWekRTMVo1Vk56WTBKWEh5VjNxSUJLRVpBMVVSdnMyTDY0M1YwcEl5bk5ES2dk?oc=5\" target=\"_blank\">Zacatecas asume su identidad como un Estado binacional: Ulises Mejía Haro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlV2aWk0RWlxV181V0VDUDU1Y0VEMHU1NVQ1REZNeC11V1ZrbkZ1WVJXOER4cmM1bkwxdmNHNE5LT3A1YmxqTW5uQTFoZ2wwWTk3a3hqcnNuSDlhZHdaa21kRmxNaGFscWczdDMyVTBIa1VWekRTMVo1Vk56WTBKWEh5VjNxSUJLRVpBMVVSdnMyTDY0M1YwcEl5bk5ES2dk?oc=5",
-      "fecha": "Tue, 17 Mar 2026 03:47:25 GMT",
-      "fuente": "google_news",
-      "tipo_fuente": "agregador",
-      "nicho": "electoral_zacatecas",
-      "es_electoral": true,
-      "es_contextual": false,
-      "aspirantes_mencionados": [
-        "mejia_haro"
-      ],
-      "tema": "general",
-      "fecha_minado": "2026-03-16"
-    },
-    {
-      "titulo": "Monreal advierte que irá al Tribunal si Morena lo excluye de la gubernatura de Zacatecas - Milenio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3hlbVdCR0dBQ3J5VnViSWdMTllKVGxUbXZVV1k0N0Z6NDV3Q29qRGtCT0FHLTFBU01GVTRxanh0U3lWd3p4Ui1HZTJGeXZzSlVyYnBydkM4SlZZYjRpazh0NlA5QlpCQzhTTDVnXy0zRkw0RXZyVE1YQkw3Z3JLX29KbXdmaGpDZFhzNVl6eVhwZ9IBkgFBVV95cUxQY29vSEtlVUtnVzdZYW9YZW1sSF9nMm5pMlp3NFlfNE5hcTEtSHpuRDlZeF9MRUItWGdmQU5CZWhQaTVMeWdWci04MmVIWlQ2SHNoSExUODlqaEFOTVVCMjFFVGI2eDVnY2VrX19rQ0",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3hlbVdCR0dBQ3J5VnViSWdMTllKVGxUbXZVV1k0N0Z6NDV3Q29qRGtCT0FHLTFBU01GVTRxanh0U3lWd3p4Ui1HZTJGeXZzSlVyYnBydkM4SlZZYjRpazh0NlA5QlpCQzhTTDVnXy0zRkw0RXZyVE1YQkw3Z3JLX29KbXdmaGpDZFhzNVl6eVhwZ9IBkgFBVV95cUxQY29vSEtlVUtnVzdZYW9YZW1sSF9nMm5pMlp3NFlfNE5hcTEtSHpuRDlZeF9MRUItWGdmQU5CZWhQaTVMeWdWci04MmVIWlQ2SHNoSExUODlqaEFOTVVCMjFFVGI2eDVnY2VrX19rQ01Da25iOVE0QktEaVVWZjBObUNJR2pCRDlLa05DWlFzenRxQQ?oc=5",
-      "fecha": "Fri, 06 Mar 2026 20:00:00 GMT",
-      "fuente": "google_news",
-      "tipo_fuente": "agregador",
-      "nicho": "electoral_zacatecas",
-      "es_electoral": true,
-      "es_contextual": false,
-      "aspirantes_mencionados": [
-        "saul_monreal"
-      ],
-      "tema": "general",
-      "fecha_minado": "2026-03-16"
-    },
-    {
-      "titulo": "“Me Atacan con Fuego Amigo Porque Saben que voy Arriba en las Encuestas” - Página 24 Zacatecas",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHdmS1RxMU1VcWkzVmowSXhtWTJSRS1sVWNTZmRCdG5HSVNKRlRTcXYyLVVSNjJ0VXhEZVpWZjVWejhCVTdOeE9JcGZ0VldZUFlwbVhtbFd0amhkcXltb0pZLXVNU1hfY1Y4QzFhT0FJYk4tRjliS3pwYml6Q0VvM2lnUTk0NXRwdERsTkduSkd6MkpscnllZEZQSGlMWlJieUhtUGNta011V1E1bjRqVklHWFFBRnhMdHFCRWdB?oc=5\" target=\"_blank\">“Me Atacan con Fuego Amigo Porque Saben que voy Arriba en las Encuestas",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHdmS1RxMU1VcWkzVmowSXhtWTJSRS1sVWNTZmRCdG5HSVNKRlRTcXYyLVVSNjJ0VXhEZVpWZjVWejhCVTdOeE9JcGZ0VldZUFlwbVhtbFd0amhkcXltb0pZLXVNU1hfY1Y4QzFhT0FJYk4tRjliS3pwYml6Q0VvM2lnUTk0NXRwdERsTkduSkd6MkpscnllZEZQSGlMWlJieUhtUGNta011V1E1bjRqVklHWFFBRnhMdHFCRWdB?oc=5",
-      "fecha": "Tue, 17 Mar 2026 02:12:14 GMT",
-      "fuente": "google_news",
-      "tipo_fuente": "agregador",
-      "nicho": "electoral_zacatecas",
-      "es_electoral": true,
-      "es_contextual": false,
-      "aspirantes_mencionados": [
-        "narro_cespedes"
-      ],
-      "tema": "encuesta",
-      "fecha_minado": "2026-03-16"
-    },
-    {
-      "titulo": "Miguel Varela Pinedo rinde su Primer Informe como Presidente Municipal de Zacatecas - Página 24 Zacatecas",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQdTJBeTlNM2Rzc1lFUmlqYXBjZzZtaDFUd0pJbjNLX2pydFgxMEFRZ3JTekJJZ3BCbTJRc09DWVBzRlJ3T09POTdfc25xdDBOZUp5Y1ZGMEI2MGVVUzJ5bUFUeXgtNWJ4UUQ2S0ZwZHNSTl8xTWJxSG9KZG85S01HbWljamRtMXRNV0xyWnlFSWY0VHJGS1JfX003RnE4Wnh2VjFQQTZFODJ3M2NpTElURG45UmFxRlRrclpVX0pOQmhhUHJKZk5kYUVVRFg4anc?oc=5\" target=\"_blank\">Miguel Varela Pinedo rinde su Primer Informe com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdTJBeTlNM2Rzc1lFUmlqYXBjZzZtaDFUd0pJbjNLX2pydFgxMEFRZ3JTekJJZ3BCbTJRc09DWVBzRlJ3T09POTdfc25xdDBOZUp5Y1ZGMEI2MGVVUzJ5bUFUeXgtNWJ4UUQ2S0ZwZHNSTl8xTWJxSG9KZG85S01HbWljamRtMXRNV0xyWnlFSWY0VHJGS1JfX003RnE4Wnh2VjFQQTZFODJ3M2NpTElURG45UmFxRlRrclpVX0pOQmhhUHJKZk5kYUVVRFg4anc?oc=5",
-      "fecha": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "titulo": "Pide Miguel Ángel Varela enviar 500 elementos más de la Guardia Nacional a Zacatecas para combatir la inseguridad - El Arsenal",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX092anVMMU0xVGRBSUtOaXRuNDNEUk42RzNsanlxNW1SbUJoVjJZOVdJNTVkZ0ZsczhnQ045NDdRR2NGc3lKSC1YcDlHUWJRVU1Jei1wRGhQd2tiQ05fTWFvTU5wU3JjNDktSHVKVTlaV21wM0syQkR0NFQ1RFZnRlBQR2pPZ3pKR0ljWjgwaEpPMk51Y2NQcTRkVmJ3V3JYSjI5RnRySmlJSnNYSGJIOXMyRzJBdzdZQUo3VFk3dTc4TVNjSE82eGxheHRwUnJ2Z3c5Z2NXdw?oc=5\" target=\"_blank\">Pide Miguel Ángel Varela enviar 500 e",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX092anVMMU0xVGRBSUtOaXRuNDNEUk42RzNsanlxNW1SbUJoVjJZOVdJNTVkZ0ZsczhnQ045NDdRR2NGc3lKSC1YcDlHUWJRVU1Jei1wRGhQd2tiQ05fTWFvTU5wU3JjNDktSHVKVTlaV21wM0syQkR0NFQ1RFZnRlBQR2pPZ3pKR0ljWjgwaEpPMk51Y2NQcTRkVmJ3V3JYSjI5RnRySmlJSnNYSGJIOXMyRzJBdzdZQUo3VFk3dTc4TVNjSE82eGxheHRwUnJ2Z3c5Z2NXdw?oc=5",
+      "fecha": "Mon, 16 Mar 2026 19:21:43 GMT",
       "fuente": "google_news",
       "tipo_fuente": "agregador",
       "nicho": "electoral_zacatecas",
@@ -95,60 +15,24 @@
       "aspirantes_mencionados": [
         "varela_pinedo"
       ],
-      "tema": "general",
-      "fecha_minado": "2026-03-16"
-    },
-    {
-      "titulo": "\"Sin caer en confrontaciones políticas\" propone alcalde eliminar el ambulantaje - Meganoticias.MX",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPblVoUjZqQVE1eFdlTHZqbFcxWHkzUDNSVWQwWWxFaUlZN1BYaWNSb2hEMnhzbVZBMFJCclpUZ1Y3T3NyZks5WWxHYy1NY2ZySlA3ajNBdFVEd3VGZ0pmLS1fYlNCVXM1SXpZajZNTHl1Wl8ySzJkOUx6SHl5ZlhKX1dkZU9saG9ORndORWNRV1pHMHMzM1VhMkNFdlVFQTluYUlhNkdPYzVIcnpnNHZ6cWNUdWhzbVI5SFVmR1ZkT2NZeW00TDBWMmVB?oc=5\" target=\"_blank\">\"Sin caer en confrontaciones políticas\" propone alcalde",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPblVoUjZqQVE1eFdlTHZqbFcxWHkzUDNSVWQwWWxFaUlZN1BYaWNSb2hEMnhzbVZBMFJCclpUZ1Y3T3NyZks5WWxHYy1NY2ZySlA3ajNBdFVEd3VGZ0pmLS1fYlNCVXM1SXpZajZNTHl1Wl8ySzJkOUx6SHl5ZlhKX1dkZU9saG9ORndORWNRV1pHMHMzM1VhMkNFdlVFQTluYUlhNkdPYzVIcnpnNHZ6cWNUdWhzbVI5SFVmR1ZkT2NZeW00TDBWMmVB?oc=5",
-      "fecha": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "fuente": "google_news",
-      "tipo_fuente": "agregador",
-      "nicho": "electoral_zacatecas",
-      "es_electoral": true,
-      "es_contextual": false,
-      "aspirantes_mencionados": [
-        "varela_pinedo"
-      ],
-      "tema": "general",
-      "fecha_minado": "2026-03-16"
-    },
-    {
-      "titulo": "Entrega Miguel Varela mejoras en la infraestructura del Jardín de Niños “María Enriqueta Camarillo” - La Jornada Zacatecas",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1k5QVJPVlJSWmVFclBHYTVwVTRXcUlJTlozbFQ0RU92YlE5VmVpc0VSSmlhU0hlWnhoYllhLVRZVlpITlZVaXJQcnZfOWZDcUd6bzFvdEFVT1FobXU1NDVvdWg0Q0tPUFJYYXZXTTJrUXB1NVhYVENxVnJoRHBUTGFKUHg4V1dyRzNXc1N5Z3huQ2R0V0w0Y0lWSG5qT0hNSTlUX2xXTTZSYlBacHdza2dQTzNzcUk1b2NaTWxhR0xMZw?oc=5\" target=\"_blank\">Entrega Miguel Varela mejoras en la infraestructura del Jardín de",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1k5QVJPVlJSWmVFclBHYTVwVTRXcUlJTlozbFQ0RU92YlE5VmVpc0VSSmlhU0hlWnhoYllhLVRZVlpITlZVaXJQcnZfOWZDcUd6bzFvdEFVT1FobXU1NDVvdWg0Q0tPUFJYYXZXTTJrUXB1NVhYVENxVnJoRHBUTGFKUHg4V1dyRzNXc1N5Z3huQ2R0V0w0Y0lWSG5qT0hNSTlUX2xXTTZSYlBacHdza2dQTzNzcUk1b2NaTWxhR0xMZw?oc=5",
-      "fecha": "Mon, 09 Mar 2026 18:40:22 GMT",
-      "fuente": "google_news",
-      "tipo_fuente": "agregador",
-      "nicho": "electoral_zacatecas",
-      "es_electoral": true,
-      "es_contextual": false,
-      "aspirantes_mencionados": [
-        "varela_pinedo"
-      ],
-      "tema": "general",
+      "tema": "seguridad",
       "fecha_minado": "2026-03-16"
     }
   ],
   "momentum": {
     "mejia_haro": {
-      "menciones": 2,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 2,
-      "temas": [
-        "general"
-      ]
+      "momentum": 0,
+      "temas": []
     },
     "saul_monreal": {
-      "menciones": 2,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 2,
-      "temas": [
-        "general"
-      ]
+      "momentum": 0,
+      "temas": []
     },
     "diaz_robles": {
       "menciones": 0,
@@ -158,21 +42,19 @@
       "temas": []
     },
     "narro_cespedes": {
-      "menciones": 1,
-      "positivo": 1,
-      "negativo": 0,
-      "momentum": 3,
-      "temas": [
-        "encuesta"
-      ]
-    },
-    "varela_pinedo": {
-      "menciones": 3,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 3,
+      "momentum": 0,
+      "temas": []
+    },
+    "varela_pinedo": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
       "temas": [
-        "general"
+        "seguridad"
       ]
     },
     "bonilla_gomez": {

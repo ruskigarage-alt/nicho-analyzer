@@ -46,6 +46,13 @@ schema: "NewsDigest"
 - **Resumen**: Los inversionistas nacionales    y extranjeros muestran un gran interés en el país. Prácticamente todo aquel que quiere iniciar un negocio “tiene el dinero listo para ponerlo a trabajar en México”, expresa firmemente Felipe García Ascencio, director general de Santander en el país.
 - **Relevancia**: 0.5869
 
+### UIF y CNBV firman acuerdo de colaboración para mejorar mecanismos antilavado
+- **Fecha**: Mon, 16 Mar 2026 20:20:47 GMT
+- **Fuente**: expansion_economia
+- **URL**: https://expansion.mx/economia/2026/03/16/uif-y-cnbv-firman-acuerdo-de-colaboracion-para-mejorar-mecanismos-antilavado
+- **Resumen**: Las dependencias buscan dar celeridad al intercambio de información coordinada para evitar que este delito dañe al sistema financiero mexicano.
+- **Relevancia**: 0.4704
+
 ### No todos los ejecutivos deberían ser consejeros (y pocos están realmente listos)
 - **Fecha**: Mon, 16 Mar 2026 12:03:46 GMT
 - **Fuente**: expansion_economia
@@ -143,11 +150,4 @@ schema: "NewsDigest"
 - **URL**: https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos
 - **Resumen**: Carlos López-Moctezuma dice que el banco tomó el control de la cartera en febrero, contrató cobranza especializada y prevé un alza temporal en la morosidad mientras los clientes migran al nuevo sistema de pago.
 - **Relevancia**: 0.5538
-
-### El SAT va por comerciantes, manufactureras, mineras y servicios financieros
-- **Fecha**: Wed, 11 Mar 2026 15:31:29 GMT
-- **Fuente**: expansion_economia
-- **URL**: https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes
-- **Resumen**: El fisco publicó 80 tasas efectivas pagadas en 2022 y 2023; los contribuyentes que pagaron menos ISR que el promedio de su actividad, ya tienen un mensaje en su Buzón Tributario para ponerse al tanto.
-- **Relevancia**: 0.4857
 

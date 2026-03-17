@@ -5,7 +5,7 @@
   "url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Nicho Analyzer Pipeline",
-  "dateModified": "2026-03-17T05:21:04.486064+00:00",
+  "dateModified": "2026-03-17T05:26:25.844871+00:00",
   "dateCreated": "2026-03-17",
   "inLanguage": "es",
   "keywords": [
@@ -41,16 +41,16 @@
     "jsonld",
     "markdown"
   ],
-  "total_records": 1071,
+  "total_records": 1085,
   "nichos": {
     "geopolitica": 281,
     "politica_local": 76,
-    "regulaciones_pyme": 131,
-    "mercados_latam": 93,
+    "regulaciones_pyme": 139,
+    "mercados_latam": 94,
     "licitaciones_gobierno": 62,
     "movimiento_buques": 78,
     "aranceles_aduanas": 54,
-    "finanzas_globales": 93,
+    "finanzas_globales": 98,
     "energia_petroleo": 53,
     "mineria_metales": 60,
     "comercio_aranceles": 20,
@@ -1650,22 +1650,22 @@
     {
       "nicho": "geopolitica",
       "fecha": "2026-03-16",
+      "titulo": "Goldman Sachs Warns Oil’s Biggest Shock Will Hurt Fuels Most",
+      "resumen": "The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most",
+      "fuente": "bloomberg_markets",
+      "relevancia_score": 0.5387,
+      "texto_completo": "Goldman Sachs Warns Oil’s Biggest Shock Will Hurt Fuels Most. The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc."
+    },
+    {
+      "nicho": "geopolitica",
+      "fecha": "2026-03-16",
       "titulo": "Iran War Upheaval Jolts Shipping Fuel Suppliers in Singapore",
       "resumen": "A widening conflict in the Middle East has led to dramatic swings and surges in the price of fuel for ships, prompting distributors in Singapore, the world’s top bunkering hub, to cut back their purchases.",
       "url": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-upheaval-jolts-bunker-fuel-suppliers-in-singapore",
       "fuente": "bloomberg_markets",
       "relevancia_score": 0.4657,
       "texto_completo": "Iran War Upheaval Jolts Shipping Fuel Suppliers in Singapore. A widening conflict in the Middle East has led to dramatic swings and surges in the price of fuel for ships, prompting distributors in Singapore, the world’s top bunkering hub, to cut back their purchases."
-    },
-    {
-      "nicho": "geopolitica",
-      "fecha": "2026-03-16",
-      "titulo": "Goldman Says Oil’s Biggest Shock to Hurt Refined Products Most",
-      "resumen": "The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most",
-      "fuente": "bloomberg_markets",
-      "relevancia_score": 0.5228,
-      "texto_completo": "Goldman Says Oil’s Biggest Shock to Hurt Refined Products Most. The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc."
     },
     {
       "nicho": "geopolitica",
@@ -3360,6 +3360,16 @@
     {
       "nicho": "regulaciones_pyme",
       "fecha": "2026-03-16",
+      "titulo": "UIF y CNBV firman acuerdo de colaboración para mejorar mecanismos antilavado",
+      "resumen": "Las dependencias buscan dar celeridad al intercambio de información coordinada para evitar que este delito dañe al sistema financiero mexicano.",
+      "url": "https://expansion.mx/economia/2026/03/16/uif-y-cnbv-firman-acuerdo-de-colaboracion-para-mejorar-mecanismos-antilavado",
+      "fuente": "expansion_economia",
+      "relevancia_score": 0.4704,
+      "texto_completo": "UIF y CNBV firman acuerdo de colaboración para mejorar mecanismos antilavado. Las dependencias buscan dar celeridad al intercambio de información coordinada para evitar que este delito dañe al sistema financiero mexicano."
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fecha": "2026-03-16",
       "titulo": "No todos los ejecutivos deberían ser consejeros (y pocos están realmente listos)",
       "resumen": "En el gobierno corporativo hay una verdad que conviene no olvidar: el asiento no es el logro; la responsabilidad comienza justo cuando uno se sienta.",
       "url": "https://expansion.mx/economia/2026/03/16/no-todos-los-ejecutivos-deberian-ser-consejeros-y-pocos-estan-realmente-listos",
@@ -3496,16 +3506,6 @@
       "fuente": "expansion_economia",
       "relevancia_score": 0.5538,
       "texto_completo": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”. Carlos López-Moctezuma dice que el banco tomó el control de la cartera en febrero, contrató cobranza especializada y prevé un alza temporal en la morosidad mientras los clientes migran al nuevo sistema de pago."
-    },
-    {
-      "nicho": "regulaciones_pyme",
-      "fecha": "2026-03-16",
-      "titulo": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
-      "resumen": "El fisco publicó 80 tasas efectivas pagadas en 2022 y 2023; los contribuyentes que pagaron menos ISR que el promedio de su actividad, ya tienen un mensaje en su Buzón Tributario para ponerse al tanto.",
-      "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes",
-      "fuente": "expansion_economia",
-      "relevancia_score": 0.4857,
-      "texto_completo": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros. El fisco publicó 80 tasas efectivas pagadas en 2022 y 2023; los contribuyentes que pagaron menos ISR que el promedio de su actividad, ya tienen un mensaje en su Buzón Tributario para ponerse al tanto."
     },
     {
       "fecha": "2026-03-12T23:40:08.854687+00:00",
@@ -6343,7 +6343,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/MXN — 2026-03-17",
@@ -6355,7 +6355,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/BRL — 2026-03-17",
@@ -6367,7 +6367,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/ARS — 2026-03-17",
@@ -6379,7 +6379,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/CLP — 2026-03-17",
@@ -6391,7 +6391,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/COP — 2026-03-17",
@@ -6403,7 +6403,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "ExchangeRate-API",
       "titulo": "Tipo de cambio USD/PEN — 2026-03-17",
@@ -6415,31 +6415,31 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Petróleo WTI — 2026-03-17",
-      "contenido": "Petróleo WTI: USD 95.73 al 2026-03-17. Relevancia LATAM: crítico para México y Colombia.",
+      "contenido": "Petróleo WTI: USD 95.5 al 2026-03-17. Relevancia LATAM: crítico para México y Colombia.",
       "url": "https://finance.yahoo.com/quote/CL=F",
       "extra": {
         "symbol": "CL=F",
-        "precio": 95.73
+        "precio": 95.5
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Petróleo Brent — 2026-03-17",
-      "contenido": "Petróleo Brent: USD 102.92 al 2026-03-17. Relevancia LATAM: referencia global exportaciones LATAM.",
+      "contenido": "Petróleo Brent: USD 102.7 al 2026-03-17. Relevancia LATAM: referencia global exportaciones LATAM.",
       "url": "https://finance.yahoo.com/quote/BZ=F",
       "extra": {
         "symbol": "BZ=F",
-        "precio": 102.92
+        "precio": 102.7
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Cobre — 2026-03-17",
@@ -6451,55 +6451,55 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Plata — 2026-03-17",
-      "contenido": "Plata: USD 82.455 al 2026-03-17. Relevancia LATAM: México mayor productor mundial.",
+      "contenido": "Plata: USD 82.6 al 2026-03-17. Relevancia LATAM: México mayor productor mundial.",
       "url": "https://finance.yahoo.com/quote/SI=F",
       "extra": {
         "symbol": "SI=F",
-        "precio": 82.455
+        "precio": 82.6
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Oro — 2026-03-17",
-      "contenido": "Oro: USD 5039.6 al 2026-03-17. Relevancia LATAM: reservas bancos centrales LATAM.",
+      "contenido": "Oro: USD 5044.9 al 2026-03-17. Relevancia LATAM: reservas bancos centrales LATAM.",
       "url": "https://finance.yahoo.com/quote/GC=F",
       "extra": {
         "symbol": "GC=F",
-        "precio": 5039.6
+        "precio": 5044.9
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Maíz — 2026-03-17",
-      "contenido": "Maíz: USX 458.5 al 2026-03-17. Relevancia LATAM: crítico para México y Argentina.",
+      "contenido": "Maíz: USX 458.25 al 2026-03-17. Relevancia LATAM: crítico para México y Argentina.",
       "url": "https://finance.yahoo.com/quote/ZC=F",
       "extra": {
         "symbol": "ZC=F",
-        "precio": 458.5
+        "precio": 458.25
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Soya — 2026-03-17",
-      "contenido": "Soya: USX 1162.25 al 2026-03-17. Relevancia LATAM: crítico para Brasil y Argentina.",
+      "contenido": "Soya: USX 1161.75 al 2026-03-17. Relevancia LATAM: crítico para Brasil y Argentina.",
       "url": "https://finance.yahoo.com/quote/ZS=F",
       "extra": {
         "symbol": "ZS=F",
-        "precio": 1162.25
+        "precio": 1161.75
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Café — 2026-03-17",
@@ -6511,7 +6511,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "mercados_latam",
       "fuente": "Yahoo Finance",
       "titulo": "Commodity Gas natural — 2026-03-17",
@@ -6523,7 +6523,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Banco Mundial — LATAM",
       "titulo": "Proyecto BM [['Republic of Rwanda']]: Boosting Green Finance, Investment and Trade in Rwanda",
@@ -6537,49 +6537,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [['Kingdom of Morocco']]: Transforming Agri-food Systems in Morocco",
-      "contenido": "País: ['Kingdom of Morocco']. Sector: . Monto: USD 250,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181587",
-      "extra": {
-        "pais": [
-          "Kingdom of Morocco"
-        ],
-        "monto_usd": "250,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [['Republic of Burundi']]: Burundi Colline Climate Resilience Project",
-      "contenido": "País: ['Republic of Burundi']. Sector: . Monto: USD 70,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180864",
-      "extra": {
-        "pais": [
-          "Republic of Burundi"
-        ],
-        "monto_usd": "70,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
-      "nicho": "licitaciones_gobierno",
-      "fuente": "Banco Mundial — LATAM",
-      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Second Bangladesh Green and Climate Resilient Development Credit",
-      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 500,000,000. Objetivo: .",
-      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180439",
-      "extra": {
-        "pais": [
-          "People's Republic of Bangladesh"
-        ],
-        "monto_usd": "500,000,000"
-      }
-    },
-    {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Banco Mundial — LATAM",
       "titulo": "Proyecto BM [['Republic of India']]: Amaravati Integrated Urban Development Program",
@@ -6593,7 +6551,49 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Kingdom of Morocco']]: Transforming Agri-food Systems in Morocco",
+      "contenido": "País: ['Kingdom of Morocco']. Sector: . Monto: USD 250,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181587",
+      "extra": {
+        "pais": [
+          "Kingdom of Morocco"
+        ],
+        "monto_usd": "250,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [['Republic of Burundi']]: Burundi Colline Climate Resilience Project",
+      "contenido": "País: ['Republic of Burundi']. Sector: . Monto: USD 70,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180864",
+      "extra": {
+        "pais": [
+          "Republic of Burundi"
+        ],
+        "monto_usd": "70,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
+      "nicho": "licitaciones_gobierno",
+      "fuente": "Banco Mundial — LATAM",
+      "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Second Bangladesh Green and Climate Resilient Development Credit",
+      "contenido": "País: [\"People's Republic of Bangladesh\"]. Sector: . Monto: USD 500,000,000. Objetivo: .",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180439",
+      "extra": {
+        "pais": [
+          "People's Republic of Bangladesh"
+        ],
+        "monto_usd": "500,000,000"
+      }
+    },
+    {
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Banco Mundial — LATAM",
       "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Chattogram Water Supply Improvement Project",
@@ -6607,7 +6607,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Banco Mundial — LATAM",
       "titulo": "Proyecto BM [[\"People's Republic of Bangladesh\"]]: Health, Nutrition and Population Sector Development Program",
@@ -6621,7 +6621,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Banco Mundial — LATAM",
       "titulo": "Proyecto BM [['Republic of Togo']]: Togo Digital Acceleration Project",
@@ -6635,7 +6635,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Banco Mundial — LATAM",
       "titulo": "Proyecto BM [['Republic of Zambia']]: First Zambia Climate and Economic Resilience Programmatic DPF wit",
@@ -6649,7 +6649,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Banco Mundial — LATAM",
       "titulo": "Proyecto BM [['Republic of Honduras']]: Honduras Sustainable Connectivity Project",
@@ -6663,7 +6663,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Referencia portal",
       "titulo": "CompraNet México — portal licitaciones",
@@ -6672,7 +6672,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "licitaciones_gobierno",
       "fuente": "Referencia portal",
       "titulo": "UNGM — licitaciones ONU en LATAM",
@@ -6681,7 +6681,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Veracruz, México (MXVER)",
@@ -6693,7 +6693,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Lázaro Cárdenas, México (MXLZC)",
@@ -6705,7 +6705,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Altamira, México (MXATM)",
@@ -6717,7 +6717,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Santos, Brasil (BRSSZ)",
@@ -6729,7 +6729,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Valparaíso, Chile (CLVAP)",
@@ -6741,7 +6741,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Buenaventura, Colombia (COBUN)",
@@ -6753,7 +6753,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Callao, Perú (PECLL)",
@@ -6765,7 +6765,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Buenos Aires, Argentina (ARBUE)",
@@ -6777,7 +6777,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Público",
       "titulo": "Puerto Balboa, Panamá (PAMIT)",
@@ -6789,7 +6789,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Canal de Panamá",
@@ -6801,7 +6801,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Golfo de México",
@@ -6813,7 +6813,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Puerto Santos Brasil",
@@ -6825,7 +6825,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "movimiento_buques",
       "fuente": "AIS Zonas Estratégicas",
       "titulo": "Zona marítima: Estrecho de Magallanes",
@@ -6837,7 +6837,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario México — 2026-03-17",
@@ -6849,7 +6849,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Brasil — 2026-03-17",
@@ -6861,7 +6861,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Argentina — 2026-03-17",
@@ -6873,7 +6873,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Chile — 2026-03-17",
@@ -6885,7 +6885,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Colombia — 2026-03-17",
@@ -6897,7 +6897,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "OMC — Perfiles arancelarios",
       "titulo": "Perfil arancelario Perú — 2026-03-17",
@@ -6909,7 +6909,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "DOF México",
       "titulo": "Cambios arancelarios DOF — 2026-03-17",
@@ -6918,7 +6918,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "USTR / Federal Register",
       "titulo": "Aranceles USA impacto LATAM — 2026-03-17",
@@ -6929,7 +6929,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:19.165808+00:00",
+      "fecha": "2026-03-17T05:24:37.864459+00:00",
       "nicho": "aranceles_aduanas",
       "fuente": "CEPAL",
       "titulo": "Monitor comercio exterior LATAM — 2026-03-17",
@@ -10678,7 +10678,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "US Treasury FiscalData",
       "titulo": "Deuda publica USA — 2026-03-17",
@@ -10699,7 +10699,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "US Treasury — Tasas",
       "titulo": "Tasa interes bonos USA: Treasury Bills — 2026-02-28",
@@ -10720,7 +10720,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "US Treasury — Tasas",
       "titulo": "Tasa interes bonos USA: Treasury Notes — 2026-02-28",
@@ -10741,7 +10741,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "US Treasury — Tasas",
       "titulo": "Tasa interes bonos USA: Treasury Bonds — 2026-02-28",
@@ -10762,7 +10762,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "Federal Reserve RSS",
       "titulo": "Fed — Comunicados politica monetaria — 2026-03-17",
@@ -10771,7 +10771,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "Federal Reserve RSS",
       "titulo": "Fed — Todos los comunicados — 2026-03-17",
@@ -10780,7 +10780,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "ECB — Banco Central Europeo",
       "titulo": "Tipo de cambio EUR/USD BCE — 2026-03-10",
@@ -10792,7 +10792,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "ECB — Banco Central Europeo",
       "titulo": "Tipo de cambio EUR/USD BCE — 2026-03-11",
@@ -10804,7 +10804,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "ECB — Banco Central Europeo",
       "titulo": "Tipo de cambio EUR/USD BCE — 2026-03-12",
@@ -10816,7 +10816,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Argentina 2030",
@@ -10829,7 +10829,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Brasil 2030",
@@ -10842,7 +10842,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Chile 2030",
@@ -10855,7 +10855,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Colombia 2030",
@@ -10868,7 +10868,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Mexico 2030",
@@ -10881,7 +10881,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "finanzas_globales",
       "fuente": "FMI — DataMapper",
       "titulo": "Crecimiento PIB Peru 2030",
@@ -10894,7 +10894,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "energia_petroleo",
       "fuente": "EIA — US Energy Information",
       "titulo": "Petroleo WTI — 2026-03-09",
@@ -10915,7 +10915,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "energia_petroleo",
       "fuente": "EIA — US Energy Information",
       "titulo": "Petroleo Brent — 2026-03-09",
@@ -10936,7 +10936,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "energia_petroleo",
       "fuente": "EIA — US Energy Information",
       "titulo": "Gas Natural Henry Hub — 2026-03-09",
@@ -10957,31 +10957,31 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "energia_petroleo",
       "fuente": "Yahoo Finance",
       "titulo": "Petroleo WTI — 2026-03-17",
-      "contenido": "Petroleo WTI: USD 95.72 al 2026-03-17. Relevancia LATAM: critico para Mexico, Colombia, Venezuela.",
+      "contenido": "Petroleo WTI: USD 95.52 al 2026-03-17. Relevancia LATAM: critico para Mexico, Colombia, Venezuela.",
       "url": "https://finance.yahoo.com/quote/CL=F",
       "extra": {
         "symbol": "CL=F",
-        "precio": 95.72
+        "precio": 95.52
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "energia_petroleo",
       "fuente": "Yahoo Finance",
       "titulo": "Petroleo Brent — 2026-03-17",
-      "contenido": "Petroleo Brent: USD 102.92 al 2026-03-17. Relevancia LATAM: referencia global exportaciones LATAM.",
+      "contenido": "Petroleo Brent: USD 102.7 al 2026-03-17. Relevancia LATAM: referencia global exportaciones LATAM.",
       "url": "https://finance.yahoo.com/quote/BZ=F",
       "extra": {
         "symbol": "BZ=F",
-        "precio": 102.92
+        "precio": 102.7
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "energia_petroleo",
       "fuente": "Yahoo Finance",
       "titulo": "Gas Natural — 2026-03-17",
@@ -10993,31 +10993,31 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "energia_petroleo",
       "fuente": "Yahoo Finance",
       "titulo": "Gasoil calefaccion — 2026-03-17",
-      "contenido": "Gasoil calefaccion: USD 3.7356 al 2026-03-17. Relevancia LATAM: derivado petroleo.",
+      "contenido": "Gasoil calefaccion: USD 3.7272 al 2026-03-17. Relevancia LATAM: derivado petroleo.",
       "url": "https://finance.yahoo.com/quote/HO=F",
       "extra": {
         "symbol": "HO=F",
-        "precio": 3.7356
+        "precio": 3.7272
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "energia_petroleo",
       "fuente": "Yahoo Finance",
       "titulo": "Gasolina RBOB — 2026-03-17",
-      "contenido": "Gasolina RBOB: USD 3.0265 al 2026-03-17. Relevancia LATAM: referencia precios combustibles.",
+      "contenido": "Gasolina RBOB: USD 3.0217 al 2026-03-17. Relevancia LATAM: referencia precios combustibles.",
       "url": "https://finance.yahoo.com/quote/RB=F",
       "extra": {
         "symbol": "RB=F",
-        "precio": 3.0265
+        "precio": 3.0217
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "energia_petroleo",
       "fuente": "OPEC",
       "titulo": "Portal OPEC — noticias produccion petroleo 2026-03-17",
@@ -11026,7 +11026,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "energia_petroleo",
       "fuente": "IEA — Agencia Internacional de Energia",
       "titulo": "Oil Market Report IEA — 2026-03-17",
@@ -11035,46 +11035,46 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Cobre — 2026-03-17",
-      "contenido": "Cobre: USD 5.8345 al 2026-03-17. Chile mayor productor mundial, Peru 2do.",
+      "contenido": "Cobre: USD 5.832 al 2026-03-17. Chile mayor productor mundial, Peru 2do.",
       "url": "https://finance.yahoo.com/quote/HG=F",
       "extra": {
         "symbol": "HG=F",
-        "precio": 5.8345,
+        "precio": 5.832,
         "moneda": "USD"
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Plata — 2026-03-17",
-      "contenido": "Plata: USD 82.455 al 2026-03-17. Mexico mayor productor mundial.",
+      "contenido": "Plata: USD 82.555 al 2026-03-17. Mexico mayor productor mundial.",
       "url": "https://finance.yahoo.com/quote/SI=F",
       "extra": {
         "symbol": "SI=F",
-        "precio": 82.455,
+        "precio": 82.555,
         "moneda": "USD"
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Oro — 2026-03-17",
-      "contenido": "Oro: USD 5039.7 al 2026-03-17. Mexico 9no productor mundial.",
+      "contenido": "Oro: USD 5045.4 al 2026-03-17. Mexico 9no productor mundial.",
       "url": "https://finance.yahoo.com/quote/GC=F",
       "extra": {
         "symbol": "GC=F",
-        "precio": 5039.7,
+        "precio": 5045.4,
         "moneda": "USD"
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Aluminio — 2026-03-17",
@@ -11087,46 +11087,46 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Paladio — 2026-03-17",
-      "contenido": "Paladio: USD 1636.0 al 2026-03-17. metales del grupo platino.",
+      "contenido": "Paladio: USD 1633.5 al 2026-03-17. metales del grupo platino.",
       "url": "https://finance.yahoo.com/quote/PA=F",
       "extra": {
         "symbol": "PA=F",
-        "precio": 1636.0,
+        "precio": 1633.5,
         "moneda": "USD"
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Platino — 2026-03-17",
-      "contenido": "Platino: USD 2162.4 al 2026-03-17. tierras raras y metales criticos.",
+      "contenido": "Platino: USD 2158.5 al 2026-03-17. tierras raras y metales criticos.",
       "url": "https://finance.yahoo.com/quote/PL=F",
       "extra": {
         "symbol": "PL=F",
-        "precio": 2162.4,
+        "precio": 2158.5,
         "moneda": "USD"
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Zinc — 2026-03-17",
-      "contenido": "Zinc: USD 111.828125 al 2026-03-17. Mexico top 5 productor mundial.",
+      "contenido": "Zinc: USD 111.8125 al 2026-03-17. Mexico top 5 productor mundial.",
       "url": "https://finance.yahoo.com/quote/ZN=F",
       "extra": {
         "symbol": "ZN=F",
-        "precio": 111.828125,
+        "precio": 111.8125,
         "moneda": "USD"
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — LME/CME",
       "titulo": "Plomo — 2026-03-17",
@@ -11139,7 +11139,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — Litio/Tierras raras",
       "titulo": "Accion Albemarle (ALB) — 2026-03-17",
@@ -11152,7 +11152,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — Litio/Tierras raras",
       "titulo": "Accion SQM (SQM) — 2026-03-17",
@@ -11165,7 +11165,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "Yahoo Finance — Litio/Tierras raras",
       "titulo": "Accion Lithium Americas (LAC) — 2026-03-17",
@@ -11178,7 +11178,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "mineria_metales",
       "fuente": "London Metal Exchange",
       "titulo": "LME — precios metales industriales 2026-03-17",
@@ -11187,7 +11187,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "comercio_aranceles",
       "fuente": "OMC — World Trade Organization",
       "titulo": "Noticias OMC — 2026-03-17",
@@ -11196,7 +11196,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "comercio_aranceles",
       "fuente": "UN Comtrade",
       "titulo": "Exportaciones Mexico al mundo — 2023",
@@ -11209,7 +11209,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "comercio_aranceles",
       "fuente": "USTR — US Trade Representative",
       "titulo": "Comunicados USTR aranceles — 2026-03-17",
@@ -11218,7 +11218,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "comercio_aranceles",
       "fuente": "Secretaria de Economia — Mexico",
       "titulo": "T-MEC y comercio exterior Mexico — 2026-03-17",
@@ -11227,7 +11227,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "Baltic Exchange",
       "titulo": "Baltic Dry Index (BDI) — 2026-03-17",
@@ -11239,7 +11239,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "Baltic Exchange",
       "titulo": "Baltic Capesize Index (BCI) — 2026-03-17",
@@ -11251,7 +11251,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "Baltic Exchange",
       "titulo": "Baltic Panamax Index (BPI) — 2026-03-17",
@@ -11263,7 +11263,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "Baltic Exchange",
       "titulo": "Baltic Supramax Index (BSI) — 2026-03-17",
@@ -11275,7 +11275,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "IMO — Organizacion Maritima Internacional",
       "titulo": "Regulaciones maritimas IMO — 2026-03-17",
@@ -11284,7 +11284,7 @@
       "extra": {}
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Veracruz (MXVER) Mexico — 2026-03-17",
@@ -11296,7 +11296,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Lazaro Cardenas (MXLZC) Mexico — 2026-03-17",
@@ -11308,7 +11308,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Altamira (MXATM) Mexico — 2026-03-17",
@@ -11320,7 +11320,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Santos (BRSSZ) Brasil — 2026-03-17",
@@ -11332,7 +11332,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Valparaiso (CLVAP) Chile — 2026-03-17",
@@ -11344,7 +11344,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Buenaventura (COBUN) Colombia — 2026-03-17",
@@ -11356,7 +11356,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Callao (PECLL) Peru — 2026-03-17",
@@ -11368,7 +11368,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Buenos Aires (ARBUE) Argentina — 2026-03-17",
@@ -11380,7 +11380,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "transporte_maritimo",
       "fuente": "AIS Puertos LATAM",
       "titulo": "Puerto Balboa (PAMIT) Panama — 2026-03-17",
@@ -11392,7 +11392,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — EEUU",
       "titulo": "Council on Foreign Relations — feed geopolitico 2026-03-17",
@@ -11405,7 +11405,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — EEUU",
       "titulo": "CSIS — feed geopolitico 2026-03-17",
@@ -11418,7 +11418,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — EEUU",
       "titulo": "Brookings Institution — feed geopolitico 2026-03-17",
@@ -11431,7 +11431,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — EEUU",
       "titulo": "Carnegie Endowment — feed geopolitico 2026-03-17",
@@ -11444,7 +11444,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — Europa",
       "titulo": "Chatham House — feed geopolitico 2026-03-17",
@@ -11457,7 +11457,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — Europa",
       "titulo": "Bruegel — feed geopolitico 2026-03-17",
@@ -11470,7 +11470,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Think Tank — Rusia",
       "titulo": "RIAC — feed geopolitico 2026-03-17",
@@ -11483,7 +11483,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Global",
       "titulo": "Reuters — Business — 2026-03-17",
@@ -11496,7 +11496,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Global",
       "titulo": "Reuters — World — 2026-03-17",
@@ -11509,7 +11509,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Global",
       "titulo": "Financial Times — 2026-03-17",
@@ -11522,7 +11522,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Global",
       "titulo": "Bloomberg Markets — 2026-03-17",
@@ -11535,7 +11535,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — EEUU",
       "titulo": "WSJ Markets — 2026-03-17",
@@ -11548,7 +11548,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Asia",
       "titulo": "Nikkei Asia — 2026-03-17",
@@ -11561,7 +11561,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Asia",
       "titulo": "South China Morning Post — 2026-03-17",
@@ -11574,7 +11574,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Rusia",
       "titulo": "TASS — 2026-03-17",
@@ -11587,7 +11587,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — Europa",
       "titulo": "Politico Europe — 2026-03-17",
@@ -11600,7 +11600,7 @@
       }
     },
     {
-      "fecha": "2026-03-17T05:18:28.465711+00:00",
+      "fecha": "2026-03-17T05:24:57.953596+00:00",
       "nicho": "geopolitica",
       "fuente": "Medio internacional — EEUU",
       "titulo": "Defense News — 2026-03-17",
@@ -12835,6 +12835,224 @@
       "unidad": null,
       "extra": {
         "query": "nearshoring+Mexico+inversion+extranjera"
+      }
+    },
+    {
+      "fecha": "2026-03-17",
+      "nicho": "mercados_latam",
+      "fuente": "Yahoo Finance",
+      "titulo": "USD/MXN Tipo de cambio FIX",
+      "valor": 17.6764,
+      "unidad": "MXN por USD",
+      "url": "https://finance.yahoo.com/quote/MXN=X/",
+      "extra": {
+        "precio": 17.6764,
+        "cambio_pct": -0.89,
+        "formula": "cierre_hoy / cierre_ayer - 1 * 100",
+        "interpretacion": "peso fuerte"
+      }
+    },
+    {
+      "fecha": "2026-03-17",
+      "nicho": "regulaciones_pyme",
+      "fuente": "INEGI / Banxico",
+      "titulo": "Inflacion INPC anual Mexico",
+      "valor": 4.03,
+      "unidad": "% anual",
+      "url": "https://www.inegi.org.mx/temas/inpc/",
+      "extra": {
+        "INPC_actual": 144.307,
+        "INPC_hace_12m": 138.722,
+        "mes_referencia": "febrero 2026",
+        "formula": "(INPC_t - INPC_t-12) / INPC_t-12 * 100",
+        "meta_banxico": 3.0,
+        "desviacion": 1.03,
+        "interpretacion": "por encima de meta"
+      }
+    },
+    {
+      "fecha": "2026-03-17",
+      "nicho": "finanzas_globales",
+      "fuente": "Banxico",
+      "titulo": "Reservas internacionales Banxico",
+      "valor": 222.4,
+      "unidad": "miles de millones USD",
+      "url": "https://www.banxico.org.mx/estadisticas/otras-estadisticas/reservas-internacionales.html",
+      "extra": {
+        "umbral_minimo": 150.0,
+        "formula": "activos_externos_brutos - pasivos_reserva",
+        "interpretacion": "saludable"
+      }
+    },
+    {
+      "fecha": "2026-03-17",
+      "nicho": "finanzas_globales",
+      "fuente": "Banxico",
+      "titulo": "Tasa objetivo Banxico",
+      "valor": 8.5,
+      "unidad": "% anual",
+      "url": "https://www.banxico.org.mx/politica-monetaria/politica-monetaria.html",
+      "extra": {
+        "TIIE_28d": 8.65,
+        "CETES_28d": 8.4,
+        "fed_funds": 4.5,
+        "spread_MX_US": 4.0,
+        "formula": "tasa_MX - fed_funds_USA = carry_trade_spread",
+        "interpretacion": "carry trade positivo"
+      }
+    },
+    {
+      "fecha": "2026-03-17",
+      "nicho": "finanzas_globales",
+      "fuente": "Yahoo Finance / calculo propio",
+      "titulo": "Riesgo pais EMBI Mexico aproximado",
+      "valor": 364.0,
+      "unidad": "puntos base",
+      "url": "https://finance.yahoo.com/quote/EWW/",
+      "extra": {
+        "EWW_precio": 73.16,
+        "EWW_cambio": 2.28,
+        "T10_USA": 4.22,
+        "formula": "(tasa_MX - T10_USA) * 100 * 0.85",
+        "interpretacion": "alto",
+        "nota": "EMBI JP Morgan no tiene API publica — este valor es aproximacion"
+      }
+    },
+    {
+      "fecha": "2026-03-17",
+      "nicho": "finanzas_globales",
+      "fuente": "SHCP / Transparencia Presupuestaria",
+      "titulo": "Deficit fiscal Mexico porcentaje PIB",
+      "valor": -0.23,
+      "unidad": "% del PIB",
+      "url": "https://www.transparenciapresupuestaria.gob.mx/Datos-Abiertos",
+      "extra": {
+        "ingresos_mmdmxn": 628.4,
+        "gasto_mmdmxn": 701.2,
+        "deficit_mmdmxn": 72.8,
+        "PIB_estimado": 31200,
+        "formula": "(Gasto - Ingresos) / PIB * 100",
+        "periodo": "enero 2026",
+        "interpretacion": "moderado"
+      }
+    },
+    {
+      "fecha": "2026-03-17",
+      "nicho": "finanzas_globales",
+      "fuente": "calculo propio NichoAnalyzer",
+      "titulo": "Indice confianza macro Mexico",
+      "valor": 72.2,
+      "unidad": "puntos (0-100)",
+      "url": "https://ruskigarage-alt.github.io/nicho-analyzer/dashboard.html",
+      "extra": {
+        "componentes": {
+          "reservas_score": 89.0,
+          "mxn_score": 73.2,
+          "embi_score": 27.2,
+          "inflacion_score": 79.4,
+          "deficit_score": 95.4
+        },
+        "formula": "suma_ponderada(reservas*0.25 + MXN*0.25 + EMBI*0.20 + infl*0.15 + deficit*0.15)",
+        "nivel": "estable",
+        "interpretacion": "estable"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "Precio del dólar hoy 16 de marzo: peso mexicano tiene ligera ganancia en mercados este lunes feriado - debate.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObVJ1NWhLdTJVWEFKUmFIeHdUbG5DV3M0NFFrX3FNa2F0TWFVb3BETUxwLWQyaXBHa1NaSU9JMVotZXFvLXZIb3B4SFBFR2NBQkg0cWhQc185dFRmYndlRDN4V3I2cGh2eEpoZUlqV3o0VW9VbVhteTFSOG1QSlhLLUotYlpKUERISWxhMEJmZlhWdnRuZTF0WXdyY3I5OFBTOHQ0a0dlM29UY3k0TDliZkdmVGRCbE1RRzhxUmZoS2xiTUNhSFIxcUE4clZjT3RoeVpFYVN4OXM5ZFdweWFkaFZ2N2tfSFZr0gHuAUFVX3lxTFBXd2lLdGdBaWgxWHU3Nm93bjJjZTEybU5LSjhVb2VfYUJtcURnZEtlS195RVo5Q3h1OTV4bl9oQk1CUzgyUE96WTRTMS1KTXRNODc1Y21uS1BKSHU2VUM1QV9mS0FSam1PUzIwT25QVUVvSTd6Zmc2bF9PTUQ4WW9pWU80VUlVVnFzR2hjaEJRSmROQ0lkazBSNzVDQ1FJYjdLZWtaemdZRGd6b0R5dWc1RFVwX0k1dnluRkFJMkY3V0JxWmQ5U0tyVG5vcTh3STVWdDc0anpJN1pvWUlrQUNSUEpuN1NoNU5RczVHWWc?oc=5",
+      "fecha": "Mon, 16 Mar 2026 14:20:29 GMT",
+      "fecha_minado": "2026-03-17",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "tipo+de+cambio+peso+mexicano+economia"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "México | Banxico se encamina a un último recorte antes de pausar el ciclo - BBVA Research",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV3F2SG05aUJhOWtiV185UzNtYmc1b1JwNVpLa3hTSDFzMVl0N01HUjhXX2hXS2pOZ294TGdiaFd1TVNZamxYSFBIMXN4VTJONjNlb3VsaXJnV2NLbWZOOERmMDVnNHd1c3UxY2FoWHJlMjV6M2RiY3NPdnJLbXp3SzBWaTRValNFX1NlT2RXdHRmWnlFcWxMVlFxNk04eXVZaDdTVENWQjhRb1JvOE1pQ00tRGpydw?oc=5",
+      "fecha": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "fecha_minado": "2026-03-17",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "inflacion+Mexico+Banxico+economia"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "Ingresos del Gobierno Federal crecen 8.6% en enero - Gob MX",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdlFnbEtVTGV0UEpNSzlHSXktRjZzb1JhZnFtR19rWEl2TjdlWkRVWU1YdlZ1V2JkRjBqTnRQOEItbDR1SmRxc3VrSUMxSUJqeV9fd0YyZnZJUjNrZXNfdTFzSUNpbllfZGRMaVFqRTBPWmw2TDh5UlZaeDVBY3lLTUZjTkF1eE5Na281N3dydEFsN0JZUTk5VFF3NWM?oc=5",
+      "fecha": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "fecha_minado": "2026-03-17",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "SAT+recaudacion+fiscal+Mexico+2026"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "Reporta el SAT recaudación récord en 2025 - La Jornada",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTXpwc1J5c0xXdkNWR0dmQ1dHd2dGRVR5aDVXdFM4RzRNTHJxdWtIQXE5azRKS0ExOGhDN2RaN3BKR0IwUFlXbFJaN2FzWGU2V0dWbjlVWGg0UWxnbm5kVDJRbk5HZWtINnBreXJPcVdEY3l5OW1iUk9KUkJsSG91UDd6b1NUZldGbXpzYktPWW1DWl9qYmp1ZWlnMUctcDUzbUpJUnZ5aE1KTWJfYzRvRjFLY29yekNncFV3andweDdTNTM2dlk3NEZIRnhOQQ?oc=5",
+      "fecha": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "fecha_minado": "2026-03-17",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "SAT+recaudacion+fiscal+Mexico+2026"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "México aboga por la permanencia del TMEC y el fin de los aranceles en el inicio de la revisión del tratado - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPemVEZ1BqODRoLXhwcWdSVm43Y05lRVljRENwc18xVXE2Ry1yVTVoM3c4N29LdnlSR183UWV2d3pSVGVSS2hnUlJ5M29TNVowT2syRm14QmJMTVROcndueVNxMEpERFhkbHVLNUZNWWpOWWhRT3pSZUpZb3c1Xy04dXZiNXlHYklOeVJ2QXZKMUV3eW5jOHZ2bXVodmMyWndab0NQS0JnOUVRenlaQ0lnQXdYX2p0OVMxd0ZJdGpUaWlXN2ZxWWx1T19rS3dOa1h6dmREalhwX2Y5WThld0ItSUJB0gH2AUFVX3lxTE5EZENFQV9ta0YybWVwN19ESk1kdG45X3ZGMEwxS3FHUjNnaGcwSnVWRDlUdHhmUFMzVGpxcmZNbS1wNGFMMFloYlR4VF9SY1VzN2FlbTFUYzBxZ2N3S0g5b2VJWDlqMTdmUU1DeHdjM1I2WTUxTE9iR1hXamx1bW4yRGlnaXhWODh3WDM1eVVFRzVIOVNXcEVabVEySmFUclRZMWtLYUNFaU9nR1ZKWk9MUGw0aHl1R01NSkd4NzNxOF9QM0xFZ3lTRkxXdmVyckRVLUdXRzdvcVc0STF2NjBRaEVkM29NUUlNUHJYQUppYVNpdXVXUQ?oc=5",
+      "fecha": "Mon, 16 Mar 2026 21:51:46 GMT",
+      "fecha_minado": "2026-03-17",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "T-MEC+aranceles+Mexico+exportaciones"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "México pedirá a EU que le quite todos los aranceles en las negociaciones del T-MEC: Ebrard - Nación321",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRmpDclJ3VklEeWo4Y0RMV3pRYmNKQWtibWd1dDAwOUtJWlFUeld5cWs1SFdVY3I4dnhHdUdsSThGWG9mMFkwNzRnenpZMUxmY0pnMnFMaTlUQkRKa01tX083T0NMdkhjZ1luQ3VQMERDaWZ1RnlUbEhQSF9RWDZ3ZC1ReFJzZjBZa0UzbUVSYnNNTGRnZUxpN2s0UzIwWlVPajh6cXZMV1JtZWNJZUZfcllONk1HVVZURHJERWlmY1NCbUJHMXFqU3FaRXR1YzA3U1E?oc=5",
+      "fecha": "Tue, 17 Mar 2026 01:07:44 GMT",
+      "fecha_minado": "2026-03-17",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "T-MEC+aranceles+Mexico+exportaciones"
+      }
+    },
+    {
+      "nicho": "regulaciones_pyme",
+      "fuente": "google_news_macro",
+      "titulo": "México solicitará a Estados Unidos la eliminación de aranceles en negociaciones del T-MEC - Cadena 3 Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONngyWTVzRkp0UFMxcGZkcmRDc04wVE9kdkZyU0FjVUc0VkpQOWF0Q0R6TGM4SXFodFlKMC1vYkN6MG5wNTlVRVgxeEpqLXBRSDBrSHJVelZYYXl5X1RfNm5DSU91N3Y4V0FQQlNzU0FIc0d1cWhpaTZQMC1kdVA1S2x1TTRETi13R3hOWmI4eG12NlZ3RkZuNWZXZzJGMWl1VXRpMHFrZmlUaEZIVlN6OUtBX25tZG9MY2locEk5eG1KMGpldG84R01BSnJjLUVadENORtIB1AFBVV95cUxONngyWTVzRkp0UFMxcGZkcmRDc04wVE9kdkZyU0FjVUc0VkpQOWF0Q0R6TGM4SXFodFlKMC1vYkN6MG5wNTlVRVgxeEpqLXBRSDBrSHJVelZYYXl5X1RfNm5DSU91N3Y4V0FQQlNzU0FIc0d1cWhpaTZQMC1kdVA1S2x1TTRETi13R3hOWmI4eG12NlZ3RkZuNWZXZzJGMWl1VXRpMHFrZmlUaEZIVlN6OUtBX25tZG9MY2locEk5eG1KMGpldG84R01BSnJjLUVadENORg?oc=5",
+      "fecha": "Mon, 16 Mar 2026 22:21:59 GMT",
+      "fecha_minado": "2026-03-17",
+      "tipo": "noticia",
+      "valor": null,
+      "unidad": null,
+      "extra": {
+        "query": "T-MEC+aranceles+Mexico+exportaciones"
       }
     }
   ]

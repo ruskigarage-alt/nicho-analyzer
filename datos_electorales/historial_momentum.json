@@ -172,22 +172,18 @@
   },
   "2026-03-16": {
     "mejia_haro": {
-      "menciones": 2,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 2,
-      "temas": [
-        "general"
-      ]
+      "momentum": 0,
+      "temas": []
     },
     "saul_monreal": {
-      "menciones": 2,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 2,
-      "temas": [
-        "general"
-      ]
+      "momentum": 0,
+      "temas": []
     },
     "diaz_robles": {
       "menciones": 0,
@@ -197,21 +193,19 @@
       "temas": []
     },
     "narro_cespedes": {
-      "menciones": 1,
-      "positivo": 1,
-      "negativo": 0,
-      "momentum": 3,
-      "temas": [
-        "encuesta"
-      ]
-    },
-    "varela_pinedo": {
-      "menciones": 3,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 3,
+      "momentum": 0,
+      "temas": []
+    },
+    "varela_pinedo": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
       "temas": [
-        "general"
+        "seguridad"
       ]
     },
     "bonilla_gomez": {

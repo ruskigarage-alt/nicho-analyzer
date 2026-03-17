@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json",
   "language": "es-MX",
-  "date_modified": "2026-03-17T05:21:04.574854+00:00",
-  "total_records": 131,
+  "date_modified": "2026-03-17T05:26:25.926863+00:00",
+  "total_records": 139,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#0",
@@ -879,6 +879,17 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#79",
+      "title": "UIF y CNBV firman acuerdo de colaboración para mejorar mecanismos antilavado",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://expansion.mx/economia/2026/03/16/uif-y-cnbv-firman-acuerdo-de-colaboracion-para-mejorar-mecanismos-antilavado",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#80",
       "title": "No todos los ejecutivos deberían ser consejeros (y pocos están realmente listos)",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -889,7 +900,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#80",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#81",
       "title": "¿Quién contribuye más?, las actividades que impulsan la recaudación del SAT",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -900,7 +911,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#81",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#82",
       "title": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -911,7 +922,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#82",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#83",
       "title": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -922,7 +933,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#83",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#84",
       "title": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -933,7 +944,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#84",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#85",
       "title": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -944,7 +955,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#85",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#86",
       "title": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -955,7 +966,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#86",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#87",
       "title": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -966,7 +977,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#87",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#88",
       "title": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -977,7 +988,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#88",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#89",
       "title": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -988,7 +999,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#89",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#90",
       "title": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -999,7 +1010,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#90",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#91",
       "title": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1010,7 +1021,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#91",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#92",
       "title": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1021,22 +1032,11 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#92",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#93",
       "title": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
       "content_text": "",
       "date_published": "2026-03-16",
       "url": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos",
-      "tags": [
-        "regulaciones_pyme",
-        "expansion_economia"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#93",
-      "title": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
-      "content_text": "",
-      "date_published": "2026-03-16",
-      "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes",
       "tags": [
         "regulaciones_pyme",
         "expansion_economia"
@@ -1444,6 +1444,94 @@
       "content_text": "",
       "date_published": "Wed, 21 Jan 2026 08:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96dnV2aTRRX016bFlMbUVaWmhhUlJOTzJ1VlhsSThYQndWNzZBMzMzNmdxREZHOUc3RUVERFpfNlA3X0s3b0wwdHgzV203YnV5V1Z0ZXhXVXR6enPSAWBBVV95cUxQLUp4UzdPYTFMbjF6a09aZnVZM2Eyd3lIUFgtYnVRUUxhRldKaEVteHcwNFMwYWtWcVNuTGdWaWdaOWkxZnVSMWphaDFMSHl1NnEyMDBYQUxJbXhYSlJWVlY?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#131",
+      "title": "Inflacion INPC anual Mexico",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.inegi.org.mx/temas/inpc/",
+      "tags": [
+        "regulaciones_pyme",
+        "INEGI / Banxico"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#132",
+      "title": "Precio del dólar hoy 16 de marzo: peso mexicano tiene ligera ganancia en mercados este lunes feriado - debate.com.mx",
+      "content_text": "",
+      "date_published": "Mon, 16 Mar 2026 14:20:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObVJ1NWhLdTJVWEFKUmFIeHdUbG5DV3M0NFFrX3FNa2F0TWFVb3BETUxwLWQyaXBHa1NaSU9JMVotZXFvLXZIb3B4SFBFR2NBQkg0cWhQc185dFRmYndlRDN4V3I2cGh2eEpoZUlqV3o0VW9VbVhteTFSOG1QSlhLLUotYlpKUERISWxhMEJmZlhWdnRuZTF0WXdyY3I5OFBTOHQ0a0dlM29UY3k0TDliZkdmVGRCbE1RRzhxUmZoS2xiTUNhSFIxcUE4clZjT3RoeVpFYVN4OXM5ZFdweWFkaFZ2N2tfSFZr0gHuAUFVX3lxTFBXd2lLdGdBaWgxWHU3Nm93bjJjZTEybU5LSjhVb2VfYUJtcURnZEtlS195RVo5Q3h1OTV4bl9oQk1CUzgyUE96WTRTMS1KTXRNODc1Y21uS1BKSHU2VUM1QV9mS0FSam1PUzIwT25QVUVvSTd6Zmc2bF9PTUQ4WW9pWU80VUlVVnFzR2hjaEJRSmROQ0lkazBSNzVDQ1FJYjdLZWtaemdZRGd6b0R5dWc1RFVwX0k1dnluRkFJMkY3V0JxWmQ5U0tyVG5vcTh3STVWdDc0anpJN1pvWUlrQUNSUEpuN1NoNU5RczVHWWc?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#133",
+      "title": "México | Banxico se encamina a un último recorte antes de pausar el ciclo - BBVA Research",
+      "content_text": "",
+      "date_published": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV3F2SG05aUJhOWtiV185UzNtYmc1b1JwNVpLa3hTSDFzMVl0N01HUjhXX2hXS2pOZ294TGdiaFd1TVNZamxYSFBIMXN4VTJONjNlb3VsaXJnV2NLbWZOOERmMDVnNHd1c3UxY2FoWHJlMjV6M2RiY3NPdnJLbXp3SzBWaTRValNFX1NlT2RXdHRmWnlFcWxMVlFxNk04eXVZaDdTVENWQjhRb1JvOE1pQ00tRGpydw?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#134",
+      "title": "Ingresos del Gobierno Federal crecen 8.6% en enero - Gob MX",
+      "content_text": "",
+      "date_published": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdlFnbEtVTGV0UEpNSzlHSXktRjZzb1JhZnFtR19rWEl2TjdlWkRVWU1YdlZ1V2JkRjBqTnRQOEItbDR1SmRxc3VrSUMxSUJqeV9fd0YyZnZJUjNrZXNfdTFzSUNpbllfZGRMaVFqRTBPWmw2TDh5UlZaeDVBY3lLTUZjTkF1eE5Na281N3dydEFsN0JZUTk5VFF3NWM?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#135",
+      "title": "Reporta el SAT recaudación récord en 2025 - La Jornada",
+      "content_text": "",
+      "date_published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTXpwc1J5c0xXdkNWR0dmQ1dHd2dGRVR5aDVXdFM4RzRNTHJxdWtIQXE5azRKS0ExOGhDN2RaN3BKR0IwUFlXbFJaN2FzWGU2V0dWbjlVWGg0UWxnbm5kVDJRbk5HZWtINnBreXJPcVdEY3l5OW1iUk9KUkJsSG91UDd6b1NUZldGbXpzYktPWW1DWl9qYmp1ZWlnMUctcDUzbUpJUnZ5aE1KTWJfYzRvRjFLY29yekNncFV3andweDdTNTM2dlk3NEZIRnhOQQ?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#136",
+      "title": "México aboga por la permanencia del TMEC y el fin de los aranceles en el inicio de la revisión del tratado - EL PAÍS",
+      "content_text": "",
+      "date_published": "Mon, 16 Mar 2026 21:51:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPemVEZ1BqODRoLXhwcWdSVm43Y05lRVljRENwc18xVXE2Ry1yVTVoM3c4N29LdnlSR183UWV2d3pSVGVSS2hnUlJ5M29TNVowT2syRm14QmJMTVROcndueVNxMEpERFhkbHVLNUZNWWpOWWhRT3pSZUpZb3c1Xy04dXZiNXlHYklOeVJ2QXZKMUV3eW5jOHZ2bXVodmMyWndab0NQS0JnOUVRenlaQ0lnQXdYX2p0OVMxd0ZJdGpUaWlXN2ZxWWx1T19rS3dOa1h6dmREalhwX2Y5WThld0ItSUJB0gH2AUFVX3lxTE5EZENFQV9ta0YybWVwN19ESk1kdG45X3ZGMEwxS3FHUjNnaGcwSnVWRDlUdHhmUFMzVGpxcmZNbS1wNGFMMFloYlR4VF9SY1VzN2FlbTFUYzBxZ2N3S0g5b2VJWDlqMTdmUU1DeHdjM1I2WTUxTE9iR1hXamx1bW4yRGlnaXhWODh3WDM1eVVFRzVIOVNXcEVabVEySmFUclRZMWtLYUNFaU9nR1ZKWk9MUGw0aHl1R01NSkd4NzNxOF9QM0xFZ3lTRkxXdmVyckRVLUdXRzdvcVc0STF2NjBRaEVkM29NUUlNUHJYQUppYVNpdXVXUQ?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#137",
+      "title": "México pedirá a EU que le quite todos los aranceles en las negociaciones del T-MEC: Ebrard - Nación321",
+      "content_text": "",
+      "date_published": "Tue, 17 Mar 2026 01:07:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRmpDclJ3VklEeWo4Y0RMV3pRYmNKQWtibWd1dDAwOUtJWlFUeld5cWs1SFdVY3I4dnhHdUdsSThGWG9mMFkwNzRnenpZMUxmY0pnMnFMaTlUQkRKa01tX083T0NMdkhjZ1luQ3VQMERDaWZ1RnlUbEhQSF9RWDZ3ZC1ReFJzZjBZa0UzbUVSYnNNTGRnZUxpN2s0UzIwWlVPajh6cXZMV1JtZWNJZUZfcllONk1HVVZURHJERWlmY1NCbUJHMXFqU3FaRXR1YzA3U1E?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#138",
+      "title": "México solicitará a Estados Unidos la eliminación de aranceles en negociaciones del T-MEC - Cadena 3 Argentina",
+      "content_text": "",
+      "date_published": "Mon, 16 Mar 2026 22:21:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONngyWTVzRkp0UFMxcGZkcmRDc04wVE9kdkZyU0FjVUc0VkpQOWF0Q0R6TGM4SXFodFlKMC1vYkN6MG5wNTlVRVgxeEpqLXBRSDBrSHJVelZYYXl5X1RfNm5DSU91N3Y4V0FQQlNzU0FIc0d1cWhpaTZQMC1kdVA1S2x1TTRETi13R3hOWmI4eG12NlZ3RkZuNWZXZzJGMWl1VXRpMHFrZmlUaEZIVlN6OUtBX25tZG9MY2locEk5eG1KMGpldG84R01BSnJjLUVadENORtIB1AFBVV95cUxONngyWTVzRkp0UFMxcGZkcmRDc04wVE9kdkZyU0FjVUc0VkpQOWF0Q0R6TGM4SXFodFlKMC1vYkN6MG5wNTlVRVgxeEpqLXBRSDBrSHJVelZYYXl5X1RfNm5DSU91N3Y4V0FQQlNzU0FIc0d1cWhpaTZQMC1kdVA1S2x1TTRETi13R3hOWmI4eG12NlZ3RkZuNWZXZzJGMWl1VXRpMHFrZmlUaEZIVlN6OUtBX25tZG9MY2locEk5eG1KMGpldG84R01BSnJjLUVadENORg?oc=5",
       "tags": [
         "regulaciones_pyme",
         "google_news_macro"

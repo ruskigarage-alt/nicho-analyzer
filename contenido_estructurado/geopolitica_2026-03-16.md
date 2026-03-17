@@ -25,19 +25,19 @@ schema: "NewsDigest"
 - **Resumen**: Madrid. La investigación del caso de la $LIBRA en Argentina ha descubierto un documento de contrato por el que se establece un pago de 5 millones de dólares a cambio del apoyo público del presidente argentino, Javier Milei, a dicha criptomoneda.
 - **Relevancia**: 0.4645
 
+### Goldman Sachs Warns Oil’s Biggest Shock Will Hurt Fuels Most
+- **Fecha**: Tue, 17 Mar 2026 03:32:32 GMT
+- **Fuente**: bloomberg_markets
+- **URL**: https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most
+- **Resumen**: The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc.
+- **Relevancia**: 0.5387
+
 ### Iran War Upheaval Jolts Shipping Fuel Suppliers in Singapore
 - **Fecha**: Mon, 16 Mar 2026 12:37:08 GMT
 - **Fuente**: bloomberg_markets
 - **URL**: https://www.bloomberg.com/news/articles/2026-03-16/iran-war-upheaval-jolts-bunker-fuel-suppliers-in-singapore
 - **Resumen**: A widening conflict in the Middle East has led to dramatic swings and surges in the price of fuel for ships, prompting distributors in Singapore, the world’s top bunkering hub, to cut back their purchases.
 - **Relevancia**: 0.4657
-
-### Goldman Says Oil’s Biggest Shock to Hurt Refined Products Most
-- **Fecha**: Tue, 17 Mar 2026 03:32:32 GMT
-- **Fuente**: bloomberg_markets
-- **URL**: https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most
-- **Resumen**: The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc.
-- **Relevancia**: 0.5228
 
 ### Iran’s Political Prisoners Are in the Firing Line
 - **Fecha**: Mon, 16 Mar 2026 11:00:49 +0000

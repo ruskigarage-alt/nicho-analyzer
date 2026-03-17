@@ -11,7 +11,7 @@
       "url": "https://ruskigarage-alt.github.io/nicho-analyzer"
     }
   ],
-  "date_modified": "2026-03-17T05:21:04.540321+00:00",
+  "date_modified": "2026-03-17T05:26:25.895582+00:00",
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#0",
@@ -70,6 +70,17 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#5",
+      "title": "UIF y CNBV firman acuerdo de colaboración para mejorar mecanismos antilavado",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "tags": [
+        "regulaciones_pyme",
+        "expansion_economia"
+      ],
+      "url": "https://expansion.mx/economia/2026/03/16/uif-y-cnbv-firman-acuerdo-de-colaboracion-para-mejorar-mecanismos-antilavado"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#6",
       "title": "No todos los ejecutivos deberían ser consejeros (y pocos están realmente listos)",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -80,7 +91,7 @@
       "url": "https://expansion.mx/economia/2026/03/16/no-todos-los-ejecutivos-deberian-ser-consejeros-y-pocos-estan-realmente-listos"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#6",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#7",
       "title": "¿Quién contribuye más?, las actividades que impulsan la recaudación del SAT",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -91,7 +102,7 @@
       "url": "https://expansion.mx/economia/2026/03/14/quien-contribuye-mas-sectores-recaudacion-sat"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#7",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#8",
       "title": "La guerra en Irán activa subsidio de 2.6 pesos al diésel en México",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -102,7 +113,7 @@
       "url": "https://expansion.mx/economia/2026/03/13/guerra-iran-subsidio-diesel-mexico"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#8",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#9",
       "title": "Santander: \"Hemos frenado un poco el negocio de tarjetas\"",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -113,7 +124,7 @@
       "url": "https://expansion.mx/economia/2026/03/13/santander-hemos-frenado-un-poco-el-negocio-de-tarjetas"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#9",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#10",
       "title": "Scotiabank: México es prioridad para el banco; representa 30% del negocio",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -124,7 +135,7 @@
       "url": "https://expansion.mx/economia/2026/03/13/scotiabank-mexico-es-prioridad-para-el-banco-representa-30-del-negocio"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#10",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#11",
       "title": "Analistas advierten que la guerra podría durar dos meses, con peligro de recesión",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -135,7 +146,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/analistas-advierten-que-la-guerra-podria-durar-dos-meses-con-peligro-de-recesion"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#11",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#12",
       "title": "El SAT de la 4T duplica la recaudación por fiscalizar a grandes empresas",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -146,7 +157,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/sat-4t-duplica-recaudacion-fiscalizar-grandes-empresas"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#12",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#13",
       "title": "México llevará el acero como primer tema comercial a la mesa del T-MEC",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -157,7 +168,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/mexico-acero-primer-tema-comercial-mesa-t-mec"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#13",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#14",
       "title": "México amplía su ventaja comercial con Canadá con exportaciones por más de 22,000 mdd",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -168,7 +179,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/mexico-gana-frente-canada-exportaciones-se-disparan"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#14",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#15",
       "title": "Citi México: Financiaremos proyectos de energía del plan de infraestructura",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -179,7 +190,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/citi-mexico-financiaremos-proyectos-de-energia-del-plan-de-infraestructura"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#15",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#16",
       "title": "BBVA: Los proyectos del Plan México serán exitosos y rentables si se ejecutan bien",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -190,7 +201,7 @@
       "url": "https://expansion.mx/economia/2026/03/12/bbva-los-proyectos-del-plan-mexico-seran-exitosos-y-rentables-si-se-ejecutan-bien"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#16",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#17",
       "title": "EU investiga a México y otras economías por sobrecapacidad manufacturera",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -201,7 +212,7 @@
       "url": "https://expansion.mx/economia/2026/03/11/eu-investiga-mexico-economias-sobrecapacidad-manufactura"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#17",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#18",
       "title": "Plan México busca ampliar el crédito pyme, pero el reto sigue siendo el primer financiamiento",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -212,7 +223,7 @@
       "url": "https://expansion.mx/economia/2026/03/11/plan-mexico-credito-pymes-pero-reto-negocios-fuera"
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#18",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#19",
       "title": "BanCoppel: “La cartera de autos de CI Banco nos trajo 27,000 clientes nuevos”",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -221,17 +232,6 @@
         "expansion_economia"
       ],
       "url": "https://expansion.mx/economia/2026/03/11/bancoppel-la-cartera-de-autos-de-ci-banco-nos-trajo-27-000-clientes-nuevos"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-16.jsonl#19",
-      "title": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
-      "content_text": "",
-      "date_published": "2026-03-16",
-      "tags": [
-        "regulaciones_pyme",
-        "expansion_economia"
-      ],
-      "url": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes"
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/regulaciones_pyme_2026-03-15.jsonl#20",
@@ -1907,6 +1907,17 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-16.jsonl#172",
+      "title": "Goldman Sachs Warns Oil’s Biggest Shock Will Hurt Fuels Most",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "tags": [
+        "geopolitica",
+        "bloomberg_markets"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most"
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-16.jsonl#173",
       "title": "Iran War Upheaval Jolts Shipping Fuel Suppliers in Singapore",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1915,17 +1926,6 @@
         "bloomberg_markets"
       ],
       "url": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-upheaval-jolts-bunker-fuel-suppliers-in-singapore"
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-16.jsonl#173",
-      "title": "Goldman Says Oil’s Biggest Shock to Hurt Refined Products Most",
-      "content_text": "",
-      "date_published": "2026-03-16",
-      "tags": [
-        "geopolitica",
-        "bloomberg_markets"
-      ],
-      "url": "https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most"
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/contenido_estructurado/geopolitica_2026-03-16.jsonl#174",

@@ -187,6 +187,14 @@
       "relevancia_score": 0.5869
     },
     {
+      "titulo": "UIF y CNBV firman acuerdo de colaboración para mejorar mecanismos antilavado",
+      "resumen": "Las dependencias buscan dar celeridad al intercambio de información coordinada para evitar que este delito dañe al sistema financiero mexicano.",
+      "link": "https://expansion.mx/economia/2026/03/16/uif-y-cnbv-firman-acuerdo-de-colaboracion-para-mejorar-mecanismos-antilavado",
+      "fecha_publicacion": "Mon, 16 Mar 2026 20:20:47 GMT",
+      "fuente_nombre": "expansion_economia",
+      "relevancia_score": 0.4704
+    },
+    {
       "titulo": "No todos los ejecutivos deberían ser consejeros (y pocos están realmente listos)",
       "resumen": "En el gobierno corporativo hay una verdad que conviene no olvidar: el asiento no es el logro; la responsabilidad comienza justo cuando uno se sienta.",
       "link": "https://expansion.mx/economia/2026/03/16/no-todos-los-ejecutivos-deberian-ser-consejeros-y-pocos-estan-realmente-listos",
@@ -297,14 +305,6 @@
       "fecha_publicacion": "Wed, 11 Mar 2026 18:01:01 GMT",
       "fuente_nombre": "expansion_economia",
       "relevancia_score": 0.5538
-    },
-    {
-      "titulo": "El SAT va por comerciantes, manufactureras, mineras y servicios financieros",
-      "resumen": "El fisco publicó 80 tasas efectivas pagadas en 2022 y 2023; los contribuyentes que pagaron menos ISR que el promedio de su actividad, ya tienen un mensaje en su Buzón Tributario para ponerse al tanto.",
-      "link": "https://expansion.mx/economia/2026/03/11/sat-fija-nuevas-tasas-efectivas-isr-auditorias-contribuyentes",
-      "fecha_publicacion": "Wed, 11 Mar 2026 15:31:29 GMT",
-      "fuente_nombre": "expansion_economia",
-      "relevancia_score": 0.4857
     }
   ],
   "geopolitica": [
@@ -325,20 +325,20 @@
       "relevancia_score": 0.4645
     },
     {
+      "titulo": "Goldman Sachs Warns Oil’s Biggest Shock Will Hurt Fuels Most",
+      "resumen": "The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc.",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most",
+      "fecha_publicacion": "Tue, 17 Mar 2026 03:32:32 GMT",
+      "fuente_nombre": "bloomberg_markets",
+      "relevancia_score": 0.5387
+    },
+    {
       "titulo": "Iran War Upheaval Jolts Shipping Fuel Suppliers in Singapore",
       "resumen": "A widening conflict in the Middle East has led to dramatic swings and surges in the price of fuel for ships, prompting distributors in Singapore, the world’s top bunkering hub, to cut back their purchases.",
       "link": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-upheaval-jolts-bunker-fuel-suppliers-in-singapore",
       "fecha_publicacion": "Mon, 16 Mar 2026 12:37:08 GMT",
       "fuente_nombre": "bloomberg_markets",
       "relevancia_score": 0.4657
-    },
-    {
-      "titulo": "Goldman Says Oil’s Biggest Shock to Hurt Refined Products Most",
-      "resumen": "The largest oil market shock on record triggered by the war in the Middle East is set to have a greater impact on products such as jet fuel and diesel than on crude, according to Goldman Sachs Group Inc.",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-17/goldman-says-oil-s-biggest-shock-to-hurt-refined-products-most",
-      "fecha_publicacion": "Tue, 17 Mar 2026 03:32:32 GMT",
-      "fuente_nombre": "bloomberg_markets",
-      "relevancia_score": 0.5228
     },
     {
       "titulo": "Iran’s Political Prisoners Are in the Firing Line",

@@ -2,8 +2,8 @@
   "meta": {
     "fuente": "Cripeso · Marzo 2026",
     "actualizado": "2026-03-16",
-    "total_menciones_hoy": 8,
-    "entradas_analizadas": 8,
+    "total_menciones_hoy": 1,
+    "entradas_analizadas": 1,
     "nota": "Generado automáticamente. Edita ENCUESTAS en generar_candidatos_json.py para actualizar porcentajes."
   },
   "candidatos": [
@@ -13,37 +13,25 @@
       "partido": "PAN",
       "partyClass": "pan",
       "pct": 39.5,
-      "momentum": 3,
-      "menciones": 3,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
-        "general"
+        "seguridad"
       ],
       "noticias": [
         {
           "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Miguel Varela Pinedo rinde su Primer Informe como Presidente Municipal de Zacatecas - Página 24 Zacatecas",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdTJBeTlNM2Rzc1lFUmlqYXBjZzZtaDFUd0pJbjNLX2pydFgxMEFRZ3JTekJJZ3BCbTJRc09DWVBzRlJ3T09POTdfc25xdDBOZUp5Y1ZGMEI2MGVVUzJ5bUFUeXgtNWJ4UUQ2S0ZwZHNSTl8xTWJxSG9KZG85S01HbWljamRtMXRNV0xyWnlFSWY0VHJGS1JfX003RnE4Wnh2VjFQQTZFODJ3M2NpTElURG45UmFxRlRrclpVX0pOQmhhUHJKZk5kYUVVRFg4anc?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "\"Sin caer en confrontaciones políticas\" propone alcalde eliminar el ambulantaje - Meganoticias.MX",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPblVoUjZqQVE1eFdlTHZqbFcxWHkzUDNSVWQwWWxFaUlZN1BYaWNSb2hEMnhzbVZBMFJCclpUZ1Y3T3NyZks5WWxHYy1NY2ZySlA3ajNBdFVEd3VGZ0pmLS1fYlNCVXM1SXpZajZNTHl1Wl8ySzJkOUx6SHl5ZlhKX1dkZU9saG9ORndORWNRV1pHMHMzM1VhMkNFdlVFQTluYUlhNkdPYzVIcnpnNHZ6cWNUdWhzbVI5SFVmR1ZkT2NZeW00TDBWMmVB?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Entrega Miguel Varela mejoras en la infraestructura del Jardín de Niños “María Enriqueta Camarillo” - La Jornada Zacatec",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1k5QVJPVlJSWmVFclBHYTVwVTRXcUlJTlozbFQ0RU92YlE5VmVpc0VSSmlhU0hlWnhoYllhLVRZVlpITlZVaXJQcnZfOWZDcUd6bzFvdEFVT1FobXU1NDVvdWg0Q0tPUFJYYXZXTTJrUXB1NVhYVENxVnJoRHBUTGFKUHg4V1dyRzNXc1N5Z3huQ2R0V0w0Y0lWSG5qT0hNSTlUX2xXTTZSYlBacHdza2dQTzNzcUk1b2NaTWxhR0xMZw?oc=5"
+          "tag": "seguridad",
+          "texto": "Pide Miguel Ángel Varela enviar 500 elementos más de la Guardia Nacional a Zacatecas para combatir la inseguridad - El A",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX092anVMMU0xVGRBSUtOaXRuNDNEUk42RzNsanlxNW1SbUJoVjJZOVdJNTVkZ0ZsczhnQ045NDdRR2NGc3lKSC1YcDlHUWJRVU1Jei1wRGhQd2tiQ05fTWFvTU5wU3JjNDktSHVKVTlaV21wM0syQkR0NFQ1RFZnRlBQR2pPZ3pKR0ljWjgwaEpPMk51Y2NQcTRkVmJ3V3JYSjI5RnRySmlJSnNYSGJIOXMyRzJBdzdZQUo3VFk3dTc4TVNjSE82eGxheHRwUnJ2Z3c5Z2NXdw?oc=5"
         }
       ],
-      "menciones_total": 13,
-      "menciones_hoy": 3,
-      "score_compuesto": 40.8
+      "menciones_total": 11,
+      "menciones_hoy": 1,
+      "score_compuesto": 40.6
     },
     {
       "id": "bonilla_gomez",
@@ -70,31 +58,18 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 23.6,
-      "momentum": 1,
-      "menciones": 2,
+      "momentum": -1,
+      "menciones": 0,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "general"
       ],
-      "noticias": [
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Ulises Mejía Haro impulsa ley para fortalecer la investigación en Zacatecas - Las Noticias Ya",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmM5em11MU14LXk1MUFKT3ZSRTZTWFpLbjFxbXR1ZTRuc2xURmVVZThFbWU2b2lYb1hCQ0NXOURBSVdaWFMtcko1UURTYnVUTHE4U2VmVktNaDFGVDlBd1pidll1V0prczZXOFRTNkE4NF8tSzVPVm1MM2JaekNLMHJzRXVhS3dNdVRjeUd0U0poV0NlTWtUTHlmYjBxRVdmUVE4cg?oc=5"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Zacatecas asume su identidad como un Estado binacional: Ulises Mejía Haro - Las Noticias Ya",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlV2aWk0RWlxV181V0VDUDU1Y0VEMHU1NVQ1REZNeC11V1ZrbkZ1WVJXOER4cmM1bkwxdmNHNE5LT3A1YmxqTW5uQTFoZ2wwWTk3a3hqcnNuSDlhZHdaa21kRmxNaGFscWczdDMyVTBIa1VWekRTMVo1Vk56WTBKWEh5VjNxSUJLRVpBMVVSdnMyTDY0M1YwcEl5bk5ES2dk?oc=5"
-        }
-      ],
-      "menciones_total": 14,
-      "menciones_hoy": 2,
-      "score_compuesto": 25.0
+      "noticias": [],
+      "menciones_total": 12,
+      "menciones_hoy": 0,
+      "score_compuesto": 24.8
     },
     {
       "id": "anaya_mota",
@@ -121,31 +96,18 @@
       "partido": "PT/Morena",
       "partyClass": "ptmorena",
       "pct": 21.7,
-      "momentum": 1,
-      "menciones": 2,
+      "momentum": -1,
+      "menciones": 0,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Medios locales",
       "tags": [
         "general"
       ],
-      "noticias": [
-        {
-          "fuente": "eltrochilero",
-          "tag": "general",
-          "texto": "Jornada de dignificación transforma primaria en la capital",
-          "link": "https://eltrochilero.com/jornada-de-dignificacion-transforma-primaria-en-la-capital/"
-        },
-        {
-          "fuente": "googlenews",
-          "tag": "general",
-          "texto": "Monreal advierte que irá al Tribunal si Morena lo excluye de la gubernatura de Zacatecas - Milenio",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3hlbVdCR0dBQ3J5VnViSWdMTllKVGxUbXZVV1k0N0Z6NDV3Q29qRGtCT0FHLTFBU01GVTRxanh0U3lWd3p4Ui1HZTJGeXZzSlVyYnBydkM4SlZZYjRpazh0NlA5QlpCQzhTTDVnXy0zRkw0RXZyVE1YQkw3Z3JLX29KbXdmaGpDZFhzNVl6eVhwZ9IBkgFBVV95cUxQY29vSEtlVUtnVzdZYW9YZW1sSF9nMm5pMlp3NFlfNE5hcTEtSHpuRDlZeF9MRUItWGdmQU5CZWhQaTVMeWdWci04MmVIWlQ2SHNoSExUODlqaEFOTVVCMjFFVGI2eDVnY2VrX19rQ01Da25iOVE0QktEaVVWZjBObUNJR2pCRDlLa05DWlFzenRxQQ?oc=5"
-        }
-      ],
-      "menciones_total": 15,
-      "menciones_hoy": 2,
-      "score_compuesto": 23.2
+      "noticias": [],
+      "menciones_total": 13,
+      "menciones_hoy": 0,
+      "score_compuesto": 23.0
     },
     {
       "id": "diaz_robles",
@@ -172,25 +134,18 @@
       "partido": "PT",
       "partyClass": "pt",
       "pct": 12.0,
-      "momentum": 3,
-      "menciones": 1,
-      "positivas": 1,
+      "momentum": 0,
+      "menciones": 0,
+      "positivas": 0,
       "negativas": 0,
       "fuente": "Referencia general",
       "tags": [
-        "encuesta"
+        "general"
       ],
-      "noticias": [
-        {
-          "fuente": "googlenews",
-          "tag": "encuesta",
-          "texto": "“Me Atacan con Fuego Amigo Porque Saben que voy Arriba en las Encuestas” - Página 24 Zacatecas",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHdmS1RxMU1VcWkzVmowSXhtWTJSRS1sVWNTZmRCdG5HSVNKRlRTcXYyLVVSNjJ0VXhEZVpWZjVWejhCVTdOeE9JcGZ0VldZUFlwbVhtbFd0amhkcXltb0pZLXVNU1hfY1Y4QzFhT0FJYk4tRjliS3pwYml6Q0VvM2lnUTk0NXRwdERsTkduSkd6MkpscnllZEZQSGlMWlJieUhtUGNta011V1E1bjRqVklHWFFBRnhMdHFCRWdB?oc=5"
-        }
-      ],
-      "menciones_total": 11,
-      "menciones_hoy": 1,
-      "score_compuesto": 13.1
+      "noticias": [],
+      "menciones_total": 10,
+      "menciones_hoy": 0,
+      "score_compuesto": 13.0
     }
   ]
 }
