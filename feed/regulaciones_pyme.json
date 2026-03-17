@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json",
   "language": "es-MX",
-  "date_modified": "2026-03-16T14:40:21.672120+00:00",
-  "total_records": 123,
+  "date_modified": "2026-03-17T05:21:04.574854+00:00",
+  "total_records": 131,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#0",
@@ -1356,6 +1356,94 @@
       "content_text": "",
       "date_published": "Wed, 04 Mar 2026 08:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHQ2MHF5ZFVNdF9zZ0FLSHBBSFBoSUpXOWxXc1ZFcnhQNDNaMmpZblB3ZkdSUkJYSTBuNThERnNBek85dXYzUmhhOGh6X2ZaMTJMLS1pb0xIMWtGRkZoNlVMMXNMaGJmbEtUNDZxWkNLSFBMZDBPam9DZXBTRk1DTHI0V3FBY3g2T1JDQ1VDTmFQN0hLVmgyazBsbWZQVWFxZXdlYmV0NDV2US1W?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#123",
+      "title": "Inflacion INPC anual Mexico",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.inegi.org.mx/temas/inpc/",
+      "tags": [
+        "regulaciones_pyme",
+        "INEGI / Banxico"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#124",
+      "title": "¿Precio del dólar hoy en México? Así cotiza el peso este lunes 9 de marzo de 2026 - Univision",
+      "content_text": "",
+      "date_published": "Mon, 16 Mar 2026 11:02:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0o4bVZGdzdTZXhpLVNxaUNoTG9aR3VuT1U4RWY2ZFF2SFlYSVo4T09DM2FGbi14SmVkRmViQTFqVFl3cFZuNlRubmM3ckFUWnZxamhsZ2ZKanFhdWpFWkcyNi1STnhRaE0xOFFVNWRuSXlIMXlvV1BGQWNjM1pWa0J3OVdxejU5b3RlQktpU1dLNW93eS1aeUllUmtPMG1yNXlwcHdyR0lyeUxHWmhPYjg3dDY?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#125",
+      "title": "Precio del dólar hoy en México: Banxico fija tipo de cambio en 17.83 pesos - lineadirectaportal.com",
+      "content_text": "",
+      "date_published": "Mon, 16 Mar 2026 14:21:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWnVWX0NDV3F0N0pLcFlwLV9kaUsxa1I1YXZXbkZjclBJeUliSnNJRDhuVml4di15ejJwbUthQmdYUzlFTnotNVdMand1QzdiQlBqVk9XOVZiNzUzZXp0SzZGNVI3dWpmam5uWEQ4MThWU0t1TEVpODVLSms4WDlrRENudUV3SVRxUDE0OTFDR1Rnb054aVhtMWxLX1hxeW5nOENYTFVJRlFlTnVlSkYwZzZqUXg3aTcyOWk2QS0ycHJESTNESE12SnNjdw?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#126",
+      "title": "Precio del dólar hoy 15 de marzo: tensiones en Ormuz arrastran al peso mexicano - debate.com.mx",
+      "content_text": "",
+      "date_published": "Sun, 15 Mar 2026 18:08:12 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3otRlNXakljZTBUd3NfbE1sRTRUbXJraHJ0UFNidkhETU1IMnhLVnl6cno0aC1iQ1RidXRUcDdYQ0tDeTFkNThmRWdyYjh6WlZuZkR0S3lId2FBN3RXeG82VUJEMnBWaGZkUnRiOFdIaUlXLWJOWE53QkxodFdkSVRsa2c2aUlkV0kxcU1aV0xMRkhnc00tYlZKVlZPZXVPcy1pNzFSX3RZdjVobmwtWE84YWdyLV9keHBEYjVxbzJWY1R3elF1Q1FyemnSAdIBQVVfeXFMT2c1eGJfdDNRN1FuRXJUeXMzcklzRjVmb2VCbUdONndjTmRmLUJ1YlFNcTFNMkduNjJVcGtxVTVkNGpiSXpFcDVMa1VsbWc4NDFhTnlxeVd1a1dhZ19kT05QdjBmamtUVldMVFhqQXF3eWRPZk9LOWFoUkpSamdaZHQtbXVySF9FeVVDSi1Qb1Y4VTFPZFBXeE5FVHFoQ3ZVZENUdkFDY2tGRWxza015WXhiX3h4OGFhdUhSRUxvaWNXZDFJTGxiTlc0SmJxVE1fOWNB?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#127",
+      "title": "La volatilidad marca el rumbo del peso mexicano que rebota por la atención a Irán - EL PAÍS",
+      "content_text": "",
+      "date_published": "Tue, 10 Mar 2026 00:44:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNFg0b2N3Q0FzUjZfdGFpMlRUcEExUGRYbEtGOFFtSjJnOTdxeTR1MlQtbXA4TE1hZEpCTFBoNVZKb3VjYS1xWFAzTDB3MlZHMTZqaU83bVRsWnVZaFhNWVJFOTlLa0F6UGI2UTRIN3dxSU5Kbjg5UWNrZlFrUWZQTlM4QmFscTQ1NFNDVjUwYlVGNzdiQWpWOGRtXzBibVllQjZ3eXlZa1g0bkxMdllqZUJZUkFKRDdlYVl4LWx1U3JxS1hkb3RLNWV3cV_SAeABQVVfeXFMUDZ5UTJ3STJFaG1qcFFhTVhZZDVKSFBMc296RjA3VHFuSkZqeU1zeG5NeEk4eVhFaUNkT09OQnV0cl91R0lZRW5qbWpQQ2tSVmN5THBLLUJzNDlQZVZNRWNOUmJGODZJenZXYlNPN09aV1NvMjItR1hzVmpYZW1QTUo1RXBfY3VFZEhXS1BOSGhSWmJVa2txdE01Y1lNMERHV2dYNk9sQlRzaExyc0NWckVOYnBTcVZ0NnpBcXdadnp2R2NHZ2xvaHhSY3pqZVRzdmNFSjU0Q1V1Zy16Q1V1Uzg?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#128",
+      "title": "Banxico advierte elevada incertidumbre en economías regionales durante 2026 - Amexi",
+      "content_text": "",
+      "date_published": "Thu, 12 Mar 2026 23:06:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2xkd3JqS1lJVkxzREFiYjhEVG41VXRBWTBIRndwYVdEVWEzRWVxSWpZZjc0amJ4VUxaMHJMOUIxcnNHMWJ5RVJfRGVtVU9WbEkwWWxzbHRhUENiWURLbm1oanVQMnlrVkVnb1ZIbWxtU2sxWm9hTWRwUEh2NVFIWXpsYVdZdTNFVDZidzdxVjJKMnBXMHhCQlZVejE1ZXZzNlY2TDV4Tkg0OXB3c3AzMHUtay1JUHU5?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#129",
+      "title": "Tras anulación de aranceles por fentanilo, exportaciones mexicanas a EU fuera del T-MEC pagarán 15% y no 25% - El Economista",
+      "content_text": "",
+      "date_published": "Sun, 22 Feb 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3hsNkNUa3ZmZkJob0UyZzVKeXNmcVEtaTllTGJZa2xOc3hIVFg0cXF3NzdiTUw1cjVWYjRzeDZtOXhoMVRKbzNPdXB6UHFRUjNtSjVQSXd3blNiRVlEdEE1MURrRS1iVVJRUHZybUhIWmdfWlFFc2JnOG8zZndkRWp2T2U4YnBkZi1Ed05CckN4MFVGSjRrbEFPaTFXMTZNRTA5U0hQWEhkWUNaZG1WQU9tT015WmYzTm5iRDZUMzlPYTQ0SUl1dDZ3WFlLRFhreEk3OVlDSVXSAd4BQVVfeXFMTnpzajFfYXhmNm92SjViVXE5WHNZR1ROd3VNYjlmRTZueXVIMDBOeFpwMFBMN2Z2LUgtMHRkVDBPNllpYktMaVFFYU1qamNfWEM5c29mNV8xSEp3Y2d0enU4VGplVkVXeno2MEZjNWNEX1FQb0lEYktuVDVCZzk0bTVPLVQ4MDV4d0xOa1NxcFBmamk5clZKRXlDV2Q1cGJwLUk5Rng4SzBrQ0kyc0tzWFRLWnhfVWRqbHo4T3RoMnBCUFFlWjcwUS1lT2MxRkJoWVVtV1l1MHNTNUY2TTBB?oc=5",
+      "tags": [
+        "regulaciones_pyme",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#130",
+      "title": "Por qué México ha sido el gran beneficiado de los aranceles de Trump (y la prueba de fuego que enfrenta en 2026) - BBC",
+      "content_text": "",
+      "date_published": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96dnV2aTRRX016bFlMbUVaWmhhUlJOTzJ1VlhsSThYQndWNzZBMzMzNmdxREZHOUc3RUVERFpfNlA3X0s3b0wwdHgzV203YnV5V1Z0ZXhXVXR6enPSAWBBVV95cUxQLUp4UzdPYTFMbjF6a09aZnVZM2Eyd3lIUFgtYnVRUUxhRldKaEVteHcwNFMwYWtWcVNuTGdWaWdaOWkxZnVSMWphaDFMSHl1NnEyMDBYQUxJbXhYSlJWVlY?oc=5",
       "tags": [
         "regulaciones_pyme",
         "google_news_macro"

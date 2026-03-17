@@ -2,7 +2,7 @@
 title: "Politica Local — Actualización 2026-03-16"
 date: "2026-03-16"
 nicho: "politica_local"
-total_entradas: 19
+total_entradas: 18
 schema: "NewsDigest"
 ---
 
@@ -136,11 +136,4 @@ schema: "NewsDigest"
 - **URL**: https://www.jornada.com.mx/2026/03/16/capital/028n1cap?partner=rss
 - **Resumen**: Aun cuando el Congreso de la Ciudad de México –uno de los cinco legislativos estatales más caros del país– tuvo una disminución de recursos a partir de los gobiernos de la 4T, en los años recientes ha reportado incrementos anuales de más de 100 millones de pesos, así como ampliaciones presupuestales, de acuerdo con datos de la Secretaría de Administración y Finanzas.
 - **Relevancia**: 0.4893
-
-### Narro Céspedes rechaza señalamientos y denuncia “guerra sucia” tras comunicado del PT
-- **Fecha**: Sat, 14 Mar 2026 21:24:46 +0000
-- **Fuente**: jornada_zacatecas
-- **URL**: https://ljz.mx/14/03/2026/narro-cespedes-rechaza-senalamientos-y-denuncia-guerra-sucia-tras-comunicado-del-pt/
-- **Resumen**: El diputado federal de José Narro Céspedes rechazó los señalamientos que lo vinculan con supuestas investigaciones y presuntos nexos con actividades ilícitas, y calificó dichas versiones como parte de una “guerra sucia” dirigida a desacreditar su trayectoria política y al movimiento social que encabeza en Zacatecas. El posicionamiento del legislador se produjo luego de que [&#8230;]
-- **Relevancia**: 0.5191
 

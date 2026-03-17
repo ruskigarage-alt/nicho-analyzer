@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json",
   "language": "es-MX",
-  "date_modified": "2026-03-16T14:40:21.672120+00:00",
-  "total_records": 77,
+  "date_modified": "2026-03-17T05:21:04.574854+00:00",
+  "total_records": 76,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#0",
@@ -842,17 +842,6 @@
       "tags": [
         "politica_local",
         "jornada_capital"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#76",
-      "title": "Narro Céspedes rechaza señalamientos y denuncia “guerra sucia” tras comunicado del PT",
-      "content_text": "",
-      "date_published": "2026-03-16",
-      "url": "https://ljz.mx/14/03/2026/narro-cespedes-rechaza-senalamientos-y-denuncia-guerra-sucia-tras-comunicado-del-pt/",
-      "tags": [
-        "politica_local",
-        "jornada_zacatecas"
       ]
     }
   ]

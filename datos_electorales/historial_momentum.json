@@ -172,71 +172,61 @@
   },
   "2026-03-16": {
     "mejia_haro": {
-      "menciones": 5,
-      "positivo": 0,
-      "negativo": 0,
-      "momentum": 5,
-      "temas": [
-        "general"
-      ]
-    },
-    "saul_monreal": {
-      "menciones": 4,
-      "positivo": 0,
-      "negativo": 0,
-      "momentum": 4,
-      "temas": [
-        "gasto_publico",
-        "general"
-      ]
-    },
-    "diaz_robles": {
-      "menciones": 1,
-      "positivo": 0,
-      "negativo": 1,
-      "momentum": -2,
-      "temas": [
-        "nepotismo"
-      ]
-    },
-    "narro_cespedes": {
-      "menciones": 4,
-      "positivo": 0,
-      "negativo": 0,
-      "momentum": 4,
-      "temas": [
-        "general",
-        "seguridad"
-      ]
-    },
-    "varela_pinedo": {
       "menciones": 2,
       "positivo": 0,
       "negativo": 0,
       "momentum": 2,
       "temas": [
-        "general",
-        "seguridad"
+        "general"
+      ]
+    },
+    "saul_monreal": {
+      "menciones": 2,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 2,
+      "temas": [
+        "general"
+      ]
+    },
+    "diaz_robles": {
+      "menciones": 0,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
+    },
+    "narro_cespedes": {
+      "menciones": 1,
+      "positivo": 1,
+      "negativo": 0,
+      "momentum": 3,
+      "temas": [
+        "encuesta"
+      ]
+    },
+    "varela_pinedo": {
+      "menciones": 3,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 3,
+      "temas": [
+        "general"
       ]
     },
     "bonilla_gomez": {
-      "menciones": 2,
-      "positivo": 1,
-      "negativo": 0,
-      "momentum": 4,
-      "temas": [
-        "candidatura",
-        "general"
-      ]
-    },
-    "anaya_mota": {
-      "menciones": 1,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 1,
-      "temas": [
-        "general"
-      ]
+      "momentum": 0,
+      "temas": []
+    },
+    "anaya_mota": {
+      "menciones": 0,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
     }
   }
 }

@@ -1,0 +1,126 @@
+{
+  "timestamp":{
+    "0":"2026-03-17T04:32:46.680084+00:00"
+  },
+  "source_count":{
+    "0":24
+  },
+  "oil":{
+    "0":{
+      "error":"oil unavailable"
+    }
+  },
+  "signals":{
+    "0":{
+      "narrative_density":16.67,
+      "shipping_activity":1,
+      "insurance_risk":0,
+      "military_activity":1,
+      "twitter_signal":0
+    }
+  },
+  "news_sample":{
+    "0":[
+      {
+        "title":"Trump's confidence is undimmed - but every Iran option comes with risk",
+        "score":1,
+        "source":"https:\/\/feeds.bbci.co.uk\/news\/world\/rss.xml"
+      },
+      {
+        "title":"Afghanistan accuses Pakistan of killing hundreds in hospital strike",
+        "score":1,
+        "source":"https:\/\/feeds.bbci.co.uk\/news\/world\/rss.xml"
+      },
+      {
+        "title":"'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
+        "score":1,
+        "source":"https:\/\/feeds.bbci.co.uk\/news\/world\/rss.xml"
+      },
+      {
+        "title":"Wary allies show there's no quick fix to Trump's Iran crisis",
+        "score":3,
+        "source":"https:\/\/feeds.bbci.co.uk\/news\/world\/rss.xml"
+      },
+      {
+        "title":"Sri Lanka declares Wednesdays off as Asian countries try to conserve fuel",
+        "score":1,
+        "source":"https:\/\/feeds.bbci.co.uk\/news\/world\/rss.xml"
+      },
+      {
+        "title":"Millions without electricity as Cuba's power grid collapses",
+        "score":1,
+        "source":"https:\/\/feeds.bbci.co.uk\/news\/world\/rss.xml"
+      },
+      {
+        "title":"Cuba faces nationwide blackouts amid US oil blockade",
+        "score":1,
+        "source":"https:\/\/www.aljazeera.com\/xml\/rss\/all.xml"
+      },
+      {
+        "title":"Top Democrat in US House slams Trump\u2019s \u2018reckless war of choice\u2019",
+        "score":1,
+        "source":"https:\/\/www.aljazeera.com\/xml\/rss\/all.xml"
+      },
+      {
+        "title":"Israel policy looms large over US elections in Illinois amid Iran war",
+        "score":1,
+        "source":"https:\/\/www.aljazeera.com\/xml\/rss\/all.xml"
+      },
+      {
+        "title":"Iran says wars are not won on social media",
+        "score":1,
+        "source":"https:\/\/www.aljazeera.com\/xml\/rss\/all.xml"
+      },
+      {
+        "title":"Attempts to open Strait of Hormuz by force would be \u2018almost suicidal\u2019",
+        "score":2,
+        "source":"https:\/\/www.aljazeera.com\/xml\/rss\/all.xml"
+      },
+      {
+        "title":"Many killed, wounded after blasts hit Nigeria\u2019s Maiduguri, witnesses say",
+        "score":1,
+        "source":"https:\/\/www.aljazeera.com\/xml\/rss\/all.xml"
+      },
+      {
+        "title":"Experts say global response may evolve over Hormuz security",
+        "score":1,
+        "source":"https:\/\/www.aljazeera.com\/xml\/rss\/all.xml"
+      },
+      {
+        "title":"Iran War Live Updates: Trump Says He Wants to Delay Visit to China Because of Conflict",
+        "score":3,
+        "source":"https:\/\/rss.nytimes.com\/services\/xml\/rss\/nyt\/World.xml"
+      },
+      {
+        "title":"Intrigue, Power Plays and Rivalries: Inside the Rise of Mojtaba Khamenei",
+        "score":1,
+        "source":"https:\/\/rss.nytimes.com\/services\/xml\/rss\/nyt\/World.xml"
+      },
+      {
+        "title":"In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.",
+        "score":1,
+        "source":"https:\/\/rss.nytimes.com\/services\/xml\/rss\/nyt\/World.xml"
+      },
+      {
+        "title":"Pakistani-Afghan War Takes Heavy Toll on Civilians",
+        "score":1,
+        "source":"https:\/\/rss.nytimes.com\/services\/xml\/rss\/nyt\/World.xml"
+      },
+      {
+        "title":"Oil jumps over 2% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
+        "score":3,
+        "source":"https:\/\/www.cnbc.com\/id\/100003114\/device\/rss\/rss.html"
+      },
+      {
+        "title":"Trump says U.S. asked China to delay Xi meeting 'a month or so' due to Iran war",
+        "score":1,
+        "source":"https:\/\/www.cnbc.com\/id\/100003114\/device\/rss\/rss.html"
+      },
+      {
+        "title":"Trump says he thinks he will have the 'honor' of 'taking Cuba'",
+        "score":1,
+        "source":"https:\/\/www.cnbc.com\/id\/100003114\/device\/rss\/rss.html"
+      }
+    ]
+  }
+}

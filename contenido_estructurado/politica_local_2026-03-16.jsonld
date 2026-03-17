@@ -4,7 +4,7 @@
   "name": "politica_local — 2026-03-16",
   "description": "Digest semántico de politica_local generado el 2026-03-16",
   "datePublished": "2026-03-16",
-  "numberOfItems": 19,
+  "numberOfItems": 18,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -310,23 +310,6 @@
         },
         "keywords": "politica, local",
         "relevanceScore": 0.4893
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 19,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Narro Céspedes rechaza señalamientos y denuncia “guerra sucia” tras comunicado del PT",
-        "description": "El diputado federal de José Narro Céspedes rechazó los señalamientos que lo vinculan con supuestas investigaciones y presuntos nexos con actividades ilícitas, y calificó dichas versiones como parte de una “guerra sucia” dirigida a desacreditar su trayectoria política y al movimiento social que encabeza en Zacatecas. El posicionamiento del legislador se produjo luego de que [&#8230;]",
-        "url": "https://ljz.mx/14/03/2026/narro-cespedes-rechaza-senalamientos-y-denuncia-guerra-sucia-tras-comunicado-del-pt/",
-        "datePublished": "Sat, 14 Mar 2026 21:24:46 +0000",
-        "publisher": {
-          "@type": "Organization",
-          "name": "jornada_zacatecas"
-        },
-        "keywords": "politica, local",
-        "relevanceScore": 0.5191
       }
     }
   ]
