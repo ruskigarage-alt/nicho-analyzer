@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json",
   "language": "es-MX",
-  "date_modified": "2026-03-17T05:26:25.926863+00:00",
-  "total_records": 139,
+  "date_modified": "2026-03-17T05:33:22.612521+00:00",
+  "total_records": 138,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#0",
@@ -1473,17 +1473,6 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#133",
-      "title": "México | Banxico se encamina a un último recorte antes de pausar el ciclo - BBVA Research",
-      "content_text": "",
-      "date_published": "Wed, 17 Dec 2025 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV3F2SG05aUJhOWtiV185UzNtYmc1b1JwNVpLa3hTSDFzMVl0N01HUjhXX2hXS2pOZ294TGdiaFd1TVNZamxYSFBIMXN4VTJONjNlb3VsaXJnV2NLbWZOOERmMDVnNHd1c3UxY2FoWHJlMjV6M2RiY3NPdnJLbXp3SzBWaTRValNFX1NlT2RXdHRmWnlFcWxMVlFxNk04eXVZaDdTVENWQjhRb1JvOE1pQ00tRGpydw?oc=5",
-      "tags": [
-        "regulaciones_pyme",
-        "google_news_macro"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#134",
       "title": "Ingresos del Gobierno Federal crecen 8.6% en enero - Gob MX",
       "content_text": "",
       "date_published": "Tue, 10 Feb 2026 08:00:00 GMT",
@@ -1494,7 +1483,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#135",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#134",
       "title": "Reporta el SAT recaudación récord en 2025 - La Jornada",
       "content_text": "",
       "date_published": "Thu, 15 Jan 2026 08:00:00 GMT",
@@ -1505,7 +1494,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#136",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#135",
       "title": "México aboga por la permanencia del TMEC y el fin de los aranceles en el inicio de la revisión del tratado - EL PAÍS",
       "content_text": "",
       "date_published": "Mon, 16 Mar 2026 21:51:46 GMT",
@@ -1516,7 +1505,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#137",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#136",
       "title": "México pedirá a EU que le quite todos los aranceles en las negociaciones del T-MEC: Ebrard - Nación321",
       "content_text": "",
       "date_published": "Tue, 17 Mar 2026 01:07:44 GMT",
@@ -1527,7 +1516,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#138",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/regulaciones_pyme.json#137",
       "title": "México solicitará a Estados Unidos la eliminación de aranceles en negociaciones del T-MEC - Cadena 3 Argentina",
       "content_text": "",
       "date_published": "Mon, 16 Mar 2026 22:21:59 GMT",

@@ -5,7 +5,7 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json",
   "language": "es-MX",
-  "date_modified": "2026-03-17T05:26:25.926863+00:00",
+  "date_modified": "2026-03-17T05:33:22.612521+00:00",
   "total_records": 281,
   "items": [
     {
@@ -1803,6 +1803,17 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#163",
+      "title": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission",
+      "content_text": "",
+      "date_published": "2026-03-16",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss",
+      "tags": [
+        "geopolitica",
+        "al_jazeera"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#164",
       "title": "Trump claims strikes on Iran prevented nuclear war",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1813,7 +1824,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#164",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#165",
       "title": "Iran war shows urgency of Hong Kong’s green shipping transition",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1824,7 +1835,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#165",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#166",
       "title": "Papers please: China raises pressure on Panama amid canal row with ship inspection wave",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1835,7 +1846,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#166",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#167",
       "title": "Trump está \"sorprendido\" por el rechazo de sus aliados a enviar buques al estrecho de Ormuz",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1846,7 +1857,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#167",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#168",
       "title": "Muere joven que esperó por meses un medicamento que nunca le entregó el sistema de salud colombiano",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1857,22 +1868,11 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#168",
-      "title": "US forces conduct over 6,500 combat sorties in operation against Iran — CENTCOM",
-      "content_text": "",
-      "date_published": "2026-03-16",
-      "url": "https://tass.com/world/2102637",
-      "tags": [
-        "geopolitica",
-        "tass_english"
-      ]
-    },
-    {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#169",
-      "title": "At least five powerful explosions rock Iran’s southern port city of Bandar Abbas",
+      "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
       "content_text": "",
       "date_published": "2026-03-16",
-      "url": "https://tass.com/world/2102581",
+      "url": "https://tass.com/world/1969663",
       "tags": [
         "geopolitica",
         "tass_english"
@@ -1880,17 +1880,6 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#170",
-      "title": "Iran destroys hangars with US fighter jets at bases in UAE, Bahrain — IRGC",
-      "content_text": "",
-      "date_published": "2026-03-16",
-      "url": "https://tass.com/world/2102557",
-      "tags": [
-        "geopolitica",
-        "tass_english"
-      ]
-    },
-    {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#171",
       "title": "European leaders warn Israel against ground offensive in Lebanon",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1901,7 +1890,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#172",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#171",
       "title": "Bowman, Capital Rules for the Real Economy",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1912,7 +1901,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#173",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#172",
       "title": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1923,7 +1912,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#174",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#173",
       "title": "Bowman, Outlook for the Economy and Monetary Policy",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1934,7 +1923,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#175",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#174",
       "title": "Council on Foreign Relations — feed geopolitico 2026-03-13",
       "content_text": "Council on Foreign Relations (EEUU): Analisis de politica exterior y geopolitica global. Feed RSS referencia: https://www.cfr.org/blog/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -1945,7 +1934,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#176",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#175",
       "title": "CSIS — feed geopolitico 2026-03-13",
       "content_text": "CSIS (EEUU): Centro de Estudios Estrategicos e Internacionales. Feed RSS referencia: https://www.csis.org/blogs/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -1956,7 +1945,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#177",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#176",
       "title": "Brookings Institution — feed geopolitico 2026-03-13",
       "content_text": "Brookings Institution (EEUU): Think tank politica publica y economia global. Feed RSS activo: https://www.brookings.edu/feed/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -1967,7 +1956,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#178",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#177",
       "title": "Carnegie Endowment — feed geopolitico 2026-03-13",
       "content_text": "Carnegie Endowment (EEUU): Geopolitica y relaciones internacionales. Feed RSS activo: https://carnegieendowment.org/rss/solr/feed/?fa=pub. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -1978,7 +1967,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#179",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#178",
       "title": "Chatham House — feed geopolitico 2026-03-13",
       "content_text": "Chatham House (Europa): Relaciones internacionales Reino Unido. Feed RSS referencia: https://www.chathamhouse.org/research/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -1989,7 +1978,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#180",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#179",
       "title": "Bruegel — feed geopolitico 2026-03-13",
       "content_text": "Bruegel (Europa): Economia europea y politica comercial. Feed RSS activo: https://www.bruegel.org/rss.xml. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2000,7 +1989,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#181",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#180",
       "title": "RIAC — feed geopolitico 2026-03-13",
       "content_text": "RIAC (Rusia): Consejo Ruso de Asuntos Internacionales. Feed RSS activo: https://russiancouncil.ru/en/rss/analytics/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2011,7 +2000,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#182",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#181",
       "title": "Reuters — Business — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — Business (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2022,7 +2011,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#183",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#182",
       "title": "Reuters — World — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — World (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2033,7 +2022,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#184",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#183",
       "title": "Financial Times — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Financial Times (Global). Estado: activo. URL: https://www.ft.com/world?format=rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2044,7 +2033,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#185",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#184",
       "title": "Bloomberg Markets — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Bloomberg Markets (Global). Estado: activo. URL: https://feeds.bloomberg.com/markets/news.rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2055,7 +2044,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#186",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#185",
       "title": "WSJ Markets — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: WSJ Markets (EEUU). Estado: activo. URL: https://feeds.a.dj.com/rss/RSSMarketsMain.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2066,7 +2055,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#187",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#186",
       "title": "Nikkei Asia — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Nikkei Asia (Asia). Estado: activo. URL: https://asia.nikkei.com/rss/feed/nar. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2077,7 +2066,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#188",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#187",
       "title": "South China Morning Post — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: South China Morning Post (Asia). Estado: activo. URL: https://www.scmp.com/rss/91/feed. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2088,7 +2077,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#189",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#188",
       "title": "TASS — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: TASS (Rusia). Estado: activo. URL: https://tass.com/rss/v2.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2099,7 +2088,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#190",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#189",
       "title": "Politico Europe — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Politico Europe (Europa). Estado: activo. URL: https://www.politico.eu/feed/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2110,7 +2099,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#191",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#190",
       "title": "Defense News — 2026-03-13",
       "content_text": "Feed de noticias geopoliticas y economicas: Defense News (EEUU). Estado: activo. URL: https://www.defensenews.com/arc/outboundfeeds/rss/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-13.",
       "date_published": "2026-03-13T14:59:45.558823+00:00",
@@ -2121,7 +2110,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#192",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#191",
       "title": "Council on Foreign Relations — feed geopolitico 2026-03-14",
       "content_text": "Council on Foreign Relations (EEUU): Analisis de politica exterior y geopolitica global. Feed RSS referencia: https://www.cfr.org/blog/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2132,7 +2121,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#193",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#192",
       "title": "CSIS — feed geopolitico 2026-03-14",
       "content_text": "CSIS (EEUU): Centro de Estudios Estrategicos e Internacionales. Feed RSS referencia: https://www.csis.org/blogs/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2143,7 +2132,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#194",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#193",
       "title": "Brookings Institution — feed geopolitico 2026-03-14",
       "content_text": "Brookings Institution (EEUU): Think tank politica publica y economia global. Feed RSS activo: https://www.brookings.edu/feed/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2154,7 +2143,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#195",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#194",
       "title": "Carnegie Endowment — feed geopolitico 2026-03-14",
       "content_text": "Carnegie Endowment (EEUU): Geopolitica y relaciones internacionales. Feed RSS activo: https://carnegieendowment.org/rss/solr/feed/?fa=pub. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2165,7 +2154,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#196",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#195",
       "title": "Chatham House — feed geopolitico 2026-03-14",
       "content_text": "Chatham House (Europa): Relaciones internacionales Reino Unido. Feed RSS referencia: https://www.chathamhouse.org/research/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2176,7 +2165,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#197",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#196",
       "title": "Bruegel — feed geopolitico 2026-03-14",
       "content_text": "Bruegel (Europa): Economia europea y politica comercial. Feed RSS activo: https://www.bruegel.org/rss.xml. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2187,7 +2176,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#198",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#197",
       "title": "RIAC — feed geopolitico 2026-03-14",
       "content_text": "RIAC (Rusia): Consejo Ruso de Asuntos Internacionales. Feed RSS activo: https://russiancouncil.ru/en/rss/analytics/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2198,7 +2187,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#199",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#198",
       "title": "Reuters — Business — 2026-03-14",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — Business (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2209,7 +2198,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#200",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#199",
       "title": "Reuters — World — 2026-03-14",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — World (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2220,7 +2209,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#201",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#200",
       "title": "Financial Times — 2026-03-14",
       "content_text": "Feed de noticias geopoliticas y economicas: Financial Times (Global). Estado: activo. URL: https://www.ft.com/world?format=rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2231,7 +2220,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#202",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#201",
       "title": "Bloomberg Markets — 2026-03-14",
       "content_text": "Feed de noticias geopoliticas y economicas: Bloomberg Markets (Global). Estado: activo. URL: https://feeds.bloomberg.com/markets/news.rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2242,7 +2231,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#203",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#202",
       "title": "WSJ Markets — 2026-03-14",
       "content_text": "Feed de noticias geopoliticas y economicas: WSJ Markets (EEUU). Estado: activo. URL: https://feeds.a.dj.com/rss/RSSMarketsMain.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2253,7 +2242,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#204",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#203",
       "title": "Nikkei Asia — 2026-03-14",
       "content_text": "Feed de noticias geopoliticas y economicas: Nikkei Asia (Asia). Estado: activo. URL: https://asia.nikkei.com/rss/feed/nar. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2264,7 +2253,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#205",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#204",
       "title": "South China Morning Post — 2026-03-14",
       "content_text": "Feed de noticias geopoliticas y economicas: South China Morning Post (Asia). Estado: activo. URL: https://www.scmp.com/rss/91/feed. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2275,7 +2264,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#206",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#205",
       "title": "TASS — 2026-03-14",
       "content_text": "Feed de noticias geopoliticas y economicas: TASS (Rusia). Estado: activo. URL: https://tass.com/rss/v2.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2286,7 +2275,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#207",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#206",
       "title": "Politico Europe — 2026-03-14",
       "content_text": "Feed de noticias geopoliticas y economicas: Politico Europe (Europa). Estado: activo. URL: https://www.politico.eu/feed/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2297,7 +2286,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#208",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#207",
       "title": "Defense News — 2026-03-14",
       "content_text": "Feed de noticias geopoliticas y economicas: Defense News (EEUU). Estado: activo. URL: https://www.defensenews.com/arc/outboundfeeds/rss/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-14.",
       "date_published": "2026-03-14T22:51:23.245541+00:00",
@@ -2308,7 +2297,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#209",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#208",
       "title": "Council on Foreign Relations — feed geopolitico 2026-03-15",
       "content_text": "Council on Foreign Relations (EEUU): Analisis de politica exterior y geopolitica global. Feed RSS referencia: https://www.cfr.org/blog/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2319,7 +2308,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#210",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#209",
       "title": "CSIS — feed geopolitico 2026-03-15",
       "content_text": "CSIS (EEUU): Centro de Estudios Estrategicos e Internacionales. Feed RSS referencia: https://www.csis.org/blogs/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2330,7 +2319,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#211",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#210",
       "title": "Brookings Institution — feed geopolitico 2026-03-15",
       "content_text": "Brookings Institution (EEUU): Think tank politica publica y economia global. Feed RSS activo: https://www.brookings.edu/feed/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2341,7 +2330,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#212",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#211",
       "title": "Carnegie Endowment — feed geopolitico 2026-03-15",
       "content_text": "Carnegie Endowment (EEUU): Geopolitica y relaciones internacionales. Feed RSS activo: https://carnegieendowment.org/rss/solr/feed/?fa=pub. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2352,7 +2341,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#213",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#212",
       "title": "Chatham House — feed geopolitico 2026-03-15",
       "content_text": "Chatham House (Europa): Relaciones internacionales Reino Unido. Feed RSS referencia: https://www.chathamhouse.org/research/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2363,7 +2352,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#214",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#213",
       "title": "Bruegel — feed geopolitico 2026-03-15",
       "content_text": "Bruegel (Europa): Economia europea y politica comercial. Feed RSS activo: https://www.bruegel.org/rss.xml. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2374,7 +2363,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#215",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#214",
       "title": "RIAC — feed geopolitico 2026-03-15",
       "content_text": "RIAC (Rusia): Consejo Ruso de Asuntos Internacionales. Feed RSS activo: https://russiancouncil.ru/en/rss/analytics/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2385,7 +2374,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#216",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#215",
       "title": "Reuters — Business — 2026-03-15",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — Business (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2396,7 +2385,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#217",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#216",
       "title": "Reuters — World — 2026-03-15",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — World (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2407,7 +2396,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#218",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#217",
       "title": "Financial Times — 2026-03-15",
       "content_text": "Feed de noticias geopoliticas y economicas: Financial Times (Global). Estado: activo. URL: https://www.ft.com/world?format=rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2418,7 +2407,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#219",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#218",
       "title": "Bloomberg Markets — 2026-03-15",
       "content_text": "Feed de noticias geopoliticas y economicas: Bloomberg Markets (Global). Estado: activo. URL: https://feeds.bloomberg.com/markets/news.rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2429,7 +2418,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#220",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#219",
       "title": "WSJ Markets — 2026-03-15",
       "content_text": "Feed de noticias geopoliticas y economicas: WSJ Markets (EEUU). Estado: activo. URL: https://feeds.a.dj.com/rss/RSSMarketsMain.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2440,7 +2429,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#221",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#220",
       "title": "Nikkei Asia — 2026-03-15",
       "content_text": "Feed de noticias geopoliticas y economicas: Nikkei Asia (Asia). Estado: activo. URL: https://asia.nikkei.com/rss/feed/nar. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2451,7 +2440,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#222",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#221",
       "title": "South China Morning Post — 2026-03-15",
       "content_text": "Feed de noticias geopoliticas y economicas: South China Morning Post (Asia). Estado: activo. URL: https://www.scmp.com/rss/91/feed. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2462,7 +2451,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#223",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#222",
       "title": "TASS — 2026-03-15",
       "content_text": "Feed de noticias geopoliticas y economicas: TASS (Rusia). Estado: activo. URL: https://tass.com/rss/v2.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2473,7 +2462,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#224",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#223",
       "title": "Politico Europe — 2026-03-15",
       "content_text": "Feed de noticias geopoliticas y economicas: Politico Europe (Europa). Estado: activo. URL: https://www.politico.eu/feed/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2484,7 +2473,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#225",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#224",
       "title": "Defense News — 2026-03-15",
       "content_text": "Feed de noticias geopoliticas y economicas: Defense News (EEUU). Estado: activo. URL: https://www.defensenews.com/arc/outboundfeeds/rss/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-15.",
       "date_published": "2026-03-15T15:51:36.886386+00:00",
@@ -2495,7 +2484,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#226",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#225",
       "title": "Council on Foreign Relations — feed geopolitico 2026-03-16",
       "content_text": "Council on Foreign Relations (EEUU): Analisis de politica exterior y geopolitica global. Feed RSS referencia: https://www.cfr.org/blog/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2506,7 +2495,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#227",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#226",
       "title": "CSIS — feed geopolitico 2026-03-16",
       "content_text": "CSIS (EEUU): Centro de Estudios Estrategicos e Internacionales. Feed RSS referencia: https://www.csis.org/blogs/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2517,7 +2506,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#228",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#227",
       "title": "Brookings Institution — feed geopolitico 2026-03-16",
       "content_text": "Brookings Institution (EEUU): Think tank politica publica y economia global. Feed RSS activo: https://www.brookings.edu/feed/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2528,7 +2517,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#229",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#228",
       "title": "Carnegie Endowment — feed geopolitico 2026-03-16",
       "content_text": "Carnegie Endowment (EEUU): Geopolitica y relaciones internacionales. Feed RSS activo: https://carnegieendowment.org/rss/solr/feed/?fa=pub. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2539,7 +2528,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#230",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#229",
       "title": "Chatham House — feed geopolitico 2026-03-16",
       "content_text": "Chatham House (Europa): Relaciones internacionales Reino Unido. Feed RSS activo: https://www.chathamhouse.org/research/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2550,7 +2539,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#231",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#230",
       "title": "Bruegel — feed geopolitico 2026-03-16",
       "content_text": "Bruegel (Europa): Economia europea y politica comercial. Feed RSS activo: https://www.bruegel.org/rss.xml. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2561,7 +2550,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#232",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#231",
       "title": "RIAC — feed geopolitico 2026-03-16",
       "content_text": "RIAC (Rusia): Consejo Ruso de Asuntos Internacionales. Feed RSS activo: https://russiancouncil.ru/en/rss/analytics/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2572,7 +2561,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#233",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#232",
       "title": "Reuters — Business — 2026-03-16",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — Business (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2583,7 +2572,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#234",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#233",
       "title": "Reuters — World — 2026-03-16",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — World (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2594,7 +2583,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#235",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#234",
       "title": "Financial Times — 2026-03-16",
       "content_text": "Feed de noticias geopoliticas y economicas: Financial Times (Global). Estado: activo. URL: https://www.ft.com/world?format=rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2605,7 +2594,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#236",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#235",
       "title": "Bloomberg Markets — 2026-03-16",
       "content_text": "Feed de noticias geopoliticas y economicas: Bloomberg Markets (Global). Estado: activo. URL: https://feeds.bloomberg.com/markets/news.rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2616,7 +2605,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#237",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#236",
       "title": "WSJ Markets — 2026-03-16",
       "content_text": "Feed de noticias geopoliticas y economicas: WSJ Markets (EEUU). Estado: activo. URL: https://feeds.a.dj.com/rss/RSSMarketsMain.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2627,7 +2616,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#238",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#237",
       "title": "Nikkei Asia — 2026-03-16",
       "content_text": "Feed de noticias geopoliticas y economicas: Nikkei Asia (Asia). Estado: activo. URL: https://asia.nikkei.com/rss/feed/nar. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2638,7 +2627,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#239",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#238",
       "title": "South China Morning Post — 2026-03-16",
       "content_text": "Feed de noticias geopoliticas y economicas: South China Morning Post (Asia). Estado: activo. URL: https://www.scmp.com/rss/91/feed. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2649,7 +2638,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#240",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#239",
       "title": "TASS — 2026-03-16",
       "content_text": "Feed de noticias geopoliticas y economicas: TASS (Rusia). Estado: activo. URL: https://tass.com/rss/v2.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2660,7 +2649,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#241",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#240",
       "title": "Politico Europe — 2026-03-16",
       "content_text": "Feed de noticias geopoliticas y economicas: Politico Europe (Europa). Estado: activo. URL: https://www.politico.eu/feed/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2671,7 +2660,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#242",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#241",
       "title": "Defense News — 2026-03-16",
       "content_text": "Feed de noticias geopoliticas y economicas: Defense News (EEUU). Estado: activo. URL: https://www.defensenews.com/arc/outboundfeeds/rss/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-16.",
       "date_published": "2026-03-16T14:38:00.117556+00:00",
@@ -2682,10 +2671,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#243",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#242",
       "title": "Council on Foreign Relations — feed geopolitico 2026-03-17",
       "content_text": "Council on Foreign Relations (EEUU): Analisis de politica exterior y geopolitica global. Feed RSS referencia: https://www.cfr.org/blog/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.cfr.org/blog/feed",
       "tags": [
         "geopolitica",
@@ -2693,10 +2682,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#244",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#243",
       "title": "CSIS — feed geopolitico 2026-03-17",
       "content_text": "CSIS (EEUU): Centro de Estudios Estrategicos e Internacionales. Feed RSS referencia: https://www.csis.org/blogs/feed. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.csis.org/blogs/feed",
       "tags": [
         "geopolitica",
@@ -2704,10 +2693,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#245",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#244",
       "title": "Brookings Institution — feed geopolitico 2026-03-17",
       "content_text": "Brookings Institution (EEUU): Think tank politica publica y economia global. Feed RSS activo: https://www.brookings.edu/feed/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.brookings.edu/feed/",
       "tags": [
         "geopolitica",
@@ -2715,10 +2704,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#246",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#245",
       "title": "Carnegie Endowment — feed geopolitico 2026-03-17",
       "content_text": "Carnegie Endowment (EEUU): Geopolitica y relaciones internacionales. Feed RSS activo: https://carnegieendowment.org/rss/solr/feed/?fa=pub. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://carnegieendowment.org/rss/solr/feed/?fa=pub",
       "tags": [
         "geopolitica",
@@ -2726,10 +2715,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#247",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#246",
       "title": "Chatham House — feed geopolitico 2026-03-17",
-      "content_text": "Chatham House (Europa): Relaciones internacionales Reino Unido. Feed RSS referencia: https://www.chathamhouse.org/research/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "content_text": "Chatham House (Europa): Relaciones internacionales Reino Unido. Feed RSS activo: https://www.chathamhouse.org/research/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-17.",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.chathamhouse.org/research/",
       "tags": [
         "geopolitica",
@@ -2737,10 +2726,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#248",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#247",
       "title": "Bruegel — feed geopolitico 2026-03-17",
       "content_text": "Bruegel (Europa): Economia europea y politica comercial. Feed RSS activo: https://www.bruegel.org/rss.xml. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.bruegel.org/rss.xml",
       "tags": [
         "geopolitica",
@@ -2748,10 +2737,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#249",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#248",
       "title": "RIAC — feed geopolitico 2026-03-17",
       "content_text": "RIAC (Rusia): Consejo Ruso de Asuntos Internacionales. Feed RSS activo: https://russiancouncil.ru/en/rss/analytics/. Fuente para analisis de impacto geopolitico en economia LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://russiancouncil.ru/en/rss/analytics/",
       "tags": [
         "geopolitica",
@@ -2759,10 +2748,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#250",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#249",
       "title": "Reuters — Business — 2026-03-17",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — Business (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US",
       "tags": [
         "geopolitica",
@@ -2770,10 +2759,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#251",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#250",
       "title": "Reuters — World — 2026-03-17",
       "content_text": "Feed de noticias geopoliticas y economicas: Reuters — World (Global). Estado: activo. URL: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+world&ceid=US:en&hl=en-US&gl=US",
       "tags": [
         "geopolitica",
@@ -2781,10 +2770,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#252",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#251",
       "title": "Financial Times — 2026-03-17",
       "content_text": "Feed de noticias geopoliticas y economicas: Financial Times (Global). Estado: activo. URL: https://www.ft.com/world?format=rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.ft.com/world?format=rss",
       "tags": [
         "geopolitica",
@@ -2792,10 +2781,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#253",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#252",
       "title": "Bloomberg Markets — 2026-03-17",
       "content_text": "Feed de noticias geopoliticas y economicas: Bloomberg Markets (Global). Estado: activo. URL: https://feeds.bloomberg.com/markets/news.rss. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://feeds.bloomberg.com/markets/news.rss",
       "tags": [
         "geopolitica",
@@ -2803,10 +2792,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#254",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#253",
       "title": "WSJ Markets — 2026-03-17",
       "content_text": "Feed de noticias geopoliticas y economicas: WSJ Markets (EEUU). Estado: activo. URL: https://feeds.a.dj.com/rss/RSSMarketsMain.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
       "tags": [
         "geopolitica",
@@ -2814,10 +2803,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#255",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#254",
       "title": "Nikkei Asia — 2026-03-17",
       "content_text": "Feed de noticias geopoliticas y economicas: Nikkei Asia (Asia). Estado: activo. URL: https://asia.nikkei.com/rss/feed/nar. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://asia.nikkei.com/rss/feed/nar",
       "tags": [
         "geopolitica",
@@ -2825,10 +2814,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#256",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#255",
       "title": "South China Morning Post — 2026-03-17",
       "content_text": "Feed de noticias geopoliticas y economicas: South China Morning Post (Asia). Estado: activo. URL: https://www.scmp.com/rss/91/feed. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.scmp.com/rss/91/feed",
       "tags": [
         "geopolitica",
@@ -2836,10 +2825,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#257",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#256",
       "title": "TASS — 2026-03-17",
       "content_text": "Feed de noticias geopoliticas y economicas: TASS (Rusia). Estado: activo. URL: https://tass.com/rss/v2.xml. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://tass.com/rss/v2.xml",
       "tags": [
         "geopolitica",
@@ -2847,10 +2836,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#258",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#257",
       "title": "Politico Europe — 2026-03-17",
       "content_text": "Feed de noticias geopoliticas y economicas: Politico Europe (Europa). Estado: activo. URL: https://www.politico.eu/feed/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.politico.eu/feed/",
       "tags": [
         "geopolitica",
@@ -2858,10 +2847,10 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#259",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#258",
       "title": "Defense News — 2026-03-17",
       "content_text": "Feed de noticias geopoliticas y economicas: Defense News (EEUU). Estado: activo. URL: https://www.defensenews.com/arc/outboundfeeds/rss/. Fuente para seguimiento de eventos con impacto en mercados LATAM. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.defensenews.com/arc/outboundfeeds/rss/",
       "tags": [
         "geopolitica",
@@ -2869,7 +2858,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#260",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#259",
       "title": "Guerra en Irán: \"México no está en el mapa petrolero global\" - dw.com",
       "content_text": "",
       "date_published": "Wed, 11 Mar 2026 07:59:32 GMT",
@@ -2880,7 +2869,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#261",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#260",
       "title": "¿Cómo la guerra de EU con Irán le ‘pasará factura’ a México? Inflación y gasolina ‘pegarán’ a la economía - El Financiero",
       "content_text": "",
       "date_published": "Thu, 12 Mar 2026 19:03:33 GMT",
@@ -2891,7 +2880,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#262",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#261",
       "title": "¿Cómo afecta a México la Guerra en Irán... nos conviene el alza del petróleo? - El Economista",
       "content_text": "",
       "date_published": "Fri, 06 Mar 2026 08:00:00 GMT",
@@ -2902,7 +2891,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#263",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#262",
       "title": "El impacto del conflicto en Irán en los precios del petróleo - IMCO",
       "content_text": "",
       "date_published": "Tue, 03 Mar 2026 08:00:00 GMT",
@@ -2913,7 +2902,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#264",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#263",
       "title": "Cómo afecta la guerra de Irán e Israel a México: qué tan expuesto está el país al encarecimiento de energéticos - expansion.mx",
       "content_text": "",
       "date_published": "Tue, 03 Mar 2026 08:00:00 GMT",
@@ -2924,7 +2913,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#265",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#264",
       "title": "Nuevo León lidera nearshoring con un crecimiento de 73% en inversión extranjera - Vértigo Político",
       "content_text": "",
       "date_published": "Fri, 13 Mar 2026 17:12:28 GMT",
@@ -2935,7 +2924,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#266",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#265",
       "title": "El impacto real del nearshoring en Hidalgo: ¿Qué municipios están atrayendo más inversión en 2026? - Presente Noticias",
       "content_text": "",
       "date_published": "Fri, 13 Mar 2026 20:08:03 GMT",
@@ -2946,7 +2935,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#267",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#266",
       "title": "Baja California se ubica entre los cinco estados con mayor inversión extranjera en México - Amexi",
       "content_text": "",
       "date_published": "Tue, 10 Mar 2026 02:29:37 GMT",
@@ -2957,7 +2946,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#268",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#267",
       "title": "Parques industriales rompen récord en México: 477 en operación y más de 100 en construcción impulsados por el nearshoring - Vanguardia Industrial",
       "content_text": "",
       "date_published": "Tue, 10 Mar 2026 21:30:49 GMT",
@@ -2968,7 +2957,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#269",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#268",
       "title": "Nearshoring en México: ‘vivito y coleando’ - El Financiero",
       "content_text": "",
       "date_published": "Fri, 23 Jan 2026 08:00:00 GMT",
@@ -2979,7 +2968,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#270",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#269",
       "title": "Citi México: Financiaremos proyectos de energía del plan de infraestructura - expansion.mx",
       "content_text": "",
       "date_published": "Thu, 12 Mar 2026 19:20:00 GMT",
@@ -2990,7 +2979,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#271",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#270",
       "title": "Publica la Secretaría de Economía el Programa Nacional de Infraestructura de la Calidad 2026 - Gob MX",
       "content_text": "",
       "date_published": "Thu, 26 Feb 2026 08:00:00 GMT",
@@ -3001,7 +2990,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#272",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#271",
       "title": "El Plan México reducirá los cuellos de botella de la economía: OCDE - Forbes México",
       "content_text": "",
       "date_published": "Thu, 26 Feb 2026 08:00:00 GMT",
@@ -3012,7 +3001,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#273",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#272",
       "title": "Hacienda anuncia histórico plan de inversión en infraestructura por casi 6 billones de pesos - El Economista",
       "content_text": "",
       "date_published": "Tue, 03 Feb 2026 08:00:00 GMT",
@@ -3023,7 +3012,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#274",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#273",
       "title": "Sheinbaum alista un plan emergente de inversiones de la mano del empresariado para atajar la caída de la economía - EL PAÍS",
       "content_text": "",
       "date_published": "Wed, 26 Nov 2025 08:00:00 GMT",
@@ -3034,7 +3023,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#275",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#274",
       "title": "Guerra en Irán: \"México no está en el mapa petrolero global\" - DW.com",
       "content_text": "",
       "date_published": "Wed, 11 Mar 2026 07:59:32 GMT",
@@ -3045,7 +3034,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#276",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#275",
       "title": "Inversión extranjera en México y sus efectos con el Nearshoring - BBVA México",
       "content_text": "",
       "date_published": "Sun, 02 Nov 2025 08:56:02 GMT",
@@ -3056,7 +3045,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#277",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#276",
       "title": "Nearshoring enfrenta nuevos retos tras salida de México del ranking de PwC - realestatemarket.com.mx",
       "content_text": "",
       "date_published": "Fri, 23 Jan 2026 08:00:00 GMT",
@@ -3067,7 +3056,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#278",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#277",
       "title": "OCDE reconoce estabilidad económica, destaca al Plan México y sugiere acelerar inversión, digitalización e infraestructura - Revista Fortuna",
       "content_text": "",
       "date_published": "Fri, 27 Feb 2026 01:02:25 GMT",
@@ -3078,7 +3067,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#279",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#278",
       "title": "Anuncia SHCP plan de inversión en infraestructura de $1.6 billones para 2026 - La Jornada",
       "content_text": "",
       "date_published": "Wed, 04 Feb 2026 08:00:00 GMT",
@@ -3089,11 +3078,22 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#280",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#279",
       "title": "¡A romper barreras! Cómo detonar la inversión en México: Caso Jalisco - México Evalúa",
       "content_text": "",
       "date_published": "Tue, 11 Nov 2025 08:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlpVbFpyUl9FZ0RpVHVLeFlvLUFLeWZxcF9WSVpERURjdkJaTWFTYWZYN2xMa05jY04xMXJKLWVDQm5kdXgza0c2LUlyN2lTa25KLUNOUFMtTElEaDBhajRlYmxsLXUySXZDcWdFejVFM2lSVjVDTmY1RWRCd2NRMk03UGdDWEl3ZWRQVjk4aHBrRllGVXhV?oc=5",
+      "tags": [
+        "geopolitica",
+        "google_news_macro"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/geopolitica.json#280",
+      "title": "Guerra en Irán: el shock global que ya impacta a México - FintechExpert",
+      "content_text": "",
+      "date_published": "Mon, 16 Mar 2026 18:09:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRQUFXXzhuWDBROU1OT1A3SkpmR2NsWnBLb1dHZjJJVGNyS2luZ3RIQUw0MWlBbW5sWVFoNWdoSnZxT1VyWDNsaFRCWWpveGl2QnBhbF93WE9pYmFKcFctV2UzQUp3Q2RZemVld1JxRzZCd2R0bDBoanNqTQ?oc=5",
       "tags": [
         "geopolitica",
         "google_news_macro"

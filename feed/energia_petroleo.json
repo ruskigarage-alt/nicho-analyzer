@@ -5,7 +5,7 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json",
   "language": "es-MX",
-  "date_modified": "2026-03-17T05:26:25.926863+00:00",
+  "date_modified": "2026-03-17T05:33:22.612521+00:00",
   "total_records": 53,
   "items": [
     {
@@ -452,7 +452,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json#40",
       "title": "Petroleo WTI — 2026-03-09",
       "content_text": "Petroleo WTI (precio spot diario Cushing Oklahoma): USD 94.65 por barril al 2026-03-09. Relevante para presupuesto Pemex y exportaciones Mexico.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.eia.gov/petroleum/",
       "tags": [
         "energia_petroleo",
@@ -463,7 +463,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json#41",
       "title": "Petroleo Brent — 2026-03-09",
       "content_text": "Petroleo Brent (precio spot diario Europa): USD 94.35 por barril al 2026-03-09. Relevante para presupuesto Pemex y exportaciones Mexico.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.eia.gov/petroleum/",
       "tags": [
         "energia_petroleo",
@@ -474,7 +474,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json#42",
       "title": "Gas Natural Henry Hub — 2026-03-09",
       "content_text": "Gas Natural Henry Hub (precio spot diario USA): USD 3.25 por barril al 2026-03-09. Relevante para presupuesto Pemex y exportaciones Mexico.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.eia.gov/petroleum/",
       "tags": [
         "energia_petroleo",
@@ -484,8 +484,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json#43",
       "title": "Petroleo WTI — 2026-03-17",
-      "content_text": "Petroleo WTI: USD 95.52 al 2026-03-17. Relevancia LATAM: critico para Mexico, Colombia, Venezuela.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "content_text": "Petroleo WTI: USD 95.61 al 2026-03-17. Relevancia LATAM: critico para Mexico, Colombia, Venezuela.",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://finance.yahoo.com/quote/CL=F",
       "tags": [
         "energia_petroleo",
@@ -495,8 +495,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json#44",
       "title": "Petroleo Brent — 2026-03-17",
-      "content_text": "Petroleo Brent: USD 102.7 al 2026-03-17. Relevancia LATAM: referencia global exportaciones LATAM.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "content_text": "Petroleo Brent: USD 102.81 al 2026-03-17. Relevancia LATAM: referencia global exportaciones LATAM.",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://finance.yahoo.com/quote/BZ=F",
       "tags": [
         "energia_petroleo",
@@ -506,8 +506,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json#45",
       "title": "Gas Natural — 2026-03-17",
-      "content_text": "Gas Natural: USD 3.017 al 2026-03-17. Relevancia LATAM: energia industria LATAM.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "content_text": "Gas Natural: USD 3.022 al 2026-03-17. Relevancia LATAM: energia industria LATAM.",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://finance.yahoo.com/quote/NG=F",
       "tags": [
         "energia_petroleo",
@@ -517,8 +517,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json#46",
       "title": "Gasoil calefaccion — 2026-03-17",
-      "content_text": "Gasoil calefaccion: USD 3.7272 al 2026-03-17. Relevancia LATAM: derivado petroleo.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "content_text": "Gasoil calefaccion: USD 3.7297 al 2026-03-17. Relevancia LATAM: derivado petroleo.",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://finance.yahoo.com/quote/HO=F",
       "tags": [
         "energia_petroleo",
@@ -528,8 +528,8 @@
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json#47",
       "title": "Gasolina RBOB — 2026-03-17",
-      "content_text": "Gasolina RBOB: USD 3.0217 al 2026-03-17. Relevancia LATAM: referencia precios combustibles.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "content_text": "Gasolina RBOB: USD 3.024 al 2026-03-17. Relevancia LATAM: referencia precios combustibles.",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://finance.yahoo.com/quote/RB=F",
       "tags": [
         "energia_petroleo",
@@ -540,7 +540,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json#48",
       "title": "Portal OPEC — noticias produccion petroleo 2026-03-17",
       "content_text": "La OPEC publica diariamente datos de produccion, comunicados de reunion y perspectivas del mercado petrolero. Decisiones de cuotas de produccion impactan directamente precio WTI y Brent. Relevante para Pemex y presupuesto federal mexicano. URL: https://www.opec.org. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.opec.org/opec_web/en/press_room/26.htm",
       "tags": [
         "energia_petroleo",
@@ -551,7 +551,7 @@
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/energia_petroleo.json#49",
       "title": "Oil Market Report IEA — 2026-03-17",
       "content_text": "La IEA publica mensualmente el Oil Market Report con datos de oferta, demanda y stocks globales. Incluye perspectivas para paises productores LATAM. Acceso: https://www.iea.org/reports/oil-market-report. Fecha: 2026-03-17.",
-      "date_published": "2026-03-17T05:24:57.953596+00:00",
+      "date_published": "2026-03-17T05:31:48.674885+00:00",
       "url": "https://www.iea.org/reports/oil-market-report",
       "tags": [
         "energia_petroleo",

@@ -2,7 +2,7 @@
 title: "Geopolitica — Actualización 2026-03-16"
 date: "2026-03-16"
 nicho: "geopolitica"
-total_entradas: 18
+total_entradas: 17
 schema: "NewsDigest"
 ---
 
@@ -53,6 +53,13 @@ schema: "NewsDigest"
 - **Resumen**: Andreas Krieg says that US plans to deploy 2,500 marines to the Gulf is unlikely to reopen the Strait of Hormuz.
 - **Relevancia**: 0.5878
 
+### Iran war live: Trump scolds allies for not joining Strait of Hormuz mission
+- **Fecha**: Tue, 17 Mar 2026 00:00:00 +0000
+- **Fuente**: al_jazeera
+- **URL**: https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss
+- **Resumen**: Israeli air strikes have hit three neighbourhoods in Beirut, Israeli army launches new attacks on Tehran
+- **Relevancia**: 0.6706
+
 ### Trump claims strikes on Iran prevented nuclear war
 - **Fecha**: Mon, 16 Mar 2026 22:34:59 +0000
 - **Fuente**: al_jazeera
@@ -92,26 +99,12 @@ Port state control (PSC) – the inspection regime countries may deploy to verif
         	La entrega estaba a cargo de una Entidad Promotora de Salud (EPS) llamada Nueva EPS, una de las empresas mixtas que presta servicios sanitarios en el país suramericano.
 - **Relevancia**: 0.5642
 
-### US forces conduct over 6,500 combat sorties in operation against Iran — CENTCOM
-- **Fecha**: Tue, 17 Mar 2026 07:16:31 +0300
+### Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister
+- **Fecha**: Fri, 06 Jun 2025 12:45:53 +0300
 - **Fuente**: tass_english
-- **URL**: https://tass.com/world/2102637
-- **Resumen**: Strikes against more than 7,000 targets were made
-- **Relevancia**: 0.4992
-
-### At least five powerful explosions rock Iran’s southern port city of Bandar Abbas
-- **Fecha**: Tue, 17 Mar 2026 02:56:58 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2102581
-- **Resumen**: There is no information on whether the port infrastructure was the target of the strike
-- **Relevancia**: 0.5029
-
-### Iran destroys hangars with US fighter jets at bases in UAE, Bahrain — IRGC
-- **Fecha**: Tue, 17 Mar 2026 01:43:27 +0300
-- **Fuente**: tass_english
-- **URL**: https://tass.com/world/2102557
-- **Resumen**: The strikes on US military bases in the Middle East will continue until US forces completely withdraw from them
-- **Relevancia**: 0.5271
+- **URL**: https://tass.com/world/1969663
+- **Resumen**: "Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force," Israel Katz said
+- **Relevancia**: 0.5835
 
 ### European leaders warn Israel against ground offensive in Lebanon
 - **Fecha**: Mon, 16 Mar 2026 21:34:33 +0000

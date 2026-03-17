@@ -4,7 +4,7 @@
   "name": "geopolitica — 2026-03-16",
   "description": "Digest semántico de geopolitica generado el 2026-03-16",
   "datePublished": "2026-03-16",
-  "numberOfItems": 18,
+  "numberOfItems": 17,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -113,6 +113,23 @@
       "position": 7,
       "item": {
         "@type": "NewsArticle",
+        "headline": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission",
+        "description": "Israeli air strikes have hit three neighbourhoods in Beirut, Israeli army launches new attacks on Tehran",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss",
+        "datePublished": "Tue, 17 Mar 2026 00:00:00 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6706
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "NewsArticle",
         "headline": "Trump claims strikes on Iran prevented nuclear war",
         "description": "Donald Trump claimed he ordered strikes on Iran to prevent a nuclear conflict that would have turned into World War III.",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss",
@@ -127,7 +144,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 8,
+      "position": 9,
       "item": {
         "@type": "NewsArticle",
         "headline": "Iran war shows urgency of Hong Kong’s green shipping transition",
@@ -144,7 +161,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 9,
+      "position": 10,
       "item": {
         "@type": "NewsArticle",
         "headline": "Papers please: China raises pressure on Panama amid canal row with ship inspection wave",
@@ -161,7 +178,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 10,
+      "position": 11,
       "item": {
         "@type": "NewsArticle",
         "headline": "Trump está \"sorprendido\" por el rechazo de sus aliados a enviar buques al estrecho de Ormuz",
@@ -178,7 +195,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 11,
+      "position": 12,
       "item": {
         "@type": "NewsArticle",
         "headline": "Muere joven que esperó por meses un medicamento que nunca le entregó el sistema de salud colombiano",
@@ -195,58 +212,24 @@
     },
     {
       "@type": "ListItem",
-      "position": 12,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "US forces conduct over 6,500 combat sorties in operation against Iran — CENTCOM",
-        "description": "Strikes against more than 7,000 targets were made",
-        "url": "https://tass.com/world/2102637",
-        "datePublished": "Tue, 17 Mar 2026 07:16:31 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.4992
-      }
-    },
-    {
-      "@type": "ListItem",
       "position": 13,
       "item": {
         "@type": "NewsArticle",
-        "headline": "At least five powerful explosions rock Iran’s southern port city of Bandar Abbas",
-        "description": "There is no information on whether the port infrastructure was the target of the strike",
-        "url": "https://tass.com/world/2102581",
-        "datePublished": "Tue, 17 Mar 2026 02:56:58 +0300",
+        "headline": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+        "description": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+        "url": "https://tass.com/world/1969663",
+        "datePublished": "Fri, 06 Jun 2025 12:45:53 +0300",
         "publisher": {
           "@type": "Organization",
           "name": "tass_english"
         },
         "keywords": "geopolitica",
-        "relevanceScore": 0.5029
+        "relevanceScore": 0.5835
       }
     },
     {
       "@type": "ListItem",
       "position": 14,
-      "item": {
-        "@type": "NewsArticle",
-        "headline": "Iran destroys hangars with US fighter jets at bases in UAE, Bahrain — IRGC",
-        "description": "The strikes on US military bases in the Middle East will continue until US forces completely withdraw from them",
-        "url": "https://tass.com/world/2102557",
-        "datePublished": "Tue, 17 Mar 2026 01:43:27 +0300",
-        "publisher": {
-          "@type": "Organization",
-          "name": "tass_english"
-        },
-        "keywords": "geopolitica",
-        "relevanceScore": 0.5271
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 15,
       "item": {
         "@type": "NewsArticle",
         "headline": "European leaders warn Israel against ground offensive in Lebanon",
@@ -263,7 +246,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 16,
+      "position": 15,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Capital Rules for the Real Economy",
@@ -280,7 +263,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 17,
+      "position": 16,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
@@ -297,7 +280,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 18,
+      "position": 17,
       "item": {
         "@type": "NewsArticle",
         "headline": "Bowman, Outlook for the Economy and Monetary Policy",

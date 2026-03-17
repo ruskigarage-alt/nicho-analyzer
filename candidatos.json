@@ -2,8 +2,8 @@
   "meta": {
     "fuente": "Cripeso · Marzo 2026",
     "actualizado": "2026-03-16",
-    "total_menciones_hoy": 1,
-    "entradas_analizadas": 1,
+    "total_menciones_hoy": 0,
+    "entradas_analizadas": 0,
     "nota": "Generado automáticamente. Edita ENCUESTAS en generar_candidatos_json.py para actualizar porcentajes."
   },
   "candidatos": [
@@ -13,25 +13,18 @@
       "partido": "PAN",
       "partyClass": "pan",
       "pct": 39.5,
-      "momentum": 1,
-      "menciones": 1,
+      "momentum": 0,
+      "menciones": 0,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
-        "seguridad"
+        "general"
       ],
-      "noticias": [
-        {
-          "fuente": "googlenews",
-          "tag": "seguridad",
-          "texto": "Pide Miguel Ángel Varela enviar 500 elementos más de la Guardia Nacional a Zacatecas para combatir la inseguridad - El A",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX092anVMMU0xVGRBSUtOaXRuNDNEUk42RzNsanlxNW1SbUJoVjJZOVdJNTVkZ0ZsczhnQ045NDdRR2NGc3lKSC1YcDlHUWJRVU1Jei1wRGhQd2tiQ05fTWFvTU5wU3JjNDktSHVKVTlaV21wM0syQkR0NFQ1RFZnRlBQR2pPZ3pKR0ljWjgwaEpPMk51Y2NQcTRkVmJ3V3JYSjI5RnRySmlJSnNYSGJIOXMyRzJBdzdZQUo3VFk3dTc4TVNjSE82eGxheHRwUnJ2Z3c5Z2NXdw?oc=5"
-        }
-      ],
-      "menciones_total": 11,
-      "menciones_hoy": 1,
-      "score_compuesto": 40.6
+      "noticias": [],
+      "menciones_total": 10,
+      "menciones_hoy": 0,
+      "score_compuesto": 40.5
     },
     {
       "id": "bonilla_gomez",

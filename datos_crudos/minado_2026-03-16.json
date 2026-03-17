@@ -853,6 +853,12 @@
     "tipo": "rss",
     "entradas": [
       {
+        "titulo": "Marine turned anti-war protester says Trump wrong on Israel, Iran",
+        "resumen": "Former Marine Brian McGinnis says Donald Trump is “wrong” on Israel and Iran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/marine-turned-anti-war-protester-says-trump-wrong-on-israel-iran?traffic_source=rss",
+        "fecha_publicacion": "Tue, 17 Mar 2026 05:00:43 +0000"
+      },
+      {
         "titulo": "Venezuela defeats Italy, sets up WBC final against US",
         "resumen": "Venezuela is through to its first World Baseball Classic final and will play the host nation for the title in Florida.",
         "link": "https://www.aljazeera.com/sports/2026/3/17/venezuela-defeats-italy-sets-up-wbc-final-against-us?traffic_source=rss",
@@ -932,13 +938,13 @@
       },
       {
         "titulo": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission",
-        "resumen": "US President Donald Trump criticises allies&#039; reluctance to commit forces to open the key waterway for Gulf oil exports.",
+        "resumen": "Israeli air strikes have hit three neighbourhoods in Beirut, Israeli army launches new attacks on Tehran",
         "link": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss",
         "fecha_publicacion": "Tue, 17 Mar 2026 00:00:00 +0000"
       },
       {
         "titulo": "Pro-Palestine protester Leqaa Kordia freed from US immigration detention",
-        "resumen": "The 33-year-old Columbia University protester had been held in immigration detention centre for a year.",
+        "resumen": "The 33-year-old Columbia University protester had been held in an immigration detention centre for a year.",
         "link": "https://www.aljazeera.com/news/2026/3/16/pro-palestine-protester-leqaa-kordia-freed-from-us-immigration-detention?traffic_source=rss",
         "fecha_publicacion": "Mon, 16 Mar 2026 23:39:13 +0000"
       },
@@ -965,12 +971,6 @@
         "resumen": "Speaking at the Oval office, US President Donald Trump stated that Somalia is a “fourth world nation.”",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss",
         "fecha_publicacion": "Mon, 16 Mar 2026 21:16:51 +0000"
-      },
-      {
-        "titulo": "Ten ICU patients killed in hospital fire in eastern India",
-        "resumen": "Emergency responders carried patients out of a government hospital in Odisha, India.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/ten-icu-patients-killed-in-hospital-fire-in-eastern-india?traffic_source=rss",
-        "fecha_publicacion": "Mon, 16 Mar 2026 21:01:22 +0000"
       }
     ],
     "total_entradas": 20
@@ -1183,124 +1183,124 @@
     "tipo": "rss",
     "entradas": [
       {
-        "titulo": "Majority backs Kazakhstan’s new Constitution with 87.15% in referendum",
-        "resumen": "Voter turnout in the referendum on Kazakhstan’s new Constitution held on March 15 stood at 73.12%",
-        "link": "https://tass.com/world/2102647",
-        "fecha_publicacion": "Tue, 17 Mar 2026 08:01:38 +0300"
+        "titulo": "German exports to Russia down 5.3% in April month-on-month",
+        "resumen": "In annual terms, exports from Germany to Russia lost 9.3%",
+        "link": "https://tass.com/economy/1969687",
+        "fecha_publicacion": "Fri, 06 Jun 2025 13:04:25 +0300"
       },
       {
-        "titulo": "Two more UAVs destroyed over Russia’s Leningrad Region",
-        "resumen": "The governor says the measures to counter the attack continue",
-        "link": "https://tass.com/emergencies/2102643",
-        "fecha_publicacion": "Tue, 17 Mar 2026 07:54:13 +0300"
+        "titulo": "Khrunichev Center begins production of three Angara-A5M rockets for launching ROS modules",
+        "resumen": "The next phase in the Angara-A5 modernization program involves adapting the rocket for launching manned spacecraft",
+        "link": "https://tass.com/science/1969671",
+        "fecha_publicacion": "Fri, 06 Jun 2025 13:03:51 +0300"
       },
       {
-        "titulo": "US forces conduct over 6,500 combat sorties in operation against Iran — CENTCOM",
-        "resumen": "Strikes against more than 7,000 targets were made",
-        "link": "https://tass.com/world/2102637",
-        "fecha_publicacion": "Tue, 17 Mar 2026 07:16:31 +0300"
+        "titulo": "Gagauzia head faces court: recent developments",
+        "resumen": "\"No matter what the pro-government media outlets say, I am tried today because I am Gagauzia's head,\" Evghenia Gutsul stated",
+        "link": "https://tass.com/world/1969667",
+        "fecha_publicacion": "Fri, 06 Jun 2025 13:03:02 +0300"
       },
       {
-        "titulo": "US administration seeks resignation of Cuban president — NYT",
-        "resumen": "According to the newspaper, the step would allow to implement structural changes in the country’s economy",
-        "link": "https://tass.com/world/2102635",
-        "fecha_publicacion": "Tue, 17 Mar 2026 07:12:28 +0300"
+        "titulo": "Trump-Musk clash costs both hefty sums in one day — media",
+        "resumen": "According to the news outlet, Elon Musk remains the world’s richest businessman, but his fortune declined by $33.9 billion",
+        "link": "https://tass.com/economy/1969669",
+        "fecha_publicacion": "Fri, 06 Jun 2025 13:01:16 +0300"
       },
       {
-        "titulo": "US intelligence says Iranian leadership retains power, unity — WP",
-        "resumen": "According to the sources of the newspaper, no signs of a soon change of power in Iran are seen",
-        "link": "https://tass.com/world/2102633",
-        "fecha_publicacion": "Tue, 17 Mar 2026 07:05:51 +0300"
+        "titulo": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
+        "resumen": "Top stories from the Russian press on Friday, June 6th",
+        "link": "https://tass.com/pressreview/1969589",
+        "fecha_publicacion": "Fri, 06 Jun 2025 13:00:01 +0300"
       },
       {
-        "titulo": "Mojtaba Khamenei is well and may soon deliver new address",
-        "resumen": "Foreign Ministry Spokesman Esmaeil Baghaei announced the speech, adding \"The Iranian people are determined to defend their homeland\"",
-        "link": "https://tass.com/world/2102631",
-        "fecha_publicacion": "Tue, 17 Mar 2026 07:00:18 +0300"
+        "titulo": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+        "resumen": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+        "link": "https://tass.com/world/1969663",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:45:53 +0300"
       },
       {
-        "titulo": "Venezuela, Russia support multipolar world — Foreign Minister",
-        "resumen": "Yvan Gil Pinto says that Venezuela and Russia are brotherly countries and strategic partners",
-        "link": "https://tass.com/world/2102629",
-        "fecha_publicacion": "Tue, 17 Mar 2026 06:54:24 +0300"
+        "titulo": "WHO reports over 8,500 global attacks on health facilities since 2018 — director general",
+        "resumen": "\"Attacks on health care have become the 'new normal' of conflict,\" WHO Director General Tedros Adhanom Ghebreyesus said",
+        "link": "https://tass.com/society/1969643",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:34:36 +0300"
       },
       {
-        "titulo": "Moscow-Caracas ties represent strategic partnership — ambassador",
-        "resumen": "Sergey Melik-Bagdasarov says the treaty on strategic partnership and cooperation between the states \"serves as an uncontested guideline for further strengthening and developing the relations\"",
-        "link": "https://tass.com/politics/2102627",
-        "fecha_publicacion": "Tue, 17 Mar 2026 06:47:10 +0300"
+        "titulo": "Shadow of 'potential brutal divorce' between Trump-Musk looms over Republicans — TV",
+        "resumen": "According to the report, Republican lawmakers worry that Musk may try to oust them from power in midterm elections next year",
+        "link": "https://tass.com/world/1969641",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:31:08 +0300"
       },
       {
-        "titulo": "Russia ranks among top three global cyberattack targets in 2025",
-        "resumen": "According to the data provided by Positive Technologies, Russia accounted for 46% of cyberattacks among CIS countries in the period",
-        "link": "https://tass.com/society/2102625",
-        "fecha_publicacion": "Tue, 17 Mar 2026 06:41:31 +0300"
+        "titulo": "EU must conclude arms limitation agreement with Russia, says Orban",
+        "resumen": "The Hungarian prime minister noted that Hungary agrees with the need to strengthen Europe’s defense capabilities, but this should not lead to an unrestrained arms race",
+        "link": "https://tass.com/world/1969637",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:18:57 +0300"
       },
       {
-        "titulo": "Over 252 children killed in DPR since 2014 due to Ukrainian aggression",
-        "resumen": "The region’s head Denis Pushilin says that 1,045 more children have been injured",
-        "link": "https://tass.com/politics/2102623",
-        "fecha_publicacion": "Tue, 17 Mar 2026 06:37:08 +0300"
+        "titulo": "Bank of Russia sells yuan worth $83 mln with settlements on June 5",
+        "resumen": "The Central Bank sold yuan on the domestic market with settlements on June 4, 2025 in the amount of 6.5 bln rubles",
+        "link": "https://tass.com/economy/1969635",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:15:52 +0300"
       },
       {
-        "titulo": "Two people injured in Ukrainian drone strike on car in Russia’s Bryansk Region",
-        "resumen": "The vehicle was completely destroyed",
-        "link": "https://tass.com/politics/2102621",
-        "fecha_publicacion": "Tue, 17 Mar 2026 06:33:33 +0300"
+        "titulo": "Attacks ahead of meeting between IAEA, Rosatom chiefs 'pressure tool,' ZNPP believes",
+        "resumen": "On June 5, Ukrainian troops launched several drone attacks on the training center of the Zaporozhye nuclear power plant",
+        "link": "https://tass.com/world/1969633",
+        "fecha_publicacion": "Fri, 06 Jun 2025 12:01:09 +0300"
       },
       {
-        "titulo": "US leader says China visit may be delayed by about one month",
-        "resumen": "Donald Trump says a corresponding request was sent due to the military operation against Iran",
-        "link": "https://tass.com/world/2102615",
-        "fecha_publicacion": "Tue, 17 Mar 2026 06:11:06 +0300"
+        "titulo": "Dodon calls on Sandu, Recean not to succumb to Western attempts to drag Moldova into war",
+        "resumen": "The former Moldovan president criticized Dorin Recean's statement in Brussels that Russia allegedly wants to deploy 10,000 of its soldiers in Transnistria",
+        "link": "https://tass.com/world/1969631",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:53:27 +0300"
       },
       {
-        "titulo": "Witkoff to brief US senators on progress of operation against Iran on March 17",
-        "resumen": "US lawmakers want information on Washington’s plans regarding Iran",
-        "link": "https://tass.com/world/2102613",
-        "fecha_publicacion": "Tue, 17 Mar 2026 06:03:05 +0300"
+        "titulo": "Zelensky’s regime bears all hallmarks of terrorist organization — Russian senator",
+        "resumen": "The official designation of Kiev regime as a terrorist organization is merely a matter of time, Andrey Klischas stated",
+        "link": "https://tass.com/politics/1969627",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:42:09 +0300"
       },
       {
-        "titulo": "Russian forces improve positions in southern, eastern Konstantinovka — Pushilin",
-        "resumen": "Head of the Donetsk People’s Republic says that the liberation of Konstantinovka would allow to advance toward the Kramatorsk-Slavyansk agglomeration from the south",
-        "link": "https://tass.com/defense/2102611",
-        "fecha_publicacion": "Tue, 17 Mar 2026 05:53:31 +0300"
+        "titulo": "Russian stocks down as main trading session opens",
+        "resumen": "The yuan exchange rate was up by 3.1 kopecks at 10.999 rubles.",
+        "link": "https://tass.com/economy/1969629",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:40:44 +0300"
       },
       {
-        "titulo": "Four killed, two injured in rocket strike on central Baghdad home",
-        "resumen": "According to the sources cited by Shafaq News, the victim estimate is not final",
-        "link": "https://tass.com/world/2102603",
-        "fecha_publicacion": "Tue, 17 Mar 2026 05:37:38 +0300"
+        "titulo": "Rosatom CEO, IAEA chief meet in Kaliningrad",
+        "resumen": "The meeting is taking place at Khrabrovo Airport",
+        "link": "https://tass.com/economy/1969625",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:39:50 +0300"
       },
       {
-        "titulo": "Five injured in UAV attack on Russia’s Belgorod Region",
-        "resumen": "Four children are among the injured",
-        "link": "https://tass.com/politics/2102597",
-        "fecha_publicacion": "Tue, 17 Mar 2026 04:38:41 +0300"
+        "titulo": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone",
+        "resumen": "Maxim Pukhov stressed that the hotel was non-operational, so no one was injured",
+        "link": "https://tass.com/emergencies/1969621",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:22:03 +0300"
       },
       {
-        "titulo": "Iraq downs four UAVs attempting to attack US Embassy in Baghdad",
-        "resumen": "No damage to property or casualties have been reported",
-        "link": "https://tass.com/world/2102589",
-        "fecha_publicacion": "Tue, 17 Mar 2026 03:54:28 +0300"
+        "titulo": "Ukrainian army retreating from Komar community in western Donetsk region",
+        "resumen": "The Ukrainian military tried to deploy reserves to that community but most of them were destroyed by Russia’s air strikes, the source added",
+        "link": "https://tass.com/politics/1969619",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:20:31 +0300"
       },
       {
-        "titulo": "At least five powerful explosions rock Iran’s southern port city of Bandar Abbas",
-        "resumen": "There is no information on whether the port infrastructure was the target of the strike",
-        "link": "https://tass.com/world/2102581",
-        "fecha_publicacion": "Tue, 17 Mar 2026 02:56:58 +0300"
+        "titulo": "Putin enjoys strong support among Russian people, latest poll shows",
+        "resumen": "\"When asked directly if they trusted Putin, 80% of participants responded affirmatively,\" the service said",
+        "link": "https://tass.com/politics/1969617",
+        "fecha_publicacion": "Fri, 06 Jun 2025 11:16:22 +0300"
       },
       {
-        "titulo": "Iran destroys hangars with US fighter jets at bases in UAE, Bahrain — IRGC",
-        "resumen": "The strikes on US military bases in the Middle East will continue until US forces completely withdraw from them",
-        "link": "https://tass.com/world/2102557",
-        "fecha_publicacion": "Tue, 17 Mar 2026 01:43:27 +0300"
+        "titulo": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
+        "resumen": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
+        "link": "https://tass.com/world/1969613",
+        "fecha_publicacion": "Fri, 06 Jun 2025 10:52:46 +0300"
       },
       {
-        "titulo": "Over 180 drones heading toward Moscow shot down on March 14-16",
-        "resumen": "According to TASS calculations, the Ukrainian drone attack on the Moscow Region repelled by the Russian Defense Ministry's air defense forces in the period became the largest in at least a year",
-        "link": "https://tass.com/politics/2102571",
-        "fecha_publicacion": "Tue, 17 Mar 2026 00:20:43 +0300"
+        "titulo": "Death toll in Ukrainian attack on Kursk Region's Rylsk climbs to two",
+        "resumen": "Governor Alexander Khinshtein said that an 83-year-old woman died in hospital",
+        "link": "https://tass.com/emergencies/1969611",
+        "fecha_publicacion": "Fri, 06 Jun 2025 10:48:20 +0300"
       }
     ],
     "total_entradas": 20
@@ -1312,6 +1312,12 @@
     "fecha_minado": "2026-03-16",
     "tipo": "rss",
     "entradas": [
+      {
+        "titulo": "Europe rejects Trump’s Iran demands",
+        "resumen": "European affairs ministers meet in Brussels to prepare this week’s EU summit — with discussions ranging from Ukraine and the war in Iran to the bloc’s next long-term budget and competitiveness. But there is also motion on enlargement. Ukraine and Moldova are receiving the remaining negotiating clusters in their EU accession talks, while Montenegro is [&#8230;]",
+        "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/europe-rejects-trumps-iran-demands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "fecha_publicacion": "Tue, 17 Mar 2026 05:30:00 +0000"
+      },
       {
         "titulo": "Wie Merz beim Iran den Schröder macht",
         "resumen": "Die Bundesregierung lässt Donald Trump abblitzen: Mehrfach erteilte sie einer deutschen Beteiligung an einer Marine-Begleitung von Schiffen in der Straße von Hormus eine klare Absage. Doch die Geschichte mahnt zur Vorsicht: Gordon Repinski analysiert, warum Friedrich Merz Gefahr läuft, in eine „Schröder-Fischer-Falle“ wie im Jahr 2003 zu tappen. Damals wurde ein öffentliches „Nein“ zur Irak-Invasion [&#8230;]",
@@ -1365,12 +1371,6 @@
         "resumen": "Emmanuel Grégoire from the Socialists, who won Sunday's first round in Paris, is also hobbled by political splits on the left.",
         "link": "https://www.politico.eu/article/france-center-right-candidates-socialists-25-year-grip-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "fecha_publicacion": "Mon, 16 Mar 2026 20:07:27 +0000"
-      },
-      {
-        "titulo": "Don’t ‘blackmail’ us: Europe rejects Trump’s demand to help clean up Hormuz mess",
-        "resumen": "\"This is not Europe's war,\" the EU tells Washington in a bruising rebuke on Iran even as oil prices rise.",
-        "link": "https://www.politico.eu/article/europe-donald-trump-strait-of-hormuz-war-iran/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "fecha_publicacion": "Mon, 16 Mar 2026 20:02:34 +0000"
       }
     ],
     "total_entradas": 10

@@ -200,13 +200,11 @@
       "temas": []
     },
     "varela_pinedo": {
-      "menciones": 1,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 1,
-      "temas": [
-        "seguridad"
-      ]
+      "momentum": 0,
+      "temas": []
     },
     "bonilla_gomez": {
       "menciones": 0,

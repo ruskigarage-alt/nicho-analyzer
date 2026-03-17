@@ -1,24 +1,7 @@
 {
   "fecha": "2026-03-16",
-  "total": 1,
-  "entradas": [
-    {
-      "titulo": "Pide Miguel Ángel Varela enviar 500 elementos más de la Guardia Nacional a Zacatecas para combatir la inseguridad - El Arsenal",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX092anVMMU0xVGRBSUtOaXRuNDNEUk42RzNsanlxNW1SbUJoVjJZOVdJNTVkZ0ZsczhnQ045NDdRR2NGc3lKSC1YcDlHUWJRVU1Jei1wRGhQd2tiQ05fTWFvTU5wU3JjNDktSHVKVTlaV21wM0syQkR0NFQ1RFZnRlBQR2pPZ3pKR0ljWjgwaEpPMk51Y2NQcTRkVmJ3V3JYSjI5RnRySmlJSnNYSGJIOXMyRzJBdzdZQUo3VFk3dTc4TVNjSE82eGxheHRwUnJ2Z3c5Z2NXdw?oc=5\" target=\"_blank\">Pide Miguel Ángel Varela enviar 500 e",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX092anVMMU0xVGRBSUtOaXRuNDNEUk42RzNsanlxNW1SbUJoVjJZOVdJNTVkZ0ZsczhnQ045NDdRR2NGc3lKSC1YcDlHUWJRVU1Jei1wRGhQd2tiQ05fTWFvTU5wU3JjNDktSHVKVTlaV21wM0syQkR0NFQ1RFZnRlBQR2pPZ3pKR0ljWjgwaEpPMk51Y2NQcTRkVmJ3V3JYSjI5RnRySmlJSnNYSGJIOXMyRzJBdzdZQUo3VFk3dTc4TVNjSE82eGxheHRwUnJ2Z3c5Z2NXdw?oc=5",
-      "fecha": "Mon, 16 Mar 2026 19:21:43 GMT",
-      "fuente": "google_news",
-      "tipo_fuente": "agregador",
-      "nicho": "electoral_zacatecas",
-      "es_electoral": true,
-      "es_contextual": false,
-      "aspirantes_mencionados": [
-        "varela_pinedo"
-      ],
-      "tema": "seguridad",
-      "fecha_minado": "2026-03-16"
-    }
-  ],
+  "total": 0,
+  "entradas": [],
   "momentum": {
     "mejia_haro": {
       "menciones": 0,
@@ -49,13 +32,11 @@
       "temas": []
     },
     "varela_pinedo": {
-      "menciones": 1,
+      "menciones": 0,
       "positivo": 0,
       "negativo": 0,
-      "momentum": 1,
-      "temas": [
-        "seguridad"
-      ]
+      "momentum": 0,
+      "temas": []
     },
     "bonilla_gomez": {
       "menciones": 0,
