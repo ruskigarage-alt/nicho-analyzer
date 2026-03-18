@@ -1,9 +1,9 @@
 {
   "meta": {
     "fuente": "Cripeso · Marzo 2026",
-    "actualizado": "2026-03-16",
-    "total_menciones_hoy": 0,
-    "entradas_analizadas": 0,
+    "actualizado": "2026-03-17",
+    "total_menciones_hoy": 5,
+    "entradas_analizadas": 5,
     "nota": "Generado automáticamente. Edita ENCUESTAS en generar_candidatos_json.py para actualizar porcentajes."
   },
   "candidatos": [
@@ -13,18 +13,25 @@
       "partido": "PAN",
       "partyClass": "pan",
       "pct": 39.5,
-      "momentum": 0,
-      "menciones": 0,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "general"
       ],
-      "noticias": [],
-      "menciones_total": 10,
-      "menciones_hoy": 0,
-      "score_compuesto": 40.5
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Empleados no son obligados a militar - NTR Zacatecas",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15ZjZCX2Z4MmRrdktrR2daaEpPSDlCWTI2NjB1dTlLbWg0RHRUbnR1cGhXbW1Ob2ZSS0NwSWlhMUplekNleHJUTGVvclQzWEQ3WTQwVjF3d1YxZnFnYk1NamxWQV9RcDJKWjZzRXpINUdWbmtRajAzdGNR?oc=5"
+        }
+      ],
+      "menciones_total": 11,
+      "menciones_hoy": 1,
+      "score_compuesto": 40.6
     },
     {
       "id": "bonilla_gomez",
@@ -32,18 +39,25 @@
       "partido": "PRI",
       "partyClass": "pri",
       "pct": 35.3,
-      "momentum": -1,
-      "menciones": 0,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "general"
       ],
-      "noticias": [],
-      "menciones_total": 10,
-      "menciones_hoy": 0,
-      "score_compuesto": 36.3
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Deja Adolfo Bonilla la Secretaría del Campo en Zacatecas - El Sol de México",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONHFzMFl1cXY4LUpUeTFQZTNmQUxWOE5FOHA4dzAyQ2REZDZDc05zWW1zLVFSajNsdXV5S0MyeWx6VzNCbGowQ2VHdzk0MDRNZFlETmdIZlFzRG9tOE51bFc2Q0ZsdE5vVU5NbGhzQkljV1owYzQ5cUpkNDUyejdmMXJCMHlvT3BiclQ5dExRSUZZUWowelpMRHVCcWJrTlZ1ZGFodzhnWWJRZUFTRVhqTDJ2NTI3VnpGQ2pwQXBDZElseC1WZzdFTFMzeVRsNUs0RWlXRjdTd01CTGszNjJ5Vll5Nm82WnpTbS11d3VJSkJQMEFTZDhYcG5UVFl5bjZsWUY5ek82TGhWeXowWjRveExjMGhRWF9oS0daRVY5MA?oc=5"
+        }
+      ],
+      "menciones_total": 11,
+      "menciones_hoy": 1,
+      "score_compuesto": 36.4
     },
     {
       "id": "mejia_haro",
@@ -51,18 +65,25 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 23.6,
-      "momentum": -1,
-      "menciones": 0,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "general"
       ],
-      "noticias": [],
-      "menciones_total": 12,
-      "menciones_hoy": 0,
-      "score_compuesto": 24.8
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Ulises Mejía Haro se posiciona en Morena para elección a gobernador - El Universal",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGFuNGNYMlpWUzZnUkd5d2FWTGZkNEhyX2pUeERYOUNXdDNvVjVVVlV1QUp2VW1MNzVqM0ZKSE8wT3M1N1ZhWnZFTUd1NG5qQnlISFNPMlpWTldZWGdUU0pPZXdWNXdCVFlSOWRhS3hCdUgtc191NGRtcWpFYW1JZjUzUl9TRUdEVFZIekp3dVBmeW92UzhZaTRwa0V2b0pNMUk0UzFLTklfY03SAb8BQVVfeXFMT2s4YnNTUk9BYUhhOUFKZ3BMQkFyTGM0UjZ1eEFTcDZVSVMzckJaS0g1Rk4wTldDVWZkLVBKbzR4NE9wajluSmd5SkZyRTJpOFI5WEM3ckJRRlVuRlY2ZDg5azMxanFteTNhMmtTMUUzNnY1VjZ1Mm84QldrYmtIY1NHejNBVTNCU29HSzVfRGdtRjF5UWRZV2RqY1lyU2FYcnNNaVJwYkhnSk5KZWJKbTU2QnJWTGhSa2Z6MHp2cDg?oc=5"
+        }
+      ],
+      "menciones_total": 13,
+      "menciones_hoy": 1,
+      "score_compuesto": 24.9
     },
     {
       "id": "anaya_mota",
@@ -70,7 +91,7 @@
       "partido": "PRI",
       "partyClass": "pri",
       "pct": 23.5,
-      "momentum": -1,
+      "momentum": 0,
       "menciones": 0,
       "positivas": 0,
       "negativas": 0,
@@ -89,18 +110,25 @@
       "partido": "PT/Morena",
       "partyClass": "ptmorena",
       "pct": 21.7,
-      "momentum": -1,
-      "menciones": 0,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Medios locales",
       "tags": [
-        "general"
+        "gasto_publico"
       ],
-      "noticias": [],
-      "menciones_total": 13,
-      "menciones_hoy": 0,
-      "score_compuesto": 23.0
+      "noticias": [
+        {
+          "fuente": "ljzzacatecas",
+          "tag": "gasto_publico",
+          "texto": "Inauguran carretera en Valparaíso, tramo junto a Fresnillo y San José",
+          "link": "https://ljz.mx/17/03/2026/inauguran-carretera-en-valparaiso-tramo-junto-a-fresnillo-y-san-jose/"
+        }
+      ],
+      "menciones_total": 14,
+      "menciones_hoy": 1,
+      "score_compuesto": 23.1
     },
     {
       "id": "diaz_robles",
@@ -108,7 +136,7 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 16.3,
-      "momentum": -1,
+      "momentum": 0,
       "menciones": 0,
       "positivas": 0,
       "negativas": 0,
@@ -127,18 +155,25 @@
       "partido": "PT",
       "partyClass": "pt",
       "pct": 12.0,
-      "momentum": 0,
-      "menciones": 0,
+      "momentum": 1,
+      "menciones": 1,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Referencia general",
       "tags": [
         "general"
       ],
-      "noticias": [],
-      "menciones_total": 10,
-      "menciones_hoy": 0,
-      "score_compuesto": 13.0
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Acusa FPLZ “guerra sucia” contra José Narro Céspedes - La Jornada Zacatecas",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNXzdQU1gzUDdhT0lZM1BBdnBLdmYxcHZVQXBucHJRUXR4cnhXdnNRWm1uRWs1Smo0dkEyb0JKWWRnMkdVRkxDbGpXQjBTYmJtYkxGNW9KR282R09fU3ZZYXo4UWN0Mk0wODhaVEUyWHVlQ1F5OS1nSldTYUFaMlZJenBNUQ?oc=5"
+        }
+      ],
+      "menciones_total": 11,
+      "menciones_hoy": 1,
+      "score_compuesto": 13.1
     }
   ]
 }

@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json",
   "language": "es-MX",
-  "date_modified": "2026-03-17T05:33:22.612521+00:00",
-  "total_records": 70,
+  "date_modified": "2026-03-18T03:07:23.821419+00:00",
+  "total_records": 84,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#0",
@@ -772,6 +772,160 @@
       "title": "Puerto Balboa (PAMIT) Panama — 2026-03-17",
       "content_text": "Puerto Balboa en Panama (LOCODE: PAMIT): Canal de Panama — 14000 buques/año. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:PAMIT. Fecha: 2026-03-17.",
       "date_published": "2026-03-17T05:31:48.674885+00:00",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:PAMIT",
+      "tags": [
+        "transporte_maritimo",
+        "AIS Puertos LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#70",
+      "title": "Baltic Dry Index (BDI) — 2026-03-18",
+      "content_text": "Baltic Dry Index: indicador global de costo flete granel seco — maiz, trigo, mineral. Indicador clave del costo de transporte maritimo global. Impacta en competitividad exportaciones agricolas y minerales de LATAM. Referencia: https://www.balticexchange.com/en/data/download.html. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.balticexchange.com",
+      "tags": [
+        "transporte_maritimo",
+        "Baltic Exchange"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#71",
+      "title": "Baltic Capesize Index (BCI) — 2026-03-18",
+      "content_text": "Baltic Capesize Index: buques grandes mineral hierro y carbon. Indicador clave del costo de transporte maritimo global. Impacta en competitividad exportaciones agricolas y minerales de LATAM. Referencia: https://www.balticexchange.com/en/data/download.html. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.balticexchange.com",
+      "tags": [
+        "transporte_maritimo",
+        "Baltic Exchange"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#72",
+      "title": "Baltic Panamax Index (BPI) — 2026-03-18",
+      "content_text": "Baltic Panamax Index: buques Panamax — granos y carbon LATAM. Indicador clave del costo de transporte maritimo global. Impacta en competitividad exportaciones agricolas y minerales de LATAM. Referencia: https://www.balticexchange.com/en/data/download.html. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.balticexchange.com",
+      "tags": [
+        "transporte_maritimo",
+        "Baltic Exchange"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#73",
+      "title": "Baltic Supramax Index (BSI) — 2026-03-18",
+      "content_text": "Baltic Supramax Index: buques medianos — exportaciones agricolas LATAM. Indicador clave del costo de transporte maritimo global. Impacta en competitividad exportaciones agricolas y minerales de LATAM. Referencia: https://www.balticexchange.com/en/data/download.html. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.balticexchange.com",
+      "tags": [
+        "transporte_maritimo",
+        "Baltic Exchange"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#74",
+      "title": "Regulaciones maritimas IMO — 2026-03-18",
+      "content_text": "La IMO publica regulaciones de seguridad maritima, normas ambientales (MARPOL) y nuevas restricciones de emisiones que afectan costos de flete. Relevante para puertos mexicanos y rutas comerciales LATAM. URL: https://www.imo.org. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.imo.org",
+      "tags": [
+        "transporte_maritimo",
+        "IMO — Organizacion Maritima Internacional"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#75",
+      "title": "Puerto Veracruz (MXVER) Mexico — 2026-03-18",
+      "content_text": "Puerto Veracruz en Mexico (LOCODE: MXVER): petroleo y carga general — 25M ton/año. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:MXVER. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXVER",
+      "tags": [
+        "transporte_maritimo",
+        "AIS Puertos LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#76",
+      "title": "Puerto Lazaro Cardenas (MXLZC) Mexico — 2026-03-18",
+      "content_text": "Puerto Lazaro Cardenas en Mexico (LOCODE: MXLZC): automotriz y granel — hub Pacifico. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:MXLZC. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXLZC",
+      "tags": [
+        "transporte_maritimo",
+        "AIS Puertos LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#77",
+      "title": "Puerto Altamira (MXATM) Mexico — 2026-03-18",
+      "content_text": "Puerto Altamira en Mexico (LOCODE: MXATM): petroquimico e industrial. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:MXATM. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:MXATM",
+      "tags": [
+        "transporte_maritimo",
+        "AIS Puertos LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#78",
+      "title": "Puerto Santos (BRSSZ) Brasil — 2026-03-18",
+      "content_text": "Puerto Santos en Brasil (LOCODE: BRSSZ): mayor puerto America Latina — 150M ton/año. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:BRSSZ. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:BRSSZ",
+      "tags": [
+        "transporte_maritimo",
+        "AIS Puertos LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#79",
+      "title": "Puerto Valparaiso (CLVAP) Chile — 2026-03-18",
+      "content_text": "Puerto Valparaiso en Chile (LOCODE: CLVAP): cobre y frutas — exportaciones Chile. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:CLVAP. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:CLVAP",
+      "tags": [
+        "transporte_maritimo",
+        "AIS Puertos LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#80",
+      "title": "Puerto Buenaventura (COBUN) Colombia — 2026-03-18",
+      "content_text": "Puerto Buenaventura en Colombia (LOCODE: COBUN): Pacifico Colombia — carbon y cafe. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:COBUN. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:COBUN",
+      "tags": [
+        "transporte_maritimo",
+        "AIS Puertos LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#81",
+      "title": "Puerto Callao (PECLL) Peru — 2026-03-18",
+      "content_text": "Puerto Callao en Peru (LOCODE: PECLL): mayor puerto peruano — mineral y pesquero. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:PECLL. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:PECLL",
+      "tags": [
+        "transporte_maritimo",
+        "AIS Puertos LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#82",
+      "title": "Puerto Buenos Aires (ARBUE) Argentina — 2026-03-18",
+      "content_text": "Puerto Buenos Aires en Argentina (LOCODE: ARBUE): hub Rio de la Plata — soya y granos. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:ARBUE. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:ARBUE",
+      "tags": [
+        "transporte_maritimo",
+        "AIS Puertos LATAM"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/transporte_maritimo.json#83",
+      "title": "Puerto Balboa (PAMIT) Panama — 2026-03-18",
+      "content_text": "Puerto Balboa en Panama (LOCODE: PAMIT): Canal de Panama — 14000 buques/año. Trafico en tiempo real: https://www.marinetraffic.com/en/ais/details/ports/portid:PAMIT. Fecha: 2026-03-18.",
+      "date_published": "2026-03-18T03:05:06.729957+00:00",
       "url": "https://www.marinetraffic.com/en/ais/details/ports/portid:PAMIT",
       "tags": [
         "transporte_maritimo",

@@ -220,5 +220,66 @@
       "momentum": 0,
       "temas": []
     }
+  },
+  "2026-03-17": {
+    "mejia_haro": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
+      "temas": [
+        "general"
+      ]
+    },
+    "saul_monreal": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
+      "temas": [
+        "gasto_publico"
+      ]
+    },
+    "diaz_robles": {
+      "menciones": 0,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
+    },
+    "narro_cespedes": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
+      "temas": [
+        "general"
+      ]
+    },
+    "varela_pinedo": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
+      "temas": [
+        "general"
+      ]
+    },
+    "bonilla_gomez": {
+      "menciones": 1,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 1,
+      "temas": [
+        "general"
+      ]
+    },
+    "anaya_mota": {
+      "menciones": 0,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 0,
+      "temas": []
+    }
   }
 }

@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json",
   "language": "es-MX",
-  "date_modified": "2026-03-17T05:33:22.612521+00:00",
-  "total_records": 94,
+  "date_modified": "2026-03-18T03:07:23.821419+00:00",
+  "total_records": 109,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#0",
@@ -1000,6 +1000,171 @@
     },
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#90",
+      "title": "Tipo de cambio USD/MXN — 2026-03-18",
+      "content_text": "1 USD = 17.67 MXN (Peso mexicano) al 2026-03-18.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://api.exchangerate-api.com",
+      "tags": [
+        "mercados_latam",
+        "ExchangeRate-API"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#91",
+      "title": "Tipo de cambio USD/BRL — 2026-03-18",
+      "content_text": "1 USD = 5.2 BRL (Real brasileño) al 2026-03-18.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://api.exchangerate-api.com",
+      "tags": [
+        "mercados_latam",
+        "ExchangeRate-API"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#92",
+      "title": "Tipo de cambio USD/ARS — 2026-03-18",
+      "content_text": "1 USD = 1452.25 ARS (Peso argentino) al 2026-03-18.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://api.exchangerate-api.com",
+      "tags": [
+        "mercados_latam",
+        "ExchangeRate-API"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#93",
+      "title": "Tipo de cambio USD/CLP — 2026-03-18",
+      "content_text": "1 USD = 909.72 CLP (Peso chileno) al 2026-03-18.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://api.exchangerate-api.com",
+      "tags": [
+        "mercados_latam",
+        "ExchangeRate-API"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#94",
+      "title": "Tipo de cambio USD/COP — 2026-03-18",
+      "content_text": "1 USD = 3694.96 COP (Peso colombiano) al 2026-03-18.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://api.exchangerate-api.com",
+      "tags": [
+        "mercados_latam",
+        "ExchangeRate-API"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#95",
+      "title": "Tipo de cambio USD/PEN — 2026-03-18",
+      "content_text": "1 USD = 3.42 PEN (Sol peruano) al 2026-03-18.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://api.exchangerate-api.com",
+      "tags": [
+        "mercados_latam",
+        "ExchangeRate-API"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#96",
+      "title": "Commodity Petróleo WTI — 2026-03-18",
+      "content_text": "Petróleo WTI: USD 93.4 al 2026-03-18. Relevancia LATAM: crítico para México y Colombia.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://finance.yahoo.com/quote/CL=F",
+      "tags": [
+        "mercados_latam",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#97",
+      "title": "Commodity Petróleo Brent — 2026-03-18",
+      "content_text": "Petróleo Brent: USD 101.79 al 2026-03-18. Relevancia LATAM: referencia global exportaciones LATAM.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://finance.yahoo.com/quote/BZ=F",
+      "tags": [
+        "mercados_latam",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#98",
+      "title": "Commodity Cobre — 2026-03-18",
+      "content_text": "Cobre: USD 5.753 al 2026-03-18. Relevancia LATAM: crítico para Chile y Perú.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://finance.yahoo.com/quote/HG=F",
+      "tags": [
+        "mercados_latam",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#99",
+      "title": "Commodity Plata — 2026-03-18",
+      "content_text": "Plata: USD 78.735 al 2026-03-18. Relevancia LATAM: México mayor productor mundial.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://finance.yahoo.com/quote/SI=F",
+      "tags": [
+        "mercados_latam",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#100",
+      "title": "Commodity Oro — 2026-03-18",
+      "content_text": "Oro: USD 4999.3 al 2026-03-18. Relevancia LATAM: reservas bancos centrales LATAM.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://finance.yahoo.com/quote/GC=F",
+      "tags": [
+        "mercados_latam",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#101",
+      "title": "Commodity Maíz — 2026-03-18",
+      "content_text": "Maíz: USX 453.25 al 2026-03-18. Relevancia LATAM: crítico para México y Argentina.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://finance.yahoo.com/quote/ZC=F",
+      "tags": [
+        "mercados_latam",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#102",
+      "title": "Commodity Soya — 2026-03-18",
+      "content_text": "Soya: USX 1150.25 al 2026-03-18. Relevancia LATAM: crítico para Brasil y Argentina.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://finance.yahoo.com/quote/ZS=F",
+      "tags": [
+        "mercados_latam",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#103",
+      "title": "Commodity Café — 2026-03-18",
+      "content_text": "Café: USX 294.85 al 2026-03-18. Relevancia LATAM: Colombia, Brasil, México.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://finance.yahoo.com/quote/KC=F",
+      "tags": [
+        "mercados_latam",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#104",
+      "title": "Commodity Gas natural — 2026-03-18",
+      "content_text": "Gas natural: USD 2.977 al 2026-03-18. Relevancia LATAM: energía industria LATAM.",
+      "date_published": "2026-03-18T03:04:56.723996+00:00",
+      "url": "https://finance.yahoo.com/quote/NG=F",
+      "tags": [
+        "mercados_latam",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#105",
       "title": "USD/MXN Tipo de cambio FIX",
       "content_text": "",
       "date_published": "2026-03-14",
@@ -1010,7 +1175,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#91",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#106",
       "title": "USD/MXN Tipo de cambio FIX",
       "content_text": "",
       "date_published": "2026-03-15",
@@ -1021,7 +1186,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#92",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#107",
       "title": "USD/MXN Tipo de cambio FIX",
       "content_text": "",
       "date_published": "2026-03-16",
@@ -1032,7 +1197,7 @@
       ]
     },
     {
-      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#93",
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mercados_latam.json#108",
       "title": "USD/MXN Tipo de cambio FIX",
       "content_text": "",
       "date_published": "2026-03-17",

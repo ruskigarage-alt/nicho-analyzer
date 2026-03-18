@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json",
   "language": "es-MX",
-  "date_modified": "2026-03-17T05:33:22.612521+00:00",
-  "total_records": 76,
+  "date_modified": "2026-03-18T03:07:23.821419+00:00",
+  "total_records": 91,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#0",
@@ -842,6 +842,171 @@
       "tags": [
         "politica_local",
         "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#76",
+      "title": "“En México tenemos ciencia, y se hace muy bien”",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/politica/010e1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#77",
+      "title": "Pese a desacuerdos, siempre se busca buena relación con EU, sostiene la Presidenta",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/politica/005n2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#78",
+      "title": "Preparan senadores  donaciones al pueblo  caribeño",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/politica/005n4pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#79",
+      "title": "Felipe Ávila*: México Cuba",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/politica/013a2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#80",
+      "title": "Julio Hernández López: Astillero",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/opinion/008o1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#81",
+      "title": "Pedro Salmerón Sanginés/II: 1926: el Imperio  y el Papa amenazan  a México",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/politica/012a1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#82",
+      "title": "Es grosero el llamado de EU a no apoyar a isleños: embajador",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/politica/005n3pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#83",
+      "title": "Abel Barrera Hernández*: Ayotzinapa en la memoria y el corazón",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/politica/012a2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#84",
+      "title": "Marina pone en marcha estrategia en Manzanillo contra grupos delictivos",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/estados/026n2est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#85",
+      "title": "Asesinan a tres choferes en dos ataques en Acapulco; hay 8 personas lesionadas",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/estados/025n2est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#86",
+      "title": "Confirma Salud segunda muerte por sarampión e investiga posible tercera",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/capital/027n1cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#87",
+      "title": "Prevén en La Viga alza de precios a productos por derrame y mal tiempo",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/capital/029n2cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#88",
+      "title": "Rescate de altura",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://www.jornada.com.mx/2026/03/17/capital/028n3cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#89",
+      "title": "Anuncian que hoy continuarán protestas por parte de frijoleros",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://ljz.mx/17/03/2026/anuncian-que-hoy-continuaran-protestas-por-parte-de-frijoleros/",
+      "tags": [
+        "politica_local",
+        "jornada_zacatecas"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#90",
+      "title": "Inauguran carretera en Valparaíso, tramo junto a Fresnillo y San José",
+      "content_text": "",
+      "date_published": "2026-03-17",
+      "url": "https://ljz.mx/17/03/2026/inauguran-carretera-en-valparaiso-tramo-junto-a-fresnillo-y-san-jose/",
+      "tags": [
+        "politica_local",
+        "jornada_zacatecas"
       ]
     }
   ]
