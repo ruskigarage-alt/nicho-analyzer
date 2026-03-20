@@ -43,6 +43,13 @@ from dataclasses import dataclass, field, asdict
 from typing import Optional
 from urllib.parse import quote_plus
 
+# Cargar variables de entorno desde .env
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 # ─── DEPENDENCIAS OPCIONALES ─────────────────────────────────────────────────
 try:
     import feedparser
@@ -67,6 +74,13 @@ except ImportError:
     print("[AVISO] pip install newsapi-python")
 
 # ─── CONFIGURACIÓN ───────────────────────────────────────────────────────────
+# Cargar variables de entorno desde .env
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 NEWS_API_KEY = os.getenv('NEWS_API_KEY')  # Obtén tu API key de https://newsapi.org
 
 try:
