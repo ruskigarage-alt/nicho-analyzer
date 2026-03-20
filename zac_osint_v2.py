@@ -23,7 +23,7 @@ Módulos:
 
 Dependencias:
   pip install feedparser requests beautifulsoup4 pandas numpy \
-              python-dateutil lxml yfinance sqlite3 schedule
+              python-dateutil lxml yfinance sqlite3 schedule newsapi-python
 
 Uso:
   python3 zac_osint_v2.py --run-all
@@ -58,6 +58,16 @@ try:
 except ImportError:
     REQUESTS_OK = False
     print("[AVISO] pip install requests beautifulsoup4")
+
+try:
+    from newsapi import NewsApiClient
+    NEWSAPI_OK = True
+except ImportError:
+    NEWSAPI_OK = False
+    print("[AVISO] pip install newsapi-python")
+
+# ─── CONFIGURACIÓN ───────────────────────────────────────────────────────────
+NEWS_API_KEY = os.getenv('NEWS_API_KEY')  # Obtén tu API key de https://newsapi.org
 
 try:
     import yfinance as yf
@@ -953,8 +963,8 @@ class MinadorRSS:
 
 class MinadorGoogleNews:
     """
-    Extrae resultados de Google News via RSS (sin API key).
-    URL: https://news.google.com/rss/search?q=QUERY&hl=es-MX&gl=MX&ceid=MX:es
+    Extrae resultados de Google News via RSS (sin API key) o NewsAPI (con API key).
+    Si NEWS_API_KEY está configurada, usa NewsAPI; sino, RSS.
     """
     BASE = "https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
 
@@ -979,27 +989,66 @@ class MinadorGoogleNews:
 
     def __init__(self, delay: float = 1.5):
         self.minador = MinadorRSS(timeout=10, delay=delay)
+        self.newsapi = None
+        if NEWS_API_KEY and NEWSAPI_OK:
+            self.newsapi = NewsApiClient(api_key=NEWS_API_KEY)
+            log.info("MinadorGoogleNews: Usando NewsAPI")
+        else:
+            log.info("MinadorGoogleNews: Usando RSS (sin API key)")
 
     def scrape_todas_consultas(self) -> list:
         noticias = []
         for nombre, (query, hl, gl, ceid) in self.CONSULTAS.items():
-            url = self.BASE.format(
-                q=quote_plus(query), hl=hl, gl=gl, ceid=ceid
-            )
-            ns = self.minador.scrape_feed(nombre, url, "google_news")
+            if self.newsapi:
+                ns = self._scrape_con_newsapi(nombre, query, hl)
+            else:
+                url = self.BASE.format(
+                    q=quote_plus(query), hl=hl, gl=gl, ceid=ceid
+                )
+                ns = self.minador.scrape_feed(nombre, url, "google_news")
             noticias.extend(ns)
             log.info(f"  Google News [{nombre}]: {len(ns)} resultados")
             time.sleep(self.minador.delay)
         return noticias
 
+    def _scrape_con_newsapi(self, nombre: str, query: str, hl: str) -> list:
+        """Scrape usando NewsAPI."""
+        try:
+            language = 'es' if 'es' in hl else 'en'
+            response = self.newsapi.get_everything(
+                q=query,
+                language=language,
+                sort_by='relevancy',
+                page_size=20
+            )
+            noticias = []
+            for article in response.get('articles', []):
+                n = Noticia(
+                    titulo=article['title'],
+                    resumen=article['description'] or '',
+                    url=article['url'],
+                    fuente=nombre,
+                    fecha_publicacion=article['publishedAt'][:10] if article['publishedAt'] else None,
+                    categoria="google_news"
+                )
+                noticias.append(n)
+            return noticias
+        except Exception as e:
+            log.error(f"Error con NewsAPI para {nombre}: {e}")
+            return []
+
     def busqueda_ad_hoc(self, query: str, idioma: str = "es-MX") -> list:
         """Búsqueda personalizada en Google News."""
-        url = self.BASE.format(
-            q=quote_plus(query),
-            hl=idioma, gl="MX" if "MX" in idioma else "US",
-            ceid=f"{'MX' if 'MX' in idioma else 'US'}:{idioma[:2]}"
-        )
-        return self.minador.scrape_feed(f"gnews_{query[:20]}", url, "google_news")
+        if self.newsapi:
+            language = 'es' if 'es' in idioma else 'en'
+            return self._scrape_con_newsapi(f"gnews_{query[:20]}", query, idioma)
+        else:
+            url = self.BASE.format(
+                q=quote_plus(query),
+                hl=idioma, gl="MX" if "MX" in idioma else "US",
+                ceid=f"{'MX' if 'MX' in idioma else 'US'}:{idioma[:2]}"
+            )
+            return self.minador.scrape_feed(f"gnews_{query[:20]}", url, "google_news")
 
 # =============================================================================
 #  MÓDULO 8: MINADOR DE MERCADOS FINANCIEROS
