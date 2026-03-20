@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZAC-OSINT v2 - Motor OSINT Geopolítico</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f5f5f5; }
+        .container { max-width: 1200px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; text-align: center; }
+        .section { margin: 20px 0; }
+        .button { background: #3498db; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px; }
+        .button:hover { background: #2980b9; }
+        .status { padding: 10px; background: #ecf0f1; border-left: 4px solid #3498db; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🛰️ ZAC-OSINT v2</h1>
+        <p><strong>Motor OSINT Geopolítico Personal tipo Stratfor/Palantir</strong></p>
+        <p>Estado de Zacatecas | Elecciones Gobernatura 2027 | Mercados Globales</p>
+
+        <div class="section">
+            <h2>📊 Estado del Sistema</h2>
+            <div class="status">
+                <strong>Última actualización:</strong> <span id="last-update">Cargando...</span><br>
+                <strong>Feeds RSS:</strong> 225 fuentes organizadas<br>
+                <strong>Google News:</strong> Activo con NewsAPI<br>
+                <strong>Mercados:</strong> Yahoo Finance integrado<br>
+                <strong>Base de datos:</strong> SQLite local
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🚀 Ejecutar Minado</h2>
+            <p>Para ejecutar el minado OSINT, abre una terminal y ejecuta:</p>
+            <code>cd "/home/aetherius/OSINT Zac" && ./actualizar.sh</code>
+            <br><br>
+            <a href="#" class="button" onclick="alert('Ejecuta en terminal: ./actualizar.sh')">Ejecutar Minado Completo</a>
+            <a href="#" class="button" onclick="alert('Ejecuta: python3 zac_osint_v2.py --solo-electoral')">Solo Electoral</a>
+            <a href="#" class="button" onclick="alert('Ejecuta: python3 zac_osint_v2.py --solo-mercados')">Solo Mercados</a>
+        </div>
+
+        <div class="section">
+            <h2>📁 Archivos Generados</h2>
+            <ul>
+                <li><a href="zac_osint.log">Log de ejecución</a></li>
+                <li><a href="zac_osint_historial.db">Base de datos histórica</a></li>
+                <li>Dashboard HTML (generado después del minado)</li>
+                <li>Archivos JSON/CSV de exportación</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>🔧 Configuración</h2>
+            <p>API Key de NewsAPI configurada en <code>.env</code></p>
+            <p>Dependencias instaladas en entorno virtual</p>
+        </div>
+
+        <div class="section">
+            <h2>📈 Módulos</h2>
+            <ul>
+                <li><strong>CatalogoFuentes:</strong> 225 feeds RSS por región</li>
+                <li><strong>MinadorRSS:</strong> Scraping con rate-limit</li>
+                <li><strong>MinadorGoogleNews:</strong> NewsAPI + RSS fallback</li>
+                <li><strong>MinadorMercados:</strong> Yahoo Finance</li>
+                <li><strong>AnalizadorOSINT:</strong> Clasificación multi-eje</li>
+                <li><strong>PerfilCandidatos:</strong> Scoring de 7 candidatos Zac</li>
+                <li><strong>HistorialDB:</strong> Serie temporal SQLite</li>
+                <li><strong>Exportador:</strong> JSON/CSV/HTML</li>
+            </ul>
+        </div>
+
+        <script>
+            // Simular última actualización
+            document.getElementById('last-update').textContent = new Date().toLocaleString('es-ES');
+        </script>
+    </div>
+</body>
+</html>
