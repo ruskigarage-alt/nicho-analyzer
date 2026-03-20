@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json",
   "language": "es-MX",
-  "date_modified": "2026-03-18T03:07:23.821419+00:00",
-  "total_records": 72,
+  "date_modified": "2026-03-20T16:32:21.084191+00:00",
+  "total_records": 84,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#0",
@@ -794,6 +794,138 @@
       "title": "LME — precios metales industriales 2026-03-18",
       "content_text": "El London Metal Exchange publica precios oficiales de cobre, aluminio, zinc, plomo, estanio y niquel. Estos precios son referencia global para contratos de exportacion minera LATAM. Consulta: https://www.lme.com/en/metals. Fecha: 2026-03-18.",
       "date_published": "2026-03-18T03:05:06.729957+00:00",
+      "url": "https://www.lme.com/en/metals",
+      "tags": [
+        "mineria_metales",
+        "London Metal Exchange"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#72",
+      "title": "Cobre — 2026-03-20",
+      "content_text": "Cobre: USD 5.398 al 2026-03-20. Chile mayor productor mundial, Peru 2do.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/HG=F",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — LME/CME"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#73",
+      "title": "Plata — 2026-03-20",
+      "content_text": "Plata: USD 70.315 al 2026-03-20. Mexico mayor productor mundial.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/SI=F",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — LME/CME"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#74",
+      "title": "Oro — 2026-03-20",
+      "content_text": "Oro: USD 4603.3 al 2026-03-20. Mexico 9no productor mundial.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/GC=F",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — LME/CME"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#75",
+      "title": "Aluminio — 2026-03-20",
+      "content_text": "Aluminio: USD 3122.0 al 2026-03-20. insumo industria automotriz Mexico.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/ALI=F",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — LME/CME"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#76",
+      "title": "Paladio — 2026-03-20",
+      "content_text": "Paladio: USD 1449.5 al 2026-03-20. metales del grupo platino.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/PA=F",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — LME/CME"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#77",
+      "title": "Platino — 2026-03-20",
+      "content_text": "Platino: USD 1974.9 al 2026-03-20. tierras raras y metales criticos.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/PL=F",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — LME/CME"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#78",
+      "title": "Zinc — 2026-03-20",
+      "content_text": "Zinc: USD 110.65625 al 2026-03-20. Mexico top 5 productor mundial.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/ZN=F",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — LME/CME"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#79",
+      "title": "Plomo — 2026-03-20",
+      "content_text": "Plomo: USD 380.6 al 2026-03-20. Mexico productor relevante.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/LBS=F",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — LME/CME"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#80",
+      "title": "Accion Albemarle (ALB) — 2026-03-20",
+      "content_text": "Albemarle (ALB): USD 158.82 al 2026-03-20. mayor productor litio mundial, opera en Chile y Australia. Indicador de mercado de litio y tierras raras relevante para Mexico y LATAM.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/ALB",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — Litio/Tierras raras"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#81",
+      "title": "Accion SQM (SQM) — 2026-03-20",
+      "content_text": "SQM (SQM): USD 72.18 al 2026-03-20. productor litio Chile — Atacama. Indicador de mercado de litio y tierras raras relevante para Mexico y LATAM.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/SQM",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — Litio/Tierras raras"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#82",
+      "title": "Accion Lithium Americas (LAC) — 2026-03-20",
+      "content_text": "Lithium Americas (LAC): USD 3.825 al 2026-03-20. proyecto Thacker Pass y Caucharí-Olaroz Argentina. Indicador de mercado de litio y tierras raras relevante para Mexico y LATAM.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
+      "url": "https://finance.yahoo.com/quote/LAC",
+      "tags": [
+        "mineria_metales",
+        "Yahoo Finance — Litio/Tierras raras"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/mineria_metales.json#83",
+      "title": "LME — precios metales industriales 2026-03-20",
+      "content_text": "El London Metal Exchange publica precios oficiales de cobre, aluminio, zinc, plomo, estanio y niquel. Estos precios son referencia global para contratos de exportacion minera LATAM. Consulta: https://www.lme.com/en/metals. Fecha: 2026-03-20.",
+      "date_published": "2026-03-20T16:29:59.212450+00:00",
       "url": "https://www.lme.com/en/metals",
       "tags": [
         "mineria_metales",

@@ -1,0 +1,160 @@
+---
+title: "Politica Local — Actualización 2026-03-20"
+date: "2026-03-20"
+nicho: "politica_local"
+total_entradas: 21
+schema: "NewsDigest"
+---
+
+# Politica Local
+> Digest estructurado para sistemas de IA — 2026-03-20
+
+## Entradas del día
+
+### Aranceles a productos chinos impactarán a artículos mexicanos, advierte embajador
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/20/politica/008n1pol?partner=rss
+- **Resumen**: El embajador de China en México, Chen Daojiang, advirtió ayer que la imposición de aranceles a productos chinos por el gobierno mexicano podría afectar a la industria nacional, al tratarse en buena medida de insumos que forman parte de procesos productivos de nuestro país.
+- **Relevancia**: 0.5122
+
+### Nueva plataforma anticorrupción para capacitar a servidores
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/20/politica/010n5pol?partner=rss
+- **Resumen**: La Secretaría Anticorrupción y Buen Gobierno informó ayer la creación de la plataforma Escuela de Buen Gobierno, orientada a la capacitación y actualización permanente de los servidores públicos del gobierno federal. Esta nueva herramienta sustituye al Sistema de Capacitación Virtual para las Personas Servidoras Públicas, que en 2025 registró 1.3 millones de participaciones, cifra histórica que superó las 1.2 millones acumuladas en sus primeros cinco años de operación, con aumento de 290 por ciento respecto a 2024. Ofrece “mejor experiencia de usuario y sin cupos limitados”. La secretaría añadió que “la capacitación con valores y competencias mejor direccionadas serán claves para concebir un servicio público íntegro y más eficiente”.
+- **Relevancia**: 0.4788
+
+### Senador de Morena pide abrogación gradual de la Ley del Issste de 2007
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/20/politica/007n3pol?partner=rss
+- **Resumen**: Ante las movilizaciones de la Coordinadora Nacional de Trabajadores de la Educación (CNTE) en la Ciudad de México, el senador morenista Raúl Morón declaró que lo que se impone es empezar a platicar sobre la viabilidad y la gradualidad que puede tener el que se vaya abrogando poco a poco la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issste) de 2007.
+- **Relevancia**: 0.4942
+
+### Gabriela Rodríguez R.: Niñas madres: expresión de la distribución asimétrica de la riqueza social
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/20/politica/011a2pol?partner=rss
+- **Resumen**: Vivimos en crisis  permanentes, a escala mundial y local; se trata de una herencia del capitalismo tardío, de un régimen basado en la distribución asimétrica de la riqueza social.
+- **Relevancia**: 0.5943
+
+### Julio Hernández López: Astillero
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/20/opinion/008o1pol?partner=rss
+- **Resumen**: Dado que el gobierno federal mexicano los ha abandonado inequívocamente y pretende sentenciarlos a que acepten la instalación de facto de una empresa altamente contaminante, una comisión de los defensores de la sinaloense bahía de Ohuira inician hoy una agenda internacional de trabajo en Europa, para “visibilizar la situación socioambiental que enfrenta nuestro territorio y fortalecer redes de solidaridad y diálogo en torno al proyecto de muerte de la trasnacional suiza alemana Proman AG, una planta de amoniaco de 2 mil 200 toneladas diarias en un sitio Ramsar”.
+- **Relevancia**: 0.5638
+
+### Apoyo va a continuar: Sheinbaum
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/20/politica/006n2pol?partner=rss
+- **Resumen**: La presidenta Claudia Sheinbaum informó que se están analizando distintos esquemas para mantener la ayuda al pueblo cubano, porque México es soberano y puede mantener relaciones comerciales y de otro tipo con cualquier país del mundo. En una muy breve referencia al caso cubano en su conferencia, consideró que cada vez que se anuncia un mecanismo de apoyo a Cuba, “la derecha enloquece porque estamos apoyando a un pueblo que está sufriendo”.
+- **Relevancia**: 0.4855
+
+### Pedro Miguel: Las pensiones doradas
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/20/politica/012a2pol?partner=rss
+- **Resumen**: 
+- **Relevancia**: 0.4819
+
+### México te Abraza apoyó a 189,830 paisanos expulsados por Trump
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/20/politica/005n1pol?partner=rss
+- **Resumen**: La secretaria de Gobernación, Rosa Icela Rodríguez, informó que con el programa México te Abraza, instrumentado para apoyar a los paisanos deportados de Estados Unidos a partir del 20 de enero de 2025, con la segunda llegada de Donald Trump a la Casa Blanca, hasta ahora han ofrecido apoyo a 189 mil 830 mexicanos repatriados hasta el 18 de marzo pasado.
+- **Relevancia**: 0.5232
+
+### Raúl Zibechi: Tierra y territorios en Sudamérica
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_politica
+- **URL**: https://www.jornada.com.mx/2026/03/20/politica/011a1pol?partner=rss
+- **Resumen**: “La tierra y los territorios no son un telón de fondo de la reconfiguración geopolítica”, escribe Oscar Bazoberry, coordinador del Instituto para el Desarrollo Rural de Sudamérica (Ipdrs), en la introducción del Décimo informe. Acceso a la tierra y el territorio en Sudamérica. Agrega que tierra y territorios “continúan siendo el espacio donde se materializan los ciclos políticos, las estrategias extractivas y las nuevas agendas ambientales”.
+- **Relevancia**: 0.5159
+
+### Encuentran muertas a otras 3 tortugas en costas de Veracruz
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/20/estados/025n1est?partner=rss
+- **Resumen**: Veracruz, Ver., El hallazgo de tres tortugas muertas en costas de Veracruz ha sido reportado en menos de 24 horas, lo que generó preocupación entre protectores del medio ambiente y asociaciones ecologistas. A su vez, habitantes del sur del estado detectaron nuevos arribos de manchas de hidrocarburo a zonas de anidamiento y desove de quelonios, por lo que realizaron tareas de limpieza.
+- **Relevancia**: 0.5083
+
+### Reportan arresto de líder social  en Guerrero
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/20/estados/026n3est?partner=rss
+- **Resumen**: Chilpancingo, Gro., El activista Abel Barrera Hernández informó que el dirigente del Frente Popular de la Montaña (FPM), Ubaldo Segura Pantoja, fue detenido por elementos de la Policía Federal Ministerial que lo trasladaron al estado de Puebla de manera ilegal.
+- **Relevancia**: 0.4811
+
+### Operativo federal en inmuebles de  El Mayo en Culiacán deja 11 muertos
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/20/estados/024n1est?partner=rss
+- **Resumen**: En un amplio operativo realizado en Sinaloa, la Secretaría de Marina Armada de México (Marina) intervino ayer inmuebles ligados a Los Mayos, facción del cártel de Sinaloa, con un saldo de 11 presuntos integrantes abatidos y uno aprehendido; además, fue retenida inicialmente una hija de Ismael El Mayo Zambada –presuntamente Mónica Zambada Niebla– quien fue liberada al no existir indicios de delito ni orden de aprehensión en su contra.
+- **Relevancia**: 0.5113
+
+### Vinculan a proceso a ex subprocuradora de Guerrero ligada al caso Ayotzinapa
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/20/estados/025n4est?partner=rss
+- **Resumen**: Blanca María del Rocío Estrada Ortega, ex subprocuradora de Guerrero, fue vinculada a proceso por posesión de cartuchos de arma de fuego y medicamentos controlados. La Fiscalía General de la República (FGR) la investiga por su presunta participación en la pérdida, ocultamiento o destrucción de videos de las cámaras de seguridad del Palacio de Justicia de Iguala, relacionados con la desaparición de los 43 normalistas de Ayotzinapa. También procesó a Margarita Anguiano Castro, de 83 años, por los mismos delitos.
+- **Relevancia**: 0.5034
+
+### Asesinan en Oaxaca a defensora de la tierra; su hija está lesionada
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/20/estados/026n1est?partner=rss
+- **Resumen**: Oaxaca, Oax., La defensora de la tierra y el territorio de San Pedro Totolapan, Nazareth Cortés Velasco, fue asesinada antenoche con disparos de arma de fuego; en la agresión armada su hija resultó herida, informó la Fiscalía General del Estado de Oaxaca.
+- **Relevancia**: 0.5432
+
+### Tren de carga con migrantes descarrila en Aguascalientes; un fallecido y seis heridos
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/20/estados/025n2est?partner=rss
+- **Resumen**: Diez vagones de un tren de la empresa Ferromex se descarrilaron y aparentemente salieron de la vía por el robo de durmientes. El accidente, ocurrido en la comunidad Estación de Chora del municipio de Rincón de Romos, Aguascalientes, dejó un muerto y seis heridos de gravedad, todos ellos migrantes originarios de Honduras, El Salvador y México.
+- **Relevancia**: 0.6076
+
+### Caen funcionarios y mandos policiales de Chavinda por presuntos nexos criminales
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_estados
+- **URL**: https://www.jornada.com.mx/2026/03/20/estados/024n3est?partner=rss
+- **Resumen**: Morelia, Mich., La síndica, dos regidores y dos mandos de seguridad pública del ayuntamiento de Chavinda, que encabeza el edil Armando Pérez Mendoza, de Movimiento Ciudadano, fueron detenidos por fuerzas federales y estatales en posesión de armas, droga y equipo táctico, lo que apuntaría a una presunta infiltración del crimen en la administración municipal.
+- **Relevancia**: 0.4791
+
+### Estima la Canaco daños por 188.7 mdp generados por movilizaciones de la CNTE
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_capital
+- **URL**: https://www.jornada.com.mx/2026/03/20/capital/029n1cap?partner=rss
+- **Resumen**: Los tres días de movilizaciones y el plantón en el Zócalo de integrantes de la Coordinadora Nacional de Trabajadores de la Educación (CNTE) generarán daños económicos por ventas no realizadas de al menos 188 millones 766 mil pesos, estimó el presidente de la Cámara Nacional de Comercio, Servicios y Turismo (Canaco) de la Ciudad de México, Vicente Gutiérrez Camposeco.
+- **Relevancia**: 0.5111
+
+### Pide Morena investigar la violencia contra habitantes de  la alcaldía MH
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_capital
+- **URL**: https://www.jornada.com.mx/2026/03/20/capital/029n3cap?partner=rss
+- **Resumen**: Tras condenar la violencia en contra de vecinos que se manifestaron por la falta de mantenimiento en el parque Lira por la alcaldía Miguel Hidalgo, diputados locales dijeron que denunciarán el hecho ante la Fiscalía General de Justicia, la Contraloría y la Comisión de Derechos Humanos, pues no debería ser un delito defender el espacio público.
+- **Relevancia**: 0.4794
+
+### Concede juez la prisión domiciliaria al ex líder de los bomberos
+- **Fecha**: Fri, 20 Mar 2026 07:51:28 GMT
+- **Fuente**: jornada_capital
+- **URL**: https://www.jornada.com.mx/2026/03/20/capital/028n3cap?partner=rss
+- **Resumen**: El ex líder del Sindicato de Bomberos de la Ciudad de México Ismael Figueroa, detenido en Puerto Vallarta, Jalisco, el 24 de febrero de 2024 por el delito de lavado de dinero, obtuvo la medida de prisión domiciliaria, por lo que dejó el Reclusorio Sur, donde se encontraba.
+- **Relevancia**: 0.5433
+
+### T-MEC: cero aranceles en autos, el plan de México
+- **Fecha**: Fri, 20 Mar 2026 16:28:28 +0000
+- **Fuente**: jornada_zacatecas
+- **URL**: https://ljz.mx/20/03/2026/t-mec-cero-aranceles-en-autos-el-plan-de-mexico/
+- **Resumen**: La prioridad de México en el diálogo con Estados Unidos, antes de la revisión del tratado comercial entre ambos países y Canadá, es que haya cero aranceles en la industria automotriz, acero y aluminio, como antes de la llegada de Donald Trump al gobierno, aseguró la presidenta Claudia Sheinbaum Pardo. Dijo que también hay “algunos [&#8230;]
+- **Relevancia**: 0.6043
+
+### Partirá de Yucatán embarcación con 30 toneladas más de ayuda para Cuba
+- **Fecha**: Fri, 20 Mar 2026 16:11:33 +0000
+- **Fuente**: jornada_zacatecas
+- **URL**: https://ljz.mx/20/03/2026/partira-de-yucatan-embarcacion-con-30-toneladas-mas-de-ayuda-para-cuba/
+- **Resumen**: Progreso, Yuc., Treinta toneladas de alimentos, medicamentos, equipos tecnológicos y sobre todo “esperanza y resistencia contra el bloqueo criminal impuesto por el gobierno de Estados Unidos” permanecían ayer en espera de salir hacia Cuba, desde los atracaderos pesqueros de Chelem, municipio de Puerto Progreso. Activistas mexicanos y extranjeros colaboraron para cargar la ayuda en la [&#8230;]
+- **Relevancia**: 0.5367
+

@@ -5,8 +5,8 @@
   "home_page_url": "https://ruskigarage-alt.github.io/nicho-analyzer",
   "feed_url": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json",
   "language": "es-MX",
-  "date_modified": "2026-03-18T03:07:23.821419+00:00",
-  "total_records": 91,
+  "date_modified": "2026-03-20T16:32:21.084191+00:00",
+  "total_records": 112,
   "items": [
     {
       "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#0",
@@ -1004,6 +1004,237 @@
       "content_text": "",
       "date_published": "2026-03-17",
       "url": "https://ljz.mx/17/03/2026/inauguran-carretera-en-valparaiso-tramo-junto-a-fresnillo-y-san-jose/",
+      "tags": [
+        "politica_local",
+        "jornada_zacatecas"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#91",
+      "title": "Aranceles a productos chinos impactarán a artículos mexicanos, advierte embajador",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/politica/008n1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#92",
+      "title": "Nueva plataforma anticorrupción para capacitar a servidores",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/politica/010n5pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#93",
+      "title": "Senador de Morena pide abrogación gradual de la Ley del Issste de 2007",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/politica/007n3pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#94",
+      "title": "Gabriela Rodríguez R.: Niñas madres: expresión de la distribución asimétrica de la riqueza social",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/politica/011a2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#95",
+      "title": "Julio Hernández López: Astillero",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/opinion/008o1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#96",
+      "title": "Apoyo va a continuar: Sheinbaum",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/politica/006n2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#97",
+      "title": "Pedro Miguel: Las pensiones doradas",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/politica/012a2pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#98",
+      "title": "México te Abraza apoyó a 189,830 paisanos expulsados por Trump",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/politica/005n1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#99",
+      "title": "Raúl Zibechi: Tierra y territorios en Sudamérica",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/politica/011a1pol?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_politica"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#100",
+      "title": "Encuentran muertas a otras 3 tortugas en costas de Veracruz",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/estados/025n1est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#101",
+      "title": "Reportan arresto de líder social  en Guerrero",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/estados/026n3est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#102",
+      "title": "Operativo federal en inmuebles de  El Mayo en Culiacán deja 11 muertos",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/estados/024n1est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#103",
+      "title": "Vinculan a proceso a ex subprocuradora de Guerrero ligada al caso Ayotzinapa",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/estados/025n4est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#104",
+      "title": "Asesinan en Oaxaca a defensora de la tierra; su hija está lesionada",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/estados/026n1est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#105",
+      "title": "Tren de carga con migrantes descarrila en Aguascalientes; un fallecido y seis heridos",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/estados/025n2est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#106",
+      "title": "Caen funcionarios y mandos policiales de Chavinda por presuntos nexos criminales",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/estados/024n3est?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_estados"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#107",
+      "title": "Estima la Canaco daños por 188.7 mdp generados por movilizaciones de la CNTE",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/capital/029n1cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#108",
+      "title": "Pide Morena investigar la violencia contra habitantes de  la alcaldía MH",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/capital/029n3cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#109",
+      "title": "Concede juez la prisión domiciliaria al ex líder de los bomberos",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://www.jornada.com.mx/2026/03/20/capital/028n3cap?partner=rss",
+      "tags": [
+        "politica_local",
+        "jornada_capital"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#110",
+      "title": "T-MEC: cero aranceles en autos, el plan de México",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://ljz.mx/20/03/2026/t-mec-cero-aranceles-en-autos-el-plan-de-mexico/",
+      "tags": [
+        "politica_local",
+        "jornada_zacatecas"
+      ]
+    },
+    {
+      "id": "https://ruskigarage-alt.github.io/nicho-analyzer/feed/politica_local.json#111",
+      "title": "Partirá de Yucatán embarcación con 30 toneladas más de ayuda para Cuba",
+      "content_text": "",
+      "date_published": "2026-03-20",
+      "url": "https://ljz.mx/20/03/2026/partira-de-yucatan-embarcacion-con-30-toneladas-mas-de-ayuda-para-cuba/",
       "tags": [
         "politica_local",
         "jornada_zacatecas"

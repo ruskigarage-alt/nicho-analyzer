@@ -281,5 +281,74 @@
       "momentum": 0,
       "temas": []
     }
+  },
+  "2026-03-20": {
+    "mejia_haro": {
+      "menciones": 6,
+      "positivo": 1,
+      "negativo": 0,
+      "momentum": 8,
+      "temas": [
+        "encuesta",
+        "seguridad",
+        "gasto_publico",
+        "general"
+      ]
+    },
+    "saul_monreal": {
+      "menciones": 4,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 4,
+      "temas": [
+        "general"
+      ]
+    },
+    "diaz_robles": {
+      "menciones": 1,
+      "positivo": 1,
+      "negativo": 0,
+      "momentum": 3,
+      "temas": [
+        "alianza"
+      ]
+    },
+    "narro_cespedes": {
+      "menciones": 4,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 4,
+      "temas": [
+        "general"
+      ]
+    },
+    "varela_pinedo": {
+      "menciones": 3,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 3,
+      "temas": [
+        "general"
+      ]
+    },
+    "bonilla_gomez": {
+      "menciones": 4,
+      "positivo": 2,
+      "negativo": 0,
+      "momentum": 8,
+      "temas": [
+        "encuesta",
+        "general"
+      ]
+    },
+    "anaya_mota": {
+      "menciones": 3,
+      "positivo": 0,
+      "negativo": 0,
+      "momentum": 3,
+      "temas": [
+        "general"
+      ]
+    }
   }
 }

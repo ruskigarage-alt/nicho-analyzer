@@ -1,0 +1,758 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "geopolitica — 2026-03-20",
+  "description": "Digest semántico de geopolitica generado el 2026-03-20",
+  "datePublished": "2026-03-20",
+  "numberOfItems": 44,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "China pide poner fin a la guerra en Medio Oriente",
+        "description": "Pekín. China pidió ayer que se ponga fin al conflicto bélico en el golfo Pérsico, señaló que no debería verse afectada la seguridad de las vías navegables y afirmó que está dispuesta a colaborar con el sudeste asiático para hacer frente a la escasez energética, en un momento en que los mercados petroleros se tambalean por las perturbaciones en el suministro.",
+        "url": "https://www.jornada.com.mx/2026/03/20/mundo/020n1mun?partner=rss",
+        "datePublished": "Fri, 20 Mar 2026 07:51:28 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5483
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Dispuestas, 5 potencias europeas y Japón a garantizar el paso seguro por el estrecho de Ormuz",
+        "description": "Londres. Reino Unido, Francia, Alemania, Italia, Países Bajos y Japón expresaron ayer su disposición a “contribuir a los esfuerzos” para garantizar el tránsito seguro por el estrecho de Ormuz y para estabilizar los mercados energéticos, tras condenar las represalias iraníes contra infraestructura energética de países del golfo Pérsico.",
+        "url": "https://www.jornada.com.mx/2026/03/20/mundo/019n2mun?partner=rss",
+        "datePublished": "Fri, 20 Mar 2026 07:51:28 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4982
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Se reúne Delcy Rodríguez con el alto mando militar de Venezuela",
+        "description": "La presidenta encargada de Venezuela, Delcy Rodríguez, anunció ayer nuevos cambios en el alto mando militar del país, un día después de destituir a Vladimir Padrino como ministro de Defensa, quien ocupaba dicho cargo desde 2014, y de impulsar una remodelación de su Ejecutivo con el nombramiento de otros seis ministros.",
+        "url": "https://www.jornada.com.mx/2026/03/20/mundo/021n3mun?partner=rss",
+        "datePublished": "Fri, 20 Mar 2026 07:51:28 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5063
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Cuba no puede recibir petróleo ruso, advierte el Tesoro estadunidense",
+        "description": "Washington. Al aumentar la presión contra Cuba, el Departamento del Tesoro de Estados Unidos advirtió ayer que la isla no puede obtener petróleo ruso, mientras dos buques cargados con cientos de miles de barriles de combustible, uno con bandera de Rusia y otro de Hong Kong, se dirigen a la isla en medio de la crisis energética, agravada por el bloqueo petrolero impuesto por el presidente Donald Trump.",
+        "url": "https://www.jornada.com.mx/2026/03/20/mundo/021n1mun?partner=rss",
+        "datePublished": "Fri, 20 Mar 2026 07:51:28 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5303
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Sube y baja en los precios del crudo y gas en mercados internacionales",
+        "description": "De montaña rusa fue el comportamiento de los mercados este jueves, en medio de los intentos del presidente de Estados Unidos, Donald Trump, de frenar la escalada en el costo del petróleo.",
+        "url": "https://www.jornada.com.mx/2026/03/20/mundo/019n3mun?partner=rss",
+        "datePublished": "Fri, 20 Mar 2026 07:51:28 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "jornada_mundo"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6434
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "China Has Already Notched its First Major Win From the Iran War",
+        "description": "BYD sales are already surging",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-03-20/china-has-already-notched-its-first-major-win-from-the-iran-war",
+        "datePublished": "Fri, 20 Mar 2026 16:15:09 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5141
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Trump Says US Wants to Talk to Iran, But There's Nobody to Talk to",
+        "description": "Damage following an Iranian strike in Tel Aviv, on March 19. Photographer: Erik Marmor/Getty Images",
+        "url": "https://www.bloomberg.com/news/live-blog/2026-03-20/iran-war-trump-news-latest-updates-oil-markets-bonds",
+        "datePublished": "Fri, 20 Mar 2026 07:11:14 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5211
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran War Hits Chinese, Russian Fertilizer Exports to Nigeria",
+        "description": "China and Russia are delaying fertilizer shipments to Nigeria as the Iran war shakes up the global supply chain for the crucial crop nutrients.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-20/iran-war-hits-chinese-russian-fertilizer-exports-to-nigeria",
+        "datePublished": "Fri, 20 Mar 2026 15:26:46 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4652
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Traders Lift Bets on a Fed Hike This Year as Yields Surge",
+        "description": "US Treasuries sank and bond traders increased their bets on a Federal Reserve interest-rate hike by October to 50% as concern mounts that a protracted war in the Middle East could stoke global inflation.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-20/us-yields-continue-to-push-higher-as-inflation-fears-persist",
+        "datePublished": "Fri, 20 Mar 2026 08:03:40 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5568
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Fed Rate Hike 'Highly Unlikely,' Citi's Kate Moore Says",
+        "description": "Citi Wealth Chief Investment Officer Kate Moore discusses the recent market pricing that reflects a 50% chance of a Federal Reserve rate hike by October. Speaking on \"Bloomberg Open Interest,\" Moore notes that Citi's consistent view over the past six months has been that the market was too optimistic about multiple rate cuts in 2026. However, recent shifts have swung expectations too far toward a potential rate increase rather than a cut.  (Source: Bloomberg)",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-20/fed-rate-hike-highly-unlikely-citi-s-kate-moore-says-video",
+        "datePublished": "Fri, 20 Mar 2026 14:49:49 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "bloomberg_markets"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4693
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Ukraine Wants to Cash in on Iran’s Drone Threat",
+        "description": "Kyiv has valuable counterdrone expertise and technology it can offer Gulf countries. But there are hurdles.",
+        "url": "https://foreignpolicy.com/2026/03/19/ukraine-drones-gulf-defense-iran-war/",
+        "datePublished": "Thu, 19 Mar 2026 20:32:30 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "foreign_policy"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5368
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Israel Attacking Iran’s Energy ‘Wasn’t a Surprise’ to the Trump Administration",
+        "description": "Israel’s top diplomat in New York City says strikes like the one on Iran’s South Pars gas field were “part of the plan.”",
+        "url": "https://foreignpolicy.com/2026/03/19/israel-attack-iran-energy-war-trump-ofir-akunis-new-york/",
+        "datePublished": "Thu, 19 Mar 2026 16:46:33 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "foreign_policy"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.644
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "The U.S. and Israel Aren’t Fighting the Same War",
+        "description": "It would be a mistake for Trump to defer to Netanyahu’s regime change fantasies.",
+        "url": "https://foreignpolicy.com/2026/03/19/iran-war-us-israel-trump-netanyahu-hormuz-cease-fire/",
+        "datePublished": "Thu, 19 Mar 2026 15:54:16 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "foreign_policy"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5413
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Ukraine Is Making Home-Brew Long-Range Missiles",
+        "description": "Faced with a shortage of weapons to hit Russia, Ukrainians have developed their own.",
+        "url": "https://foreignpolicy.com/2026/03/19/ukraine-missiles-long-range-russia-war-diy-self-made-fire-point/",
+        "datePublished": "Thu, 19 Mar 2026 10:33:12 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "foreign_policy"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5254
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "It’s Official: Trump’s Tariffs Have Failed",
+        "description": "Americans are paying, reindustrialization isn’t happening, and China profits.",
+        "url": "https://foreignpolicy.com/2026/03/19/trump-tariffs-trade-failure-deficit-reindustrialization-china-economy-costs/",
+        "datePublished": "Thu, 19 Mar 2026 10:21:02 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "foreign_policy"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4798
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Tehran Vows to Strike Gulf Oil, Gas Facilities",
+        "description": "The threat is in retaliation for alleged Israeli strikes on Iran’s South Pars gas field.",
+        "url": "https://foreignpolicy.com/2026/03/18/iran-south-pars-gas-field-oil-energy-strikes-qatar-israel-khatib-larijani/",
+        "datePublished": "Wed, 18 Mar 2026 20:46:22 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "foreign_policy"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6396
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "What US-Israeli targets reveal about Iran war goals three weeks in",
+        "description": "From degradation of military to efforts to foment unrest, targets show array of objectives but no single endgame.",
+        "url": "https://www.aljazeera.com/news/2026/3/20/what-us-israeli-targets-reveal-about-iran-war-goals-three-weeks-in?traffic_source=rss",
+        "datePublished": "Fri, 20 Mar 2026 15:35:06 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5594
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Will Russian oil be the biggest winner in the US-Israel war on Iran?",
+        "description": "The price of Russian Urals has soared in recent weeks. How Russia - and other energy producing nations - could profit.",
+        "url": "https://www.aljazeera.com/features/2026/3/20/will-russian-oil-be-the-biggest-winner-in-the-us-israel-war-on-iran?traffic_source=rss",
+        "datePublished": "Fri, 20 Mar 2026 14:48:43 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5513
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran video said to show US F-35 being hit",
+        "description": "Iran’s semi-official Tasnim news agency has released military video said to show air defence systems hitting a US F-35.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iran-video-said-to-show-us-f-35-being-hit?traffic_source=rss",
+        "datePublished": "Fri, 20 Mar 2026 13:44:06 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4685
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran’s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack",
+        "description": "Israeli and US air attacks pound Iran as assassination campaign of country&#039;s leadership continues.",
+        "url": "https://www.aljazeera.com/news/2026/3/20/irans-irgc-says-spokesman-ali-mohammad-naini-killed-in-us-israeli-attack?traffic_source=rss",
+        "datePublished": "Fri, 20 Mar 2026 12:44:16 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5589
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Israel says it hit Syrian army camps in the south after Druze ‘attacked’",
+        "description": "Israeli air strikes target army camps in response to alleged attacks on the Druze community in Suwayda on Thursday.",
+        "url": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss",
+        "datePublished": "Fri, 20 Mar 2026 11:46:30 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.558
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+        "description": "Lloyd&#039;s List reports that ships could be allowed to pass through &#039;safe corridor&#039; once they are approved by IRGC.",
+        "url": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss",
+        "datePublished": "Fri, 20 Mar 2026 10:13:07 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4647
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Five problems the Iran war could solve for Israel’s Netanyahu",
+        "description": "From the Iranian threat to his own domestic legal and political troubles, war with Iran has advantages for Netanyahu.",
+        "url": "https://www.aljazeera.com/news/2026/3/20/five-problems-the-iran-war-could-solve-for-israels-netanyahu?traffic_source=rss",
+        "datePublished": "Fri, 20 Mar 2026 09:17:59 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "al_jazeera"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5299
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Trump calls Nato ‘cowards’ over lack of support in US-Israel war on Iran",
+        "description": "President ⁠Donald Trump assailed ⁠Nato allies on Friday ⁠over their lack of support for the US-Israel war against Iran, calling the long-time US allies “cowards”.\n“Without the U.S.A., Nato IS A PAPER TIGER!” Trump said in a social media post.\nTrump has ‌been calling for major US allies and others, none of which were consulted or advised on the war, to help secure the safety of shipping through the Iran-controlled Strait of Hormuz. The conflict has roiled global markets, killed thousands and...",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3347385/trump-calls-nato-cowards-over-lack-support-us-israel-war-iran?utm_source=rss_feed",
+        "datePublished": "Fri, 20 Mar 2026 14:50:36 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4626
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "China’s rare earth magnet exports to the US keep falling as Europe gains",
+        "description": "China’s exports of rare earth permanent magnets to the United States continue to fall, at a time when Washington and its allies are stepping up efforts to reduce reliance on the country’s critical mineral supply chains.\nShipments of permanent magnets to the US totalled 994 tonnes in January and February, down nearly 22.5 per cent year on year, according to data released on Friday by China’s General Administration of Customs. This marked the seventh consecutive month of decline.\nOver the two...",
+        "url": "https://www.scmp.com/economy/global-economy/article/3347326/chinas-rare-earth-magnet-exports-us-keep-falling-europe-gains?utm_source=rss_feed",
+        "datePublished": "Fri, 20 Mar 2026 13:30:09 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5308
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "China’s Russian oil imports spike in early 2026, but Iran war changes outlook",
+        "description": "China’s imports of discounted Russian crude oil surged in January and February, though analysts suggest volumes could moderate in the coming months as the war in Iran increases global competition for Russian oil.\nIn the first two months of the year, Russia’s shipments of crude to China rose 40.9 per cent year on year to 21.8 million tonnes, according to Chinese customs data released on Friday.\nBut the total import value rose just 5.8 per cent in US dollar terms.\n“China has been an opportunistic...",
+        "url": "https://www.scmp.com/economy/china-economy/article/3347329/chinas-russian-oil-imports-spike-early-2026-iran-war-changes-outlook?utm_source=rss_feed",
+        "datePublished": "Fri, 20 Mar 2026 13:00:10 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5752
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Why the world may now need an Iranian nuclear bomb",
+        "description": "If you think the Israeli-American war of aggression against Iran is bad, it could get a lot worse. For the first time, a senior American official has openly acknowledged that Israel possesses nuclear warheads and could deploy them in the war.\n“Israel is getting hit harder than they’ve ever been hit before in their history,” said David Sacks, the White House’s artificial intelligence and crypto tsar, on the All-In Podcast. “If this war continues for weeks or months, then Israel could just be...",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3347172/why-world-may-now-need-iranian-nuclear-bomb?utm_source=rss_feed",
+        "datePublished": "Fri, 20 Mar 2026 12:30:08 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5977
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Strait of Hormuz tensions flare as Iran tightens grip over shipping traffic",
+        "description": "Global concerns are rising over the fate of ships and crews trapped in the Strait of Hormuz amid the intensifying Middle East conflict, as reports spread that Iran is rolling out screening processes and steep transit fees for vessels using the waterway.\nThe International Maritime Organisation (IMO) called for the establishment of a “safe maritime framework” to ensure the swift evacuation of merchant ships confined within the Persian Gulf, after holding a special session on the Middle East...",
+        "url": "https://www.scmp.com/economy/china-economy/article/3347337/strait-hormuz-tensions-flare-iran-tightens-grip-over-shipping-traffic?utm_source=rss_feed",
+        "datePublished": "Fri, 20 Mar 2026 11:00:24 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.6523
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "US Section 301 tariffs set to trigger fresh wave of trade disruption",
+        "description": "If there is a thread that provides coherence to Donald Trump’s mad emperorship, it is the frenetic invention of new, evermore dramatic diversions: no week can be allowed to pass without new melodrama that erases the chaotic melodramas of weeks past. Nor can a week be allowed to pass without the seeds being sown for next week’s melodramas.\nThis week it is Iran, and the computer-gaming unreality of a scorched-earth US-Israeli bombardment that has generated convulsions across economies in the...",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3347181/us-section-301-tariffs-set-trigger-fresh-wave-trade-disruption?utm_source=rss_feed",
+        "datePublished": "Fri, 20 Mar 2026 08:30:08 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "scmp_world"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5125
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Saxo Bank trae malas noticias sobre los precios del crudo \"incluso si mañana hubiera un alto el fuego\"",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69bd596de9ff71374a4874d7.jpg\" style=\"float: left;\" />\n        \t\"Llevaría tiempo restablecer ese suministro\", lamentó un representante de la entidad.",
+        "url": "https://actualidad.rt.com/actualidad/594157-saxo-bank-precios-crudo-mantendran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Fri, 20 Mar 2026 16:28:02 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5302
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "The Intercept: Trump subestima el costo del conflicto en Oriente Medio",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69bbf31759bf5b670048943c.png\" style=\"float: left;\" />\n        \tEl incumplimiento de la promesa de Trump durante su campaña presidencial de no \"empezar una guerra\" está resultando en una gasto que podría ascender a 250.000 millones de dólares si el conflicto se extiende a ocho semanas, estima el medio.",
+        "url": "https://actualidad.rt.com/actualidad/593905-donald-trump-estaria-subestimando-coste-conflicto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Fri, 20 Mar 2026 16:24:02 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4885
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Dinamarca habría contemplado volar las pistas de aterrizaje para evitar un desembarco de EE.UU. en Groenlandia",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69bd2421e9ff710a4d064324.jpg\" style=\"float: left;\" />\n        \tEsta acción formaba parte de un plan militar ideado por las autoridades danesas, según fuentes consultadas por un medio local.",
+        "url": "https://actualidad.rt.com/actualidad/594114-dinamarca-volar-pistas-aterrizaje-desembarco-eeuu-groenlandia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Fri, 20 Mar 2026 15:57:43 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5143
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Trump presume que EE.UU. tomó Venezuela \"en cuestión de minutos\"",
+        "description": "<img alt=\"Preview\" src=\"https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69bd685de9ff71454c520447.jpg\" style=\"float: left;\" />\n        \t\"Me sentí muy orgulloso de lo que hice\", insistió al respecto.",
+        "url": "https://actualidad.rt.com/actualidad/594187-trump-presume-tomar-venezuela-cuestion-minutos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+        "datePublished": "Fri, 20 Mar 2026 15:37:21 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "rt_espanol"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.504
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Vucic discuss energy security risks with Russian economy minister",
+        "description": "The situation evolved requires \"agreements clearly determined and resilient in the long run to maintain energy stability of the country, the Serbian president noted",
+        "url": "https://tass.com/world/2104923",
+        "datePublished": "Fri, 20 Mar 2026 18:38:29 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4653
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "IN BRIEF: On fighting high inflation, key rate policy — Central Bank highlights",
+        "description": "The further path of the key rate will be adjusted in April, if necessary, Elvira Nabiullina said",
+        "url": "https://tass.com/economy/2104913",
+        "datePublished": "Fri, 20 Mar 2026 18:25:39 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5211
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "LNG deficit may be more harmful than oil shortage for global economy",
+        "description": "According to the report, the conflict in the Middle East \"entered a dangerous new phase Wednesday as Israel struck Iran’s South Pars gas field\"",
+        "url": "https://tass.com/world/2104905",
+        "datePublished": "Fri, 20 Mar 2026 18:04:07 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4659
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "NATO withdraws instructors stationed in Iraq amid Middle East war — agency",
+        "description": "The goal of the non-combat mission is to train officers and specialists for the Iraqi armed forces",
+        "url": "https://tass.com/world/2104895",
+        "datePublished": "Fri, 20 Mar 2026 17:48:44 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5447
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 38,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Lukashenko believes Russia will dictate gas supply terms to Europe",
+        "description": "The Belarusian leader emphasized that Russia’s \"resource base\" remained the best option for the EU",
+        "url": "https://tass.com/world/2104887",
+        "datePublished": "Fri, 20 Mar 2026 17:45:59 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5077
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 39,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Strikes on Middle East energy facilities could constitute war crimes — Guterres",
+        "description": "The UN Secretary-General said there were \"reasonable grounds\" to believe that both Israel and Iran had committed war crimes",
+        "url": "https://tass.com/world/2104871",
+        "datePublished": "Fri, 20 Mar 2026 17:40:10 +0300",
+        "publisher": {
+          "@type": "Organization",
+          "name": "tass_english"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5732
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 40,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "‘COWARDS’: Trump blasts NATO allies over Hormuz",
+        "description": "“Without the U.S.A., NATO IS A PAPER TIGER!” the U.S. leader says.",
+        "url": "https://www.politico.eu/article/donald-trump-nato-allies-cowards-hormuz-tensions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "datePublished": "Fri, 20 Mar 2026 16:10:24 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "politico_europe"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4659
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 41,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Putin offers to stop sharing intel with Iran if US cuts off Ukraine",
+        "description": "The U.S. rejected the Russian proposal, which has nonetheless sparked concerns in Europe amid growing transatlantic tensions.",
+        "url": "https://www.politico.eu/article/putin-offers-stop-intel-iran-condition-us-cuts-off-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "datePublished": "Fri, 20 Mar 2026 15:29:35 +0000",
+        "publisher": {
+          "@type": "Organization",
+          "name": "politico_europe"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.5067
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 42,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Bowman, Capital Rules for the Real Economy",
+        "description": "Speech At the Cato Institute Policy Forum: Basel III and Bank Capital Rules, Washington, D.C.",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm",
+        "datePublished": "Thu, 12 Mar 2026 15:00:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "fed_speeches"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4734
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 43,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Bowman, Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
+        "description": "Speech At The Roundtable on Liquidity and Lender of Last Resort sponsored by the Committee on Capital Markets Regulation, Washington, D.C.",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm",
+        "datePublished": "Tue, 3 Mar 2026 13:30:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "fed_speeches"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4634
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 44,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": "Bowman, Outlook for the Economy and Monetary Policy",
+        "description": "Speech At Outlook 26:  The New England Economic Forum, Foxborough, Massachusetts",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm",
+        "datePublished": "Fri, 16 Jan 2026 16:00:00 GMT",
+        "publisher": {
+          "@type": "Organization",
+          "name": "fed_speeches"
+        },
+        "keywords": "geopolitica",
+        "relevanceScore": 0.4652
+      }
+    }
+  ]
+}

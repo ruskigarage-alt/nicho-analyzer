@@ -1,9 +1,9 @@
 {
   "meta": {
     "fuente": "Cripeso · Marzo 2026",
-    "actualizado": "2026-03-17",
-    "total_menciones_hoy": 5,
-    "entradas_analizadas": 5,
+    "actualizado": "2026-03-20",
+    "total_menciones_hoy": 25,
+    "entradas_analizadas": 25,
     "nota": "Generado automáticamente. Edita ENCUESTAS en generar_candidatos_json.py para actualizar porcentajes."
   },
   "candidatos": [
@@ -13,8 +13,8 @@
       "partido": "PAN",
       "partyClass": "pan",
       "pct": 39.5,
-      "momentum": 1,
-      "menciones": 1,
+      "momentum": 2,
+      "menciones": 3,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
@@ -25,13 +25,25 @@
         {
           "fuente": "googlenews",
           "tag": "general",
-          "texto": "Empleados no son obligados a militar - NTR Zacatecas",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15ZjZCX2Z4MmRrdktrR2daaEpPSDlCWTI2NjB1dTlLbWg0RHRUbnR1cGhXbW1Ob2ZSS0NwSWlhMUplekNleHJUTGVvclQzWEQ3WTQwVjF3d1YxZnFnYk1NamxWQV9RcDJKWjZzRXpINUdWbmtRajAzdGNR?oc=5"
+          "texto": "Varela nombrado coordinador estatal de estructural por el cambio de Zacatecas - Meganoticias.MX",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSDJ4Y1NhYWhwYTlITmI4YldXUmlpSWRDRTZ3cWlRaUFMVUp3aDI0VFdiNkdfQ3lOTFJUdkZQTmdlOVFJMzB3ZU1YSjVYMHV3RUVTaEdTS2ZFQXJuVHdxN043MkE3aXVmVVRhOG84MDhVSDhiWWU0YThMSWFCeHgtMzNLMUdxZ1ZGTEFVam5OSFhST0dWa2JaNW5tWFozR0hRTjFieWJlR25GdG5Rd1FLSFUyRDN5SlFhTnNiYzlRMWVvSjhYVnN1dlFn?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Niega Varela obligar a trabajadores a hacer campaña para el PAN - Meganoticias.MX",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS19SbU04V2NZaFFuTWN0MmZWTW1Bb05LcU1RMnlwRkdiT3N5cU54TUt5bDhaOGMyU1NFTmVNT3YxOE9adWZmUFVyb2RsbEpyVFdYNnZkQV94djJ6dnluNE54M016ZHhOLWNLRGFDbG1BWUx1XzVVeHNlY0JLV2FiYVJzVG5yRk51ZFhoX05zU3ExX19BSjNnankzaDU2ckFYYmZnZ2ZOQkJpelZfX1puQw?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Miguel Varela anuncia domo en primaria “González Ortega” - Imagen Zacatecas",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU5uTTA3THdacG03M24tbHZ0OFBtUEt6cW5HMTFjMjZISl80ZEIxTVdPRFY0TUt2Ukc3UFhoR3M4dGhpUlpVMTNVN01zMW5GSmtwU0swYjZuLUJYdDA1azFyMmpJY1IzN1NWUEtzcGk0b0Q2OWVYNjZvanpPQW5fWGZJU20tYU04U2dfVzdzQ282TEpneXc?oc=5"
         }
       ],
-      "menciones_total": 11,
-      "menciones_hoy": 1,
-      "score_compuesto": 40.6
+      "menciones_total": 14,
+      "menciones_hoy": 3,
+      "score_compuesto": 40.9
     },
     {
       "id": "bonilla_gomez",
@@ -39,25 +51,38 @@
       "partido": "PRI",
       "partyClass": "pri",
       "pct": 35.3,
-      "momentum": 1,
-      "menciones": 1,
-      "positivas": 0,
+      "momentum": 7,
+      "menciones": 4,
+      "positivas": 2,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
+        "encuesta",
         "general"
       ],
       "noticias": [
         {
           "fuente": "googlenews",
           "tag": "general",
-          "texto": "Deja Adolfo Bonilla la Secretaría del Campo en Zacatecas - El Sol de México",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONHFzMFl1cXY4LUpUeTFQZTNmQUxWOE5FOHA4dzAyQ2REZDZDc05zWW1zLVFSajNsdXV5S0MyeWx6VzNCbGowQ2VHdzk0MDRNZFlETmdIZlFzRG9tOE51bFc2Q0ZsdE5vVU5NbGhzQkljV1owYzQ5cUpkNDUyejdmMXJCMHlvT3BiclQ5dExRSUZZUWowelpMRHVCcWJrTlZ1ZGFodzhnWWJRZUFTRVhqTDJ2NTI3VnpGQ2pwQXBDZElseC1WZzdFTFMzeVRsNUs0RWlXRjdTd01CTGszNjJ5Vll5Nm82WnpTbS11d3VJSkJQMEFTZDhYcG5UVFl5bjZsWUY5ek82TGhWeXowWjRveExjMGhRWF9oS0daRVY5MA?oc=5"
+          "texto": "Sentencia PRI que ganará Zacatecas SUS CARTAS FUERTES - PressReader",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHAyMUR6SkpSUHRVemtPTGRBOHdYcE9MMDdDcllaOTE1NjVCbjdxTWVabjFReWg4ZGZIa1B4dTNzWUQ0NWlOcXNuT3hQTlpiZUJYY1NDdGM1ZW1heE1UMWowMVVzb0pieTRCc2ZzcEs4OEhCS2RiOWpXSmdYSTRvYUhheTAzZw?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Cuenta regresiva / Los desleales del PRI - El Sol de México",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUnAzUW5ZUWFrbVFsVEJrWGw2WUFwY2NZa05raWtWNXpRZk1sM1N5Ql9QalVQeGk2Ri0wZ1I3UnpKZ0x3Y2pXejRrY3IyM3p6d1Y5dVhraExDTkdIMFVvWEFCWXJUSTF4RlFoalhhaUp0Sk1FMnJuXzVPNFlTN0g2Q2UxZk1SUWlxMlA2ZkJma0N6OXhWY0pz?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "encuesta",
+          "texto": "Ulises Mejía Haro se consolida como favorito para la Gubernatura de Zacatecas 2027 según encuesta de SRC - elcongresista",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdVl4eG1TRk5SSGF0YzlhOTQxZEVZRHZzVFJKNjRFOUZxN0IyV1o5dVpwZlFPMkxVY1RmT2VfQ18wcndHeW5iOHVfXzNyMFpsWHVTalhmUEpwai1ZTnY0bGxFNzMxaklrZXJNdzhiWlNFc2tIUVp1RHdybFEwWFRpWGFNLWRjUUhZc0J6ZjlrTnYyd1F0OFEyN2pRWlZDTk9kNWJ5dHlhcTlzTWtiQnFJeVJDazJkbFpGeGUxbnFGRG5rQkVkOHVoRVdaVklhMk9iNDBFb2RKNktpVTRSR0M5WkpfVdIB6AFBVV95cUxNRXM4TzJkaGJJRHJpdFhvcXZjNGc5eEloWDJweWNyNHdBc0xBczMxUFFSSVBKVTBybUpYeHloN19ON21TUWlIVVpfbVhHUzFfUkE2U2tKNWxKV3hNNjQzT1BRZTlYS0hGa3E3aXpmOVhBSWNSVExVVHhoUWJwZGczZUY3QklyYlRVTFdTR3U1WGgxRnFZRldiQVBTQWhvOXB1dVhvemVmV0RRN0p1SDQzQlZNYTY3dFhabk5oX3dmLTZicEEyeHk5bHI4d2tkZFI0aDZfMmNrdm5zYWgxMS0wSG9nSGJzZXRL?oc=5"
         }
       ],
-      "menciones_total": 11,
-      "menciones_hoy": 1,
-      "score_compuesto": 36.4
+      "menciones_total": 15,
+      "menciones_hoy": 4,
+      "score_compuesto": 36.8
     },
     {
       "id": "mejia_haro",
@@ -65,25 +90,40 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 23.6,
-      "momentum": 1,
-      "menciones": 1,
-      "positivas": 0,
+      "momentum": 7,
+      "menciones": 6,
+      "positivas": 1,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
+        "encuesta",
+        "seguridad",
+        "gasto_publico",
         "general"
       ],
       "noticias": [
         {
           "fuente": "googlenews",
           "tag": "general",
-          "texto": "Ulises Mejía Haro se posiciona en Morena para elección a gobernador - El Universal",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGFuNGNYMlpWUzZnUkd5d2FWTGZkNEhyX2pUeERYOUNXdDNvVjVVVlV1QUp2VW1MNzVqM0ZKSE8wT3M1N1ZhWnZFTUd1NG5qQnlISFNPMlpWTldZWGdUU0pPZXdWNXdCVFlSOWRhS3hCdUgtc191NGRtcWpFYW1JZjUzUl9TRUdEVFZIekp3dVBmeW92UzhZaTRwa0V2b0pNMUk0UzFLTklfY03SAb8BQVVfeXFMT2s4YnNTUk9BYUhhOUFKZ3BMQkFyTGM0UjZ1eEFTcDZVSVMzckJaS0g1Rk4wTldDVWZkLVBKbzR4NE9wajluSmd5SkZyRTJpOFI5WEM3ckJRRlVuRlY2ZDg5azMxanFteTNhMmtTMUUzNnY1VjZ1Mm84QldrYmtIY1NHejNBVTNCU29HSzVfRGdtRjF5UWRZV2RqY1lyU2FYcnNNaVJwYkhnSk5KZWJKbTU2QnJWTGhSa2Z6MHp2cDg?oc=5"
+          "texto": "Ulises Mejía Haro se Consolida Como el Perfil más Competitivo de Morena Para Zacatecas - Página 24 Zacatecas",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOTdKaFBMWXIxQkpCc0RGbjB2QlpQdU85WWxMMmtveC1CSVZkcURld1JnZ0dTMWRCcE5lWW5MejJVTmVqY1I4RVU0M1NjbHZWZHE3a1AzQS1GNnQySDVEN0h1TE0xR0VaZ1BKSHVENTVUbTM0UHpUZnZ1REhqZFV1eUQtQnJkejRxOEFoT0toX1N1aHo5ampfZkVaQldRcjlzV3J0bVRiQTFLSVRaZG5vV0pJa3FQdExoQTNSd19BWGZXOTg1ODJBTHFKMW5fZUk2SUJ3?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Consolida Ulises Mejía Haro ventaja hacia la gubernatura de Zacatecas - Central Municipal",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUQ3X042dWlaY2VVMGNVV1JLaG9MbkhGNDZMWXJBMHhSRE1UN3M3OXdoVGMxWjQ5N2J3NjhvZFlDZlo2TWZXcExaZ3hiU09uN1B3SG5BdnY0R0stUEZ4VFZyai1HSHNtd3lRVzg4c3hyOVU5d0htM2FIdEozQmY2TFlzY2tydXNncTB4NEpxTFVPekhlaS1USTVvQmhuc0RoY0Y1ZjlsUGN5WGRlTGFRbl9hWnVsZnVXR2c?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "encuesta",
+          "texto": "Ulises Mejía Haro lidera encuestas rumbo a la candidatura de Morena en Zacatecas - El Soberano",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaW0zRzc0R0duTzRzSTJPRWZDZTRLMGlFa3R1TFh5VW10ZEV4b3lmLUVlM0FiOVZIdmVqZUdmR25mNTBoNGk3LWVKRndKVjRaejJUQ210X1ZLRDAtZTJFMnAyQ3JsbTFuQVR4LVQtOWRudUdrQ2NqVzNSS0lYSkNQZEVEcThJUldZd0I2eTNkeVpLYlIxSjlyRDRQNEJFSVlKQkNTWFIyOEQ1YXZBY09iaE4ybVQ?oc=5"
         }
       ],
-      "menciones_total": 13,
-      "menciones_hoy": 1,
-      "score_compuesto": 24.9
+      "menciones_total": 19,
+      "menciones_hoy": 6,
+      "score_compuesto": 25.5
     },
     {
       "id": "anaya_mota",
@@ -91,18 +131,37 @@
       "partido": "PRI",
       "partyClass": "pri",
       "pct": 23.5,
-      "momentum": 0,
-      "menciones": 0,
+      "momentum": 3,
+      "menciones": 3,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Cripeso · Marzo 2026",
       "tags": [
         "general"
       ],
-      "noticias": [],
-      "menciones_total": 10,
-      "menciones_hoy": 0,
-      "score_compuesto": 24.5
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Cuenta regresiva / Dejan fuera a Fito Bonilla y Claudia Anaya - El Sol de México",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS255VExPemo3SWQ0cWs4TTljNzlIUlJ5V2xlYWFLVFMyeVRIYVFZb2FKUXNYRERvMUNxX1I5cDg2Qk01cDBSVkh6R0RVdjVuaVdjTmx2c2haYVFJeTlfcUVTemZ2cTc0WjhUTm9qZTJGUjNCSGd5NzYweU1TQzZoOHBPdEw2UHRpdmI0VlIyRUw5aGtmMXg5R292TkxfSGF6UjF3WmJlbHBwWGxCVUljSHRtQQ?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Claudia Anaya impulsa la representación plural - El Heraldo de México",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFBzOGlWQmo2SG1TLVRIcGw5emtXNk5EN0RJUmFPOW5wdjFWOHp2Q0lpbXI1elR0ejZld1NGYnVyY3JTTTNzeFNLSlhhTExwa3RoUlJBMHNBY0VpNGJ2ZTR6TUJSWERRZFhMZUhONGJlUkx4WXhZaGNiUl9Yak5iRGRya01SLXdqN0RvOVp1YlhtOUIzM2ZhNG1ZZmtad1pCei1hemwwN3JZS1NVSEg1Wk95Zjc?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Acusan productores entrada de ajo chino ilegal a México en presunta complicidad con Aduanas; “riesgos a la salud” - La C",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWGc0Zi1XVnBFQ1l3NWRpcEFpSDRSc1k3OFZNZW9DU1dCbEp6Q0FPaTh6ckZDUUNUdjYtNWxkX21vY242OHk2R085UUQxSzJReVRobF9nV1BId3Y0eGxHRlpKM29HdWIwNlhQVXRCZ05VcGJjMEJyMFJiWVlZRDQ3dUlWNTJiRm9qV2VZT3FFemVVc3FseF9fYkQzbFhHZVR0NmdLRW9PWDJXbEMwbUYtQkRGSC12YTZ3NGp1a09mQjN3WnZWWGJyaVBBb2lnVzZJdXFOVS1IU21GU19JRDVTV2UyQ3A2T01hdkFCWnlB?oc=5"
+        }
+      ],
+      "menciones_total": 13,
+      "menciones_hoy": 3,
+      "score_compuesto": 24.8
     },
     {
       "id": "saul_monreal",
@@ -110,25 +169,37 @@
       "partido": "PT/Morena",
       "partyClass": "ptmorena",
       "pct": 21.7,
-      "momentum": 1,
-      "menciones": 1,
+      "momentum": 3,
+      "menciones": 4,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Medios locales",
       "tags": [
-        "gasto_publico"
+        "general"
       ],
       "noticias": [
         {
-          "fuente": "ljzzacatecas",
-          "tag": "gasto_publico",
-          "texto": "Inauguran carretera en Valparaíso, tramo junto a Fresnillo y San José",
-          "link": "https://ljz.mx/17/03/2026/inauguran-carretera-en-valparaiso-tramo-junto-a-fresnillo-y-san-jose/"
+          "fuente": "eltrochilero",
+          "tag": "general",
+          "texto": "Anuncia David Monreal incremento a 96 mil toneladas el acopio de frijol en Zacatecas",
+          "link": "https://eltrochilero.com/anuncia-david-monreal-incremento-a-96-mil-toneladas-el-acopio-de-frijol-en-zacatecas/"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Saúl Monreal no quita el dedo del renglón: buscará reunirse con Luisa Alcalde para ir por Zacatecas en 2027 - PolíticoMX",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVlkekdjSXFtb0hPekRfWTRyTWE2Q243SEpISWpzRFBqZEtOUXdGWm5JcnZUMVBJSDI5Q3pQSWVmeS00YXVMYzl0TjhycnlUYVc3RXpIRmozWFhidkowWnJTZGZRYnUtRTJyR096N05McnBBRFVmRU1KYklUSTEwRmVFS3h3RHR1Yy1vWEFKSVBVUERUeUZ1NzNRMDhKLTk0TG9zZVBJZEJlMzI3alRwU09ZR1dtc0RFaEFndm1YYXo5bjlxZHhpQTBmNVo4d1Mxclpsag?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Saúl Monreal denuncia veto injusto en Morena para 2027 - El Sol de México",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkxPcXJFSi1ZZEJCemJ4Z3o0RkFhbWpVXzUwZmZ4aXdxejhFSVdSOVE3Q1VUZl9PSTBqUjQ1dnJKNkVUQWJib0xBNTF1aW5YQlNwUDN6MTlwdmF4andqMnZFNkR2RjhxUF9TbThPVGRvTnRZaFF6N3d1NUlubllKamFwWEIxZklxM0xLSUN1aUw3dHpXbko5LTRNZGhraHNMZVZXSlpSV1k?oc=5"
         }
       ],
-      "menciones_total": 14,
-      "menciones_hoy": 1,
-      "score_compuesto": 23.1
+      "menciones_total": 18,
+      "menciones_hoy": 4,
+      "score_compuesto": 23.5
     },
     {
       "id": "diaz_robles",
@@ -136,18 +207,25 @@
       "partido": "Morena",
       "partyClass": "morena",
       "pct": 16.3,
-      "momentum": 0,
-      "menciones": 0,
-      "positivas": 0,
+      "momentum": 3,
+      "menciones": 1,
+      "positivas": 1,
       "negativas": 0,
       "fuente": "Referencia general",
       "tags": [
-        "general"
+        "alianza"
       ],
-      "noticias": [],
-      "menciones_total": 12,
-      "menciones_hoy": 0,
-      "score_compuesto": 17.5
+      "noticias": [
+        {
+          "fuente": "googlenews",
+          "tag": "alianza",
+          "texto": "Verónica Díaz se posiciona al frente en medición rumbo a la gubernatura de Zacatecas 2027 - Zacatecas Hoy Noticias",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGppbUh4Rng1NWZZa0JkbVQtN1VJZW1SU1hDb2hlM2dXdTdtSGY4MTIyQ0ZsVkJKM3FTQU5tSENiVUtIUUUzSFdONHZlN21XUXhkY1dnTk9qemVNU19EcEwtU0NuOWVkcUFyUDB0eWtoR0RzN2xUQ1hlQXNzMkpBV0o3d0hocC1YektMZWhOTTFWdFdnWlFLRFpoSWM5UDByUEdoSTBRZ3hlcGJYWkE?oc=5"
+        }
+      ],
+      "menciones_total": 13,
+      "menciones_hoy": 1,
+      "score_compuesto": 17.6
     },
     {
       "id": "narro_cespedes",
@@ -155,8 +233,8 @@
       "partido": "PT",
       "partyClass": "pt",
       "pct": 12.0,
-      "momentum": 1,
-      "menciones": 1,
+      "momentum": 3,
+      "menciones": 4,
       "positivas": 0,
       "negativas": 0,
       "fuente": "Referencia general",
@@ -167,13 +245,25 @@
         {
           "fuente": "googlenews",
           "tag": "general",
-          "texto": "Acusa FPLZ “guerra sucia” contra José Narro Céspedes - La Jornada Zacatecas",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNXzdQU1gzUDdhT0lZM1BBdnBLdmYxcHZVQXBucHJRUXR4cnhXdnNRWm1uRWs1Smo0dkEyb0JKWWRnMkdVRkxDbGpXQjBTYmJtYkxGNW9KR282R09fU3ZZYXo4UWN0Mk0wODhaVEUyWHVlQ1F5OS1nSldTYUFaMlZJenBNUQ?oc=5"
+          "texto": "Gobierno federal amplía cupo de acopio de frijol en Zacatecas ante protestas de campesinos - La Jornada",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnlPZ2lrckFyWFVYUDdCYWlLZWMtZkI0d0hEbG9JRG5laGI3VDFHSjJtS0RQTWpaSmdpTkZJa2lfbk1EYV9fM2hSS0htQTJ6Rlc3QnRmRU1VRjdkQXpCN3JfbHBtdDljbUFISjVFWTM3TUl6X29JTHhhYWFScUtwRE0xaUw3ZDVadkV0RklMd2cxY3Ryb21lZWh4LUZCdkhRZjdGLTloajJGUG1tcWNtbm9vcTlmVVB2dHRIOURZVmdudmpnc2FVQmxn?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "Zacatecas sin caciques - ContraRéplica",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1RW5xTGpxelAxQ0d2YjM0VXpoX0psY3dOX19XeE5hQ1JtNlhEcW5QS2VXOXI4UWVJbTYxeTliR09DNEM0ejIySklqSWt6QnFvVVJBRXhfQno5ZVJ3bHp0UjBITGFDS3AwYXFBbkFrclhBa1HSAXhBVV95cUxORXlEVDVCNXV3cGMwR18tRXR6bzNfcFM3a0xKYUMwb0ozdjZJdUZjOC1ncXIzS3lpVXJEeENBVEU2aFN2Tks4b2JZMFNVQjVBY3g5aGpETzhTWVY2eFVTc1ZfSjg0N2FwTVJ4Q1V3UUMza0syQXRha0E?oc=5"
+        },
+        {
+          "fuente": "googlenews",
+          "tag": "general",
+          "texto": "El Runrún: Zacatecas rehén del caos político y la improvisación - Imagen Zacatecas",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTk0Slp2NHFMcnRYYWFvdmxZTTM5MjlsSnhHU2RscVF4ajNhMEQwUXNQdldYMXVCdy1IVUhhMV9oNGU0MVdtcXZIaFJGdG1iQ2EyMTlhX3VXY0ZBWEdVaWlyUjR6UTJEbkRoT3pYRjM5Nnd5V2RNMFNTSldYSTE4TWJkdklmak83ME56Y0JsaWt3eGN6eTRvZFlUdkc1MFp0cGZB?oc=5"
         }
       ],
-      "menciones_total": 11,
-      "menciones_hoy": 1,
-      "score_compuesto": 13.1
+      "menciones_total": 15,
+      "menciones_hoy": 4,
+      "score_compuesto": 13.5
     }
   ]
 }
